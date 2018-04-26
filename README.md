@@ -1,6 +1,6 @@
 # Token Profile
 
-- [ ] Add sample data
+- [ ] Add sample data.
 - [ ] Layout description
 - [ ] Contribution guide
 
