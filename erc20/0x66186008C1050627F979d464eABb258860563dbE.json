@@ -1,0 +1,12 @@
+{
+    "address": "0x66186008C1050627F979d464eABb258860563dbE", 
+    "email": "reg@medishares.org", 
+    "links": {
+        "github": "https://github.com/MediShares", 
+        "telegram": "https://t.me/medishares", 
+        "twitter": "https://twitter.com/MediShares"
+    }, 
+    "symbol": "MDS", 
+    "website": "http://www.medishares.org/", 
+    "whitepaper": "http://doc.medishares.org/whitepaper/MediShares.Whitepaper.EN.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "address": "0x5Fc6DE61258e63706543bb57619b99cC0E5a5A1F", 
+    "email": "info@wanchain.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/wanchainfoundation/", 
+        "github": "https://github.com/wanchain", 
+        "reddit": "https://www.reddit.com/r/wanchain/", 
+        "slack": "https://wanchain.herokuapp.com/", 
+        "telegram": "https://t.me/WanchainANN", 
+        "twitter": "https://twitter.com/wanchain_org"
+    }, 
+    "symbol": "WAN", 
+    "website": "https://www.wanchain.org/", 
+    "whitepaper": "https://www.wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf"
+}

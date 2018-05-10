@@ -1,0 +1,15 @@
+{
+    "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF", 
+    "email": "domi@wings.ai", 
+    "links": {
+        "facebook": "https://www.facebook.com/WingsDAO/", 
+        "reddit": "https://reddit.com/r/WingsDAO/", 
+        "slack": "https://hi.wings.ai/", 
+        "telegram": "https://telegram.me/wingschat", 
+        "twitter": "https://twitter.com/wingsplatform"
+    }, 
+    "overview": "A decentralized platform to create, join and manage projects", 
+    "symbol": "WINGS", 
+    "website": "https://wings.ai/", 
+    "whitepaper": "https://wingsfoundation.ch/docs/WINGS_Whitepaper_V1.1.2_en.pdf"
+}

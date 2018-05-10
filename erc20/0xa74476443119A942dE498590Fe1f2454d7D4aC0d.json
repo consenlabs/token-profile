@@ -1,0 +1,16 @@
+{
+    "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d", 
+    "email": "contact@golemproject.net", 
+    "initial_price": "0.001ETH", 
+    "links": {
+        "facebook": "https://www.facebook.com/golemproject/", 
+        "github": "https://github.com/golemfactory/golem", 
+        "reddit": "https://www.reddit.com/r/GolemProject/", 
+        "slack": "http://golemproject.org:3000/", 
+        "twitter": "https://twitter.com/golemproject"
+    }, 
+    "overview": "Golem is going to create the first decentralized global market for computing power", 
+    "symbol": "GNT", 
+    "website": "https://golem.network/", 
+    "whitepaper": "https://golem.network/doc/Golemwhitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "address": "0x55648De19836338549130B1af587F16beA46F66B", 
+    "email": "info@publica.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/OfficialPublica/", 
+        "github": "https://github.com/PublicaIO", 
+        "reddit": "https://www.reddit.com/r/publicaio/", 
+        "telegram": "https://t.me/publicaofficial", 
+        "twitter": "https://twitter.com/PublicaIO"
+    }, 
+    "overview": "Publica aims to be an evolutionary publishing platform using blockchain and cryptocurrency technology to innovate in how books are funded, distributed, bought, and read.", 
+    "symbol": "PBL", 
+    "website": "https://publica.io/", 
+    "whitepaper": "https://publica.io/whitepapers/summary.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "address": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74", 
+    "email": "services@waltonchain.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/waltonchain", 
+        "github": "https://github.com/waltonchain", 
+        "reddit": "https://www.reddit.com/r/waltonchain/", 
+        "slack": "https://waltonchain.slack.com/", 
+        "telegram": "https://t.me/waltonchain_en", 
+        "twitter": "https://twitter.com/Waltonchain"
+    }, 
+    "overview": "Value Internet of Things (VIoT) constructs a perfect commercial ecosystem via the integration of the real world and the blockchain", 
+    "symbol": "WTC", 
+    "website": "http://www.waltonchain.org/", 
+    "whitepaper": "https://www.waltonchain.org/templets/default/doc/Waltonchain-whitepaper_en_20180208.pdf"
+}

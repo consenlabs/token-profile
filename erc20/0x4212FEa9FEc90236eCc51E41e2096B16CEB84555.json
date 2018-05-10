@@ -1,0 +1,13 @@
+{
+    "address": "0x4212FEa9FEc90236eCc51E41e2096B16CEB84555", 
+    "email": "service@sdchain.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/SDChainWorld/", 
+        "github": "https://github.com/SDChain", 
+        "telegram": "https://t.me/sdchainen", 
+        "twitter": "https://twitter.com/sixdomainchain"
+    }, 
+    "symbol": "SDA", 
+    "website": "https://sdchain.io/", 
+    "whitepaper": "https://static.sdchain.io/files/SDChain_Whitepaper_EN.pdf"
+}

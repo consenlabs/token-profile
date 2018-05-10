@@ -1,0 +1,13 @@
+{
+    "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F", 
+    "links": {
+        "github": "https://github.com/AventusSystems", 
+        "reddit": "https://www.reddit.com/r/Aventus/", 
+        "slack": "https://slack.aventus.io/", 
+        "twitter": "https://twitter.com/AventusSystems"
+    }, 
+    "overview": "An open-source protocol that delivers the global standard for ticketing.", 
+    "symbol": "AVT", 
+    "website": "https://aventus.io/", 
+    "whitepaper": "https://aventus.io/doc/whitepaper.pdf"
+}

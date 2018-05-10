@@ -1,0 +1,15 @@
+{
+    "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26", 
+    "email": "token@mdt.co", 
+    "links": {
+        "facebook": "https://www.facebook.com/measurabledata/", 
+        "github": "https://github.com/measurabledatatoken", 
+        "reddit": "https://www.reddit.com/r/MeasurableDataToken/", 
+        "telegram": "https://t.me/measurabledata", 
+        "twitter": "https://twitter.com/MeasurableData"
+    }, 
+    "overview": "Decentralized Data Exchange Economy.", 
+    "symbol": "MDT", 
+    "website": "https://mdt.co/", 
+    "whitepaper": "https://www.mdt.co/docs/whitepaper.pdf"
+}

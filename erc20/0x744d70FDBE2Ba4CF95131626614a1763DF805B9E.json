@@ -1,0 +1,15 @@
+{
+    "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E", 
+    "initial_price": "0.0001ETH", 
+    "links": {
+        "facebook": "https://www.facebook.com/ethstatus", 
+        "github": "https://github.com/status-im", 
+        "reddit": "https://www.reddit.com/r/statusim/", 
+        "slack": "http://slack.status.im/", 
+        "twitter": "https://twitter.com/ethstatus"
+    }, 
+    "overview": "Status is an open source messaging platform and mobile browser to interact with decentralized applications that run on the Ethereum Network.", 
+    "symbol": "SNT", 
+    "website": "https://status.im/", 
+    "whitepaper": "https://status.im/whitepaper.pdf"
+}

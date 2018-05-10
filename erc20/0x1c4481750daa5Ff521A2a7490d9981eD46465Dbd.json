@@ -1,0 +1,16 @@
+{
+    "address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd", 
+    "email": "info@blockmason.io", 
+    "initial_price": "0.00066ETH", 
+    "links": {
+        "facebook": "https://www.facebook.com/blockmasonio/", 
+        "github": "https://github.com/blockmason", 
+        "reddit": "https://www.reddit.com/r/blockmason/", 
+        "telegram": "https://t.me/blockmason", 
+        "twitter": "https://twitter.com/blockmasonio"
+    }, 
+    "overview": "Democratizing the creation of credit through permanently recorded debts and obligations.", 
+    "symbol": "BCPT", 
+    "website": "https://blockmason.io/projects/creditprotocol/", 
+    "whitepaper": "https://blockmason.io/cp-whitepaper.pdf"
+}

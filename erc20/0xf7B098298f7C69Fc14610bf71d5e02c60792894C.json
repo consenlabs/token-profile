@@ -1,0 +1,15 @@
+{
+    "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C", 
+    "links": {
+        "facebook": "https://www.facebook.com/matchpoolhq/", 
+        "github": "https://github.com/Matchpool/", 
+        "reddit": "https://www.reddit.com/r/Matchpool", 
+        "slack": "https://matchpool.signup.team/", 
+        "telegram": "https://t.me/matchpool", 
+        "twitter": "https://twitter.com/matchpool"
+    }, 
+    "overview": "Matchpool is a platform that creates human connections", 
+    "symbol": "Guppy", 
+    "website": "https://matchpool.co/", 
+    "whitepaper": "https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "address": "0xf85fEea2FdD81d51177F6b8F35F0e6734Ce45F5F", 
+    "email": "contact@cybermiles.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/cybermiles", 
+        "github": "https://github.com/CyberMiles", 
+        "slack": "https://cybermiles-dev.slack.com/join/shared_invite/enQtMzU2NjM1MTgwNDUyLTNjZjEyYmZlNzczNmJjNGM3ZjYxMWQ1ZjUzOGQ2MjAyMWQwM2FjMTY3OWQwOTkwYTNiZWI0ODc0ZTc3MmVhZGM", 
+        "telegram": "https://t.me/cybermilestoken", 
+        "twitter": "https://twitter.com/cybermiles"
+    }, 
+    "overview": "Empowering the Decentralization of Online Marketplaces.", 
+    "symbol": "CMT", 
+    "website": "https://www.cybermiles.io/", 
+    "whitepaper": "https://www.cybermiles.io/vision/"
+}

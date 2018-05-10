@@ -1,0 +1,16 @@
+{
+    "address": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c", 
+    "email": "support@edgeless.io", 
+    "initial_price": "0.00243859ETH", 
+    "links": {
+        "facebook": "https://www.facebook.com/EdgelessCasino/?fref=ts", 
+        "github": "https://github.com/EdgelessCasino", 
+        "reddit": "https://www.reddit.com/r/Edgeless/", 
+        "telegram": "https://t.me/joinchat/AAAAAEBTy7K9KXQcQsyozQ", 
+        "twitter": "https://twitter.com/edgelessproject"
+    }, 
+    "overview": "The Ethereum smart contract-based that offers a 0% house edge and solves the transparency question once and for all.", 
+    "symbol": "EDG", 
+    "website": "https://edgeless.io/", 
+    "whitepaper": "https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf"
+}

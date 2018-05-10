@@ -1,0 +1,14 @@
+{
+    "address": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B", 
+    "links": {
+        "facebook": "https://www.facebook.com/wetrustplatform", 
+        "github": "https://github.com/WeTrustPlatform", 
+        "reddit": "https://www.reddit.com/r/WeTrustPlatform/", 
+        "slack": "https://www.wetrust.io/#home-section-slack", 
+        "twitter": "https://twitter.com/wetrustplatform"
+    }, 
+    "overview": "A platform for Trusted Lending Circles, powered by people and blockchain", 
+    "symbol": "TRST", 
+    "website": "https://www.wetrust.io/", 
+    "whitepaper": "https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf"
+}

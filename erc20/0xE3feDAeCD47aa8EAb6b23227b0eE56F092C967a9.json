@@ -1,0 +1,14 @@
+{
+    "address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9", 
+    "email": "hi@primas.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/summer.primas", 
+        "github": "https://github.com/primasio", 
+        "slack": "https://primasio.slack.com/", 
+        "twitter": "https://twitter.com/PrimasOfficial"
+    }, 
+    "overview": "A content publishing platform.", 
+    "symbol": "PST", 
+    "website": "https://primas.io/", 
+    "whitepaper": "https://yb-public.oss-cn-shanghai.aliyuncs.com/primas/primas-1.2.1.pdf"
+}

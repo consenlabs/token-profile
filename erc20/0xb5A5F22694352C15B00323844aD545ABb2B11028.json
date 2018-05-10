@@ -1,0 +1,16 @@
+{
+    "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028", 
+    "email": "hello@icon.foundation", 
+    "links": {
+        "facebook": "https://www.facebook.com/helloicon", 
+        "github": "https://github.com/theloopkr/loopchain", 
+        "reddit": "https://www.reddit.com/r/helloicon/", 
+        "telegram": "https://t.me/helloiconworld_official", 
+        "twitter": "https://twitter.com/helloiconworld"
+    }, 
+    "overview": "The ICON Network is comprised of various institutions ranging from:
+financial institutions, insurance companies, hospitals, universities and more.", 
+    "symbol": "ICX", 
+    "website": "https://icon.foundation/", 
+    "whitepaper": "http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf"
+}

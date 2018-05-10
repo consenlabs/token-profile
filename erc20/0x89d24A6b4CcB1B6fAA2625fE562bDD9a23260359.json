@@ -1,0 +1,13 @@
+{
+    "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359", 
+    "email": "integrations@makerdao.com", 
+    "links": {
+        "github": "github.com/makerdao", 
+        "reddit": "https://www.reddit.com/r/MakerDAO/", 
+        "slack": "https://chat.makerdao.com", 
+        "twitter": "https://twitter.com/MakerDAO"
+    }, 
+    "symbol": "DAI", 
+    "website": "https://makerdao.com/", 
+    "whitepaper": "https://makerdao.com/whitepaper/"
+}

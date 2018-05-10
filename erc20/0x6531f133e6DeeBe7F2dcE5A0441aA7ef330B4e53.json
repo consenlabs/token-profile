@@ -1,0 +1,16 @@
+{
+    "address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53", 
+    "email": "info@chronobank.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/ChronoBank.io", 
+        "github": "https://github.com/ChronoBank", 
+        "reddit": "https://www.reddit.com/r/ChronoBank/", 
+        "slack": "https://chronobank.herokuapp.com/", 
+        "telegram": "https://telegram.me/chronobank", 
+        "twitter": "https://twitter.com/ChronobankNews"
+    }, 
+    "overview": "ChronoBank.io is a wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries", 
+    "symbol": "TIME", 
+    "website": "https://chronobank.io/", 
+    "whitepaper": "https://chronobank.io/files/whitepaper.pdf"
+}

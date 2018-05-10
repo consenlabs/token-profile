@@ -1,0 +1,12 @@
+{
+    "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a", 
+    "email": "hello@tokencard.io", 
+    "initial_price": "0.0069505ETH", 
+    "links": {
+        "twitter": "https://twitter.com/monolith_web3"
+    }, 
+    "overview": "The All Powerful Smart Contract Powered Debit Card", 
+    "symbol": "TKN", 
+    "website": "https://tokencard.io/#token", 
+    "whitepaper": "https://tokencard.io/tokencard_whitepaper.pdf"
+}

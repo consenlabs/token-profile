@@ -1,0 +1,13 @@
+{
+    "address": "0xD7732e3783b0047aa251928960063f863AD022D8", 
+    "email": "admin@brahmaos.io", 
+    "links": {
+        "github": "https://github.com/BrahmaOS", 
+        "telegram": "https://t.me/BrahmaOS", 
+        "twitter": "https://twitter.com/brahma_os"
+    }, 
+    "overview": "Brahma OS is an operating system that hosts decentralized networks by enabling the deconstruction of existing services and the use of a wide range of decentralized services.", 
+    "symbol": "BRM", 
+    "website": "https://www.brahmaos.io/", 
+    "whitepaper": "https://www.brahmaos.io/Brahma_Whitepaper_v1.0.0.pdf"
+}

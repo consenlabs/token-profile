@@ -1,0 +1,15 @@
+{
+    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07", 
+    "email": "omg@omise.co", 
+    "links": {
+        "facebook": "https://www.facebook.com/OmiseGO/", 
+        "github": "https://github.com/omisego", 
+        "reddit": "https://www.reddit.com/r/omise_go/", 
+        "slack": "https://chat.omisego.network/", 
+        "twitter": "https://twitter.com/omise_go"
+    }, 
+    "overview": "OmiseGO (OMG) is a public Ethereum-based financial technology for use in mainstream digital wallets", 
+    "symbol": "OMG", 
+    "website": "https://omisego.network/", 
+    "whitepaper": "https://cdn.omise.co/omg/whitepaper.pdf"
+}

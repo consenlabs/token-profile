@@ -1,1 +1,13 @@
-{}
+{
+    "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200", 
+    "email": "hello@kyber.network", 
+    "links": {
+        "github": "https://github.com/KyberNetwork", 
+        "slack": "https://kybernetwork.slack.com", 
+        "twitter": "https://twitter.com/KyberNetwork"
+    }, 
+    "overview": "KyberNetwork is a new system which allows the exchange and conversion of digital assets.", 
+    "symbol": "KNC", 
+    "website": "https://kyber.network", 
+    "whitepaper": "https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+}

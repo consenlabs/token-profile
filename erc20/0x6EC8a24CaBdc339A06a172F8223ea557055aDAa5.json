@@ -1,0 +1,14 @@
+{
+    "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5", 
+    "email": "info@genaro.network", 
+    "links": {
+        "github": "https://github.com/GenaroSanada", 
+        "reddit": "http://www.reddit.com/user/GenaroNetwork/", 
+        "slack": "https://genaronetwork.slack.com/", 
+        "twitter": "https://twitter.com/GenaroNetwork"
+    }, 
+    "overview": "Blockchain 3.0 Ecosystem Built on a Turing-Complete Public Chain with Decentralized Storage.", 
+    "symbol": "GNX", 
+    "website": "https://genaro.network/en/", 
+    "whitepaper": "https://genaro.network/en/whitepaper/"
+}

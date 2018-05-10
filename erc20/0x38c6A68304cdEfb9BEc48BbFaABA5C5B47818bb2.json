@@ -1,0 +1,15 @@
+{
+    "address": "0x38c6A68304cdEfb9BEc48BbFaABA5C5B47818bb2", 
+    "email": "hpb@gxn.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/HPBGlobal/", 
+        "github": "https://github.com/hpb-project", 
+        "reddit": "https://www.reddit.com/r/HPB_Global/", 
+        "telegram": "https://t.me/hpbglobal", 
+        "twitter": "https://twitter.com/HPB_Global"
+    }, 
+    "overview": "HPB (High-Performance Blockchain) is a new kind of block chain hardware and software architecture, which includes a chip acceleration engine and the blockchain platform, aiming to realize the performance extension of distributed applications", 
+    "symbol": "HPB", 
+    "website": "http://www.gxn.io/en.html", 
+    "whitepaper": "http://www.gxn.io/files/hpb_white_paper_en.pdf"
+}

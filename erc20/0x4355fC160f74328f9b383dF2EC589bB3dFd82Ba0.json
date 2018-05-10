@@ -1,0 +1,16 @@
+{
+    "address": "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0", 
+    "email": "info@opus-foundation.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/Opus-129701967624235/", 
+        "github": "https://github.com/Opus-foundation/", 
+        "reddit": "https://www.reddit.com/r/opusfoundation/", 
+        "slack": "http://slack.opus-foundation.org/", 
+        "telegram": "https://t.me/opusfoundation", 
+        "twitter": "https://twitter.com/opusfoundation"
+    }, 
+    "overview": "Decentralised music platform built on Ethereum and IPFS.", 
+    "symbol": "OPT", 
+    "website": "http://opus-foundation.org/", 
+    "whitepaper": "https://opus-foundation.org/whitepaper.pdf"
+}

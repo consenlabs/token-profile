@@ -1,0 +1,15 @@
+{
+    "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104", 
+    "email": "hello@zapproject.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/officialzapstore/", 
+        "github": "https://github.com/zapproject/", 
+        "reddit": "https://www.reddit.com/r/ZapStore/", 
+        "telegram": "https://t.me/ZapStore", 
+        "twitter": "https://twitter.com/the_zapstore"
+    }, 
+    "overview": "Zap project is a suite of tools for creating smart contract oracles and a marketplace to find and subscribe to existing data feeds that have been oraclized", 
+    "symbol": "ZAP", 
+    "website": "https://zap.store/", 
+    "whitepaper": "https://zap.store/whitepaper.pdf"
+}

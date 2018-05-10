@@ -1,0 +1,12 @@
+{
+    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498", 
+    "links": {
+        "github": "https://github.com/0xProject", 
+        "slack": "https://0xproject.slack.com/", 
+        "twitter": "https://twitter.com/0xproject"
+    }, 
+    "overview": "The Protocol for Trading Tokens", 
+    "symbol": "ZRX", 
+    "website": "https://0xproject.com/", 
+    "whitepaper": "https://0xproject.com/pdfs/0x_white_paper.pdf"
+}

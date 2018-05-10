@@ -1,0 +1,11 @@
+{
+    "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6", 
+    "email": "contact@raiden.network", 
+    "links": {
+        "github": "https://github.com/raiden-network/raiden/", 
+        "reddit": "https://www.reddit.com/r/raidennetwork/", 
+        "twitter": "https://twitter.com/raiden_network"
+    }, 
+    "symbol": "RDN", 
+    "website": "https://raiden.network/"
+}

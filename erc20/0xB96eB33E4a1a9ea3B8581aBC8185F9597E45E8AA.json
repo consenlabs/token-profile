@@ -1,0 +1,13 @@
+{
+    "address": "0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA", 
+    "email": "contact@herochain.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/herochain.hec", 
+        "github": "https://github.com/HeroChainFundation", 
+        "telegram": "https://t.me/herocoin", 
+        "twitter": "https://twitter.com/HeroChainHEC"
+    }, 
+    "symbol": "HEC", 
+    "website": "http://www.herochain.org/", 
+    "whitepaper": "http://www.herochain.org/img/HeroChainWhitePaper.pdf"
+}

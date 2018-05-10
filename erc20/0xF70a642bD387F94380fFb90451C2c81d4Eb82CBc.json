@@ -1,0 +1,13 @@
+{
+    "address": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc", 
+    "email": "support@starbase.co", 
+    "links": {
+        "facebook": "https://www.facebook.com/StarbaseCo/", 
+        "github": "https://github.com/starbaseco", 
+        "slack": "https://slack.starbase.co/", 
+        "twitter": "https://twitter.com/starbaseco"
+    }, 
+    "symbol": "STAR", 
+    "website": "https://starbase.co/", 
+    "whitepaper": "https://starbase.co/whitepaper"
+}

@@ -1,0 +1,15 @@
+{
+    "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2", 
+    "email": "info@loci.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/Loci.InnVenn/", 
+        "github": "https://github.com/Locipro/loci-coin-sale", 
+        "reddit": "https://www.reddit.com/r/loci_io/", 
+        "telegram": "https://t.me/Loci_InnVenn", 
+        "twitter": "https://twitter.com/loci_io"
+    }, 
+    "overview": "Platform for Intellectual Property Discovery and Mining.", 
+    "symbol": "LOCI", 
+    "website": "https://locipro.com/", 
+    "whitepaper": "https://locipro.com/wp-content/uploads/2017/12/loci-full-whitepaper.pdf"
+}

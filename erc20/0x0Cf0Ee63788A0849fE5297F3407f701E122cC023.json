@@ -1,0 +1,13 @@
+{
+    "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023", 
+    "email": "contact@streamr.com", 
+    "links": {
+        "github": "https://github.com/streamr-dev", 
+        "slack": "https://slack.streamr.com/", 
+        "twitter": "https://twitter.com/streamrinc"
+    }, 
+    "overview": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.", 
+    "symbol": "DATA", 
+    "website": "https://www.streamr.com/", 
+    "whitepaper": "https://www.streamr.com/whitepaper"
+}

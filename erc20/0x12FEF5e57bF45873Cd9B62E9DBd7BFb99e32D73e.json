@@ -1,0 +1,15 @@
+{
+    "address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e", 
+    "email": "info@cofound.it", 
+    "initial_price": "0.00045ETH", 
+    "links": {
+        "facebook": "https://www.facebook.com/CofounditEcosystem/", 
+        "reddit": "https://www.reddit.com/r/cofoundit/", 
+        "slack": "http://cofoundit.herokuapp.com/", 
+        "twitter": "https://twitter.com/cofound_it"
+    }, 
+    "overview": "Cofound.it is a platform that connects you to teams that have trained to become serious blockchain businesses", 
+    "symbol": "CFI", 
+    "website": "https://cofound.it/", 
+    "whitepaper": "https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf"
+}

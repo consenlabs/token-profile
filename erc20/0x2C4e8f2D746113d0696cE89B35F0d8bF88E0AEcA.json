@@ -1,0 +1,15 @@
+{
+    "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA", 
+    "email": "support@simpletoken.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/simpletoken/", 
+        "github": "https://github.com/OpenSTFoundation", 
+        "reddit": "https://www.reddit.com/r/Simple_Token/", 
+        "telegram": "https://t.me/simpletoken", 
+        "twitter": "https://twitter.com/TheSimpleToken"
+    }, 
+    "overview": "OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.", 
+    "symbol": "ST", 
+    "website": "https://simpletoken.org/", 
+    "whitepaper": "https://drive.google.com/file/d/0B4f0lcszU8fnRmZKNWhUc1FoaUU/view"
+}

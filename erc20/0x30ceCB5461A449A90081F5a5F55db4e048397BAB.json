@@ -1,0 +1,13 @@
+{
+    "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB", 
+    "email": "support@tracto.org", 
+    "links": {
+        "facebook": "https://www.facebook.com/tracto.org/", 
+        "github": "https://github.com/tracto2/Tracto-ERC20", 
+        "twitter": "https://twitter.com/tracto14"
+    }, 
+    "overview": "A technology for rapid and anonymous coin transaction organization.", 
+    "symbol": "TRCT", 
+    "website": "http://www.tracto.org/", 
+    "whitepaper": "http://www.tracto.org/wp-content/uploads/2017/09/Tracto-White-Paper.pdf"
+}

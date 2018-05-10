@@ -1,0 +1,16 @@
+{
+    "address": "0x0b76544F6C413a555F309Bf76260d1E02377c02A", 
+    "email": "intfoundation@intchain.io", 
+    "links": {
+        "facebook": "https://www.facebook.com/INTChain", 
+        "github": "https://github.com/intfoundation", 
+        "reddit": "https://www.reddit.com/user/INTCHAIN/", 
+        "slack": "https://intchainworkspace.slack.com/", 
+        "telegram": "https://t.me/INTChainOfficial", 
+        "twitter": "https://twitter.com/intchain"
+    }, 
+    "overview": "IOT applications", 
+    "symbol": "INT", 
+    "website": "https://intchain.io/en/", 
+    "whitepaper": "https://intchain.io/whitepaper/INT-whitepaper-1.0-EN.pdf"
+}
