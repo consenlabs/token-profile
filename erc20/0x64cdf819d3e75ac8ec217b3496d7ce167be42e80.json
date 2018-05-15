@@ -8,6 +8,7 @@
     },
     "overview":"Distributed social proof insurance.",
     "symbol":"IPL",
+    "initial_price":"0.10 $",
     "whitepaper":"https://insurepal.io/InsurePal_whitepaper.pdf",
     "address":"0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
 }

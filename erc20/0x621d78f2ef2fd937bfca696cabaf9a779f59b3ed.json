@@ -11,6 +11,7 @@
     },
     "overview":"From idea to Funding - DCORP Ventures is a community governed blockchain company that funds and realizes innovating ideas.",
     "symbol":"DRP",
+    "initial_price":"0.40 $",
     "whitepaper":"https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf",
     "address":"0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
     "email":"info@dcorp.it"

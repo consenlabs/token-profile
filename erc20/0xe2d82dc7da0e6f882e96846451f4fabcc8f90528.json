@@ -8,6 +8,7 @@
     },
     "overview":"cryptocurrency",
     "symbol":"JC",
+    "initial_price":"12:1 ETH",
     "whitepaper":"https://jesuscoin.network/whitepaper.pdf",
     "address":"0xe2d82dc7da0e6f882e96846451f4fabcc8f90528"
 }

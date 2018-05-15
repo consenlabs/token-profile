@@ -8,6 +8,7 @@
         "twitter":"https://twitter.com/DebitumNetwork"
     },
     "symbol":"DEB",
+    "initial_price":"7799:1 ETH",
     "whitepaper":"https://debitum.network/whitepaper",
     "address":"0x151202c9c18e495656f372281f493eb7698961d5",
     "email":"welcome@debitum.network"

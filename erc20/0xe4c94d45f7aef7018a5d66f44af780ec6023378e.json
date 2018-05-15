@@ -2,6 +2,7 @@
     "website":"https://cryptocarbon.co.uk/",
     "overview":"Crypto currency",
     "symbol":"CCRB",
-    "address":"0xe4c94d45f7aef7018a5d66f44af780ec6023378e",
-    "whitepaper":"https://cryptocarbon.co.uk/static/cryptocarbon.pdf"
+    "initial_price":"0.10-5 $",
+    "whitepaper":"https://cryptocarbon.co.uk/static/cryptocarbon.pdf",
+    "address":"0xe4c94d45f7aef7018a5d66f44af780ec6023378e"
 }

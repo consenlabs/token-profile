@@ -10,6 +10,7 @@
     },
     "overview":"A decentralized platform to create, join and manage projects",
     "symbol":"WINGS",
+    "initial_price":"0.028 $",
     "whitepaper":"https://wingsfoundation.ch/docs/WINGS_Whitepaper_V1.1.2_en.pdf",
     "address":"0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
     "email":"domi@wings.ai"

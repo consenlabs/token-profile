@@ -10,6 +10,7 @@
     },
     "overview":"Zap project is a suite of tools for creating smart contract oracles and a marketplace to find and subscribe to existing data feeds that have been oraclized",
     "symbol":"ZAP",
+    "initial_price":"0.18 $",
     "whitepaper":"https://zap.store/whitepaper.pdf",
     "address":"0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
     "email":"hello@zapproject.org"

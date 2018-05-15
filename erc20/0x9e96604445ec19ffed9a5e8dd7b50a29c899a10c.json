@@ -9,6 +9,7 @@
     },
     "overview":"A crypto currency exchange.",
     "symbol":"COSS",
+    "initial_price":"6002:1 ETH",
     "whitepaper":"https://coss.io/documents/coss-whitepaper-v3.pdf",
     "address":"0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
     "email":"info@coss.io"

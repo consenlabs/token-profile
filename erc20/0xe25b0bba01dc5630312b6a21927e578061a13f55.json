@@ -8,6 +8,7 @@
     },
     "overview":"A fully integrated system across the entire supply chain, from the moment a shipment leaves the factory, to the final delivery on the customer's doorstep; federated in trustless, transparent blockchain contracts.",
     "symbol":"SHIP",
+    "initial_price":"0.34 $",
     "whitepaper":"https://shipchain.io/shipchain-whitepaper.pdf",
     "address":"0xe25b0bba01dc5630312b6a21927e578061a13f55",
     "email":"hello@shipchain.io"

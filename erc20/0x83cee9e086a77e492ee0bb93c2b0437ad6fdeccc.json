@@ -11,6 +11,7 @@
     },
     "overview":"Crypto currency, backed by physical gold",
     "symbol":"MNTP",
+    "initial_price":"7.00 $",
     "whitepaper":"https://goldmint.io/static/files/Goldmint_WP_eng.pdf",
     "address":"0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
     "email":"invest@goldmint.io"

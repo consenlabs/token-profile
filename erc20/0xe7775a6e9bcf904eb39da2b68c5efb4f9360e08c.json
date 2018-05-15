@@ -9,6 +9,7 @@
     },
     "overview":"TaaS is a tokenized closed-end fund designed to reduce the risks and technical barriers of investing in the blockchain space.",
     "symbol":"TAAS",
+    "initial_price":"1.0 $",
     "whitepaper":"http://taas.fund/media/whitepaper.pdf",
     "address":"0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c"
 }

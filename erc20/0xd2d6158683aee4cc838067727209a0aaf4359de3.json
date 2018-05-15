@@ -9,6 +9,7 @@
     },
     "overview":"A decentralized bounty hunting platform enabling anyone to manage bounty programs, and bounty hunters to receive payment for completing bounty tasks.",
     "symbol":"BNTY",
+    "initial_price":"0.02 $",
     "whitepaper":"https://bounty0x.io/whitepaper",
     "address":"0xd2d6158683aee4cc838067727209a0aaf4359de3",
     "email":"contact@bounty0x.io"

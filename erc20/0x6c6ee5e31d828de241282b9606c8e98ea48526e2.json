@@ -10,6 +10,7 @@
     },
     "overview":"Holo is a decentralized hosting platform and a new breed of asset-backed, mutual-credit cryptocurrency based on Holochain. Holochain is a massively scalable, agent-centric post-blockchain development framework for distributed applications.",
     "symbol":"HOT",
+    "initial_price":"4411116:1 ETH",
     "whitepaper":"https://holo.host/whitepapers/",
     "address":"0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
     "email":"help@holo.host"

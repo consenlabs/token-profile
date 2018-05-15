@@ -7,6 +7,7 @@
     },
     "overview":"A blockchain based content rewards network",
     "symbol":"YOYOW",
+    "initial_price":"0.02 $",
     "whitepaper":"https://yoyow.org/files/white-paper3_en.pdf",
     "address":"0xcbeaec699431857fdb4d37addbbdc20e132d4903"
 }

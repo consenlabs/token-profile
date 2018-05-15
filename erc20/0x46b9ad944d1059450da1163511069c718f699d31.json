@@ -9,7 +9,6 @@
     },
     "overview":"CREDITS is an open blockchain platform with autonomous smart contracts and the internal cryptocurrency. The platform is designed to create services for blockchain systems using self-executing smart contracts and a public data registry.",
     "symbol":"CS",
-    "initial_price":"5000:1 ETH",
     "whitepaper":"https://credits.com/Content/Docs/TechnicalWhitePaperCREDITSEng.pdf",
     "address":"0x46b9ad944d1059450da1163511069c718f699d31",
     "email":"info@credits.com"

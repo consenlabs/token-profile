@@ -8,6 +8,7 @@
     },
     "overview":"HelloGold is a start-up that creates simple and accessible gold products for everyone, providing access to gold as a form of savings, loan collateral and remittance",
     "symbol":"HGT",
+    "initial_price":"0.03 $",
     "whitepaper":"https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf",
     "address":"0xba2184520a1cc49a6159c57e61e1844e085615b6",
     "email":"foundation@hellogold.org"

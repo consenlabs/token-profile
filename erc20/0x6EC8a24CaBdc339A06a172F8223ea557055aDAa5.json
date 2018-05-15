@@ -11,7 +11,6 @@
     },
     "overview":"The Genaro Network is the first Turing-complete public blockchain combining peer-to-peer storage with a sustainable consensus mechanism. Genaro's mixed consensus uses SPoR and PoS, ensuring stronger performance and security.",
     "symbol":"GNX",
-    "initial_price":"2211:1 ETH",
     "whitepaper":"https://genaro.network/en/documentation/whitepaper",
     "address":"0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
     "email":"info@genaro.network"

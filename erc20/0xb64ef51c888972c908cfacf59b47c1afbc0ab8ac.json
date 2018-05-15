@@ -9,6 +9,7 @@
     },
     "overview":"Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data",
     "symbol":"STORJ",
+    "initial_price":"0.50 $",
     "whitepaper":"https://storj.io/storj.pdf",
     "address":"0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
 }

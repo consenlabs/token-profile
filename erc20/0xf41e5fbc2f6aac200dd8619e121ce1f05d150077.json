@@ -8,6 +8,7 @@
         "facebook":"https://www.facebook.com/crycash.io/"
     },
     "symbol":"CRC",
+    "initial_price":"1.00 $",
     "address":"0xf41e5fbc2f6aac200dd8619e121ce1f05d150077",
     "email":"media@crycash.io"
 }

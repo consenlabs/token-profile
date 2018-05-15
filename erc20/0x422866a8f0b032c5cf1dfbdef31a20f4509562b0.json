@@ -10,6 +10,7 @@
     },
     "overview":"Adshares Network is a decentralized, peer-to-peer market for programmatic advertising. Adshares gives advertisers and publishers ability to trade directly without the need for centralized ad exchanges.",
     "symbol":"ADST",
+    "initial_price":"250:1 ETH",
     "whitepaper":"https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf",
     "address":"0x422866a8f0b032c5cf1dfbdef31a20f4509562b0",
     "email":"office@adshares.net"

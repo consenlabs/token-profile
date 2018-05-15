@@ -9,6 +9,7 @@
     },
     "overview":"CargoX aims to be the independent supplier of blockchain-based Smart B/L solutions that enable extremely fast, safe, reliable and cost-effective global Bill of Lading processing.",
     "symbol":"CXO",
+    "initial_price":"10000:1 ETH",
     "whitepaper":"https://cargox.io/CargoX-Whitepaper.pdf",
     "address":"0xb6ee9668771a79be7967ee29a63d4184f8097143"
 }

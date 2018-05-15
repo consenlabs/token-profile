@@ -8,6 +8,7 @@
     },
     "overview":"REX syndicates real estate data into a globally accessible marketplace, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.",
     "symbol":"REX",
+    "initial_price":"0.47 $",
     "whitepaper":"https://github.com/rexmls/whitepaper/blob/master/readme.md",
     "address":"0xf05a9382A4C3F29E2784502754293D88b835109C"
 }

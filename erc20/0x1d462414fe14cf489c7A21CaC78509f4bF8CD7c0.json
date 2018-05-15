@@ -10,6 +10,7 @@
     },
     "overview":"Blockchain-Powered Marketplace of Services",
     "symbol":"CAN",
+    "initial_price":"1000:1 ETH",
     "whitepaper":"https://canya.io/assets/docs/WhitePaper.pdf",
     "address":"0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
     "email":"support@canya.com.au"

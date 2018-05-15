@@ -8,6 +8,7 @@
     },
     "overview":"Aurora is a collection of Ethereum applications and protocols that together form a decentralized banking and finance platform.",
     "symbol":"AURA",
+    "initial_price":"0.06 $",
     "whitepaper":"https://auroradao.com/assets/Aurora-Labs-Whitepaper-V0.9.5.pdf",
     "address":"0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
     "email":"support@auroradao.com"

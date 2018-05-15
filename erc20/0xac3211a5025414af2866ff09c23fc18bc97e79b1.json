@@ -10,6 +10,7 @@
     },
     "overview":"A token you earn and spend by sharing and changing the way you travel.",
     "symbol":"DOV",
+    "initial_price":"3124:1 ETH",
     "whitepaper":"https://dovu.io/whitepaper.pdf",
     "address":"0xac3211a5025414af2866ff09c23fc18bc97e79b1",
     "email":"support@dovu.io"

@@ -7,6 +7,7 @@
     },
     "overview":"VeChain aims to connect blockchain technology to the real world by providing a comprehensive governance structure, a robust economic model as well as advanced IoT integration.",
     "symbol":"VEN",
+    "initial_price":"3500:1 ETH",
     "whitepaper":"https://cdn.vechain.com/vechain_ico_ideas_of_development_en.pdf",
     "address":"0xd850942ef8811f2a866692a623011bde52a462c1",
     "email":"support@vechain.com"

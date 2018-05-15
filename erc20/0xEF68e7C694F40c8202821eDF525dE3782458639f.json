@@ -10,6 +10,7 @@
     },
     "overview":"Loopring is not only a protocol but also a decentralized automated execution system that trades across the crypto-token exchanges.",
     "symbol":"LRC",
+    "initial_price":"5000:1 ETH",
     "whitepaper":"https://github.com/Loopring/whitepaper",
     "address":"0xef68e7c694f40c8202821edf525de3782458639f",
     "email":"foundation@loopring.org"

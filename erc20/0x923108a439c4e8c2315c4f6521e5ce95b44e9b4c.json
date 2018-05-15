@@ -8,6 +8,7 @@
     },
     "overview":"A blockchain powered, open-source, product verification protocol.",
     "symbol":"EVE",
+    "initial_price":"0.17 $",
     "whitepaper":"https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf",
     "address":"0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
     "email":"contact@devery.io"

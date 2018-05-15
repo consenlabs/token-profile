@@ -8,6 +8,7 @@
         "slack":"https://firstbloodio.herokuapp.com/"
     },
     "symbol":"ST",
+    "initial_price":"0.06 $",
     "whitepaper":"https://coss.io/documents/white-papers/first-blood.pdf",
     "address":"0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
     "email":"team@firstblood.io"

@@ -9,6 +9,7 @@
     },
     "overview":"Blockchain Prediction Markets Platform.",
     "symbol":"STX",
+    "initial_price":"1.10 $",
     "whitepaper":"https://www.stox.com/assets/stox-whitepaper.pdf",
     "address":"0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
 }

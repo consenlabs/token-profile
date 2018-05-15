@@ -10,6 +10,7 @@
     },
     "overview":"A platform for Trusted Lending Circles, powered by people and blockchain",
     "symbol":"TRST",
+    "initial_price":"0.06 $",
     "whitepaper":"https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf",
     "address":"0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b"
 }

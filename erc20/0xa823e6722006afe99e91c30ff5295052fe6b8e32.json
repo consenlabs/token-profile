@@ -10,6 +10,7 @@
         "facebook":"https://www.facebook.com/neufundorg/"
     },
     "symbol":"NEU",
+    "initial_price":"0.36 $",
     "whitepaper":"https://neufund.org/whitepaper",
     "address":"0xa823e6722006afe99e91c30ff5295052fe6b8e32",
     "email":"services@neufund.org"

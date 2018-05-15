@@ -9,6 +9,7 @@
     },
     "overview":"Lendingblock is an open exchange for cryptocurrency loans, where borrowers and lenders are instantly matched in simple, safe and transparent way.",
     "symbol":"LND",
+    "initial_price":"0.02 $",
     "whitepaper":"https://lendingblock.com/#section-whitepaper",
     "address":"0x0947b0e6d821378805c9598291385ce7c791a6b2",
     "email":"info@lendingblock.com"

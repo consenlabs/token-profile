@@ -10,7 +10,6 @@
     },
     "overview":"Blockchain protocol for gambling.",
     "symbol":"BET",
-    "initial_price":"2000:1 ETH",
     "whitepaper":"https://github.com/DaoCasino/Whitepaper/blob/master/DAO.Casino%20WP.md",
     "address":"0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
     "email":"team@dao.casino"

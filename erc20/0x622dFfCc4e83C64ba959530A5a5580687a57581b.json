@@ -9,6 +9,7 @@
     },
     "overview":"CUBE is an autonomous car security platform backed by blockchain technology.",
     "symbol":"AUTO",
+    "initial_price":"1000:1 ETH",
     "whitepaper":"https://www.cubeint.io/CUBEWhite_Paper-V1.3.pdf",
     "address":"0x622dFfCc4e83C64ba959530A5a5580687a57581b",
     "email":"support@cubeint.io"

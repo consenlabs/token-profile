@@ -10,6 +10,7 @@
     },
     "overview":"RED-F is a tokenized franchise offer on the European Union energy market, that allows anyone to create and operate their own retail energy business and earn revenues.",
     "symbol":"MWAT",
+    "initial_price":"0.10 $",
     "whitepaper":"https://restartenergy.io/Restart_Energy_Whitepaper.pdf",
     "address":"0x6425c6be902d692ae2db752b3c268afadb099d3b",
     "email":"sales@restartenergy.io"

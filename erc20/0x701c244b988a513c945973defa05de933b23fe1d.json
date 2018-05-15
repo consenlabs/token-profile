@@ -9,6 +9,7 @@
     },
     "overview":"Decentralized Exchange.",
     "symbol":"OAX",
+    "initial_price":"0.45 $",
     "whitepaper":"https://www.openanx.org/en/assets/whitepaper/openANX_White_Paper_ENU.pdf",
     "address":"0x701c244b988a513c945973defa05de933b23fe1d"
 }

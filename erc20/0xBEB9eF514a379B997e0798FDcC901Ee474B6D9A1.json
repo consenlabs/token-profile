@@ -9,6 +9,7 @@
     },
     "overview":"The Melon protocol is a blockchain protocol for digital asset management built on the Ethereum platform",
     "symbol":"MLN",
+    "initial_price":"5.83 $",
     "whitepaper":"https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf",
     "address":"0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
     "email":"team@melonport.com"

@@ -9,6 +9,7 @@
     },
     "overview":"A blockchain based decentralized marketplace.",
     "symbol":"HBT",
+    "initial_price":"1000:1 ETH",
     "whitepaper":"https://www.hubii.network/hubii-network-whitepaper-en.pdf",
     "address":"0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
     "email":"info@hubii.com"
