@@ -1,0 +1,12 @@
+{
+    "website":"https://www.insights.network/",
+    "published_on":"2018-02-05",
+    "links":{
+        "telegram":"https://t.me/InsightsNetwork",
+        "twitter":"https://twitter.com/instartoken"
+    },
+    "symbol":"INSTAR",
+    "initial_price":"4347:1 ETH",
+    "whitepaper":"https://s3.amazonaws.com/insightsnetwork/InsightsNetworkWhitepaperV0.5.pdf",
+    "address":"0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d"
+}

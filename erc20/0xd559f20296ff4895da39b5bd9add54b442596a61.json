@@ -1,0 +1,17 @@
+{
+    "website":"https://www.fintrux.com/",
+    "published_on":"2018-02-07",
+    "links":{
+        "telegram":"https://t.me/FintruX",
+        "reddit":"https://www.reddit.com/r/FintruX/",
+        "github":"https://github.com/FintruX",
+        "facebook":"https://www.facebook.com/FintruX",
+        "twitter":"https://twitter.com/FintruX"
+    },
+    "overview":"The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.",
+    "symbol":"FTX",
+    "initial_price":"1492:1 ETH",
+    "whitepaper":"https://www.fintrux.com/home/doc/whitepaper.pdf",
+    "address":"0xd559f20296ff4895da39b5bd9add54b442596a61",
+    "email":"info@fintrux.com"
+}

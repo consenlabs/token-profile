@@ -1,0 +1,14 @@
+{
+    "website":"https://www.tigereum.io/",
+    "published_on":"2017-12-08",
+    "links":{
+        "telegram":"https://t.me/tigereum",
+        "twitter":"https://twitter.com/tigereumtokens",
+        "facebook":"https://www.facebook.com/tigereum/"
+    },
+    "overview":"Tigereum aims to develop solutions to securely and easily send small amounts of crypto to friends and family by instant message on social media platforms.",
+    "symbol":"TIG",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://docs.wixstatic.com/ugd/970dc6_15842e85a6874c79810d6dbfd60867d0.pdf",
+    "address":"0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a"
+}

@@ -1,0 +1,13 @@
+{
+    "website":"https://ebitcoin.org/",
+    "links":{
+        "telegram":"https://t.me/ComTrust/",
+        "reddit":"https://www.reddit.com/r/eBTC/",
+        "github":"https://github.com/eBTCCommunityTrustToken/eBTC",
+        "twitter":"https://twitter.com/ebtcfoundation"
+    },
+    "overview":"The eBitcoin Ecosystem aims to bring together many Blockchain companies all under one umbrella-type group.",
+    "symbol":"EBTC",
+    "address":"0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+    "email":"hello@ebitcoin.org"
+}

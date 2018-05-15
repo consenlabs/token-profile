@@ -1,0 +1,17 @@
+{
+    "website":"https://jibrel.network/",
+    "published_on":"2017-11-27",
+    "links":{
+        "reddit":"https://reddit.com/r/jibrelnetwork",
+        "github":"https://github.com/jibrelnetwork",
+        "slack":"https://jibrel-slack.herokuapp.com/",
+        "telegram":"https://t.me/jibrel_network",
+        "twitter":"https://twitter.com/jibrelnetwork",
+        "facebook":"https://www.facebook.com/jibrelnetwork/"
+    },
+    "overview":"The Jibrel Network provides currencies, equities, commodities and other financial assets and instruments as standard ERC-20 tokens on the Ethereum blockchain.",
+    "symbol":"JNT",
+    "whitepaper":"https://jibrel.network/#whitepaper",
+    "address":"0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+    "email":"Info@jibrel.network"
+}

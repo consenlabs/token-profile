@@ -1,0 +1,15 @@
+{
+    "website":"https://coinpoker.com/",
+    "links":{
+        "telegram":"https://t.me/officialcoinpoker",
+        "reddit":"https://www.reddit.com/r/coinpoker/",
+        "github":"https://github.com/CoinPokerOfficial/ico-smartcontracts",
+        "twitter":"https://twitter.com/CoinPoker_OFF"
+    },
+    "overview":"CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.",
+    "symbol":"CHP",
+    "initial_price":"4199:1 ETH",
+    "whitepaper":"https://coinpoker.com/downloads/coinpoker-whitepaper.pdf?v180126",
+    "address":"0xf3db7560e820834658b590c96234c333cd3d5e5e",
+    "email":"paulius.mikaliunas@coinpoker.com"
+}

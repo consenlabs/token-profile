@@ -1,0 +1,15 @@
+{
+    "website":"https://www.maecenas.co/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Maecenas/",
+        "github":"https://github.com/cofoundit/cfi-maecenas",
+        "facebook":"https://www.facebook.com/maecenasart",
+        "slack":"https://slack.maecenas.co/",
+        "twitter":"https://twitter.com/maecenasart"
+    },
+    "overview":"An open blockchain platform that democratises access to Fine Art.",
+    "symbol":"ART",
+    "whitepaper":"https://www.maecenas.co/Maecenas-WhitePaper.pdf",
+    "address":"0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+    "email":"contact@maecenas.co"
+}

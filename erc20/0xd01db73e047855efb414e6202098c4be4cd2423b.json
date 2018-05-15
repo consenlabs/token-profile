@@ -1,0 +1,16 @@
+{
+    "website":"https://uquidcoin.com/",
+    "published_on":"2017-10-02",
+    "links":{
+        "telegram":"https://t.me/uquidcoin",
+        "reddit":"https://www.reddit.com/r/uquidcoin/",
+        "facebook":"https://www.facebook.com/uquidcoin",
+        "slack":"https://uquid.herokuapp.com/",
+        "twitter":"https://twitter.com/UquidC"
+    },
+    "overview":"The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cash out their coins.",
+    "symbol":"UQC",
+    "initial_price":"184:1 ETH",
+    "address":"0xd01db73e047855efb414e6202098c4be4cd2423b",
+    "email":"admin@uquidcoin.com"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://crypto20.com/",
+    "published_on":"2017-10-16",
+    "links":{
+        "reddit":"https://www.reddit.com/r/cryptotwenty/",
+        "github":"https://github.com/cryptotwenty",
+        "facebook":"https://www.facebook.com/cryptotwenty/",
+        "slack":"https://discordapp.com/invite/cgZd4uc",
+        "twitter":"https://twitter.com/CRYPTOtwenty"
+    },
+    "overview":"Tokenized Crypto Index Fund.",
+    "symbol":"C20",
+    "initial_price":"1.0 $",
+    "whitepaper":"https://static.crypto20.com/pdf/c20-whitepaper.pdf",
+    "address":"0x26e75307fc0c021472feb8f727839531f112f317",
+    "email":"contact@crypto20.com"
+}

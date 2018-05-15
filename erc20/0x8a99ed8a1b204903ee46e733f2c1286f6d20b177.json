@@ -1,0 +1,14 @@
+{
+    "website":"http://fujinto.io/",
+    "published_on":"2017-08-10",
+    "links":{
+        "twitter":"https://twitter.com/FUJINTO_",
+        "github":"https://github.com/fujinto/fujinto-smart-contract",
+        "facebook":"https://www.facebook.com/Fujinto/"
+    },
+    "overview":"FUJINTO is aims to make the paying process in the website, online booking application easier and reduce the risk for the users.",
+    "symbol":"NTO",
+    "initial_price":"0.07 $",
+    "whitepaper":"http://fujinto.io/uploads/fujinto-whitepaper.pdf",
+    "address":"0x8a99ed8a1b204903ee46e733f2c1286f6d20b177"
+}

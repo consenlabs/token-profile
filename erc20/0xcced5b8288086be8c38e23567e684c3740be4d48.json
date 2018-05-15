@@ -1,0 +1,15 @@
+{
+    "website":"https://smartplay.tech/",
+    "published_on":"2017-04-07",
+    "links":{
+        "reddit":"https://www.reddit.com/r/SmartPlayTech/",
+        "github":"https://github.com/Smartroulette",
+        "facebook":"https://www.facebook.com/Smartplaytech-247481449047567/",
+        "twitter":"https://twitter.com/SmartPlayTech/"
+    },
+    "symbol":"RLT",
+    "initial_price":"666:1 ETH",
+    "whitepaper":"https://smartplay.tech/white-paper",
+    "address":"0xcced5b8288086be8c38e23567e684c3740be4d48",
+    "email":"info@smartplay.tech"
+}

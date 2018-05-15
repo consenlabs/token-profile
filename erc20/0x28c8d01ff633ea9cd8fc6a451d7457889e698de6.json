@@ -1,0 +1,13 @@
+{
+    "website":"https://ethereumgold.info/",
+    "links":{
+        "telegram":"https://t.me/joinchat/GzPNJhCuW5Lw862j_qJy3g",
+        "twitter":"https://twitter.com/ethereumgoldetg",
+        "github":"https://gist.github.com/ETGs/b44d58284be31e1a83e1490dce1ea07e"
+    },
+    "overview":"Ethereumgold is a nonprofit that aims to connects people to low-cost financial services to fight poverty and develop individual potential.",
+    "symbol":"ETG",
+    "whitepaper":"https://ethereumgold.info/wp/wp-content/uploads/2017/10/Golden-PaPer-ETG.pdf",
+    "address":"0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+    "email":"dev@ethereumgold.info"
+}

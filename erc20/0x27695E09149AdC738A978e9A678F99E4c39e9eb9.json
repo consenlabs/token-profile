@@ -1,0 +1,16 @@
+{
+    "website":"https://www.kickico.com/",
+    "published_on":"2017-08-29",
+    "links":{
+        "telegram":"https://t.me/kickico",
+        "twitter":"https://twitter.com/KICKICOplatform",
+        "github":"https://github.com/kickico",
+        "facebook":"https://www.facebook.com/kickicoplatform/"
+    },
+    "overview":"KICKICO is a platform for safe and easy fundraising for ICO, preICO, crowdfunding and crowdinvesting.",
+    "symbol":"KICK",
+    "initial_price":"3000:1 ETH",
+    "whitepaper":"https://www.kickico.com/en/whitepaper",
+    "address":"0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+    "email":"support@kickico.com"
+}

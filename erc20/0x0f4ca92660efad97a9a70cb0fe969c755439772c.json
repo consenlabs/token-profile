@@ -1,0 +1,15 @@
+{
+    "website":"https://leverj.io/",
+    "links":{
+        "telegram":"https://t.me/leverj",
+        "reddit":"https://www.reddit.com/r/Leverj/",
+        "github":"https://github.com/leverj",
+        "facebook":"https://www.facebook.com/leverj.io/",
+        "twitter":"https://twitter.com/Leverj_io"
+    },
+    "overview":"Decentralized leveraged exchange.",
+    "symbol":"LEV",
+    "whitepaper":"https://leverj.io/whitepaper.pdf",
+    "address":"0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+    "email":"info@leverj.io"
+}

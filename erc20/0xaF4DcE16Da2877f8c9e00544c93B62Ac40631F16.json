@@ -1,0 +1,18 @@
+{
+    "website":"https://www.monetha.io/",
+    "published_on":"2017-08-31",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Monetha/",
+        "github":"https://github.com/monetha",
+        "slack":"https://slack.monetha.io/",
+        "telegram":"https://t.me/Monethagroup",
+        "twitter":"https://twitter.com/Monetha_io",
+        "facebook":"https://www.facebook.com/Monetha.io"
+    },
+    "overview":"Trusted ecommerce.",
+    "symbol":"MTH",
+    "initial_price":"2000:1 ETH",
+    "whitepaper":"https://www.monetha.io/Monetha_WP.pdf",
+    "address":"0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+    "email":"team@monetha.io"
+}

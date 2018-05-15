@@ -1,0 +1,12 @@
+{
+    "website":"https://www.decent.bet/",
+    "whitepaper":"https://www.decent.bet/whitepaper/",
+    "symbol":"DBET",
+    "links":{
+        "reddit":"https://www.reddit.com/r/decentbet/",
+        "facebook":"https://www.facebook.com/decentbet/",
+        "slack":"https://decentbet-slack.herokuapp.com/",
+        "twitter":"https://twitter.com/decent_bet/"
+    },
+    "address":"0x9b68bfae21df5a510931a262cecf63f41338f264"
+}

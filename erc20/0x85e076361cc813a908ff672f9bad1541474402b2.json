@@ -1,0 +1,16 @@
+{
+    "website":"https://www.telco.in/",
+    "published_on":"2017-12-12",
+    "links":{
+        "telegram":"https://t.me/telcoincommunity",
+        "twitter":"https://twitter.com/telcoin_team",
+        "github":"https://github.com/telcoin",
+        "facebook":"https://www.facebook.com/telcoin/"
+    },
+    "overview":"A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+    "symbol":"TEL",
+    "initial_price":"550509:1 ETH",
+    "whitepaper":"https://www.telco.in/docs/whitepaper.pdf",
+    "address":"0x85e076361cc813a908ff672f9bad1541474402b2",
+    "email":"hello@telco.in"
+}

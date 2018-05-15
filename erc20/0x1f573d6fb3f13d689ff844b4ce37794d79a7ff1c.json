@@ -1,0 +1,13 @@
+{
+    "website":"https://bancor.network/",
+    "published_on":"2017-06-12",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Bancor/",
+        "slack":"https://bancor-slack-invite.herokuapp.com/",
+        "twitter":"https://twitter.com/bancornetwork"
+    },
+    "overview":"Bancor Protocol is a standard for a new generation of cryptocurrencies called Smart Tokens",
+    "symbol":"BNT",
+    "initial_price":"87:1 ETH",
+    "address":"0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+}

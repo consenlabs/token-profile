@@ -1,0 +1,14 @@
+{
+    "website":"https://www.tgtcoins.com/",
+    "published_on":"2017-07-15",
+    "links":{
+        "telegram":"https://t.me/joinchat/FJeVV0HwLpRAZB9MyJI0lQ",
+        "twitter":"https://twitter.com/TargetCoin",
+        "facebook":"https://www.facebook.com/targetcoinfund/"
+    },
+    "overview":"Bonus Crypto Fund.",
+    "symbol":"TGT",
+    "initial_price":"7518:1 ETH",
+    "whitepaper":"https://docs.wixstatic.com/ugd/c281dc_6e00ec5ef9534f81b78bffc4ff24700d.pdf",
+    "address":"0xac3da587eac229c9896d919abc235ca4fd7f72c1"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://www.herocoin.io/",
+    "links":{
+        "telegram":"https://t.me/joinchat/FsEwOwtrCZMWwHokEj70Gw",
+        "reddit":"https://www.reddit.com/r/HEROcoin/",
+        "github":"https://github.com/byteheroes/herocoin",
+        "facebook":"https://www.facebook.com/HEROcoinio/",
+        "twitter":"https://twitter.com/HEROcoinio"
+    },
+    "overview":"Decentralized Solution for online betting.",
+    "symbol":"PLAY",
+    "initial_price":"0.04 $",
+    "whitepaper":"https://s3-cdn.herocoin.io/HERO_Whitepaper.pdf",
+    "address":"0xe477292f1b3268687a29376116b0ed27a9c76170",
+    "email":"info@herocoin.io"
+}

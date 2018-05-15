@@ -1,0 +1,15 @@
+{
+    "website":"https://eidoo.io/",
+    "published_on":"2017-10-04",
+    "links":{
+        "telegram":"https://t.me/joinchat/AAAAAERSsZk99wFzx2v_Kw",
+        "twitter":"https://twitter.com/eidoo_io",
+        "facebook":"https://www.facebook.com/eidoocrypto/"
+    },
+    "overview":"Aims to be a Fast, easy, and not only a Multicurrency Wallet and Hybrid Exchange.",
+    "symbol":"EDO",
+    "initial_price":"114:1 ETH",
+    "whitepaper":"https://eidoo.io/white-paper/",
+    "address":"0xced4e93198734ddaff8492d525bd258d49eb388e",
+    "email":"info@eidoo.io"
+}

@@ -1,1 +1,15 @@
-{}
+{
+    "website":"https://kyber.network",
+    "published_on":"2017-09-15",
+    "links":{
+        "twitter":"https://twitter.com/KyberNetwork",
+        "github":"https://github.com/KyberNetwork",
+        "slack":"https://kybernetwork.slack.com"
+    },
+    "overview":"KyberNetwork is a new system which allows the exchange and conversion of digital assets.",
+    "symbol":"KNC",
+    "initial_price":"600:1 ETH",
+    "whitepaper":"https://kyber.network/assets/KyberNetworkWhitepaper.pdf",
+    "address":"0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+    "email":"hello@kyber.network"
+}

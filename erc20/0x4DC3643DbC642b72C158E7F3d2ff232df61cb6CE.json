@@ -1,0 +1,18 @@
+{
+    "website":"https://ambrosus.com/",
+    "published_on":"2017-09-22",
+    "links":{
+        "reddit":"https://www.reddit.com/r/ambrosus/",
+        "github":"https://github.com/ambrosus",
+        "slack":"https://discordapp.com/invite/jbmWg8c",
+        "telegram":"https://t.me/AmbrosusAMB",
+        "twitter":"https://twitter.com/AmbrosusAMB",
+        "facebook":"https://www.facebook.com/ambrosusAMB"
+    },
+    "overview":"Combining high-tech sensors, blockchain protocol and smart contracts, we are building a universally verifiable, community-driven ecosystem to assure the quality, safety & origins of products.",
+    "symbol":"AMB",
+    "initial_price":"906:1 ETH",
+    "whitepaper":"https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf",
+    "address":"0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+    "email":"info@ambrosus.com"
+}

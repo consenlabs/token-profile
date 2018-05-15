@@ -1,0 +1,17 @@
+{
+    "website":"https://kinecosystem.org/",
+    "published_on":"2017-09-12",
+    "links":{
+        "telegram":"https://t.me/kinfoundation",
+        "reddit":"https://www.reddit.com/r/KinFoundation",
+        "github":"https://github.com/kikinteractive/kin-token",
+        "slack":"http://kinfoundation.slack.com/",
+        "twitter":"https://twitter.com/@kin_foundation"
+    },
+    "overview":"The vision for Kin is rooted in the belief that a broad group of participants can come together to create an open ecosystem of tools for digital communication and commerce that prioritizes consumer experience, bringing a fair and user-oriented model for digital services to the market.",
+    "symbol":"KIN",
+    "initial_price":"2941176:1 ETH",
+    "whitepaper":"https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf",
+    "address":"0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+    "email":"partnerships@kinecosystem.org"
+}

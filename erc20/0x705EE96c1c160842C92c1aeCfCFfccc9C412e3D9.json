@@ -1,0 +1,15 @@
+{
+    "website":"https://www.clearpoll.io/",
+    "published_on":"2017-09-09",
+    "links":{
+        "telegram":"https://t.me/clearpoll",
+        "reddit":"https://www.reddit.com/r/clearpoll/",
+        "facebook":"https://www.facebook.com/groups/306720296476208/",
+        "twitter":"https://twitter.com/voteclearpoll"
+    },
+    "overview":"ClearPoll is a new way to have your say. Simply install the app, browse for polls, and vote on global, national or local issues.",
+    "symbol":"POLL",
+    "whitepaper":"https://www.clearpoll.io/downloads/ClearPoll-Whitepaper.pdf",
+    "address":"0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+    "email":"info@clearpoll.io"
+}

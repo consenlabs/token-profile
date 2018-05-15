@@ -1,0 +1,17 @@
+{
+    "website":"https://www.centra.tech/",
+    "published_on":"2017-09-19",
+    "links":{
+        "telegram":"https://t.me/CentraTech",
+        "twitter":"http://www.twitter.com/Centra_Card",
+        "github":"https://github.com/CentraTech/smart-contract",
+        "facebook":"http://www.facebook.com/CentraCard",
+        "slack":"https://centratech.herokuapp.com/"
+    },
+    "overview":"Centra PrePaid Cryptocurrency Card",
+    "symbol":"CTR",
+    "initial_price":"0.73 $",
+    "whitepaper":"https://www.centra.tech/CentraWhitepaper.pdf",
+    "address":"0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+    "email":"support@centra.tech"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://www.coinlancer.io/",
+    "published_on":"2017-10-04",
+    "links":{
+        "telegram":"https://t.me/Coinlancer",
+        "reddit":"https://www.reddit.com/r/ico/comments/7470lk/freelancer_safe_way_to_do_business_coinlancer_now/",
+        "github":"https://github.com/Coinlancer/Coinlancer",
+        "facebook":"https://www.facebook.com/coinlancer",
+        "twitter":"https://twitter.com/Coin_Lancer"
+    },
+    "overview":"Coinlancer is a decentralized job market built on Ethereum platform.",
+    "symbol":"CL",
+    "initial_price":"1355:1 ETH",
+    "whitepaper":"https://www.coinlancer.io/Coinlancer_Whitepaper.pdf",
+    "address":"0xe81d72d14b1516e68ac3190a46c93302cc8ed60f",
+    "email":"info@coinlancer.io"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://neufund.org/",
+    "published_on":"2017-11-17",
+    "links":{
+        "reddit":"https://www.reddit.com/r/neufund/",
+        "github":"https://github.com/Neufund/",
+        "slack":"https://neufundorg.slack.com/",
+        "telegram":"https://t.me/neufund",
+        "twitter":"https://twitter.com/neufundorg",
+        "facebook":"https://www.facebook.com/neufundorg/"
+    },
+    "symbol":"NEU",
+    "initial_price":"0.36 $",
+    "whitepaper":"https://neufund.org/whitepaper",
+    "address":"0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+    "email":"services@neufund.org"
+}

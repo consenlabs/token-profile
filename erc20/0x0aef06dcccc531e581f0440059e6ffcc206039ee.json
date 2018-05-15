@@ -1,0 +1,17 @@
+{
+    "website":"http://intelligenttrading.org/",
+    "published_on":"2017-08-18",
+    "links":{
+        "telegram":"https://t.me/intelligenttrading",
+        "reddit":"https://www.reddit.com/r/ITT_Token",
+        "github":"https://github.com/IntelligentTrading",
+        "facebook":"https://www.facebook.com/ITT.Token",
+        "twitter":"https://twitter.com/itt_token"
+    },
+    "overview":"Applying artificial intelligence and technical analysis, our fleet of data bots follow real-time data sources and send you actionable alerts for success in cryptocurrency markets.",
+    "symbol":"ITT",
+    "initial_price":"0.36 $",
+    "whitepaper":"http://intelligenttrading.org/whitepaper.pdf",
+    "address":"0x0aef06dcccc531e581f0440059e6ffcc206039ee",
+    "email":"info@intelligenttrading.org"
+}

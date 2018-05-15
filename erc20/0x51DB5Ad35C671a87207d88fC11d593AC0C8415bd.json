@@ -1,0 +1,16 @@
+{
+    "website":"https://moeda.in/",
+    "published_on":"2017-08-28",
+    "links":{
+        "telegram":"https://t.me/moedaproject",
+        "twitter":"https://twitter.com/moedabanking",
+        "github":"https://github.com/moedabank",
+        "facebook":"https://www.facebook.com/moedabanking"
+    },
+    "overview":"Moeda is a cooperative banking system powered by blockchain, built for everyone.",
+    "symbol":"MDA",
+    "initial_price":"1.0 $",
+    "whitepaper":"https://moeda.in/whitepaper.pdf",
+    "address":"0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+    "email":"contact@moeda.in"
+}

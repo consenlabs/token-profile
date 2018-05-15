@@ -1,0 +1,15 @@
+{
+    "website":"https://ico.ezpos.io/",
+    "published_on":"2018-01-01",
+    "links":{
+        "telegram":"https://t.me/eztokensupport",
+        "twitter":"https://twitter.com/eztoken",
+        "github":"https://github.com/ezpos",
+        "facebook":"https://www.facebook.com/eztoken.io/"
+    },
+    "overview":"EZToken aims to be The crypto equivalent to skymiles.",
+    "symbol":"EZT",
+    "initial_price":"1.20 $",
+    "address":"0x5e6016ae7d7c49d347dcf834860b9f3ee282812b",
+    "email":"eztoken@ezpos.io"
+}

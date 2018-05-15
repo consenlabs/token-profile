@@ -1,0 +1,17 @@
+{
+    "website":"https://po.et/",
+    "published_on":"2017-08-08",
+    "links":{
+        "telegram":"https://github.com/poetapp",
+        "reddit":"https://www.reddit.com/r/poetproject/",
+        "github":"https://github.com/poetapp",
+        "slack":"https://poet-slack.herokuapp.com/",
+        "twitter":"https://twitter.com/_poetproject"
+    },
+    "overview":"Po.et aims to reclaim value for content creators, publishers and consumers.",
+    "symbol":"POE",
+    "initial_price":"24999:1 ETH",
+    "whitepaper":"https://po.et/whitepaper.pdf",
+    "address":"0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+    "email":"contact@po.et"
+}

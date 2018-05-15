@@ -1,0 +1,16 @@
+{
+    "website":"https://sharpe.capital/",
+    "published_on":"2017-11-06",
+    "links":{
+        "telegram":"https://t.me/sharpecapital",
+        "twitter":"https://twitter.com/sharpecapital",
+        "github":"https://github.com/sharpe-capital",
+        "facebook":"https://www.facebook.com/sharpecapital"
+    },
+    "overview":"A fintech business that aims to bridge the gap between crypto and traditional finance.",
+    "symbol":"SHP",
+    "initial_price":"2000:1 ETH",
+    "whitepaper":"https://s3-eu-west-1.amazonaws.com/sharpe-website/whitepaper.pdf",
+    "address":"0xef2463099360a085f1f10b076ed72ef625497a06",
+    "email":"hello@sharpe.capital"
+}

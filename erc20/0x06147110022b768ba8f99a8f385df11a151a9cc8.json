@@ -1,0 +1,16 @@
+{
+    "website":"https://tokenstars.com/en/ace",
+    "published_on":"2017-09-10",
+    "links":{
+        "telegram":"https://t.me/TokenStars_en",
+        "reddit":"https://www.reddit.com/r/TokenStars/",
+        "github":"https://github.com/token-stars",
+        "facebook":"https://www.facebook.com/TokenStars/",
+        "twitter":"https://twitter.com/TokenStars"
+    },
+    "overview":"ACE is a utility token, that serves as a form of access to the TokenStars platform and its internal currency.\nTokenStars is the first talent management platform on the blockchain, that will connect talents & celebrities with fans and advertisers.",
+    "symbol":"ACE",
+    "whitepaper":"https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf",
+    "address":"0x06147110022b768ba8f99a8f385df11a151a9cc8",
+    "email":"tokenstars@tokenstars.com"
+}

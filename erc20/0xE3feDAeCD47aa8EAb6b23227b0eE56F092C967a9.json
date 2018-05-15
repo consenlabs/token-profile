@@ -1,0 +1,16 @@
+{
+    "website":"https://primas.io/",
+    "published_on":"2017-08-07",
+    "links":{
+        "twitter":"https://twitter.com/PrimasOfficial",
+        "github":"https://github.com/primasio",
+        "facebook":"https://www.facebook.com/summer.primas",
+        "slack":"https://primasio.slack.com/"
+    },
+    "overview":"A content publishing platform.",
+    "symbol":"PST",
+    "initial_price":"0.3758 $",
+    "whitepaper":"https://yb-public.oss-cn-shanghai.aliyuncs.com/primas/primas-1.2.1.pdf",
+    "address":"0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9",
+    "email":"hi@primas.io"
+}

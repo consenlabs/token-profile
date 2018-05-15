@@ -1,0 +1,15 @@
+{
+    "website":"https://www.axpire.io/",
+    "links":{
+        "telegram":"https://t.me/AxpireOfficial",
+        "reddit":"https://www.reddit.com/r/aXpire/",
+        "facebook":"https://www.facebook.com/Axpire-537274833301303",
+        "twitter":"https://twitter.com/aXpire_official"
+    },
+    "overview":"Building a Blockchain Based Spend Management System.",
+    "symbol":"AXP",
+    "initial_price":"0.10 $",
+    "whitepaper":"https://www.axpire.io/downloads/aXpire_Whitepaper_v1.1.0.pdf",
+    "address":"0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b",
+    "email":"info@axpire.com"
+}

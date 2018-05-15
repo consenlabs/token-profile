@@ -1,0 +1,15 @@
+{
+    "website":"https://www.paypie.com/",
+    "published_on":"2017-10-08",
+    "links":{
+        "telegram":"https://t.me/PayPieTokens",
+        "reddit":"https://www.reddit.com/r/PayPie/",
+        "facebook":"https://www.facebook.com/PayPiePlatform",
+        "twitter":"https://twitter.com/PayPiePlatform"
+    },
+    "symbol":"PPP",
+    "initial_price":"909:1 ETH",
+    "whitepaper":"https://www.paypie.com/Content/files/PayPie-Whitepaper-English.pdf",
+    "address":"0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+    "email":"help@paypie.com"
+}

@@ -1,0 +1,18 @@
+{
+    "website":"https://enjincoin.io/",
+    "published_on":"2017-10-03",
+    "links":{
+        "reddit":"https://www.reddit.com/r/EnjinCoin/",
+        "github":"https://github.com/enjin/contracts",
+        "slack":"https://enjincoin.slack.com/",
+        "telegram":"https://t.me/enjin_coin",
+        "twitter":"https://twitter.com/enjincs",
+        "facebook":"https://www.facebook.com/enjinsocial"
+    },
+    "overview":"Customizable cryptocurrency and virtual goods platform for gaming.",
+    "symbol":"ENJ",
+    "initial_price":"10000:1 ETH",
+    "whitepaper":"https://enjincoin.io/enjincoin_whitepaper.pdf",
+    "address":"0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "email":"presale@enjincoin.io"
+}

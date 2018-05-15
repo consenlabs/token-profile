@@ -1,0 +1,15 @@
+{
+    "website":"https://bitbounce.io/credo",
+    "published_on":"2017-07-26",
+    "links":{
+        "twitter":"https://twitter.com/bitbounceio",
+        "facebook":"https://www.facebook.com/groups/231924857297898/",
+        "slack":"https://join.slack.com/t/credoowners/shared_invite/MjE4MjkzNzgyNTEzLTE1MDExOTc3MTYtZmUwYWVjYWUzNA"
+    },
+    "overview":"Be compensated with the token Credo through the cryptocurrency spam solution BitBounce. Credos create a market for email that allows users to charge to receive emails from unknown senders.",
+    "symbol":"CREDO",
+    "initial_price":"0.01 $",
+    "whitepaper":"https://bitbounce.io/whitepaper.pdf",
+    "address":"0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "email":"info@team.bitbounce.io"
+}

@@ -1,0 +1,15 @@
+{
+    "website":"https://singularitynet.io/",
+    "published_on":"2017-12-21",
+    "links":{
+        "telegram":"https://t.me/singularitynet",
+        "twitter":"https://twitter.com/singularity_net",
+        "github":"https://github.com/singnet/",
+        "facebook":"https://www.facebook.com/singularityNET.io"
+    },
+    "overview":"Decentralized Marketplace for AI.",
+    "symbol":"AGI",
+    "whitepaper":"https://public.singularitynet.io/whitepaper.pdf",
+    "address":"0x8eb24319393716668d768dcec29356ae9cffe285",
+    "email":"info@singularitynet.io"
+}

@@ -1,0 +1,14 @@
+{
+    "website":"https://guts.tickets/",
+    "links":{
+        "telegram":"https://t.me/joinchat/ANlpzQ9ZgrY7rE9E2eAFCw",
+        "twitter":"https://twitter.com/gutstickets",
+        "github":"https://github.com/GUTSTickets",
+        "facebook":"https://www.facebook.com/gutstickets"
+    },
+    "overview":"GUTS aims to use blockchain technology to create a transparent ticketing ecosystem, where disgraceful secondary market prices and ticket fraud are non-existent.",
+    "symbol":"GET",
+    "whitepaper":"https://guts.tickets/files/GET-Whitepaper-GUTS-Tickets-latest.pdf",
+    "address":"0x8a854288a5976036a725879164ca3e91d30c6a1b",
+    "email":"guts.tickets@guts.tickets"
+}

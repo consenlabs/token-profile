@@ -1,0 +1,18 @@
+{
+    "website":"https://www.everex.io/",
+    "published_on":"2017-07-24",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Everex/",
+        "github":"https://github.com/EverexIO/EVXToken",
+        "slack":"https://everex.slack.com/",
+        "telegram":"https://t.me/everexio",
+        "twitter":"https://twitter.com/everexio",
+        "facebook":"https://www.facebook.com/everex.io"
+    },
+    "overview":"Everex aims to enable you to transfer, borrow, and trade in any fiat currency, anywhere.",
+    "symbol":"EVX",
+    "initial_price":"179:1 ETH",
+    "whitepaper":"https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf",
+    "address":"0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+    "email":"contact@everex.io"
+}

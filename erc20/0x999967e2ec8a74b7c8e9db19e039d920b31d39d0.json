@@ -1,0 +1,16 @@
+{
+    "website":"https://ties.network/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/tiesnetwork/",
+        "github":"http://github.com/tiesnetwork",
+        "slack":"https://slack.ties.network/",
+        "telegram":"https://t.me/tiesnetwork",
+        "twitter":"https://twitter.com/tiesnetwork",
+        "facebook":"https://www.facebook.com/tiesdb"
+    },
+    "overview":"A public, distributed and decentralized database with one common thread: trust. Enforced by integrated fault tolerance, incentive schemes and smart contracts.",
+    "symbol":"TIE",
+    "whitepaper":"https://cdn.ties.network/white-paper-eng.pdf",
+    "address":"0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+    "email":"info@ties.network"
+}

@@ -1,0 +1,12 @@
+{
+    "website":"https://xenon.network/",
+    "links":{
+        "twitter":"https://twitter.com/XenonNet",
+        "slack":"https://join.slack.com/t/xenonnetwork/shared_invite/enQtMjQ1NzQ2MTQ1OTA2LWI5MjkzZWQxNzRmYzNmOGE5Nzc2MWYyN2NjM2Y2MTZjNjA2MDUyNmI5ZGFkNjU3YzE5NGVjNjA0YzkzMDk5ZGU"
+    },
+    "overview":"Xenon, an alternative blockchain forked from the EOS project,",
+    "symbol":"XNN",
+    "whitepaper":"http://xenon.network/wp-content/uploads/2017/09/xenon-whitepaper.pdf",
+    "address":"0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+    "email":"contact@xenon.network"
+}

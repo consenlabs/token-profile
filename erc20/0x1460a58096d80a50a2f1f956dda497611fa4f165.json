@@ -1,0 +1,16 @@
+{
+    "website":"https://chainium.io/",
+    "links":{
+        "telegram":"https://telegram.me/chainium",
+        "reddit":"https://www.reddit.com/r/chainium/",
+        "github":"https://github.com/Chainium",
+        "facebook":"https://www.facebook.com/chainium.io",
+        "twitter":"https://twitter.com/ChainiumIO"
+    },
+    "overview":"The global equity market is broken. Let's start again. We are building the world's first dual blockchain equity network. Join the revolution.",
+    "symbol":"CHX",
+    "initial_price":"5882:1 ETH",
+    "whitepaper":"https://chainium.io/uploads/files/Chainium-Business-Whitepaper-v3.pdf",
+    "address":"0x1460a58096d80a50a2f1f956dda497611fa4f165",
+    "email":"hello@chainium.io"
+}

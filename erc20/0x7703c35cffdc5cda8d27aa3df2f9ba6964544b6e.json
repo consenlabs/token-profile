@@ -1,0 +1,16 @@
+{
+    "website":"https://pylon-network.org/",
+    "published_on":"2017-09-29",
+    "links":{
+        "telegram":"https://twitter.com/KlenergyTech",
+        "twitter":"https://twitter.com/KlenergyTech",
+        "github":"https://github.com/klenergy",
+        "facebook":"https://www.facebook.com/KlenergyTechOfficial/"
+    },
+    "overview":"P2P Distributed Green Energy Market.",
+    "symbol":"PYLNT",
+    "initial_price":"151:1 ETH",
+    "whitepaper":"https://pylon-network.org/wp-content/uploads/2017/07/170730_WP-PYLON_EN.pdf",
+    "address":"0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e",
+    "email":"info@klenergy-tech.com"
+}

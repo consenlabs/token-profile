@@ -1,0 +1,14 @@
+{
+    "website":"https://lympo.io/",
+    "links":{
+        "telegram":"https://t.me/lympo",
+        "reddit":"https://www.reddit.com/r/LYMPO/",
+        "facebook":"https://www.facebook.com/Lympo.io/",
+        "twitter":"https://twitter.com/Lympo_io"
+    },
+    "overview":"Sports and health ecosystem powered by user-generated and user-controlled data",
+    "symbol":"LYM",
+    "initial_price":"33333:1 ETH",
+    "whitepaper":"https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v5",
+    "address":"0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec"
+}

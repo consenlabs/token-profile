@@ -1,0 +1,17 @@
+{
+    "website":"https://havven.io/",
+    "published_on":"2018-02-26",
+    "links":{
+        "telegram":"https://t.me/havven_official1",
+        "reddit":"https://www.reddit.com/r/havven/",
+        "github":"https://github.com/havven/havven",
+        "facebook":"https://www.facebook.com/havven.io/",
+        "twitter":"https://twitter.com/havven_io"
+    },
+    "overview":"Havven is a decentralised payment network designed to enable everyday cryptocurrency purchases.",
+    "symbol":"HAV",
+    "initial_price":"1703:1 ETH",
+    "whitepaper":"https://havven.io/uploads/havven_whitepaper.pdf",
+    "address":"0xf244176246168f24e3187f7288edbca29267739b",
+    "email":"info@havven.io"
+}

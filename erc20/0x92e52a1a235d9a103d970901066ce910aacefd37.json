@@ -1,0 +1,17 @@
+{
+    "website":"https://u.cash/",
+    "published_on":"2017-09-08",
+    "links":{
+        "telegram":"https://t.me/ucash",
+        "reddit":"https://www.reddit.com/r/ucash/",
+        "github":"https://github.com/udotcash",
+        "facebook":"https://www.facebook.com/udotcash",
+        "twitter":"https://twitter.com/udotcash"
+    },
+    "overview":"Aims to build a global network of retail and individual converters providing cash to digital conversions to and from our ecosystem, helping people worldwide to unbank.",
+    "symbol":"UCASH",
+    "initial_price":"0.01 $",
+    "whitepaper":"https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/view",
+    "address":"0x92e52a1a235d9a103d970901066ce910aacefd37",
+    "email":"info@u.cash"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://www.fundyourselfnow.com/",
+    "published_on":"2017-06-13",
+    "links":{
+        "telegram":"https://telegram.me/fundyourselfnow",
+        "twitter":"https://twitter.com/fundyourselfnow",
+        "github":"https://github.com/PinnacleOne/FYNTokens",
+        "facebook":"https://www.facebook.com/fundyourselfnow/",
+        "slack":"http://fundyourselfnowslack.herokuapp.com/"
+    },
+    "overview":"FundYourselfNow is a simple platform to allow project creators/promoters to raise funds for their projects using cryptocurrencies without the need of technical knowledge.",
+    "symbol":"FYN",
+    "initial_price":"2.01 $",
+    "whitepaper":"https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf",
+    "address":"0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
+    "email":"contact@fundyourselfnow.com"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://stormtoken.com/",
+    "published_on":"2017-11-07",
+    "links":{
+        "telegram":"https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg",
+        "reddit":"https://www.reddit.com/r/stormtoken/",
+        "github":"https://github.com/StormX-Inc/crowdsale",
+        "facebook":"https://www.facebook.com/stormtoken",
+        "twitter":"https://twitter.com/Storm_Token"
+    },
+    "overview":"Storm Market aims to make it easier for members to find new ways to earn, engage, and advance with their gamified micro-task platform for STORM tokens.",
+    "symbol":"STORM",
+    "initial_price":"26946:1 ETH",
+    "whitepaper":"https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf",
+    "address":"0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
+    "email":"info@stormtoken.com"
+}

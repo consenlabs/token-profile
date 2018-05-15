@@ -1,0 +1,17 @@
+{
+    "website":"https://atlant.io/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/atlantio/",
+        "github":"https://github.com/AtlantPlatform",
+        "slack":"https://atlantio.slack.com/join/shared_invite/MjMyNzg4MTM5NTg0LTE1MDQwMzM4NjItMGEyZDY0MGY3Mg",
+        "telegram":"https://t.me/atlant_eng",
+        "twitter":"https://twitter.com/atlantio",
+        "facebook":"https://www.facebook.com/atlantplatform/"
+    },
+    "overview":"Real Estate Blockchain Platform.",
+    "symbol":"ATL",
+    "initial_price":"505:1 ETH",
+    "whitepaper":"https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf",
+    "address":"0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+    "email":"contact@atlant.io"
+}

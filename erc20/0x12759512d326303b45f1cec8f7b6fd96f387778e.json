@@ -1,0 +1,17 @@
+{
+    "website":"http://www.trakinvest.ai/",
+    "published_on":"2018-02-08",
+    "links":{
+        "telegram":"https://t.me/trakinvest",
+        "reddit":"https://www.reddit.com/r/TrakInvest/",
+        "github":"https://github.com/ankit-trakinvest/trakinvest/tree/master/blockchain/tokens",
+        "facebook":"https://www.facebook.com/Trakinvest/",
+        "twitter":"https://twitter.com/TrakInvest"
+    },
+    "overview":"Virtual social trading platform for equities and cryptocurrencies powered by proprietary AI engine",
+    "symbol":"TRAK",
+    "initial_price":"910:1 ETH",
+    "whitepaper":"https://trakinvest.ai/files/ti-whitepaper.pdf",
+    "address":"0x12759512d326303b45f1cec8f7b6fd96f387778e",
+    "email":"support@trakinvest.com"
+}

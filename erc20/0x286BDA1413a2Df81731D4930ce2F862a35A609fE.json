@@ -1,0 +1,14 @@
+{
+    "website":"https://www.wacoin.io/",
+    "links":{
+        "telegram":"https://t.me/wabiico",
+        "reddit":"https://www.reddit.com/r/WabiToken/",
+        "facebook":"https://www.facebook.com/wabiico/",
+        "twitter":"https://twitter.com/wabiico"
+    },
+    "overview":"Aims to place secure anti-counterfeit labels on consumer products in China and internationally.",
+    "symbol":"WaBi",
+    "whitepaper":"http://resources.wacoin.io/WaBI_Whitepaper_ENG.pdf",
+    "address":"0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+    "email":"support@wacoin.io"
+}

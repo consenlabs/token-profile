@@ -1,0 +1,15 @@
+{
+    "website":"https://blockport.io/",
+    "published_on":"2018-01-24",
+    "links":{
+        "telegram":"https://t.me/blockport",
+        "twitter":"https://twitter.com/BlockportNL",
+        "facebook":"https://www.facebook.com/blockport/"
+    },
+    "overview":"Social crypto exchange based on a hybrid-decentralized architecture.",
+    "symbol":"BPT",
+    "initial_price":"2880:1 ETH",
+    "whitepaper":"http://blockport.io/read-the/whitepaper.pdf",
+    "address":"0x327682779bab2bf4d1337e8974ab9de8275a7ca8",
+    "email":"support@blockport.io"
+}

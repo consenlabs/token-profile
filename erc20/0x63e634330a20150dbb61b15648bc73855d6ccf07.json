@@ -1,0 +1,18 @@
+{
+    "website":"https://blocklancer.net/",
+    "published_on":"2018-01-16",
+    "links":{
+        "reddit":"https://www.reddit.com/r/blocklancer/",
+        "github":"https://github.com/BlocklancerOrg",
+        "slack":"https://discordapp.com/invite/Jw4wCsm",
+        "telegram":"https://t.me/joinchat/C2f8exCVswaoSzXtCf6kLw?utm_content=buffer6047c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+        "twitter":"https://twitter.com/blocklancer",
+        "facebook":"https://www.facebook.com/blocklancer"
+    },
+    "overview":"Distributed Autonomous Job Market (DAJ) on the Ethereum platform",
+    "symbol":"LNC",
+    "initial_price":"16666:1 ETH",
+    "whitepaper":"https://blocklancer.net/static/main/docs/lancer_whitepaper.pdf",
+    "address":"0x63e634330a20150dbb61b15648bc73855d6ccf07",
+    "email":"contact@blocklancer.net"
+}

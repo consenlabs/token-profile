@@ -1,0 +1,15 @@
+{
+    "website":"http://substratum.net/",
+    "published_on":"2017-08-14",
+    "links":{
+        "reddit":"https://www.reddit.com/r/SubstratumNetwork/",
+        "slack":"https://substratumcoin.slack.com/join/shared_invite/MjI3Nzc5NzExNDg4LTE1MDMwNDY5ODItODlkYjNiYzhkZg",
+        "twitter":"https://twitter.com/SubstratumNet"
+    },
+    "overview":"Substratum is an open-source network that allows anyone to allocate spare computing resources to make the internet a free and fair place for the entire world.",
+    "symbol":"SUB",
+    "initial_price":"3030:1 ETH",
+    "whitepaper":"http://substratum.net/wp-content/uploads/2017/08/substratum_whitepaper.pdf",
+    "address":"0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+    "email":"justin@substratum.net"
+}

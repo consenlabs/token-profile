@@ -1,0 +1,17 @@
+{
+    "website":"https://cartaxi.io/",
+    "published_on":"2017-09-27",
+    "links":{
+        "telegram":"https://t.me/cartaxi_io",
+        "reddit":"https://www.reddit.com/user/CarTaxiICO/",
+        "github":"https://github.com/CarTaxiico",
+        "facebook":"https://www.facebook.com/cartaxi.io/",
+        "twitter":"https://twitter.com/CarTaxi_24"
+    },
+    "overview":"A blockchain platform based on Ethereum for automated service for car towing.",
+    "symbol":"CTX",
+    "initial_price":"2250:1 ETH",
+    "whitepaper":"https://cartaxi.io/#dl-whitepaper",
+    "address":"0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66",
+    "email":"info@cartaxi.io"
+}

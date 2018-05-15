@@ -1,0 +1,15 @@
+{
+    "website":"https://smscoin.jp/",
+    "published_on":"2017-10-27",
+    "links":{
+        "twitter":"https://twitter.com/Speed_Mining",
+        "github":"https://github.com/Speed-Mining/SMSCoin",
+        "facebook":"https://www.facebook.com/SPEEDMINING/"
+    },
+    "overview":"A diversified virtual currency mining operation.",
+    "symbol":"SMS",
+    "initial_price":"12:1 ETH",
+    "whitepaper":"https://smscoin.jp/sites/default/files/whitepaper.pdf",
+    "address":"0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+    "email":"support@smscoin.jp"
+}

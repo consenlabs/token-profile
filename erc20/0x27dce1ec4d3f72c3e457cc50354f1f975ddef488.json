@@ -1,0 +1,16 @@
+{
+    "website":"https://airtoken.com/",
+    "published_on":"2017-10-01",
+    "links":{
+        "telegram":"https://t.me/airfoxico",
+        "reddit":"https://www.reddit.com/r/AirToken/",
+        "slack":"https://shielded-mesa-79992.herokuapp.com/",
+        "twitter":"https://twitter.com/airtoken"
+    },
+    "overview":"AirToken is an Ethereum-based ERC-20 digital utility token that facilitates the transfer of mobile airtime, data and currency, as well as payments for goods and services, with minimal friction and fees.",
+    "symbol":"AIR",
+    "initial_price":"0.02 $",
+    "whitepaper":"https://airtoken.com/paper/AirFoxICO_WhitePaper_v3.0.pdf",
+    "address":"0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+    "email":"corporate@airfox.io"
+}

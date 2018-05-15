@@ -1,0 +1,13 @@
+{
+    "website":"http://bolenum.com",
+    "published_on":"2017-07-15",
+    "links":{
+        "twitter":"https://twitter.com/BolenumPlatform",
+        "github":"https://github.com/Bolenum/Boleno"
+    },
+    "overview":"Bolenum is a cryptocurrency and financial services provider targeting the African continent.",
+    "symbol":"BLN",
+    "initial_price":"5.98 $",
+    "whitepaper":"http://bolenum.com/whitepaper.pdf",
+    "address":"0xca29db4221c111888a7e80b12eac8a266da3ee0d"
+}

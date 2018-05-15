@@ -1,0 +1,13 @@
+{
+    "website":"https://yoyow.org/",
+    "published_on":"2017-05-21",
+    "links":{
+        "telegram":"https://t.me/HelloYOYOW",
+        "twitter":"https://twitter.com/InfoYoyow"
+    },
+    "overview":"A blockchain based content rewards network",
+    "symbol":"YOYOW",
+    "initial_price":"0.02 $",
+    "whitepaper":"https://yoyow.org/files/white-paper3_en.pdf",
+    "address":"0xcbeaec699431857fdb4d37addbbdc20e132d4903"
+}

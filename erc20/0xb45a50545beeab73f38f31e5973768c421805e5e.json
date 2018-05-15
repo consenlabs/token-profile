@@ -1,0 +1,17 @@
+{
+    "website":"https://www.trackr.im/",
+    "published_on":"2017-08-16",
+    "links":{
+        "reddit":"https://www.reddit.com/r/trackrim",
+        "github":"https://github.com/trackr-im",
+        "facebook":"https://www.facebook.com/trackrim/",
+        "slack":"http://slack.trackr.im/",
+        "twitter":"https://twitter.com/trackrim"
+    },
+    "overview":"CryptoInsight - Insight and Analytics Platform.",
+    "symbol":"TKR",
+    "initial_price":"7534:1 ETH",
+    "whitepaper":"https://www.trackr.im/media/whitepaper.pdf",
+    "address":"0xb45a50545beeab73f38f31e5973768c421805e5e",
+    "email":"team@trackr.im"
+}

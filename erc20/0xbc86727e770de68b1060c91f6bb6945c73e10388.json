@@ -1,0 +1,13 @@
+{
+    "website":"https://paywithink.com/",
+    "links":{
+        "telegram":"https://t.me/paywithink",
+        "reddit":"https://www.reddit.com/r/PayWithInk/",
+        "github":"https://github.com/InkProtocol/contracts",
+        "twitter":"https://twitter.com/PayWithInk"
+    },
+    "overview":"Peer-to-peer transactions on any platform.",
+    "symbol":"XNK",
+    "whitepaper":"https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf",
+    "address":"0xbc86727e770de68b1060c91f6bb6945c73e10388"
+}

@@ -1,0 +1,15 @@
+{
+    "website":"https://www.ethos.io/",
+    "published_on":"2017-06-28",
+    "links":{
+        "telegram":"https://t.me/ethos_io",
+        "reddit":"https://www.reddit.com/r/ethos_io/",
+        "twitter":"https://twitter.com/ethos_io"
+    },
+    "overview":"People-powered cryptocurrency services for the blockchain",
+    "symbol":"ETHOS",
+    "initial_price":"10528:1 ETH",
+    "whitepaper":"http://www.ethos.io/Ethos_Whitepaper.pdf",
+    "address":"0x5af2be193a6abca9c8817001f45744777db30756",
+    "email":"press@ethos.io"
+}

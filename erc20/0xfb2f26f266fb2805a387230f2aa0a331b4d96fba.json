@@ -1,0 +1,17 @@
+{
+    "website":"https://dadi.cloud/",
+    "published_on":"2018-01-29",
+    "links":{
+        "telegram":"https://t.me/daditech",
+        "reddit":"https://www.reddit.com/r/DADI/",
+        "github":"https://github.com/dadi",
+        "facebook":"https://www.facebook.com/daditechnology",
+        "twitter":"https://twitter.com/@dadi"
+    },
+    "overview":"A new era of cloud computing services, powered by blockchain technology.",
+    "symbol":"DADI",
+    "initial_price":"2340:1 ETH",
+    "whitepaper":"http://dadi.link/id",
+    "address":"0xfb2f26f266fb2805a387230f2aa0a331b4d96fba",
+    "email":"crowdsale@dadi.co"
+}

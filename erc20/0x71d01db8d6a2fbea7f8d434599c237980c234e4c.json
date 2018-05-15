@@ -1,0 +1,14 @@
+{
+    "website":"https://gladius.io/",
+    "links":{
+        "telegram":"https://t.me/gladiusio",
+        "reddit":"https://reddit.com/r/gladiusnetwork",
+        "github":"https://github.com/gladiusio",
+        "facebook":"https://www.facebook.com/gladiusio",
+        "twitter":"https://twitter.com/gladiusio"
+    },
+    "symbol":"GLA",
+    "whitepaper":"https://gladius.io/pdf/gladius-whitepaper.pdf",
+    "address":"0x71d01db8d6a2fbea7f8d434599c237980c234e4c",
+    "email":"contact@gladius.io"
+}

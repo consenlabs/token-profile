@@ -1,0 +1,11 @@
+{
+    "website":"https://www.atmchain.io/",
+    "links":{
+        "twitter":"https://twitter.com/ATMChainDev",
+        "github":"https://github.com/ATMChain"
+    },
+    "symbol":"ATM",
+    "whitepaper":"https://static.atmchain.io/static/english/ATMChain_Whitepaper(Genesis_Edition).pdf",
+    "address":"0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
+    "email":"dev@atmchain.io"
+}

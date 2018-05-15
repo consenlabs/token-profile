@@ -1,0 +1,13 @@
+{
+    "website":"https://billionairetoken.com/",
+    "links":{
+        "twitter":"https://twitter.com/BillionaireTkn",
+        "github":"https://github.com/billionairetoken/TokenCore",
+        "slack":"https://billionairetoken.herokuapp.com/"
+    },
+    "overview":"Decentralized games on the blockchain.",
+    "symbol":"XBL",
+    "whitepaper":"https://billionairetoken.com/WhitePaper.pdf",
+    "address":"0x49aec0752e68d0282db544c677f6ba407ba17ed7",
+    "email":"billionaire@BillionaireToken.com"
+}

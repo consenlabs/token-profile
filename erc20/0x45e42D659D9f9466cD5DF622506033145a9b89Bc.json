@@ -1,0 +1,12 @@
+{
+    "website":"https://beyond-the-void.net/",
+    "published_on":"2016-11-01",
+    "links":{
+        "twitter":"https://twitter.com/BeyondVoidGame",
+        "facebook":"https://www.facebook.com/beyondvoid/"
+    },
+    "overview":"The Economy of Beyond The Void is based on the Ethereum Blockchain, which can be used with tokens called Nexium.",
+    "symbol":"NxC",
+    "initial_price":"0.005 $",
+    "address":"0x45e42D659D9f9466cD5DF622506033145a9b89Bc"
+}

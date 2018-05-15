@@ -1,0 +1,16 @@
+{
+    "website":"https://arbitragect.com/",
+    "published_on":"2017-12-04",
+    "links":{
+        "telegram":"https://t.me/ArbitrageCT",
+        "reddit":"https://www.reddit.com/r/arbitrageCT/",
+        "facebook":"https://www.facebook.com/groups/arbitragect/",
+        "twitter":"https://twitter.com/arbitrage_ct"
+    },
+    "overview":"Trading crypto-currency terminal for two exchanges simultaneously.",
+    "symbol":"ARCT",
+    "initial_price":"75018:1 ETH",
+    "whitepaper":"https://arbitragect.com/arbitragect_wp_en.pdf",
+    "address":"0x1245ef80f4d9e02ed9425375e8f649b9221b31d8",
+    "email":"kirill@arbitragect.com"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://www.latoken.com/",
+    "published_on":"2017-08-22",
+    "links":{
+        "telegram":"https://t.me/latoken",
+        "reddit":"https://www.reddit.com/r/LAToken/",
+        "github":"https://github.com/LAToken/",
+        "facebook":"https://www.facebook.com/LiquidAssetToken/",
+        "twitter":"https://twitter.com/latokens"
+    },
+    "overview":"LATOKEN aims to transform access to capital, and enables cryptocurrencies to be widely used in the real economy by making real assets tradable in crypto.",
+    "symbol":"LA",
+    "initial_price":"714:1 ETH",
+    "whitepaper":"https://cdn-new.latoken.com/common/files/whitepaper/latoken-whitepaper-en.pdf",
+    "address":"0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+    "email":"info@latoken.com"
+}

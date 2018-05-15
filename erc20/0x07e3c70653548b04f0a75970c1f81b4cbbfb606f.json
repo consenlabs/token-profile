@@ -1,0 +1,14 @@
+{
+    "website":"https://www.agrello.org/",
+    "links":{
+        "telegram":"https://t.me/agrello",
+        "reddit":"https://www.reddit.com/r/Agrello/",
+        "facebook":"https://www.facebook.com/agrellofoundation/",
+        "twitter":"https://twitter.com/AgrelloOfficial"
+    },
+    "overview":"Legally Binding Smart Contracts, Powered by AI.",
+    "symbol":"DLT",
+    "whitepaper":"https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf",
+    "address":"0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
+    "email":"info@agrello.org"
+}

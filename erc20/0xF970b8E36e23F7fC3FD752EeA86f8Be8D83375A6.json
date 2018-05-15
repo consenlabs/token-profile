@@ -1,0 +1,15 @@
+{
+    "website":"https://ripiocredit.network/",
+    "published_on":"2017-10-24",
+    "links":{
+        "telegram":"https://t.me/RCNtalk",
+        "twitter":"https://twitter.com/RCN_token",
+        "github":"https://github.com/ripio/rcn-token"
+    },
+    "overview":"Ripio Credit Network is a global credit network based on cosigned smart contracts and blockchain technology that connects lenders and borrowers located anywhere in the world and on any currency",
+    "symbol":"RCN",
+    "initial_price":"4000:1 ETH",
+    "whitepaper":"https://ripiocredit.network/#whitepaper",
+    "address":"0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+    "email":"info@ripiocredit.network"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://flyp.me/",
+    "published_on":"2017-09-28",
+    "links":{
+        "telegram":"https://t.me/flypme",
+        "reddit":"https://www.reddit.com/r/flypme",
+        "github":"https://github.com/flypme",
+        "facebook":"https://www.facebook.com/flypme",
+        "twitter":"https://twitter.com/flyp_me"
+    },
+    "overview":"Aims to be an instant crypto exchange that is private and secure.",
+    "symbol":"FYP",
+    "initial_price":"0.07 $",
+    "whitepaper":"https://flyp.me/whitepaper.pdf",
+    "address":"0x8f0921f30555624143d427b340b1156914882c10",
+    "email":"hello@flyp.me"
+}

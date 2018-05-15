@@ -1,0 +1,14 @@
+{
+    "website":"https://otn.org/",
+    "links":{
+        "telegram":"https://t.me/OTNgroup",
+        "reddit":"https://www.reddit.com/user/Open_Trading_Network/",
+        "github":"https://github.com/OpenTradingNetworkFoundation/otn-token",
+        "facebook":"https://www.facebook.com/OpenTradingNetwork/",
+        "twitter":"https://twitter.com/OTNcoin"
+    },
+    "symbol":"OTN",
+    "whitepaper":"https://otn.org/assets/fonts/Open-Trading-Network-white-paper_en.pdf",
+    "address":"0x881ef48211982d01e2cb7092c915e647cd40d85c",
+    "email":"info@otn.org"
+}

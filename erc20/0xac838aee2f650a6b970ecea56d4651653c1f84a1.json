@@ -1,0 +1,18 @@
+{
+    "website":"https://clearcoin.co/",
+    "published_on":"2017-11-16",
+    "links":{
+        "reddit":"https://www.reddit.com/r/ClearCoin/",
+        "github":"https://github.com/clearcoin",
+        "slack":"https://clearcoin.co/slack/",
+        "telegram":"https://t.me/ClearCoin",
+        "twitter":"https://twitter.com/clearcoinhq",
+        "facebook":"https://www.facebook.com/ClearCoin/"
+    },
+    "overview":"ClearCoin is a technology company that powers the real-time buying and selling of media on decentralized applications and the broader digital environment.",
+    "symbol":"CLR",
+    "initial_price":"0.01 $",
+    "whitepaper":"https://clearcoin.co/whitepaper/",
+    "address":"0xac838aee2f650a6b970ecea56d4651653c1f84a1",
+    "email":"help@clearcoin.co"
+}

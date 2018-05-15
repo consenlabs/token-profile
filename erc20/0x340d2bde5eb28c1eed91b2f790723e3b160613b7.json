@@ -1,0 +1,16 @@
+{
+    "website":"https://blockv.io/",
+    "published_on":"2017-10-14",
+    "links":{
+        "telegram":"https://t.me/block_v",
+        "reddit":"https://www.reddit.com/r/blockv/",
+        "github":"https://github.com/BLOCKvIO/documentation",
+        "facebook":"https://www.facebook.com/blockv.io",
+        "twitter":"https://twitter.com/blockv_io"
+    },
+    "overview":"Create and Public Digital virtual goods on the blockchain",
+    "symbol":"VEE",
+    "initial_price":"10197:1 ETH",
+    "whitepaper":"https://blockv.io/documents/whitepaper.pdf",
+    "address":"0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+}

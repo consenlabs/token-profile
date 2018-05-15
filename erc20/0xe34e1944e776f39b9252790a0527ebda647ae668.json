@@ -1,0 +1,17 @@
+{
+    "website":"https://www.helbizcoin.io/",
+    "published_on":"2018-02-15",
+    "links":{
+        "telegram":"https://t.me/helbiz",
+        "reddit":"https://www.reddit.com/r/Helbiz/",
+        "facebook":"https://www.facebook.com/helbizofficial/",
+        "slack":"https://helbizofficial.slack.com/",
+        "twitter":"https://twitter.com/helbizofficial"
+    },
+    "overview":"Blockchain car sharing solution",
+    "symbol":"HBZ",
+    "initial_price":"5988:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/1UudcsnOrVwe0DeG4p7k7R3m4l28bAzQ0/view",
+    "address":"0xe34e1944e776f39b9252790a0527ebda647ae668",
+    "email":"coin@helbiz.com"
+}

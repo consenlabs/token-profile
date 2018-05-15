@@ -1,0 +1,17 @@
+{
+    "website":"https://www.airswap.io/",
+    "published_on":"2017-10-10",
+    "links":{
+        "telegram":"https://t.me/airswapofficial",
+        "reddit":"https://www.reddit.com/r/AirSwap/",
+        "github":"https://github.com/airswap",
+        "facebook":"https://www.facebook.com/airswapio",
+        "twitter":"https://twitter.com/airswap"
+    },
+    "overview":"AirSwap is based on the Swap protocol, a peer-to-peer protocol for trading Ethereum tokens",
+    "symbol":"AST",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://swap.tech/whitepaper/",
+    "address":"0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "email":"team@airswap.io"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://mysterium.network",
+    "published_on":"2017-05-30",
+    "links":{
+        "telegram":"https://t.me/mysterium_network",
+        "reddit":"https://github.com/MysteriumNetwork",
+        "github":"https://github.com/MysteriumNetwork",
+        "slack":"http://slack.mysterium.network/",
+        "twitter":"https://twitter.com/MysteriumNet"
+    },
+    "overview":"Decentralized VPN powered by Blockchain.",
+    "symbol":"MYST",
+    "initial_price":"1.03 $",
+    "whitepaper":"https://mysterium.network/whitepaper.pdf",
+    "address":"0xa645264C5603E96c3b0B078cdab68733794B0A71"
+}

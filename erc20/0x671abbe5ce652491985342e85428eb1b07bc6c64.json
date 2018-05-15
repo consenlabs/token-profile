@@ -1,0 +1,14 @@
+{
+    "website":"http://www.quantumproject.org/",
+    "published_on":"2017-04-15",
+    "links":{
+        "twitter":"https://twitter.com/QAUProject",
+        "facebook":"https://www.facebook.com/QAUProject/"
+    },
+    "overview":"Quantum aims to be a deflationary currency.",
+    "symbol":"QAU",
+    "initial_price":"0.05 $",
+    "whitepaper":"http://www.quantumproject.org/s/whitepaper.pdf",
+    "address":"0x671abbe5ce652491985342e85428eb1b07bc6c64",
+    "email":"support@quantumproject.org"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://ost.com/",
+    "published_on":"2017-11-14",
+    "links":{
+        "telegram":"https://t.me/ostdotcom",
+        "reddit":"https://www.reddit.com/r/OSTdotcom/",
+        "github":"https://github.com/OpenSTFoundation",
+        "facebook":"https://www.facebook.com/OST",
+        "twitter":"https://twitter.com/OSTdotcom"
+    },
+    "overview":"OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.",
+    "symbol":"ST",
+    "initial_price":"4017:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B4f0lcszU8fnRmZKNWhUc1FoaUU/view",
+    "address":"0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+    "email":"support@ost.com"
+}

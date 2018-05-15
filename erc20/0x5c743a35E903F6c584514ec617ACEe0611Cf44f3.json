@@ -1,0 +1,14 @@
+{
+    "website":"https://experty.io/en",
+    "published_on":"2018-01-25",
+    "links":{
+        "telegram":"https://t.me/experty_io",
+        "twitter":"https://twitter.com/experty_io",
+        "github":"https://github.com/Experty"
+    },
+    "overview":"emocratizing the digital consultations market",
+    "symbol":"EXY",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://experty.io/docs/Experty-whitepaper-v2.6.pdf",
+    "address":"0x5c743a35E903F6c584514ec617ACEe0611Cf44f3"
+}

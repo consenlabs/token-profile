@@ -1,0 +1,16 @@
+{
+    "website":"https://tokenbox.io/",
+    "published_on":"2017-11-14",
+    "links":{
+        "telegram":"https://t.me/Tokenbox",
+        "reddit":"https://www.reddit.com/r/tokenbox/",
+        "github":"https://github.com/zeriontech/",
+        "facebook":"https://www.facebook.com/Tokenbox/",
+        "twitter":"https://twitter.com/tokenbox"
+    },
+    "symbol":"TBX",
+    "initial_price":"1.00 $",
+    "whitepaper":"https://tokenbox.io/docs/Tokenbox-WhitePaper-En.pdf",
+    "address":"0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+    "email":"tbx@tokenbox.io"
+}

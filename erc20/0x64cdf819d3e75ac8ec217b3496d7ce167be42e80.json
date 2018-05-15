@@ -1,0 +1,14 @@
+{
+    "website":"https://insurepal.io/",
+    "links":{
+        "telegram":"https://t.me/InsurePal",
+        "twitter":"https://twitter.com/InsurePal_io",
+        "github":"https://github.com/InsurePal",
+        "facebook":"https://www.facebook.com/InsurePal/"
+    },
+    "overview":"Distributed social proof insurance.",
+    "symbol":"IPL",
+    "initial_price":"0.10 $",
+    "whitepaper":"https://insurepal.io/InsurePal_whitepaper.pdf",
+    "address":"0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
+}

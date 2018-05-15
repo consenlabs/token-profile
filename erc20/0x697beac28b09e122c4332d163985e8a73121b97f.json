@@ -1,0 +1,15 @@
+{
+    "website":"https://theqrl.org/",
+    "published_on":"2017-05-01",
+    "links":{
+        "twitter":"https://twitter.com/qrledger",
+        "github":"https://github.com/theQRL",
+        "slack":"https://qr-ledger.slack.com/"
+    },
+    "overview":"The Quantum Resistant Ledger (QRL) aims to be a future-proof post-quantum value store and decentralized communication layer which tackles the threat Quantum Computing will pose to cryptocurrencies.",
+    "symbol":"QRL",
+    "initial_price":"0.08 $",
+    "whitepaper":"https://github.com/theQRL/QRL/blob/master/QRL_whitepaper.pdf",
+    "address":"0x697beac28b09e122c4332d163985e8a73121b97f",
+    "email":"info@theqrl.org"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://blocktix.io/",
+    "published_on":"2017-07-07",
+    "links":{
+        "reddit":"https://reddit.com/r/blocktix",
+        "github":"https://github.com/blocktix",
+        "slack":"https://slack.blocktix.io/",
+        "twitter":"https://twitter.com/blocktix"
+    },
+    "overview":"Aims to connect event organizers with an incentivised community who actively reduce the associated costs of event hosting by up to 90%.",
+    "symbol":"TIX",
+    "initial_price":"0.24 $",
+    "whitepaper":"https://blocktix.io/public/doc/blocktix-wp-draft.pdf#whitepaper",
+    "address":"0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+    "email":"info@blocktix.org"
+}

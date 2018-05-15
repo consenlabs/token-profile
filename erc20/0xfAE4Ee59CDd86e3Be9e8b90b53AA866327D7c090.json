@@ -1,0 +1,16 @@
+{
+    "website":"http://www.cpchain.io/",
+    "published_on":"2018-01-24",
+    "links":{
+        "telegram":"https://t.me/cpchain",
+        "twitter":"https://twitter.com/cpchain_io",
+        "github":"https://github.com/cpchain",
+        "slack":"https://cpchain.slack.com/"
+    },
+    "overview":"CPChain is a new distributed infrastructure for next generation Internet of Things (IoT).",
+    "symbol":"CPC",
+    "initial_price":"10000:1 ETH",
+    "whitepaper":"http://www.cpchain.io/CPChain_Whitepaper_English.pdf",
+    "address":"0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+    "email":"info@cpchain.io"
+}

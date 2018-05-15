@@ -1,0 +1,15 @@
+{
+    "website":"https://www.spectre.ai/",
+    "links":{
+        "telegram":"https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g",
+        "reddit":"https://www.reddit.com/r/Spectre_ai/",
+        "github":"https://github.com/spectre-ai",
+        "facebook":"https://www.facebook.com/spectrepage/",
+        "twitter":"https://twitter.com/SpectreAI"
+    },
+    "overview":"Broker-less financial trading platform.",
+    "symbol":"SXUT",
+    "whitepaper":"https://d1zzssn32v8b7a.cloudfront.net/media/en/spectre_whitepaper_v_2_3.pdf",
+    "address":"0x2c82c73d5b34aa015989462b2948cd616a37641f",
+    "email":"team@spectre.ai"
+}

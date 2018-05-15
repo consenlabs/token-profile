@@ -1,0 +1,15 @@
+{
+    "website":"https://dragonchain.com/",
+    "published_on":"2017-10-02",
+    "links":{
+        "telegram":"https://t.me/dragontalk",
+        "twitter":"https://twitter.com/dragonchaingang",
+        "github":"https://github.com/dragonchain/dragonchain",
+        "slack":"https://dragonchain.slack.com/"
+    },
+    "overview":"Dragonchain simplifies the integration of real business applications onto a blockchain.",
+    "symbol":"DRGN",
+    "whitepaper":"https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf",
+    "address":"0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+    "email":"tokensale@dragonchain.com"
+}

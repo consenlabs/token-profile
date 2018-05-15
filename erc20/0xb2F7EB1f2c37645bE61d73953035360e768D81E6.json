@@ -1,0 +1,15 @@
+{
+    "website":"https://cobinhood.com/",
+    "published_on":"2017-09-13",
+    "links":{
+        "telegram":"https://t.me/joinchat/GhBM6A2ktfrwdjzh9hDfQA",
+        "twitter":"https://twitter.com/cobinhood",
+        "github":"https://github.com/cobinhood",
+        "slack":"http://slack.cobinhood.com/"
+    },
+    "overview":"COBINHOOD is a ZERO Trading Fees cryptocurrency exchange with vision to maximize traders' profits.",
+    "symbol":"COB",
+    "whitepaper":"https://cobinhood.com/assets/whitepaper/whitepaper_en.pdf",
+    "address":"0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+    "email":"support@cobinhood.com"
+}

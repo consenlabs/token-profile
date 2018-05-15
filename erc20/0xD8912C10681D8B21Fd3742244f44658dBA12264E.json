@@ -1,0 +1,12 @@
+{
+    "website":"https://plutus.it/",
+    "links":{
+        "twitter":"https://twitter.com/PlutusIT",
+        "facebook":"https://www.facebook.com/Plutusit/"
+    },
+    "overview":"With Plutus Tap & Pay, you can pay at any NFC-enabled merchant",
+    "symbol":"PLU",
+    "whitepaper":"https://plutus.it/assets/Plutus.it-White-Paper-v1.1.pdf",
+    "address":"0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+    "email":"info@plutus.it"
+}

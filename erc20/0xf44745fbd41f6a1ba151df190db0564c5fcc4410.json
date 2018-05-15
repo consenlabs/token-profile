@@ -1,0 +1,16 @@
+{
+    "website":"https://copytrack.io/",
+    "published_on":"2017-12-10",
+    "links":{
+        "telegram":"https://t.me/copytrackhq",
+        "twitter":"https://twitter.com/copytrackhq/",
+        "github":"https://github.com/copytrackio/cpy-contracts",
+        "facebook":"https://www.facebook.com/copytrack/"
+    },
+    "overview":"A copyright registration platform.",
+    "symbol":"CPY",
+    "initial_price":"740:1 ETH",
+    "whitepaper":"https://copytrack.io/pdf/Copytrack_ICO_Whitepaper.pdf",
+    "address":"0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+    "email":"ico@copytrack.com"
+}

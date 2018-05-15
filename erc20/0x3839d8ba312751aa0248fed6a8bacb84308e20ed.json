@@ -1,0 +1,17 @@
+{
+    "website":"https://bezop.io/",
+    "published_on":"2017-12-23",
+    "links":{
+        "telegram":"https://t.me/bezop",
+        "reddit":"https://www.reddit.com/user/BezopNetwork/",
+        "github":"https://github.com/bezopteam",
+        "facebook":"https://www.facebook.com/groups/bezop/",
+        "twitter":"https://twitter.com/BezopNetwork"
+    },
+    "overview":"Bezop is a complete solution for running a successful ecommerce business online for new and experienced users.",
+    "symbol":"Bez",
+    "initial_price":"3333:1 ETH",
+    "whitepaper":"https://bezop.io/public/paper/whitepaper.pdf",
+    "address":"0x3839d8ba312751aa0248fed6a8bacb84308e20ed",
+    "email":"support@bezop.io"
+}

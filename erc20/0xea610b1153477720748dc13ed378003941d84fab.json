@@ -1,0 +1,17 @@
+{
+    "website":"https://alismedia.jp/",
+    "published_on":"2017-09-01",
+    "links":{
+        "telegram":"https://t.me/joinchat/EpPqE0QWIaFrG3zTewongQ",
+        "twitter":"https://twitter.com/ALIS_media",
+        "github":"https://github.com/AlisProject",
+        "facebook":"https://www.facebook.com/pages/ALIS-Hong-Kong/129889614272883",
+        "slack":"https://alis-media.slack.com/"
+    },
+    "overview":"A new social media concept revealing and providing access to reliable, articles, news, and people.",
+    "symbol":"ALIS",
+    "initial_price":"2941:1 ETH",
+    "whitepaper":"https://alisproject.github.io/whitepaper/whitepaper_v1.01.pdf",
+    "address":"0xea610b1153477720748dc13ed378003941d84fab",
+    "email":"info@alismedia.jp"
+}

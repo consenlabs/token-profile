@@ -1,0 +1,16 @@
+{
+    "website":"https://www.wetrust.io/",
+    "published_on":"2017-03-02",
+    "links":{
+        "reddit":"https://www.reddit.com/r/WeTrustPlatform/",
+        "github":"https://github.com/WeTrustPlatform",
+        "facebook":"https://www.facebook.com/wetrustplatform",
+        "slack":"https://www.wetrust.io/#home-section-slack",
+        "twitter":"https://twitter.com/wetrustplatform"
+    },
+    "overview":"A platform for Trusted Lending Circles, powered by people and blockchain",
+    "symbol":"TRST",
+    "initial_price":"0.06 $",
+    "whitepaper":"https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf",
+    "address":"0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b"
+}

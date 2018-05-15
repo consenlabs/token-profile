@@ -1,0 +1,14 @@
+{
+    "website":"https://thehydrofoundation.com/",
+    "links":{
+        "telegram":"https://t.me/hydroprotocol",
+        "reddit":"https://www.reddit.com/r/ddex/",
+        "facebook":"https://www.facebook.com/ddex.io.exchange/",
+        "twitter":"https://twitter.com/ddex_io"
+    },
+    "overview":"A network transport layer protocol for hybrid decentralized exchanges.",
+    "symbol":"HOT",
+    "whitepaper":"https://s3-ap-northeast-1.amazonaws.com/ddex-public-files/Hydro+Whitepaper+(Public)-1.16.pdf",
+    "address":"0x9af839687f6c94542ac5ece2e317daae355493a1",
+    "email":"bowen@ddex.io"
+}

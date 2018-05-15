@@ -1,0 +1,16 @@
+{
+    "website":"https://www.remme.io/",
+    "links":{
+        "telegram":"https://t.me/remme",
+        "reddit":"https://www.reddit.com/r/remme/",
+        "github":"https://github.com/Remmeauth",
+        "facebook":"https://www.facebook.com/remme.io/",
+        "twitter":"https://twitter.com/remme_io"
+    },
+    "overview":"Distributed Public Key Infrastructure (PKI) protocol with a set of DApps to enable passwordless authentication",
+    "symbol":"REM",
+    "initial_price":"21026:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view",
+    "address":"0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+    "email":"team@remme.io"
+}

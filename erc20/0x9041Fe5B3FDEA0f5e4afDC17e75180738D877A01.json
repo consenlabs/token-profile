@@ -1,0 +1,15 @@
+{
+    "website":"https://chain.pro/",
+    "published_on":"2017-11-26",
+    "links":{
+        "telegram":"https://t.me/ProChainTech",
+        "twitter":"https://twitter.com/prochaintech",
+        "github":"https://github.com/ProChain"
+    },
+    "overview":"Precision Ad Blockchain Based on Big Data.",
+    "symbol":"PRO",
+    "initial_price":"1250:1 ETH",
+    "whitepaper":"https://chain.pro/static/pdf/ProChainWhitePaper.pdf",
+    "address":"0x9041fe5b3fdea0f5e4afdc17e75180738d877a01",
+    "email":"i@chain.pro"
+}

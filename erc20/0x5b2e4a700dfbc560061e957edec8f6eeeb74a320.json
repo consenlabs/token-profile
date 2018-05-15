@@ -1,0 +1,17 @@
+{
+    "website":"https://ins.world/",
+    "published_on":"2017-12-04",
+    "links":{
+        "telegram":"https://t.me/ins_ecosystem",
+        "reddit":"https://www.reddit.com/r/INS_Ecosystem/",
+        "github":"https://github.com/ins-ecosystem",
+        "facebook":"https://www.facebook.com/ins.ecosystem",
+        "twitter":"https://twitter.com/ins_ecosystem"
+    },
+    "overview":"INS is developing a platform to enable direct interaction between brands and people in the consumer sector.",
+    "symbol":"INS",
+    "initial_price":"300:1 ETH",
+    "whitepaper":"https://ins.world/INS-ICO-Whitepaper.pdf",
+    "address":"0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
+    "email":"info@ins.world"
+}

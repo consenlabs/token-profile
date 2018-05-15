@@ -1,0 +1,17 @@
+{
+    "website":"https://decentraland.org/",
+    "published_on":"2017-08-17",
+    "links":{
+        "reddit":"https://reddit.com/r/decentraland",
+        "github":"https://github.com/decentraland",
+        "facebook":"https://www.facebook.com/decentraland/",
+        "slack":"https://slack.decentraland.org/",
+        "twitter":"https://twitter.com/decentraland"
+    },
+    "overview":"Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications",
+    "symbol":"MANA",
+    "initial_price":"12512:1 ETH",
+    "whitepaper":"https://decentraland.org/whitepaper.pdf",
+    "address":"0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "email":"hello@decentraland.org"
+}

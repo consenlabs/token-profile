@@ -1,0 +1,16 @@
+{
+    "website":"https://sirinlabs.com/",
+    "published_on":"2017-12-12",
+    "links":{
+        "telegram":"https://t.me/sirinlabs",
+        "reddit":"https://www.reddit.com/r/SirinLabs/",
+        "github":"https://github.com/sirin-labs",
+        "facebook":"https://www.facebook.com/SirinLabs/?fref=ts",
+        "twitter":"https://t.me/sirinlabs"
+    },
+    "symbol":"SRN",
+    "initial_price":"500:1 ETH",
+    "whitepaper":"https://sirinlabs.com/media/SIRINLABS_-_White_Paper.pdf",
+    "address":"0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+    "email":"amitk@sirinlabs.com"
+}

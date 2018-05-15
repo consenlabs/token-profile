@@ -1,0 +1,12 @@
+{
+    "website":"https://www.creditbit.org/",
+    "links":{
+        "twitter":"https://twitter.com/credit_2",
+        "facebook":"https://www.facebook.com/credit2.0/",
+        "slack":"https://slack.creditbit.org/"
+    },
+    "overview":"The main goal of this project is to develop and maintain crypto currency ecosystem, based on token, that is built on top of Ethereum Blockchain.",
+    "symbol":"CRB",
+    "whitepaper":"https://www.creditbit.org/downloads/WHITEPAPER-CREDIT2.0_2FINAL.pdf",
+    "address":"0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5"
+}

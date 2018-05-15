@@ -1,0 +1,15 @@
+{
+    "website":"https://iconomi.net/",
+    "published_on":"2017-08-25",
+    "links":{
+        "reddit":"https://www.reddit.com/r/ICONOMI",
+        "facebook":"https://www.facebook.com/iconomi.net/",
+        "slack":"https://iconominet.slack.com/",
+        "twitter":"https://twitter.com/iconominet"
+    },
+    "overview":"ICONOMI Digital Assets Management platform enables simple access to a variety of digital assets and combined Digital Asset Arrays",
+    "symbol":"ICN",
+    "initial_price":"3000:1 ETH",
+    "address":"0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+    "email":"support@iconomi.net"
+}

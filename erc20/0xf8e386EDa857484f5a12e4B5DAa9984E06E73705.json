@@ -1,0 +1,14 @@
+{
+    "website":"https://indorse.io/",
+    "published_on":"2017-08-08",
+    "links":{
+        "twitter":"https://twitter.com/joinIndorse",
+        "slack":"https://joinindorse.herokuapp.com/"
+    },
+    "overview":"Decentralized Professional Network powered by blockchain technology",
+    "symbol":"IND",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://indorse.io/static/media/Indorse-Whitepaper-v1.1.a733cc8e.pdf",
+    "address":"0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+    "email":"info@indorse.io"
+}

@@ -1,0 +1,18 @@
+{
+    "website":"https://blackmooncrypto.com/",
+    "published_on":"2017-09-12",
+    "links":{
+        "reddit":"https://www.reddit.com/r/BlackMoonCrypto/",
+        "github":"https://github.com/blackmoonfg",
+        "slack":"https://blackmooncrypto.herokuapp.com/",
+        "telegram":"https://t.me/blackmooncrypto",
+        "twitter":"https://twitter.com/BlackmoonFG",
+        "facebook":"https://www.facebook.com/blackmoonfg/"
+    },
+    "overview":"A way to tokenized real world investing funds.",
+    "symbol":"BMC",
+    "initial_price":"297:1 ETH",
+    "whitepaper":"https://blackmooncrypto.com/bmc_whitepaper_170911_v1.18.pdf",
+    "address":"0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+    "email":"info@blackmooncrypto.com"
+}

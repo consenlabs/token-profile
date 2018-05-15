@@ -1,0 +1,15 @@
+{
+    "website":"https://jet8.io/",
+    "published_on":"2018-02-28",
+    "links":{
+        "telegram":"https://t.me/Jet8_ecosystem",
+        "reddit":"https://www.reddit.com/r/JET8/",
+        "twitter":"https://twitter.com/jet8app"
+    },
+    "overview":"Democratizing influence.",
+    "symbol":"J8T",
+    "initial_price":"8333:1 ETH",
+    "whitepaper":"https://jet8.io/downloads/180223_J8T_Whitepaper_ENG.pdf",
+    "address":"0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4",
+    "email":"token@jet8.io"
+}

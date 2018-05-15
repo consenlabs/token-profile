@@ -1,0 +1,16 @@
+{
+    "website":"https://eventchain.io/",
+    "published_on":"2017-09-13",
+    "links":{
+        "telegram":"https://www.t.me/EventChain",
+        "twitter":"https://twitter.com/eventchain_io",
+        "facebook":"https://www.facebook.com/EventChain",
+        "slack":"https://join.slack.com/t/eventchain/shared_invite/MjI5MTYyMzg2OTMyLTE1MDMyNDEwMzEtZWJmNjFlZmQxYQ"
+    },
+    "overview":"Blockchain secured event ticketing.",
+    "symbol":"EVC",
+    "initial_price":"800:1 ETH",
+    "whitepaper":"https://eventchain.io/whitepaper.pdf",
+    "address":"0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+    "email":"team@eventchain.io"
+}

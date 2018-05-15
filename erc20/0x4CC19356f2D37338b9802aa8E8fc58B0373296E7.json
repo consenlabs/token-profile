@@ -1,0 +1,16 @@
+{
+    "website":"https://selfkey.org/",
+    "published_on":"2018-01-14",
+    "links":{
+        "telegram":"https://t.me/selfkeyfoundation",
+        "reddit":"https://www.reddit.com/r/selfkey/",
+        "facebook":"https://www.facebook.com/SelfKeyNetwork/",
+        "twitter":"https://twitter.com/selfkey"
+    },
+    "overview":"SelfKey is a blockchain based self-sovereign identity ecosystem that aims to empower individuals and companies to find more freedom, privacy and wealth through the full ownership of their digital identity.",
+    "symbol":"KEY",
+    "initial_price":"91743:1 ETH",
+    "whitepaper":"https://selfkey.org/whitepaper/",
+    "address":"0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+    "email":"info@selfkey.org"
+}

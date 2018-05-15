@@ -1,0 +1,14 @@
+{
+    "website":"https://medicalchain.com/",
+    "links":{
+        "telegram":"https://t.me/medicalchain",
+        "twitter":"https://twitter.com/medical_chain",
+        "facebook":"https://www.facebook.com/medicalchain"
+    },
+    "overview":"Medicalchain uses blockchain technology to securely store health records and maintain a single version of the truth.",
+    "symbol":"MTN",
+    "initial_price":"5130:1 ETH",
+    "whitepaper":"https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf",
+    "address":"0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+    "email":"contact@medicalchain.com"
+}

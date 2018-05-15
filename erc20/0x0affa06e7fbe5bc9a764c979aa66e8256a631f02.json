@@ -1,0 +1,15 @@
+{
+    "website":"https://polybius.io",
+    "published_on":"2017-05-31",
+    "links":{
+        "telegram":"https://t.me/polybius_eng",
+        "twitter":"https://twitter.com/polybiuseu",
+        "facebook":"https://www.facebook.com/polybiusEU/"
+    },
+    "overview":"Private banking platform",
+    "symbol":"PLBT",
+    "initial_price":"10 $",
+    "whitepaper":"https://polybius.io/media/tw_en.pdf",
+    "address":"0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+    "email":"info@polybius.io"
+}

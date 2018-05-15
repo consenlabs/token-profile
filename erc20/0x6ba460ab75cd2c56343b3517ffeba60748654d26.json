@@ -1,0 +1,16 @@
+{
+    "website":"https://uptoken.org/",
+    "published_on":"2017-10-16",
+    "links":{
+        "reddit":"https://www.reddit.com/r/UpToken/",
+        "github":"https://github.com/coinme/uptoken/",
+        "facebook":"https://www.facebook.com/UpTokenSale/",
+        "twitter":"https://twitter.com/uptoken"
+    },
+    "overview":"crypto ATM network",
+    "symbol":"UP",
+    "initial_price":"3342:1 ETH",
+    "whitepaper":"https://uptoken.org/UpToken-whitepaper.pdf",
+    "address":"0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+    "email":"support@uptoken.org"
+}

@@ -1,0 +1,17 @@
+{
+    "website":"https://blockchain.syncfab.com/",
+    "published_on":"2018-02-15",
+    "links":{
+        "telegram":"https://t.me/syncfab",
+        "reddit":"https://www.reddit.com/r/syncfab/",
+        "github":"https://github.com/syncfab",
+        "facebook":"https://www.facebook.com/syncfab",
+        "twitter":"https://twitter.com/syncfab"
+    },
+    "overview":"Revolutionizing Hardware Manufacturing with Blockchain",
+    "symbol":"MFG",
+    "initial_price":"5000:1 ETH",
+    "whitepaper":"https://blockchain.syncfab.com/SyncFab_MFG_WP.pdf",
+    "address":"0x6710c63432a2de02954fc0f851db07146a6c0312",
+    "email":"contact@syncfab.com"
+}

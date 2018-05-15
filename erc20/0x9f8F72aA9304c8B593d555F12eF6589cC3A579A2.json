@@ -1,0 +1,11 @@
+{
+    "website":"https://makerdao.com/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/MakerDAO/",
+        "slack":"https://chat.makerdao.com/"
+    },
+    "overview":"Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain",
+    "symbol":"MKR",
+    "whitepaper":"https://makerdao.com/assets/documents/purple.pdf",
+    "address":"0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+}

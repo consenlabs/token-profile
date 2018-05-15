@@ -1,0 +1,15 @@
+{
+    "website":"https://ico.tefoodint.com/",
+    "links":{
+        "telegram":"https://t.me/tefood",
+        "reddit":"https://www.reddit.com/r/TE_FOOD/",
+        "facebook":"https://www.facebook.com/tefoodintl/",
+        "twitter":"https://twitter.com/TE_FOOD"
+    },
+    "overview":"TE-FOOD is a successful food traceability solution, used by\n6,000+ companies, managing more than 400,000 transactions\neach day, reaching 30 million people.",
+    "symbol":"TFD",
+    "initial_price":"16090:1 ETH",
+    "whitepaper":"https://ico.tefoodint.com/te-food-white-paper.pdf",
+    "address":"0xe5f166c0d8872b68790061317bb6cca04582c912",
+    "email":"info@te-food.com"
+}

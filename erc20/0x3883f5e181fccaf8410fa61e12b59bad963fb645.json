@@ -1,0 +1,15 @@
+{
+    "website":"https://www.thetatoken.org/",
+    "published_on":"2018-01-04",
+    "links":{
+        "telegram":"https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg",
+        "twitter":"https://twitter.com/thetatoken",
+        "github":"https://github.com/thetatoken",
+        "facebook":"https://www.facebook.com/ThetaToken/"
+    },
+    "overview":"A decentralized peer-to-peer network that aims to offer improved video delivery at lower costs.",
+    "symbol":"THETA",
+    "initial_price":"6301:1 ETH",
+    "whitepaper":"https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf",
+    "address":"0x3883f5e181fccaf8410fa61e12b59bad963fb645"
+}

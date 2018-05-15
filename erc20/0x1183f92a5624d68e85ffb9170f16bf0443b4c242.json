@@ -1,0 +1,17 @@
+{
+    "website":"https://qvolta.com/",
+    "published_on":"2017-10-10",
+    "links":{
+        "telegram":"https://t.me/qvolta",
+        "reddit":"https://www.reddit.com/r/qvoltaexchange/",
+        "github":"https://github.com/qvolta",
+        "facebook":"https://www.facebook.com/qvolta/",
+        "twitter":"https://twitter.com/Qvolta_platform"
+    },
+    "overview":"Sell and buy crypto assets around the world for local payment methods.",
+    "symbol":"QVT",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://s3.eu-central-1.amazonaws.com/qvolta/white.pdf",
+    "address":"0x1183f92a5624d68e85ffb9170f16bf0443b4c242",
+    "email":"hello@qvolta.com"
+}

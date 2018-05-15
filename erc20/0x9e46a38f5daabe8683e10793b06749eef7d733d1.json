@@ -1,0 +1,16 @@
+{
+    "website":"https://polyswarm.io/",
+    "links":{
+        "telegram":"https://t.me/PolySwarm",
+        "reddit":"https://www.reddit.com/r/PolySwarm/",
+        "github":"https://github.com/polyswarm",
+        "facebook":"https://www.facebook.com/PolySwarm/",
+        "twitter":"https://twitter.com/polyswarm"
+    },
+    "overview":"Decentralized marketplace where security experts build anti-malware engines that compete to protect you.",
+    "symbol":"NCT",
+    "initial_price":"31347:1 ETH",
+    "whitepaper":"https://polyswarm.io/polyswarm-whitepaper.pdf",
+    "address":"0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "email":"info@polyswarm.io"
+}

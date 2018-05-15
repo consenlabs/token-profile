@@ -1,0 +1,16 @@
+{
+    "website":"https://wildcrypto.com/",
+    "published_on":"2017-09-05",
+    "links":{
+        "reddit":"https://www.reddit.com/user/WildCrypto/",
+        "github":"https://github.com/WildCryptoICO/Wild-Crypto-Token",
+        "slack":"https://wildcrypto.slack.com/",
+        "twitter":"https://twitter.com/WildCrypto"
+    },
+    "overview":"Wild Crypto is a website where you can play games of chance.",
+    "symbol":"WILD",
+    "initial_price":"100:1 ETH",
+    "whitepaper":"http://wildcrypto.com/WildCryptoLimited-WhitePaper.pdf",
+    "address":"0xd3c00772b24d997a812249ca637a921e81357701",
+    "email":"info@wildcrypto.com"
+}

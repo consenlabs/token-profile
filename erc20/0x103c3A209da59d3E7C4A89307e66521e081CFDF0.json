@@ -1,0 +1,17 @@
+{
+    "website":"https://genesis.vision/",
+    "published_on":"2017-10-15",
+    "links":{
+        "telegram":"https://t.me/genesisvision",
+        "reddit":"https://www.reddit.com/r/genesisvision/",
+        "github":"https://github.com/GenesisVision",
+        "facebook":"https://www.facebook.com/GenesisVisionProject",
+        "twitter":"https://twitter.com/genesis_vision"
+    },
+    "overview":"A platform for the private trust management market, built on Blockchain technology and Smart Contracts.",
+    "symbol":"GVT",
+    "initial_price":"336:1 ETH",
+    "whitepaper":"https://genesis.vision/white-paper-eng.pdf",
+    "address":"0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+    "email":"support@genesis.vision"
+}

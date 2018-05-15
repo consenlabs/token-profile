@@ -1,0 +1,16 @@
+{
+    "website":"http://www.coinfi.com/",
+    "links":{
+        "telegram":"https://t.me/coinfi",
+        "reddit":"https://www.reddit.com/user/coinfi",
+        "github":"https://github.com/coinfi/coinfi",
+        "facebook":"https://www.facebook.com/CoinFiProject/",
+        "twitter":"https://twitter.com/coin_fi"
+    },
+    "overview":"CoinFi offers crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give cryptocurrency traders the real-time market intelligence needed to gain an edge.",
+    "symbol":"COFI",
+    "initial_price":"0.15 $",
+    "whitepaper":"https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/view",
+    "address":"0x3136ef851592acf49ca4c825131e364170fa32b3",
+    "email":"contact@coinfi.com"
+}

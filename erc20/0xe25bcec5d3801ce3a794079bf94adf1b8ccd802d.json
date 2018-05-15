@@ -1,0 +1,17 @@
+{
+    "website":"https://www.matrixchain.io/",
+    "published_on":"2018-01-17",
+    "links":{
+        "telegram":"https://t.me/matrixainetwork",
+        "reddit":"https://www.reddit.com/r/MatrixAINetwork/",
+        "github":"https://github.com/MatrixAINetwork",
+        "facebook":"https://www.facebook.com/MATRIXAINetworks/",
+        "twitter":"https://twitter.com/MatrixAINetwork"
+    },
+    "overview":"Aims to be an open source public intelligent blockchain platform",
+    "symbol":"MAN",
+    "initial_price":"2846:1 ETH",
+    "whitepaper":"https://www.matrixchain.io/static/pdf/MATRIXTechnicalWhitePaper.pdf",
+    "address":"0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+    "email":"public@matrix.space"
+}

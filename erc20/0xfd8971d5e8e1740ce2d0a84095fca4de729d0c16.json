@@ -1,0 +1,16 @@
+{
+    "website":"https://zla.io/",
+    "published_on":"2017-11-30",
+    "links":{
+        "telegram":"https://t.me/zilla_app",
+        "reddit":"https://www.reddit.com/r/ZILLAtoken/",
+        "facebook":"https://www.facebook.com/ZILLAtoken/",
+        "twitter":"https://twitter.com/zillatoken"
+    },
+    "overview":"Aims to create an ICO purchasing platform.",
+    "symbol":"ZLA",
+    "initial_price":"400:1 ETH",
+    "whitepaper":"https://zla.io/assets/landingpage/docs/ZILLA_White_Paper_en.pdf",
+    "address":"0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16",
+    "email":"pr@zla.io"
+}

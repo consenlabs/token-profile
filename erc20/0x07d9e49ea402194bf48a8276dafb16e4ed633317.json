@@ -1,0 +1,12 @@
+{
+    "website":"http://www.dalecoin.org/",
+    "links":{
+        "telegram":"https://t.me/dalecoin",
+        "twitter":"https://twitter.com/DalecoinN",
+        "facebook":"https://www.facebook.com/dalecoin/"
+    },
+    "overview":"DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services to whoever wishes to accept it.",
+    "symbol":"DALC",
+    "address":"0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+    "email":"support@dalecoin.org"
+}

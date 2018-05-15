@@ -1,0 +1,18 @@
+{
+    "website":"https://sonm.io/",
+    "published_on":"2017-06-15",
+    "links":{
+        "reddit":"http://a.sonm.io/reddit",
+        "github":"http://a.sonm.io/github",
+        "slack":"http://a.sonm.io/slack",
+        "telegram":"http://a.sonm.io/telegram_public_en",
+        "twitter":"http://a.sonm.io/twitter",
+        "facebook":"http://a.sonm.io/facebook"
+    },
+    "overview":"SONM's aims to be a secure and cost-effective fog supercomputer for general-purpose computing, from mobile app hosting to video rendering to DNA analysis.",
+    "symbol":"SNM",
+    "initial_price":"2857:1 ETH",
+    "whitepaper":"http://a.sonm.io/whitepaper",
+    "address":"0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
+    "email":"support@sonm.io"
+}

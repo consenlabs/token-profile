@@ -1,0 +1,17 @@
+{
+    "website":"https://www.linkercoin.com/en",
+    "published_on":"2017-11-25",
+    "links":{
+        "telegram":"https://t.me/linkercoin",
+        "reddit":"https://www.reddit.com/user/LinkerCoin/",
+        "github":"https://github.com/linkercoinfoundation",
+        "facebook":"https://www.facebook.com/Linkercoinoffical/?fref=ts",
+        "twitter":"https://twitter.com/search?q=linkercoin&src=typd"
+    },
+    "overview":"Collection of the systems which facilitate the inter-transaction between Linker Coin and various economic networks built on crypto-currency market, financial market, e-commerce market, etc.",
+    "symbol":"LNC",
+    "initial_price":"7198:1 ETH",
+    "whitepaper":"https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf",
+    "address":"0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+    "email":"staff@linkercoin.com"
+}

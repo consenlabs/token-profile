@@ -1,0 +1,17 @@
+{
+    "website":"https://token.breadapp.com/",
+    "published_on":"2017-12-19",
+    "links":{
+        "telegram":"https://t.me/joinchat/HclhZ0q7-w8kx5NjYTa7Vw",
+        "reddit":"https://www.reddit.com/r/breadwallet/",
+        "github":"https://github.com/breadwallet",
+        "facebook":"https://www.facebook.com/breadapp/",
+        "twitter":"https://twitter.com/breadapp"
+    },
+    "overview":"BRD is the simple and secure bitcoin wallet.",
+    "symbol":"BRD",
+    "initial_price":"900:1 ETH",
+    "whitepaper":"https://token.breadapp.com/en/#white-paper",
+    "address":"0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+    "email":"tokensupport@breadapp.com"
+}

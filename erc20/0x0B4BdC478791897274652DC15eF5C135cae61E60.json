@@ -1,0 +1,12 @@
+{
+    "website":"https://www.daex.io/",
+    "links":{
+        "telegram":"https://t.me/daexofficialgroup_en",
+        "twitter":"https://twitter.com/daexblockchain"
+    },
+    "overview":"DAEX is an open and decentralized clearing and settlement ecosystem for all cryptocurrency exchanges.",
+    "symbol":"DAX",
+    "whitepaper":"https://daex.io/pdf/DAEX(EN)-NonTechnicalWhitepaper-V0.9.8c-6.pdf",
+    "address":"0x0b4bdc478791897274652dc15ef5c135cae61e60",
+    "email":"contactus@daex.io"
+}

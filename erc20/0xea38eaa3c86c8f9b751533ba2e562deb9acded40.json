@@ -1,0 +1,16 @@
+{
+    "website":"https://etherparty.io/",
+    "published_on":"2017-10-01",
+    "links":{
+        "telegram":"https://t.me/etherparty",
+        "reddit":"https://www.reddit.com/r/etherparty/",
+        "github":"https://github.com/etherparty",
+        "facebook":"https://www.facebook.com/etherparty",
+        "twitter":"https://twitter.com/etherparty_io"
+    },
+    "symbol":"FUEL",
+    "initial_price":"3030:1 ETH",
+    "whitepaper":"https://etherparty.io/Etherparty_White_Paper_EN.pdf",
+    "address":"0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+    "email":"hello@etherparty.io"
+}

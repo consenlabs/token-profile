@@ -1,0 +1,15 @@
+{
+    "website":"https://nuls.io/",
+    "links":{
+        "reddit":"https://www.reddit.com/user/nulsservice/",
+        "github":"https://github.com/nuls-io/nuls",
+        "slack":"https://nuls.slack.com/",
+        "telegram":"https://www.reddit.com/user/nulsservice/",
+        "twitter":"https://twitter.com/nulsservice",
+        "facebook":"https://www.facebook.com/nul.ben.71"
+    },
+    "overview":"NULS is a global blockchain open-source project which is a highly customizable modular blockchain infrastructure consisting of a microkernel and functional modules.",
+    "symbol":"NULS",
+    "address":"0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+    "email":"hi@nuls.io"
+}

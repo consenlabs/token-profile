@@ -1,0 +1,14 @@
+{
+    "website":"https://datum.org/",
+    "published_on":"2017-10-29",
+    "links":{
+        "telegram":"https://t.me/datumnetwork",
+        "twitter":"https://twitter.com/datumnetwork",
+        "facebook":"https://facebook.com/datumnetwork"
+    },
+    "overview":"Datum is the decentralized marketplace for social and IoT data.",
+    "symbol":"DAT",
+    "initial_price":"24999:1 ETH",
+    "address":"0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+    "email":"hello@datum.org"
+}

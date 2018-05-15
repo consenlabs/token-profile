@@ -1,0 +1,17 @@
+{
+    "website":"https://lunyr.com/",
+    "published_on":"2017-03-29",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Lunyr",
+        "github":"https://github.com/lunyr",
+        "facebook":"https://www.facebook.com/Lunyr-806275516194118",
+        "slack":"https://slack.lunyr.com/",
+        "twitter":"https://twitter.com/LunyrInc"
+    },
+    "overview":"Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information",
+    "symbol":"LUN",
+    "initial_price":"1.61 $",
+    "whitepaper":"https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf",
+    "address":"0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+    "email":"support@lunyr.com"
+}

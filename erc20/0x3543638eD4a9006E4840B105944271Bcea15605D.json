@@ -1,0 +1,15 @@
+{
+    "website":"https://u.network/",
+    "links":{
+        "telegram":"https://t.me/UNetworkEN",
+        "reddit":"https://www.reddit.com/r/UNetwork/",
+        "github":"https://github.com/U-Network/unetwork",
+        "facebook":"https://www.facebook.com/UNetworkHQ/",
+        "twitter":"https://twitter.com/UNetworkHQ"
+    },
+    "overview":"A Decentralized Protocol for Publishing and Valuing Online Content",
+    "symbol":"UUU",
+    "whitepaper":"https://u.network/U_whitepaper_en.pdf",
+    "address":"0x3543638ed4a9006e4840b105944271bcea15605d",
+    "email":"contact@u.network"
+}

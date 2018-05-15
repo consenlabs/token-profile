@@ -1,0 +1,15 @@
+{
+    "website":"https://spankchain.com/",
+    "published_on":"2017-10-30",
+    "links":{
+        "reddit":"https://www.reddit.com/r/SpankChain/",
+        "github":"https://github.com/spankchain",
+        "slack":"https://discordapp.com/invite/Rz48YYy",
+        "twitter":"https://twitter.com/spankchain"
+    },
+    "overview":"A cryptoeconomic powered adult entertainment ecosystem built on the Ethereum network.",
+    "symbol":"SPANK",
+    "initial_price":"12919:1 ETH",
+    "address":"0x42d6622dece394b54999fbd73d108123806f6a18",
+    "email":"hello@spankchain.com"
+}

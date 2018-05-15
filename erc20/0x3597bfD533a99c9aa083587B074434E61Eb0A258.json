@@ -1,0 +1,16 @@
+{
+    "website":"http://www.dentcoin.com",
+    "published_on":"2017-07-12",
+    "links":{
+        "telegram":"https://t.me/dentcoin",
+        "twitter":"https://twitter.com/dentcoin",
+        "facebook":"https://facebook.com/dentcoin",
+        "slack":"https://dentcoin.herokuapp.com/"
+    },
+    "overview":"Aims to disrupt the mobile operator industry by creating an open marketplace for buying and selling of mobile data.",
+    "symbol":"DENT",
+    "initial_price":"399999:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B7XC9TPzyTmOd0pqQ3hRLUM0UzQ/view",
+    "address":"0x3597bfd533a99c9aa083587b074434e61eb0a258",
+    "email":"info@dentcoin.com"
+}
