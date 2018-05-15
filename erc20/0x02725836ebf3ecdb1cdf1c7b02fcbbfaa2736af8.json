@@ -1,0 +1,18 @@
+{
+    "website":"https://bitair.io/",
+    "published_on":"2017-09-18",
+    "links":{
+        "reddit":"https://www.reddit.com/user/bitairoffical/",
+        "github":"https://gist.github.com/BitAir/",
+        "slack":"https://bitairicogroupchat.slack.com/",
+        "telegram":"https://gist.github.com/BitAir/",
+        "twitter":"https://twitter.com/bitaircoin",
+        "facebook":"https://www.facebook.com/coin.bitair.9"
+    },
+    "overview":"Payments solutions for the travel industry.",
+    "symbol":"BTCA",
+    "initial_price":"595:1 ETH",
+    "whitepaper":"https://bitair.io/bitair-whitepaper.pdf",
+    "address":"0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8",
+    "email":"contact@bitair.io"
+}

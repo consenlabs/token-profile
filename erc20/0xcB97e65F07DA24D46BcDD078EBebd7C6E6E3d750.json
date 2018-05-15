@@ -1,11 +1,12 @@
 {
-    "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750", 
-    "email": "contact@bytom.io", 
-    "links": {
-        "github": "https://github.com/bytom", 
-        "twitter": "https://twitter.com/Bytom_Official"
-    }, 
-    "overview": "Transfer assets from atomic world to byteworld", 
-    "symbol": "BTM", 
-    "website": "https://bytom.io/"
+    "website":"https://bytom.io/",
+    "published_on":"2017-06-20",
+    "links":{
+        "twitter":"https://twitter.com/Bytom_Official",
+        "github":"https://github.com/bytom"
+    },
+    "overview":"Transfer assets from atomic world to byteworld",
+    "symbol":"BTM",
+    "address":"0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+    "email":"contact@bytom.io"
 }

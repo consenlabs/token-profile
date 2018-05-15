@@ -1,15 +1,16 @@
 {
-    "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0", 
-    "email": "support@canya.com.au", 
-    "links": {
-        "facebook": "https://www.facebook.com/CanYaapp/", 
-        "github": "https://github.com/CanYaCoinSale/", 
-        "reddit": "https://www.reddit.com/user/canya-io", 
-        "telegram": "https://t.me/canyacoin", 
-        "twitter": "https://twitter.com/canya_io"
-    }, 
-    "overview": "Blockchain-Powered Marketplace of Services", 
-    "symbol": "CAN", 
-    "website": "https://canya.io/", 
-    "whitepaper": "https://canya.io/assets/docs/WhitePaper.pdf"
+    "website":"https://canya.io/",
+    "published_on":"2017-11-26",
+    "links":{
+        "telegram":"https://t.me/canyacoin",
+        "reddit":"https://www.reddit.com/user/canya-io",
+        "github":"https://github.com/CanYaCoinSale/",
+        "facebook":"https://www.facebook.com/CanYaapp/",
+        "twitter":"https://twitter.com/canya_io"
+    },
+    "overview":"Blockchain-Powered Marketplace of Services",
+    "symbol":"CAN",
+    "whitepaper":"https://canya.io/assets/docs/WhitePaper.pdf",
+    "address":"0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
+    "email":"support@canya.com.au"
 }

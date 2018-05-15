@@ -1,0 +1,14 @@
+{
+    "website":"http://ethgas.stream/",
+    "links":{
+        "telegram":"https://t.me/ethgas",
+        "twitter":"https://twitter.com/eth_gas",
+        "facebook":"https://www.facebook.com/ethgas/",
+        "slack":"https://ethgas.slack.com/"
+    },
+    "overview":"Airdrop Service",
+    "symbol":"eGAS",
+    "whitepaper":"http://ethgas.stream/eGASwhitepaper.pdf",
+    "address":"0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
+    "email":"egas@ethgas.stream"
+}

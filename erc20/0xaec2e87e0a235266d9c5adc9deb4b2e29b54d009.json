@@ -1,0 +1,13 @@
+{
+    "website":"https://singulardtv.com/",
+    "published_on":"2016-10-02",
+    "links":{
+        "reddit":"https://www.reddit.com/r/SingularDTV",
+        "facebook":"https://www.facebook.com/SingularDTV/",
+        "slack":"https://slack.singulardtv.com/",
+        "twitter":"https://twitter.com/SingularDTV"
+    },
+    "overview":"A Blockchain Entertainment Studio, Smart Contract Rights Management Platform and Video On-Demand Portal",
+    "symbol":"SNGLS",
+    "address":"0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+}

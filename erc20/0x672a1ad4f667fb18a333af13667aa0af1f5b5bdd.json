@@ -1,0 +1,16 @@
+{
+    "website":"https://verify.as/",
+    "published_on":"2017-11-29",
+    "links":{
+        "telegram":"https://t.me/verifyas",
+        "reddit":"https://www.reddit.com/r/verifyas/",
+        "github":"https://github.com/verifyas/",
+        "facebook":"https://www.facebook.com/verifyas",
+        "twitter":"https://twitter.com/verif_yas"
+    },
+    "overview":"A distributed reputation protocol built on the Ethereum blockchain.",
+    "symbol":"CRED",
+    "whitepaper":"https://verify.as/files/whitepaper.pdf",
+    "address":"0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+    "email":"team@verify.as"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://www.aidcoin.co/",
+    "published_on":"2018-01-16",
+    "links":{
+        "telegram":"https://t.me/aidcoincommunity",
+        "reddit":"https://www.reddit.com/r/AidCoin/",
+        "github":"https://github.com/AidCoinCo",
+        "facebook":"https://www.facebook.com/AidCoinCo/",
+        "twitter":"https://twitter.com/aid_coin"
+    },
+    "overview":"Powering the AIDChain platform to make the nonprofit sector more transparent.",
+    "symbol":"AID",
+    "whitepaper":"https://www.aidcoin.co/assets/documents/whitepaper.pdf",
+    "address":"0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+    "email":"hello@aidcoin.co"
+}

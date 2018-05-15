@@ -1,0 +1,16 @@
+{
+    "website":"https://www.greenmed.io/",
+    "published_on":"2017-10-20",
+    "links":{
+        "reddit":"https://www.reddit.com/r/GreenMed/",
+        "github":"https://github.com/GreenMed/Token",
+        "facebook":"https://www.facebook.com/GreenmedApp/",
+        "slack":"https://greenmed-ico.slack.com/",
+        "twitter":"https://twitter.com/GreenMed_Team"
+    },
+    "overview":"Use GreenMed to pay at your dispensary and earn tons of rewards",
+    "symbol":"GRMD",
+    "whitepaper":"https://www.greenmed.io/GreenMed-Whitepaper.pdf",
+    "address":"0xb444208cb0516c150178fcf9a52604bc04a1acea",
+    "email":"info@greenmed.io"
+}

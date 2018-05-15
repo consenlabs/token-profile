@@ -1,0 +1,16 @@
+{
+    "website":"https://www.fota.top/",
+    "published_on":"2018-01-21",
+    "links":{
+        "telegram":"https://t.me/joinchat/HLLR30itYzsgzml2cPkzCA",
+        "twitter":"https://twitter.com/FortunaBlockch1",
+        "facebook":"https://www.facebook.com/fortunablockchain",
+        "slack":"https://fortunablockchain.slack.com/"
+    },
+    "overview":"Blockchain Platform for Global OTC Derivatives Market",
+    "symbol":"FOTA",
+    "initial_price":"13113:1 ETH",
+    "whitepaper":"https://fortuna-public.s3.amazonaws.com/Fortuna%20Whitepaper%20EN.pdf",
+    "address":"0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c",
+    "email":"hi@mail.fota.top"
+}

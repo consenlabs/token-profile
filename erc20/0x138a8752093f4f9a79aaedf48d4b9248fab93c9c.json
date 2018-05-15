@@ -1,0 +1,14 @@
+{
+    "website":"https://musiconomi.com/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Musiconomi/",
+        "github":"https://github.com/musiconomi/",
+        "facebook":"https://www.facebook.com/Musiconomi/",
+        "slack":"https://musiconomi.com/slack",
+        "twitter":"https://twitter.com/musiconomi"
+    },
+    "symbol":"MCI",
+    "whitepaper":"https://cofound.it/en/projects/musiconomi/",
+    "address":"0x138a8752093f4f9a79aaedf48d4b9248fab93c9c",
+    "email":"musiconomi@musiconomi.com"
+}

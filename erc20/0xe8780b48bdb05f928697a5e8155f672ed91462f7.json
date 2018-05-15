@@ -1,0 +1,16 @@
+{
+    "website":"https://cashaa.com/",
+    "published_on":"2017-11-06",
+    "links":{
+        "telegram":"https://t.me/CashaaLtd",
+        "twitter":"https://twitter.com/CashaaLtd",
+        "facebook":"https://www.facebook.com/cashaaLtd/",
+        "slack":"https://discordapp.com/invite/FUfUVJx"
+    },
+    "overview":"Consumer centric and affordable financial products aimed at consumer adoption of Blockchain",
+    "symbol":"CAS",
+    "initial_price":"2968:1 ETH",
+    "whitepaper":"https://cashaa.com/pdf/Cashaa_WP.pdf",
+    "address":"0xe8780b48bdb05f928697a5e8155f672ed91462f7",
+    "email":"hello@cashaa.com"
+}

@@ -1,0 +1,14 @@
+{
+    "website":"https://lalaworld.io/",
+    "links":{
+        "telegram":"https://t.me/LaLaWorld",
+        "twitter":"https://twitter.com/MyLaLaWorld",
+        "facebook":"https://www.facebook.com/MyLaLaWorld",
+        "slack":"https://slacklalaworld.slack.com/"
+    },
+    "overview":"LaLa is a new age one-stop Wallet based on ethereum and hyperledger blockchains allowing investors to capitalise on the rise of blockchain as well as the underbanked into the financial ecosystem.",
+    "symbol":"LALA",
+    "whitepaper":"https://lalaworld.io/whitepaper.pdf",
+    "address":"0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+    "email":"hello@lalaworld.io"
+}

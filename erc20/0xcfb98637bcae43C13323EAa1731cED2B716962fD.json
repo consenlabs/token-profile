@@ -1,0 +1,13 @@
+{
+    "website":"https://nimiq.com",
+    "published_on":"2017-06-27",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Nimiq/",
+        "slack":"https://nimiq-slackin.herokuapp.com/",
+        "twitter":"https://twitter.com/nimiqnetwork"
+    },
+    "overview":"A Browser-based Blockchain & Ecosystem",
+    "symbol":"NET",
+    "initial_price":"246:1 ETH",
+    "address":"0xcfb98637bcae43C13323EAa1731cED2B716962fD"
+}

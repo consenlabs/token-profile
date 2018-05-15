@@ -1,0 +1,14 @@
+{
+    "website":"https://ethereum.link/",
+    "links":{
+        "twitter":"https://www.twitter.com/linkplatform",
+        "github":"https://github.com/ethlink",
+        "facebook":"https://www.facebook.com/ethereumlink/",
+        "slack":"https://ethereum.link/invite.php"
+    },
+    "overview":"Link Platform Token is distributed to people around the world to promote a decentralized way of holding value.",
+    "symbol":"LNK",
+    "whitepaper":"https://ethereum.link/files/Whitepaper1.03.pdf",
+    "address":"0xe2e6d4be086c6938b53b22144855eef674281639",
+    "email":"support@ethereum.link"
+}

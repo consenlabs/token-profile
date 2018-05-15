@@ -1,0 +1,11 @@
+{
+    "website":"https://www.bitcoinred.io/",
+    "symbol":"BTCR",
+    "email":"contact@bitcoinred.io",
+    "links":{
+        "telegram":"https://t.me/BitcoinRedToken",
+        "twitter":"https://twitter.com/BitcoinRed1",
+        "facebook":"https://www.facebook.com/BitcoinRed1/"
+    },
+    "address":"0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11"
+}

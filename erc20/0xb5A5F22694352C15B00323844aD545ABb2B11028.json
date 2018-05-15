@@ -1,16 +1,17 @@
 {
-    "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028", 
-    "email": "hello@icon.foundation", 
-    "links": {
-        "facebook": "https://www.facebook.com/helloicon", 
-        "github": "https://github.com/theloopkr/loopchain", 
-        "reddit": "https://www.reddit.com/r/helloicon/", 
-        "telegram": "https://t.me/helloiconworld_official", 
-        "twitter": "https://twitter.com/helloiconworld"
-    }, 
-    "overview": "The ICON Network is comprised of various institutions ranging from:
-financial institutions, insurance companies, hospitals, universities and more.", 
-    "symbol": "ICX", 
-    "website": "https://icon.foundation/", 
-    "whitepaper": "http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf"
+    "website":"https://icon.foundation/",
+    "published_on":"2017-09-20",
+    "links":{
+        "telegram":"https://t.me/helloiconworld_official",
+        "reddit":"https://www.reddit.com/r/helloicon/",
+        "github":"https://github.com/theloopkr/loopchain",
+        "facebook":"https://www.facebook.com/helloicon",
+        "twitter":"https://twitter.com/helloiconworld"
+    },
+    "overview":"The ICON Network is comprised of various institutions ranging from:\nfinancial institutions, insurance companies, hospitals, universities and more.",
+    "symbol":"ICX",
+    "initial_price":"2500:1 ETH",
+    "whitepaper":"http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf",
+    "address":"0xb5a5f22694352c15b00323844ad545abb2b11028",
+    "email":"hello@icon.foundation"
 }

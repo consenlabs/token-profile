@@ -1,0 +1,15 @@
+{
+    "website":"https://bounty0x.io/",
+    "published_on":"2017-12-16",
+    "links":{
+        "telegram":"https://t.me/bounty0x",
+        "reddit":"https://www.reddit.com/r/bounty0x",
+        "facebook":"https://www.facebook.com/bounty0x",
+        "twitter":"https://www.twitter.com/bounty0x"
+    },
+    "overview":"A decentralized bounty hunting platform enabling anyone to manage bounty programs, and bounty hunters to receive payment for completing bounty tasks.",
+    "symbol":"BNTY",
+    "whitepaper":"https://bounty0x.io/whitepaper",
+    "address":"0xd2d6158683aee4cc838067727209a0aaf4359de3",
+    "email":"contact@bounty0x.io"
+}

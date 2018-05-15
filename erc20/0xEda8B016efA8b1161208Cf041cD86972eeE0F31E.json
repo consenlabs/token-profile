@@ -1,12 +1,13 @@
 {
-    "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E", 
-    "email": "investment@ihtcoin.com", 
-    "links": {
-        "facebook": "https://www.facebook.com/ihtcoin/", 
-        "telegram": "https://t.me/IHTcoin", 
-        "twitter": "https://twitter.com/ihtcoin"
-    }, 
-    "overview": "Real Estate Blockchain Cloud Platform.", 
-    "symbol": "IHT", 
-    "website": "https://ihtcoin.com/"
+    "website":"https://ihtcoin.com/",
+    "published_on":"2018-01-01",
+    "links":{
+        "telegram":"https://t.me/IHTcoin",
+        "twitter":"https://twitter.com/ihtcoin",
+        "facebook":"https://www.facebook.com/ihtcoin/"
+    },
+    "overview":"Real Estate Blockchain Cloud Platform.",
+    "symbol":"IHT",
+    "address":"0xeda8b016efa8b1161208cf041cd86972eee0f31e",
+    "email":"investment@ihtcoin.com"
 }

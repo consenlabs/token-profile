@@ -1,0 +1,16 @@
+{
+    "website":"https://republicprotocol.com/",
+    "links":{
+        "telegram":"https://t.me/republicprotocol",
+        "reddit":"https://www.reddit.com/r/republicprotocol/",
+        "github":"https://github.com/republicprotocol",
+        "facebook":"https://www.facebook.com/RepublicProtocol/",
+        "twitter":"https://twitter.com/republicorg"
+    },
+    "overview":"A decentralized dark pool for trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs.",
+    "symbol":"REN",
+    "initial_price":"16666:1 ETH",
+    "whitepaper":"https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf",
+    "address":"0x408e41876cccdc0f92210600ef50372656052a38",
+    "email":"support@republicprotocol.com"
+}

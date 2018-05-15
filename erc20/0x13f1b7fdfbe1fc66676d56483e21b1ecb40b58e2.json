@@ -1,0 +1,13 @@
+{
+    "website":"http://accelerator.network/",
+    "links":{
+        "twitter":"https://twitter.com/Accelerator_Net",
+        "github":"https://github.com/acceleratornetwork/accelerator-token",
+        "slack":"http://slack.accelerator.network/"
+    },
+    "overview":"A proof-of-stake smart contract backed by a physical mining facility.",
+    "symbol":"ACC",
+    "whitepaper":"https://accelerator.network/whitepaper.pdf",
+    "address":"0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
+    "email":"help@accelerator.network"
+}

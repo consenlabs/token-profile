@@ -1,0 +1,12 @@
+{
+    "website":"https://www.e4row.co.il/",
+    "overview":"The E4ROW project's mission is to aggressively expand the universe of Ether users by bringing Ether-based apps to the global online/mobile gaming markets.",
+    "symbol":"E4ROW",
+    "links":{
+        "reddit":"http://www.reddit.com/r/e4row",
+        "github":"https://github.com/liveplayergames?tab=repositories",
+        "slack":"http://ufp.liveplayergames.com:8080/",
+        "twitter":"https://twitter.com/E4ROW"
+    },
+    "address":"0xce5c603c78d047ef43032e96b5b785324f753a4f"
+}

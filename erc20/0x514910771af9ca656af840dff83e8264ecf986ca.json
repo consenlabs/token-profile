@@ -1,0 +1,13 @@
+{
+    "website":"https://link.smartcontract.com/",
+    "published_on":"2017-09-19",
+    "links":{
+        "twitter":"https://twitter.com/smart_contract"
+    },
+    "overview":"The LINK Network provides smart contracts with data, bank payments and access to APIs.",
+    "symbol":"LINK",
+    "initial_price":"2600:1 ETH",
+    "whitepaper":"https://link.smartcontract.com/whitepaper",
+    "address":"0x514910771af9ca656af840dff83e8264ecf986ca",
+    "email":"chainlink@smartcontract.com"
+}

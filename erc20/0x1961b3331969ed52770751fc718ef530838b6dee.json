@@ -1,0 +1,16 @@
+{
+    "website":"https://www.bitdegree.org/",
+    "published_on":"2017-12-01",
+    "links":{
+        "telegram":"https://t.me/bitdegree",
+        "reddit":"https://www.reddit.com/r/BitDegree/",
+        "github":"https://github.com/bitdegree",
+        "facebook":"https://www.facebook.com/bitdegree.org/",
+        "twitter":"https://twitter.com/bitdegree_org"
+    },
+    "overview":"The BitDegree platform will offer students the best online courses with a clear and transparent blockchain based reward system and achievement tracking.",
+    "symbol":"BDG",
+    "whitepaper":"https://www.bitdegree.org/white-paper.pdf",
+    "address":"0x1961b3331969ed52770751fc718ef530838b6dee",
+    "email":"hello@bitdegree.org"
+}

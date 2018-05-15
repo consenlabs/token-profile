@@ -1,0 +1,15 @@
+{
+    "website":"https://sharder.org/",
+    "links":{
+        "telegram":"https://t.me/sharder_talk",
+        "reddit":"https://www.reddit.com/r/Sharder/",
+        "github":"https://github.com/Sharders",
+        "facebook":"https://www.facebook.com/SharderChain",
+        "twitter":"https://twitter.com/SharderChain"
+    },
+    "overview":"Cross-chain distributed storage protocol",
+    "symbol":"SS",
+    "whitepaper":"https://oss.sharder.org/sharder/whitepaper/sharder-technical-whitepaper-en.pdf",
+    "address":"0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+    "email":"hi@sharder.org"
+}

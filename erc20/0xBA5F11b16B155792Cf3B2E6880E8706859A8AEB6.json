@@ -1,15 +1,16 @@
 {
-    "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6", 
-    "email": "info@aeron.aero", 
-    "links": {
-        "facebook": "https://www.facebook.com/aeronpublic/", 
-        "github": "https://github.com/aeronaero/aeron", 
-        "reddit": "https://www.reddit.com/user/aeronaero", 
-        "telegram": "https://t.me/aeronaero", 
-        "twitter": "https://twitter.com/aeron_aero"
-    }, 
-    "overview": "Blockchain for Aviation Safety.", 
-    "symbol": "ARN", 
-    "website": "https://aeron.aero/", 
-    "whitepaper": "https://aeron.aero/AeronWhitepaper.pdf"
+    "website":"https://aeron.aero/",
+    "published_on":"2017-09-19",
+    "links":{
+        "telegram":"https://t.me/aeronaero",
+        "reddit":"https://www.reddit.com/user/aeronaero",
+        "github":"https://github.com/aeronaero/aeron",
+        "facebook":"https://www.facebook.com/aeronpublic/",
+        "twitter":"https://twitter.com/aeron_aero"
+    },
+    "overview":"Blockchain for Aviation Safety.",
+    "symbol":"ARN",
+    "whitepaper":"https://aeron.aero/AeronWhitepaper.pdf",
+    "address":"0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+    "email":"info@aeron.aero"
 }

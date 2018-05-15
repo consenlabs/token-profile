@@ -1,0 +1,15 @@
+{
+    "website":"https://www.carvertical.com/",
+    "links":{
+        "telegram":"https://t.me/carVerticalio",
+        "reddit":"https://www.reddit.com/r/carVertical/",
+        "github":"https://github.com/carVertical",
+        "facebook":"https://www.facebook.com/carvertical.io/",
+        "twitter":"https://twitter.com/verticalcar"
+    },
+    "overview":"Decentralized Car History Registry Built on Blockchain",
+    "symbol":"cV",
+    "whitepaper":"https://www.carvertical.com/carvertical-whitepaper.pdf?updated=20171218",
+    "address":"0xda6cb58a0d0c01610a29c5a65c303e13e885887c",
+    "email":"info@carvertical.com"
+}

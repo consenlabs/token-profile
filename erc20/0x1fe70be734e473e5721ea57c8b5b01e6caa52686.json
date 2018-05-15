@@ -1,0 +1,17 @@
+{
+    "website":"https://bitrent.io/",
+    "published_on":"2017-11-24",
+    "links":{
+        "telegram":"https://t.me/bitrentio",
+        "reddit":"https://www.reddit.com/r/BitRent/",
+        "github":"https://github.com/bitrent",
+        "facebook":"https://www.facebook.com/bitrentplatform/",
+        "twitter":"https://twitter.com/bit_rent"
+    },
+    "overview":"BitRent is the blockchain platform meant to attract commercial and residential property investments at an early stage of construction in order to gain maximum profit by selling and renting out the acquired property",
+    "symbol":"RNTB",
+    "initial_price":"6666:1 ETH",
+    "whitepaper":"https://bitrent.io/wp-content/uploads/2018/02/Whitepaper_en-16.02.2018.pdf",
+    "address":"0x1fe70be734e473e5721ea57c8b5b01e6caa52686",
+    "email":"info@bitrent.io"
+}

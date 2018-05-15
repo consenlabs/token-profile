@@ -1,0 +1,14 @@
+{
+    "website":"https://devery.io/",
+    "published_on":"2019-01-18",
+    "links":{
+        "telegram":"https://t.me/deverychat",
+        "reddit":"https://www.reddit.com/r/deveryofficial/",
+        "github":"https://github.com/devery"
+    },
+    "overview":"A blockchain powered, open-source, product verification protocol.",
+    "symbol":"EVE",
+    "whitepaper":"https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf",
+    "address":"0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+    "email":"contact@devery.io"
+}

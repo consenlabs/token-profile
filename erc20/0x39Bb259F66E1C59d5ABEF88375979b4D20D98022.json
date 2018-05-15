@@ -1,14 +1,15 @@
 {
-    "address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022", 
-    "email": "support@wax.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/WAX.io.Community/", 
-        "reddit": "https://www.reddit.com/r/WAX_io/", 
-        "telegram": "https://t.me/waxtokenannoucements", 
-        "twitter": "https://twitter.com/WAX_io"
-    }, 
-    "overview": "Global Decentralized Marketplace for Virtual Assets.", 
-    "symbol": "WAX", 
-    "website": "https://wax.io/", 
-    "whitepaper": "https://wax.io/documents/WAX_White_Paper.pdf?1514330404"
+    "website":"https://wax.io/",
+    "links":{
+        "telegram":"https://t.me/waxtokenannoucements",
+        "reddit":"https://www.reddit.com/r/WAX_io/",
+        "facebook":"https://www.facebook.com/WAX.io.Community/",
+        "twitter":"https://twitter.com/WAX_io"
+    },
+    "overview":"Global Decentralized Marketplace for Virtual Assets.",
+    "symbol":"WAX",
+    "initial_price":"4000:1 ETH",
+    "whitepaper":"https://wax.io/documents/WAX_White_Paper.pdf?1514330404",
+    "address":"0x39bb259f66e1c59d5abef88375979b4d20d98022",
+    "email":"support@wax.io"
 }

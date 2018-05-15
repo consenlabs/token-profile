@@ -1,0 +1,17 @@
+{
+    "website":"https://dao.casino/",
+    "published_on":"2017-06-29",
+    "links":{
+        "telegram":"https://t.me/daocasino",
+        "reddit":"https://www.reddit.com/r/DaoCasino/",
+        "github":"https://github.com/daocasino",
+        "facebook":"https://www.facebook.com/Dao.casino/",
+        "slack":"https://dao.casino/slack-invite.html"
+    },
+    "overview":"Blockchain protocol for gambling.",
+    "symbol":"BET",
+    "initial_price":"2000:1 ETH",
+    "whitepaper":"https://github.com/DaoCasino/Whitepaper/blob/master/DAO.Casino%20WP.md",
+    "address":"0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
+    "email":"team@dao.casino"
+}

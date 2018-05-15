@@ -1,0 +1,15 @@
+{
+    "website":"https://www.gatcoin.io/",
+    "links":{
+        "telegram":"https://t.me/gatcoin",
+        "reddit":"https://www.reddit.com/r/GATCOIN/",
+        "github":"https://github.com/gatcoin",
+        "facebook":"https://www.facebook.com/gatcoinofficial",
+        "twitter":"https://twitter.com/gatcoin"
+    },
+    "overview":"GATCOIN aims to transform traditional discount coupons, loyalty points and shopping vouchers into liquid, tradable digital tokens.",
+    "symbol":"GAT",
+    "whitepaper":"https://www.gatcoin.io/wp-content/uploads/2018/01/180104-GATCOIN-Whitepaper-ENG.pdf",
+    "address":"0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+    "email":"simon@gatcoin.io"
+}

@@ -1,12 +1,14 @@
 {
-    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498", 
-    "links": {
-        "github": "https://github.com/0xProject", 
-        "slack": "https://0xproject.slack.com/", 
-        "twitter": "https://twitter.com/0xproject"
-    }, 
-    "overview": "The Protocol for Trading Tokens", 
-    "symbol": "ZRX", 
-    "website": "https://0xproject.com/", 
-    "whitepaper": "https://0xproject.com/pdfs/0x_white_paper.pdf"
+    "website":"https://0xproject.com/",
+    "published_on":"2017-08-12",
+    "links":{
+        "twitter":"https://twitter.com/0xproject",
+        "github":"https://github.com/0xProject",
+        "slack":"https://0xproject.slack.com/"
+    },
+    "overview":"The Protocol for Trading Tokens",
+    "symbol":"ZRX",
+    "initial_price":"6249:1 ETH",
+    "whitepaper":"https://0xproject.com/pdfs/0x_white_paper.pdf",
+    "address":"0xe41d2489571d322189246dafa5ebde1f4699f498"
 }

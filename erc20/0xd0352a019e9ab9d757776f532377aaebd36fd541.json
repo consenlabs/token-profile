@@ -1,0 +1,16 @@
+{
+    "website":"https://fusion.org/",
+    "published_on":"2018-02-01",
+    "links":{
+        "telegram":"https://t.me/FUSIONFoundation",
+        "twitter":"https://twitter.com/FUSIONProtocol",
+        "github":"https://github.com/FUSIONFoundation",
+        "facebook":"https://www.facebook.com/FUSIONProtocol"
+    },
+    "overview":"FUSION is a public blockchain devoting itself to creating an inclusive cryptofinancial platform by providing cross-chain, cross-organization, and cross-datasource smart contracts.",
+    "symbol":"FSN",
+    "initial_price":"400:1 ETH",
+    "whitepaper":"https://fusion.org/files/FUSION%20Whitepaper%20V1.0.3.pdf",
+    "address":"0xd0352a019e9ab9d757776f532377aaebd36fd541",
+    "email":"info@fusion.org"
+}

@@ -1,14 +1,14 @@
 {
-    "address": "0x4E0603e2A27A30480E5e3a4Fe548e29EF12F64bE", 
-    "email": "info@team.bitbounce.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/groups/231924857297898/", 
-        "slack": "https://join.slack.com/t/credoowners/shared_invite/MjE4MjkzNzgyNTEzLTE1MDExOTc3MTYtZmUwYWVjYWUzNA", 
-        "twitter": "https://twitter.com/bitbounceio"
-    }, 
-    "overview": "Be compensated with the token Credo through the cryptocurrency spam solution BitBounce. Credos create a market for email that allows users to charge to receive emails from unknown senders.", 
-    "published_on": "2017-07-26", 
-    "symbol": "CREDO", 
-    "website": "https://bitbounce.io/credo", 
-    "whitepaper": "https://bitbounce.io/whitepaper.pdf"
+    "website":"https://bitbounce.io/credo",
+    "published_on":"2017-07-26",
+    "links":{
+        "twitter":"https://twitter.com/bitbounceio",
+        "facebook":"https://www.facebook.com/groups/231924857297898/",
+        "slack":"https://join.slack.com/t/credoowners/shared_invite/MjE4MjkzNzgyNTEzLTE1MDExOTc3MTYtZmUwYWVjYWUzNA"
+    },
+    "overview":"Be compensated with the token Credo through the cryptocurrency spam solution BitBounce. Credos create a market for email that allows users to charge to receive emails from unknown senders.",
+    "symbol":"CREDO",
+    "whitepaper":"https://bitbounce.io/whitepaper.pdf",
+    "address":"0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "email":"info@team.bitbounce.io"
 }

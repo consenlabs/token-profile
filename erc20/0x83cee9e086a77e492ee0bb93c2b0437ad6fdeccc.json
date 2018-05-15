@@ -1,0 +1,17 @@
+{
+    "website":"https://goldmint.io/",
+    "published_on":"2017-09-21",
+    "links":{
+        "reddit":"https://reddit.com/r/goldmintio",
+        "github":"https://github.com/Goldmint",
+        "slack":"https://join.slack.com/t/goldmint/shared_invite/MjE0MTY4NDQxMTUyLTE1MDA0NzM2MDctN2U3NTRhYmZhZQ",
+        "telegram":"https://t.me/goldmintio",
+        "twitter":"https://twitter.com/Goldmint_io",
+        "facebook":"https://facebook.com/goldmint.io"
+    },
+    "overview":"Crypto currency, backed by physical gold",
+    "symbol":"MNTP",
+    "whitepaper":"https://goldmint.io/static/files/Goldmint_WP_eng.pdf",
+    "address":"0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+    "email":"invest@goldmint.io"
+}

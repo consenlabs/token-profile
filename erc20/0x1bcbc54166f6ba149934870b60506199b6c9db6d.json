@@ -1,0 +1,12 @@
+{
+    "website":"https://ico.rasputinonline.com/",
+    "links":{
+        "twitter":"https://twitter.com/RasputinOnline",
+        "github":"https://github.com/Rasputinonline/ROC",
+        "facebook":"https://www.facebook.com/rasputinonline/"
+    },
+    "symbol":"ROC",
+    "whitepaper":"https://ico.rasputinonline.com/ROCWhitepaperV3.0.pdf",
+    "address":"0x1bcbc54166f6ba149934870b60506199b6c9db6d",
+    "email":"hello@rasputinonline.com"
+}

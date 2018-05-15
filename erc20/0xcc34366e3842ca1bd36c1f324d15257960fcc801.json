@@ -1,0 +1,18 @@
+{
+    "website":"https://bonpay.com/",
+    "published_on":"2017-10-31",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Bonpay/",
+        "github":"https://github.com/bonpay",
+        "slack":"https://bonpay.herokuapp.com/",
+        "telegram":"https://t.me/bonpay_eng",
+        "twitter":"https://twitter.com/Bonpay_com",
+        "facebook":"https://www.facebook.com/bonpaycom"
+    },
+    "overview":"Accept, store and send Bitcoin with the Bonpay Wallet. Spend your funds anywhere with Bonpay Card.",
+    "symbol":"BON",
+    "initial_price":"500:1 ETH",
+    "whitepaper":"https://bonpay.com/whitepaper",
+    "address":"0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+    "email":"support@bonpay.com"
+}

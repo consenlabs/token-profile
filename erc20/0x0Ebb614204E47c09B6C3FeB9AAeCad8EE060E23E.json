@@ -1,0 +1,14 @@
+{
+    "website":"https://ico.cryptopay.me/",
+    "published_on":"2017-10-02",
+    "links":{
+        "telegram":"https://t.me/cryptopayico",
+        "twitter":"https://twitter.com/cryptopay",
+        "facebook":"https://www.facebook.com/cryptopayme/"
+    },
+    "overview":"Cryptopay aims to provide the ability to spend, save, and transact digital\ncurrencies.",
+    "symbol":"CPAY",
+    "whitepaper":"https://ico.cryptopay.me/ico_cpay_wp.pdf",
+    "address":"0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
+    "email":"operation@cryptopay.me"
+}

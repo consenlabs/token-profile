@@ -1,0 +1,15 @@
+{
+    "website":"https://www.metalpay.com/",
+    "published_on":"2017-06-09",
+    "links":{
+        "telegram":"https://t.me/metalpay",
+        "twitter":"https://twitter.com/metalpaysme",
+        "facebook":"https://www.facebook.com/metalpaysme/",
+        "slack":"https://metalpay.chat/"
+    },
+    "overview":"Transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.",
+    "symbol":"MTL",
+    "whitepaper":"https://www.metalpay.com/assets/pdf/whitepaper.pdf",
+    "address":"0xF433089366899D83a9f26A773D59ec7eCF30355e",
+    "email":"support@metalpay.co"
+}

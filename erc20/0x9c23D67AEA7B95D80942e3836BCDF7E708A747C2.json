@@ -1,15 +1,15 @@
 {
-    "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2", 
-    "email": "info@loci.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/Loci.InnVenn/", 
-        "github": "https://github.com/Locipro/loci-coin-sale", 
-        "reddit": "https://www.reddit.com/r/loci_io/", 
-        "telegram": "https://t.me/Loci_InnVenn", 
-        "twitter": "https://twitter.com/loci_io"
-    }, 
-    "overview": "Platform for Intellectual Property Discovery and Mining.", 
-    "symbol": "LOCI", 
-    "website": "https://locipro.com/", 
-    "whitepaper": "https://locipro.com/wp-content/uploads/2017/12/loci-full-whitepaper.pdf"
+    "website":"https://locipro.com/",
+    "links":{
+        "telegram":"https://t.me/Loci_InnVenn",
+        "reddit":"https://www.reddit.com/r/loci_io/",
+        "github":"https://github.com/Locipro/loci-coin-sale",
+        "facebook":"https://www.facebook.com/Loci.InnVenn/",
+        "twitter":"https://twitter.com/loci_io"
+    },
+    "overview":"Platform for Intellectual Property Discovery and Mining.",
+    "symbol":"LOCI",
+    "whitepaper":"https://locipro.com/wp-content/uploads/2017/12/loci-full-whitepaper.pdf",
+    "address":"0x9c23d67aea7b95d80942e3836bcdf7e708a747c2",
+    "email":"info@loci.io"
 }

@@ -1,0 +1,13 @@
+{
+    "website":"https://postoken.org",
+    "links":{
+        "twitter":"https://twitter.com/PoSToken",
+        "github":"https://github.com/PoSToken",
+        "slack":"https://postoken.slack.com/"
+    },
+    "overview":"PoS Smart Contract Token.",
+    "symbol":"POS",
+    "whitepaper":"https://postoken.org/whitepaper.pdf",
+    "address":"0xee609fe292128cad03b786dbb9bc2634ccdbe7fc",
+    "email":"contact@postoken.org"
+}

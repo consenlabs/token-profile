@@ -1,14 +1,15 @@
 {
-    "address": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6", 
-    "email": "team@augur.net", 
-    "links": {
-        "facebook": "https://www.facebook.com/augurproject", 
-        "github": "https://github.com/AugurProject", 
-        "reddit": "https://www.reddit.com/r/augur", 
-        "slack": "http://invite.augur.net/", 
-        "twitter": "https://twitter.com/AugurProject"
-    }, 
-    "overview": "Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool", 
-    "symbol": "REP", 
-    "website": "https://www.augur.net/"
+    "website":"https://www.augur.net/",
+    "published_on":"2015-08-01",
+    "links":{
+        "reddit":"https://www.reddit.com/r/augur",
+        "github":"https://github.com/AugurProject",
+        "facebook":"https://www.facebook.com/augurproject",
+        "slack":"http://invite.augur.net/",
+        "twitter":"https://twitter.com/AugurProject"
+    },
+    "overview":"Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool",
+    "symbol":"REP",
+    "address":"0xe94327d07fc17907b4db788e5adf2ed424addff6",
+    "email":"team@augur.net"
 }

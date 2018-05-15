@@ -1,0 +1,16 @@
+{
+    "website":"https://emphy.io/",
+    "published_on":"2017-10-07",
+    "links":{
+        "telegram":"https://t.me/joinchat/HCXRaUMf41kmp6jtG1qxxg",
+        "twitter":"https://twitter.com/EmphyOfficial",
+        "facebook":"https://www.facebook.com/emphy.io",
+        "slack":"https://emphyofficial.slack.com/"
+    },
+    "overview":"Decentralized blockchain lodging ecosystem",
+    "symbol":"EPY",
+    "initial_price":"3112:1 ETH",
+    "whitepaper":"https://emphy.io/wp-content/uploads/2017/10/Emphy_Whitepaper_eng_v1_2-2.pdf",
+    "address":"0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d",
+    "email":"info@emphy.io"
+}

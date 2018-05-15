@@ -1,0 +1,14 @@
+{
+    "website":"https://www.encrypgen.com/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/encrypgen/",
+        "github":"https://github.com/encrypgen/",
+        "facebook":"https://www.facebook.com/Encrypgen",
+        "slack":"https://discordapp.com/invite/seFgDGy",
+        "twitter":"https://twitter.com/encrypgen"
+    },
+    "overview":"Genomic Data Encryption.",
+    "symbol":"DNA",
+    "address":"0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+    "email":"drkoepsell@encrypgen.com"
+}

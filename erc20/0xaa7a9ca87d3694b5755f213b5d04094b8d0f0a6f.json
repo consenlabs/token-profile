@@ -1,0 +1,17 @@
+{
+    "website":"https://origintrail.io/",
+    "published_on":"2018-01-15",
+    "links":{
+        "telegram":"https://t.me/origintrail",
+        "reddit":"https://www.reddit.com/r/OriginTrail/",
+        "github":"https://github.com/origintrail",
+        "facebook":"https://www.facebook.com/origintrail/",
+        "twitter":"https://twitter.com/origin_trail"
+    },
+    "overview":"Purpose-built Protocol for Supply Chains Based on Blockchain.",
+    "symbol":"TRAC",
+    "initial_price":"12786:1 ETH",
+    "whitepaper":"https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf",
+    "address":"0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+    "email":"office@origin-trail.com"
+}

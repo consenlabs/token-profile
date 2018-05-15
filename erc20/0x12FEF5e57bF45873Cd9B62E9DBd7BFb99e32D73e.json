@@ -1,15 +1,16 @@
 {
-    "address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e", 
-    "email": "info@cofound.it", 
-    "initial_price": "0.00045ETH", 
-    "links": {
-        "facebook": "https://www.facebook.com/CofounditEcosystem/", 
-        "reddit": "https://www.reddit.com/r/cofoundit/", 
-        "slack": "http://cofoundit.herokuapp.com/", 
-        "twitter": "https://twitter.com/cofound_it"
-    }, 
-    "overview": "Cofound.it is a platform that connects you to teams that have trained to become serious blockchain businesses", 
-    "symbol": "CFI", 
-    "website": "https://cofound.it/", 
-    "whitepaper": "https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf"
+    "website":"https://cofound.it/",
+    "published_on":"2017-06-07",
+    "links":{
+        "reddit":"https://www.reddit.com/r/cofoundit/",
+        "facebook":"https://www.facebook.com/CofounditEcosystem/",
+        "slack":"http://cofoundit.herokuapp.com/",
+        "twitter":"https://twitter.com/cofound_it"
+    },
+    "overview":"Cofound.it is a platform that connects you to teams that have trained to become serious blockchain businesses",
+    "symbol":"CFI",
+    "initial_price":"2222:1 ETH",
+    "whitepaper":"https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf",
+    "address":"0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e",
+    "email":"info@cofound.it"
 }

@@ -1,0 +1,13 @@
+{
+    "website":"https://www.xaurum.org/",
+    "published_on":"2015-03-13",
+    "links":{
+        "twitter":"https://www.twitter.com/urumproject",
+        "github":"https://github.com/XaurumTeam/XaurumOnEthereum",
+        "facebook":"https://www.facebook.com/xaurumofficial/"
+    },
+    "overview":"Xaurum is unit of value on the golden blockchain, it represents an increasing amount of gold and can be exchanged for it by melting",
+    "symbol":"Xaurum",
+    "whitepaper":"https://www.xaurum.org/TreatiseOnXaurum.pdf",
+    "address":"0x4DF812F6064def1e5e029f1ca858777CC98D2D81"
+}

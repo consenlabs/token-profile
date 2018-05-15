@@ -1,12 +1,12 @@
 {
-    "address": "0x9B70740e708a083C6fF38Df52297020f5DfAa5EE", 
-    "email": "contact@daneel.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/daneelproject", 
-        "slack": "https://daneel.io/ico/slack-invite", 
-        "telegram": "https://t.me/projectdaneel", 
-        "twitter": "https://twitter.com/daneelproject"
-    }, 
-    "symbol": "DAN", 
-    "website": "https://daneel.io/"
+    "website":"https://daneel.io/",
+    "symbol":"DAN",
+    "email":"contact@daneel.io",
+    "links":{
+        "telegram":"https://t.me/projectdaneel",
+        "twitter":"https://twitter.com/daneelproject",
+        "facebook":"https://www.facebook.com/daneelproject",
+        "slack":"https://daneel.io/ico/slack-invite"
+    },
+    "address":"0x9b70740e708a083c6ff38df52297020f5dfaa5ee"
 }

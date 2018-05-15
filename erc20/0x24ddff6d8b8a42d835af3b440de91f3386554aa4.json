@@ -1,0 +1,16 @@
+{
+    "website":"https://iungo.network/",
+    "published_on":"2017-12-07",
+    "links":{
+        "telegram":"https://t.me/IUNGO",
+        "reddit":"https://www.reddit.com/r/iungo/",
+        "github":"https://github.com/iungonetwork",
+        "facebook":"https://www.facebook.com/IUNGOnetwork/",
+        "twitter":"https://twitter.com/iungonetwork"
+    },
+    "overview":"IUNGO is a globally distributed wireless internet service provider built with the help of a worldwide community.",
+    "symbol":"ING",
+    "whitepaper":"https://iungo.network/docs/iungo-network-whitepaper.pdf",
+    "address":"0x24ddff6d8b8a42d835af3b440de91f3386554aa4",
+    "email":"info@iungo.network"
+}

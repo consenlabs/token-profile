@@ -1,0 +1,18 @@
+{
+    "website":"https://dmarket.com/",
+    "published_on":"2017-11-14",
+    "links":{
+        "reddit":"https://www.reddit.com/r/D_Market/",
+        "github":"https://github.com/suntechsoft/dmarket-smartcontract",
+        "slack":"https://www.dmarket.io/slack",
+        "telegram":"https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg",
+        "twitter":"https://twitter.com/dmarket_io",
+        "facebook":"https://www.facebook.com/dmarketcommunity/"
+    },
+    "overview":"a blockchain-based cross-game universe for turning virtual items into real assets.",
+    "symbol":"DMT",
+    "initial_price":"1000:1 ETH",
+    "whitepaper":"https://www.dmarket.io/assets/documents/DMarket_white_paper_EN.pdf",
+    "address":"0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+    "email":"support@dmarket.io"
+}

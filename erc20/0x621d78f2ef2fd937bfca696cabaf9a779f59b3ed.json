@@ -1,0 +1,17 @@
+{
+    "website":"https://www.dcorp.it/",
+    "published_on":"2017-06-01",
+    "links":{
+        "reddit":"https://www.reddit.com/r/dcorp/",
+        "github":"https://github.com/frankbonnet/DCORP",
+        "slack":"https://dcorphq.herokuapp.com/",
+        "telegram":"https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA",
+        "twitter":"https://twitter.com/DcorpVC",
+        "facebook":"https://www.facebook.com/DecentralizedCorporation"
+    },
+    "overview":"From idea to Funding - DCORP Ventures is a community governed blockchain company that funds and realizes innovating ideas.",
+    "symbol":"DRP",
+    "whitepaper":"https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf",
+    "address":"0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+    "email":"info@dcorp.it"
+}

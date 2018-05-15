@@ -1,14 +1,15 @@
 {
-    "address": "0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990", 
-    "email": "contact@revain.org", 
-    "links": {
-        "facebook": "https://www.facebook.com/revain.org/", 
-        "github": "https://github.com/Revain/Token", 
-        "telegram": "https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ", 
-        "twitter": "https://twitter.com/Revain_org"
-    }, 
-    "overview": "Revain is a new-generation feedback platform, based on the blockchain technology that does not allow to change or delete reviews and its authors get rewards for creating them!", 
-    "symbol": "R", 
-    "website": "https://revain.org/", 
-    "whitepaper": "http://revain.org/pdf/wp/en-wp.pdf"
+    "website":"https://revain.org/",
+    "published_on":"2017-08-21",
+    "links":{
+        "telegram":"https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ",
+        "twitter":"https://twitter.com/Revain_org",
+        "github":"https://github.com/Revain/Token",
+        "facebook":"https://www.facebook.com/revain.org/"
+    },
+    "overview":"Revain is a new-generation feedback platform, based on the blockchain technology that does not allow to change or delete reviews and its authors get rewards for creating them!",
+    "symbol":"R",
+    "whitepaper":"http://revain.org/pdf/wp/en-wp.pdf",
+    "address":"0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+    "email":"contact@revain.org"
 }

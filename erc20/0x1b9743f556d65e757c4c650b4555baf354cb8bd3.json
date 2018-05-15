@@ -1,0 +1,14 @@
+{
+    "website":"https://www.ethbits.com/",
+    "published_on":"2017-04-15",
+    "links":{
+        "telegram":"https://t.me/EthBitsChatroom",
+        "reddit":"https://www.reddit.com/r/Ethbits/",
+        "slack":"https://ethbits.slack.com/"
+    },
+    "overview":"ETHBITS iTrade aims to provide new users with all the information needed to decide whom to follow, including a full profile outlining profit and loss in different time frames and historical graphs of performance.",
+    "symbol":"ETBS",
+    "whitepaper":"https://ico.ethbits.com/white_paper.pdf",
+    "address":"0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+    "email":"mr@ethbits.com"
+}

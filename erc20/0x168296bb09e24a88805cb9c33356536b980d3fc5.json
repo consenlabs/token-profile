@@ -1,0 +1,11 @@
+{
+    "website":"https://www.rchain.coop",
+    "overview":"The RChain Platform aims to be a decentralized, economically sustainable public compute infrastructure.",
+    "symbol":"RHOC",
+    "links":{
+        "twitter":"https://twitter.com/rchain_coop/",
+        "github":"https://github.com/rchain/",
+        "slack":"http://slack.rchain.coop/"
+    },
+    "address":"0x168296bb09e24a88805cb9c33356536b980d3fc5"
+}

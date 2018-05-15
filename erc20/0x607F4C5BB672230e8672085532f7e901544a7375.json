@@ -1,14 +1,15 @@
 {
-    "address": "0x607F4C5BB672230e8672085532f7e901544a7375", 
-    "email": "contact@iex.ec", 
-    "links": {
-        "facebook": "https://www.facebook.com/iexecteam/", 
-        "github": "https://github.com/iExecBlockchainComputing", 
-        "reddit": "https://www.reddit.com/r/iexec/", 
-        "twitter": "https://twitter.com/iEx_ec"
-    }, 
-    "overview": "Blockchain Based distributed cloud computing", 
-    "symbol": "RLC", 
-    "website": "http://iex.ec/", 
-    "whitepaper": "https://iex.ec/app/uploads/2017/04/iExec-WPv2.0-English.pdf"
+    "website":"http://iex.ec/",
+    "published_on":"2017-04-19",
+    "links":{
+        "reddit":"https://www.reddit.com/r/iexec/",
+        "github":"https://github.com/iExecBlockchainComputing",
+        "facebook":"https://www.facebook.com/iexecteam/",
+        "twitter":"https://twitter.com/iEx_ec"
+    },
+    "overview":"Blockchain Based distributed cloud computing",
+    "symbol":"RLC",
+    "whitepaper":"https://iex.ec/app/uploads/2017/04/iExec-WPv2.0-English.pdf",
+    "address":"0x607F4C5BB672230e8672085532f7e901544a7375",
+    "email":"contact@iex.ec"
 }

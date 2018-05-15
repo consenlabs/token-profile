@@ -1,15 +1,16 @@
 {
-    "address": "0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10", 
-    "email": "info@real.markets", 
-    "links": {
-        "facebook": "https://www.facebook.com/realestateassetledger", 
-        "github": "https://github.com/RealEstateAssetLedger/real_contract", 
-        "slack": "https://realtokensale.slack.com/", 
-        "telegram": "https://t.me/realplatform", 
-        "twitter": "https://twitter.com/real_token"
-    }, 
-    "overview": "Real Estate Blockchain innovations.", 
-    "symbol": "REAL", 
-    "website": "https://www.real.markets/", 
-    "whitepaper": "https://www.real.markets/REAL_Whitepaper.pdf"
+    "website":"https://www.real.markets/",
+    "links":{
+        "telegram":"https://t.me/realplatform",
+        "twitter":"https://twitter.com/real_token",
+        "github":"https://github.com/RealEstateAssetLedger/real_contract",
+        "facebook":"https://www.facebook.com/realestateassetledger",
+        "slack":"https://realtokensale.slack.com/"
+    },
+    "overview":"Real Estate Blockchain innovations.",
+    "symbol":"REAL",
+    "initial_price":"220:1 ETH",
+    "whitepaper":"https://www.real.markets/REAL_Whitepaper.pdf",
+    "address":"0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+    "email":"info@real.markets"
 }

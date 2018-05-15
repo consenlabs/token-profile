@@ -1,13 +1,14 @@
 {
-    "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244", 
-    "email": "sales@rivetzintl.com", 
-    "links": {
-        "facebook": "https://www.facebook.com/Rivetzcorp/", 
-        "telegram": "https://t.me/rivet_group", 
-        "twitter": "https://twitter.com/rivetzcorp"
-    }, 
-    "overview": "The Decentralized & Mobile Cyber Security Token.", 
-    "symbol": "RVT", 
-    "website": "https://rivetzintl.com/", 
-    "whitepaper": "https://rivetzintl.com/rvt-white-paper-1.02.pdf"
+    "website":"https://rivetzintl.com/",
+    "published_on":"2017-08-10",
+    "links":{
+        "telegram":"https://t.me/rivet_group",
+        "twitter":"https://twitter.com/rivetzcorp",
+        "facebook":"https://www.facebook.com/Rivetzcorp/"
+    },
+    "overview":"The Decentralized & Mobile Cyber Security Token.",
+    "symbol":"RVT",
+    "whitepaper":"https://rivetzintl.com/rvt-white-paper-1.02.pdf",
+    "address":"0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+    "email":"sales@rivetzintl.com"
 }

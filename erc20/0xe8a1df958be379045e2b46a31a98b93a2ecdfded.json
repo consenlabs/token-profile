@@ -1,0 +1,18 @@
+{
+    "website":"https://ethersportz.com/",
+    "published_on":"2018-01-09",
+    "links":{
+        "reddit":"https://www.reddit.com/user/ethersportz",
+        "github":"https://github.com/EtherSportz",
+        "slack":"https://discordapp.com/invite/Hf2eMvV",
+        "telegram":"https://t.me/ESZCoin",
+        "twitter":"https://twitter.com/ESZPlay",
+        "facebook":"https://www.facebook.com/EtherSportz"
+    },
+    "overview":"EtherSportz is being developed as an online based eSports tournament platform for popular games.",
+    "symbol":"ESZ",
+    "initial_price":"2578:1 ETH",
+    "whitepaper":"https://ethersportz.com/whitepaper.pdf",
+    "address":"0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+    "email":"info@ethersportz.com"
+}

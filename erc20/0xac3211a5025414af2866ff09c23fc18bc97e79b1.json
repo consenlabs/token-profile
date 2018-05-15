@@ -1,0 +1,16 @@
+{
+    "website":"https://dovu.io/",
+    "published_on":"2017-10-03",
+    "links":{
+        "telegram":"https://t.me/dovuico",
+        "twitter":"https://twitter.com/dovuapi",
+        "github":"https://github.com/TokenMarketNet/ico",
+        "facebook":"https://www.facebook.com/DOVUglobal/",
+        "slack":"https://discordapp.com/invite/6uFPys2"
+    },
+    "overview":"A token you earn and spend by sharing and changing the way you travel.",
+    "symbol":"DOV",
+    "whitepaper":"https://dovu.io/whitepaper.pdf",
+    "address":"0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+    "email":"support@dovu.io"
+}

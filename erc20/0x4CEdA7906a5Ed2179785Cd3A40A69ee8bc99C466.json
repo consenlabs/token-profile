@@ -1,0 +1,17 @@
+{
+    "website":"https://aion.network/",
+    "published_on":"2017-11-24",
+    "links":{
+        "telegram":"https://t.me/aion_blockchain",
+        "reddit":"https://www.reddit.com/r/AionNetwork/",
+        "github":"https://github.com/aionnetwork",
+        "facebook":"https://www.facebook.com/AionBlockchain",
+        "twitter":"https://twitter.com/Aion_Network"
+    },
+    "overview":"A multi-tier blockchain system designed to address unsolved questions of scalability, privacy, and interoperability in blockchain networks",
+    "symbol":"AION",
+    "initial_price":"291:1 ETH",
+    "whitepaper":"https://aion.network/whitepapers.html",
+    "address":"0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+    "email":"hello@aion.network"
+}

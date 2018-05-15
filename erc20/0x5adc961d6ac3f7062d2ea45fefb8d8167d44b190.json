@@ -1,0 +1,17 @@
+{
+    "website":"https://dether.io/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Dether/",
+        "github":"https://github.com/dethertech",
+        "slack":"https://dether.slack.com/",
+        "telegram":"https://whitepaper.dether.io/",
+        "twitter":"https://twitter.com/dether_io",
+        "facebook":"https://www.facebook.com/dether.io/"
+    },
+    "overview":"A peer-to-peer ecosystem of crypto buyers, sellers and physical shops.",
+    "symbol":"DTH",
+    "initial_price":"4000:1 ETH",
+    "whitepaper":"https://whitepaper.dether.io/",
+    "address":"0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+    "email":"hello@dether.io"
+}

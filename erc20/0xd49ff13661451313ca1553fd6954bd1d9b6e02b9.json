@@ -1,0 +1,16 @@
+{
+    "website":"https://electrify.asia/",
+    "links":{
+        "telegram":"https://t.me/electrifyasia",
+        "reddit":"https://www.reddit.com/r/Electrify/",
+        "github":"https://github.com/electrifyasia/",
+        "facebook":"https://www.facebook.com/electrify.asia",
+        "twitter":"https://twitter.com/electrifyasia"
+    },
+    "overview":"ELECTRIFY aims to be a retail electricity marketplace in Southeast-Asia addressing the need for transparency and security in the consumption of energy",
+    "symbol":"ELEC",
+    "initial_price":"11749:1 ETH",
+    "whitepaper":"https://electrify.asia/whitepaper/",
+    "address":"0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+    "email":"hello@electrify.asia"
+}

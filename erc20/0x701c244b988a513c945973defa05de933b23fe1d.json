@@ -1,0 +1,14 @@
+{
+    "website":"https://www.openanx.org",
+    "published_on":"2017-06-22",
+    "links":{
+        "telegram":"https://t.me/openanxteam",
+        "reddit":"https://www.reddit.com/r/OpenANX/",
+        "github":"https://github.com/openanx",
+        "twitter":"https://twitter.com/OAX_Foundation"
+    },
+    "overview":"Decentralized Exchange.",
+    "symbol":"OAX",
+    "whitepaper":"https://www.openanx.org/en/assets/whitepaper/openANX_White_Paper_ENU.pdf",
+    "address":"0x701c244b988a513c945973defa05de933b23fe1d"
+}

@@ -1,13 +1,14 @@
 {
-    "address": "0x5d65D971895Edc438f465c17DB6992698a52318D", 
-    "email": "contact@nebulas.io", 
-    "initial_price": "0.004428ETH", 
-    "links": {
-        "slack": "https://nebulasio.slack.com/", 
-        "twitter": "https://twitter.com/nebulasio"
-    }, 
-    "overview": "Decentralized Search Framework", 
-    "symbol": "NAS", 
-    "website": "https://nebulas.io/index.html", 
-    "whitepaper": "https://nebulas.io/docs/NebulasWhitepaper.pdf"
+    "website":"https://nebulas.io/index.html",
+    "published_on":"2017-12-16",
+    "links":{
+        "twitter":"https://twitter.com/nebulasio",
+        "slack":"https://nebulasio.slack.com/"
+    },
+    "overview":"Decentralized Search Framework",
+    "symbol":"NAS",
+    "initial_price":"225:1 ETH",
+    "whitepaper":"https://nebulas.io/docs/NebulasWhitepaper.pdf",
+    "address":"0x5d65D971895Edc438f465c17DB6992698a52318D",
+    "email":"contact@nebulas.io"
 }

@@ -1,0 +1,11 @@
+{
+    "website":"https://jetcoin.io/",
+    "overview":"Jetcoin Institute manages the distribution process of the digital fuel, Jetcoin (JET), via Jetcoin Contracts and proof of social engagement (P.O.S.E.)",
+    "symbol":"JET",
+    "links":{
+        "twitter":"https://twitter.com/jetcoins",
+        "facebook":"https://www.facebook.com/jetcoins/",
+        "slack":"https://jetcoininstitute.slack.com/"
+    },
+    "address":"0x8727c112c712c4a03371ac87a74dd6ab104af768"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://www.swarm.fund/",
+    "published_on":"2017-10-21",
+    "links":{
+        "telegram":"https://t.me/swarmfund",
+        "twitter":"https://twitter.com/theswarmfund",
+        "github":"https://github.com/swarmfund",
+        "facebook":"https://www.facebook.com/swarmalliance",
+        "slack":"https://swarmnetworkgroup.slack.com/"
+    },
+    "overview":"Aims to be the Blockchain for Private Equity.",
+    "symbol":"SWM",
+    "whitepaper":"https://swarmfund.blob.core.windows.net/swarmassets/swarm-whitepaper-v081.pdf",
+    "address":"0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a",
+    "email":"contact@swarm.fund"
+}

@@ -1,0 +1,16 @@
+{
+    "website":"https://adshares.net/",
+    "published_on":"2017-07-07",
+    "links":{
+        "telegram":"https://t.me/adshares",
+        "reddit":"https://www.reddit.com/r/adshares/",
+        "github":"https://github.com/adshares",
+        "facebook":"https://facebook.com/adshares/",
+        "twitter":"https://twitter.com/adsharesNet"
+    },
+    "overview":"Adshares Network is a decentralized, peer-to-peer market for programmatic advertising. Adshares gives advertisers and publishers ability to trade directly without the need for centralized ad exchanges.",
+    "symbol":"ADST",
+    "whitepaper":"https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf",
+    "address":"0x422866a8f0b032c5cf1dfbdef31a20f4509562b0",
+    "email":"office@adshares.net"
+}

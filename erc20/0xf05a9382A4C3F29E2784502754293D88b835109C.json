@@ -1,13 +1,13 @@
 {
-    "address": "0xf05a9382A4C3F29E2784502754293D88b835109C", 
-    "email": "support@rexmls.com", 
-    "links": {
-        "github": "https://github.com/rexmls/RexToken", 
-        "reddit": "https://www.reddit.com/r/REXMLS/", 
-        "twitter": "https://twitter.com/rexmls"
-    }, 
-    "overview": "REX syndicates real estate data into a globally accessible marketplace, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.", 
-    "symbol": "REX", 
-    "website": "http://rexmls.com/", 
-    "whitepaper": "https://github.com/rexmls/whitepaper/blob/master/readme.md"
+    "website":"https://imbrex.io/",
+    "published_on":"2017-07-31",
+    "links":{
+        "reddit":"https://www.reddit.com/r/REXMLS/",
+        "github":"https://github.com/rexmls/RexToken",
+        "twitter":"https://twitter.com/rexmls"
+    },
+    "overview":"REX syndicates real estate data into a globally accessible marketplace, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.",
+    "symbol":"REX",
+    "whitepaper":"https://github.com/rexmls/whitepaper/blob/master/readme.md",
+    "address":"0xf05a9382A4C3F29E2784502754293D88b835109C"
 }

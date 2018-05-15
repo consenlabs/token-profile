@@ -1,0 +1,15 @@
+{
+    "website":"https://gimli.io/",
+    "links":{
+        "telegram":"https://t.me/thegimliproject",
+        "twitter":"https://twitter.com/thegimliproject",
+        "github":"https://github.com/thegimliproject/",
+        "facebook":"https://www.facebook.com/thegimliproject",
+        "slack":"https://discordapp.com/invite/YCx3Fu7"
+    },
+    "overview":"Live stream crypto betting for gamers.",
+    "symbol":"GIM",
+    "whitepaper":"https://gimli.io/wp-content/uploads/2017/07/Gimli-white-paper.pdf",
+    "address":"0xae4f56f072c34c0a65b3ae3e4db797d831439d93",
+    "email":"contact@gimli.io"
+}

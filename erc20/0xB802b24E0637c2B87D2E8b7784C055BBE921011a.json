@@ -1,11 +1,11 @@
 {
-    "address": "0xB802b24E0637c2B87D2E8b7784C055BBE921011a", 
-    "email": "mail@akenevilthing.com", 
-    "links": {
-        "facebook": "https://www.facebook.com/ThePittsCircus", 
-        "twitter": "https://twitter.com/pitts_circus"
-    }, 
-    "overview": "Ethereum Movie Venture is a blockchain based movie platform.", 
-    "symbol": "EMV", 
-    "website": "https://emovieventure.com/"
+    "website":"https://emovieventure.com/",
+    "links":{
+        "twitter":"https://twitter.com/pitts_circus",
+        "facebook":"https://www.facebook.com/ThePittsCircus"
+    },
+    "overview":"Ethereum Movie Venture is a blockchain based movie platform.",
+    "symbol":"EMV",
+    "address":"0xb802b24e0637c2b87d2e8b7784c055bbe921011a",
+    "email":"mail@akenevilthing.com"
 }

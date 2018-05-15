@@ -1,0 +1,14 @@
+{
+    "website":"https://ico.bitdice.me/en/",
+    "links":{
+        "telegram":"https://t.me/bitdice_casino",
+        "reddit":"https://www.reddit.com/r/BitDiceCasino/",
+        "github":"https://github.com/bitdice-me/csno",
+        "twitter":"https://twitter.com/bitdice"
+    },
+    "overview":"Bitdice Casino.",
+    "symbol":"CSNO",
+    "whitepaper":"https://ico.bitdice.me/prospectus_en.pdf",
+    "address":"0x29d75277ac7f0335b2165d0895e8725cbf658d73",
+    "email":"contact@bitdice.me"
+}

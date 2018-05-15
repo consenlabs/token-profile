@@ -1,0 +1,15 @@
+{
+    "website":"https://crypterium.io/",
+    "published_on":"2017-10-31",
+    "links":{
+        "telegram":"https://t.me/crypterium",
+        "twitter":"https://twitter.com/@crypterium",
+        "facebook":"https://www.facebook.com/crypterium.org/"
+    },
+    "overview":"Cryptobank for Cryptopeople.",
+    "symbol":"CRPT",
+    "initial_price":"470:1 ETH",
+    "whitepaper":"https://crypterium.io/wp/index.html",
+    "address":"0x80a7e048f37a50500351c204cb407766fa3bae7f",
+    "email":"support@crypterium.io"
+}

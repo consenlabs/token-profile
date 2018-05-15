@@ -1,0 +1,17 @@
+{
+    "website":"https://gbx.gi/",
+    "published_on":"2018-02-07",
+    "links":{
+        "telegram":"https://t.me/GBXCommunity",
+        "reddit":"https://www.reddit.com/r/GBXCommunity/",
+        "github":"https://github.com/Gibraltar-Blockchain-Exchange",
+        "facebook":"https://www.facebook.com/GibBlockEx/",
+        "twitter":"https://twitter.com/GibBlockEx"
+    },
+    "overview":"The Gibraltar Blockchain Exchange (GBX) aims to be a world-leading institutional-grade token sale platform and cryptocurrency exchange.",
+    "symbol":"RKT",
+    "initial_price":"7751:1 ETH",
+    "whitepaper":"https://gbx.gi/token-sales/GBX-Whitepaper.pdf",
+    "address":"0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+    "email":"info@gbx.gi"
+}

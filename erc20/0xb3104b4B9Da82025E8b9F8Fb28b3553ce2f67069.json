@@ -1,13 +1,14 @@
 {
-    "address": "0xb3104b4B9Da82025E8b9F8Fb28b3553ce2f67069", 
-    "email": "service@bibox.com", 
-    "initial_price": "0.00055556ETH", 
-    "links": {
-        "github": "https://github.com/bibox365/bixtoken", 
-        "telegram": "https://t.me/BiboxGroup"
-    }, 
-    "overview": "AI Enhanced Encrypted Digital Asset Exchange.", 
-    "symbol": "BIX", 
-    "website": "https://www.bibox.com/", 
-    "whitepaper": "https://www.bibox365.com/static/pdf/Bibox_Whitepaper.pdf"
+    "website":"https://www.bibox.com/",
+    "published_on":"2017-10-01",
+    "links":{
+        "telegram":"https://t.me/BiboxGroup",
+        "github":"https://github.com/bibox365/bixtoken"
+    },
+    "overview":"AI Enhanced Encrypted Digital Asset Exchange.",
+    "symbol":"BIX",
+    "initial_price":"1799:1 ETH",
+    "whitepaper":"https://www.bibox365.com/static/pdf/Bibox_Whitepaper.pdf",
+    "address":"0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
+    "email":"service@bibox.com"
 }

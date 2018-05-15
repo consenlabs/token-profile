@@ -1,0 +1,14 @@
+{
+    "website":"http://iethereum.trade/",
+    "links":{
+        "telegram":"https://t.me/iethereum",
+        "reddit":"https://www.reddit.com/r/iETH/",
+        "github":"https://github.com/ethereumfan/iethereum",
+        "twitter":"https://twitter.com/iethereum"
+    },
+    "overview":"iEthereum aims to be a public Ethereum-based token for use in mainstream digital wallets, that enables real-time, peer-to-peer value exchange and payment services.",
+    "symbol":"iETH",
+    "whitepaper":"http://iethereum.trade/whitepaper/",
+    "address":"0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b",
+    "email":"vitalik@iethereum.trade"
+}

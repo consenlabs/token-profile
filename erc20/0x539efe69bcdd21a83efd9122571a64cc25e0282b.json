@@ -1,0 +1,12 @@
+{
+    "website":"http://www.etherblue.org/",
+    "links":{
+        "telegram":"https://t.me/joinchat/HBDo00IO49STMJuIwJi08g",
+        "twitter":"https://twitter.com/EthereumBlue",
+        "github":"https://github.com/ethblue"
+    },
+    "overview":"BLUE is anERC20 token built from the ground-up to facilitate payments and transfers without sacrificing your security.",
+    "symbol":"BLUE",
+    "address":"0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+    "email":"team@etherblue.org"
+}

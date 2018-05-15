@@ -1,0 +1,16 @@
+{
+    "website":"https://auctus.org/",
+    "links":{
+        "telegram":"https://t.me/auctusproject",
+        "reddit":"https://www.reddit.com/r/AuctusProject/",
+        "github":"https://github.com/AuctusProject",
+        "facebook":"https://www.facebook.com/AuctusProject/",
+        "twitter":"https://twitter.com/AuctusProject"
+    },
+    "overview":"The world's first retirement plan platform with traditional and cryptocurrency assets, powered by smart contracts & robo advisory.",
+    "symbol":"AUC",
+    "initial_price":"2000:1 ETH",
+    "whitepaper":"https://dl.auctus.org/Auctus_Whitepaper.pdf",
+    "address":"0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+    "email":"contact@auctus.org"
+}

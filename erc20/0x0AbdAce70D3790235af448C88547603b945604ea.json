@@ -1,14 +1,14 @@
 {
-    "address": "0x0AbdAce70D3790235af448C88547603b945604ea", 
-    "email": "hello@district0x.io", 
-    "initial_price": "0.0000978", 
-    "links": {
-        "github": "https://github.com/district0x", 
-        "slack": "https://district0x-slack.herokuapp.com/", 
-        "twitter": "https://twitter.com/district0x"
-    }, 
-    "overview": "A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS.", 
-    "symbol": "DNT", 
-    "website": "https://district0x.io/", 
-    "whitepaper": "https://district0x.io/docs/district0x-whitepaper.pdf"
+    "website":"https://district0x.io/",
+    "links":{
+        "twitter":"https://twitter.com/district0x",
+        "github":"https://github.com/district0x",
+        "slack":"https://district0x-slack.herokuapp.com/"
+    },
+    "overview":"A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS.",
+    "symbol":"DNT",
+    "initial_price":"10224:1 ETH",
+    "whitepaper":"https://district0x.io/docs/district0x-whitepaper.pdf",
+    "address":"0x0abdace70d3790235af448c88547603b945604ea",
+    "email":"hello@district0x.io"
 }

@@ -1,0 +1,12 @@
+{
+    "website":"https://nanjcoin.com/",
+    "links":{
+        "twitter":"https://twitter.com/nanjcoin",
+        "github":"https://github.com/NANJ-COIN",
+        "slack":"https://discordapp.com/invite/xa94m8F"
+    },
+    "symbol":"NANJ",
+    "whitepaper":"https://nanjcoin.com/white_paper.pdf",
+    "address":"0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265",
+    "email":"support@nanjcoin.com"
+}

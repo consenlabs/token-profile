@@ -1,15 +1,17 @@
 {
-    "address": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB", 
-    "email": "info@appcoins.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/AppCoinsOfficial/", 
-        "github": "https://github.com/Aptoide/AppCoins-ethereumj", 
-        "reddit": "https://www.reddit.com/r/AppcoinsProtocol/", 
-        "telegram": "https://t.me/appcoinsofficial", 
-        "twitter": "https://twitter.com/AppCoinsProject"
-    }, 
-    "overview": "AppCoins is meant for use in the AppCoins blockchain platform to perform transactions in the app store ecosystem.", 
-    "symbol": "APPC", 
-    "website": "https://appcoins.io/", 
-    "whitepaper": "https://appcoins.io/pdf/appcoins_whitepaper.pdf"
+    "website":"https://appcoins.io/",
+    "published_on":"2017-12-13",
+    "links":{
+        "telegram":"https://t.me/appcoinsofficial",
+        "reddit":"https://www.reddit.com/r/AppcoinsProtocol/",
+        "github":"https://github.com/Aptoide/AppCoins-ethereumj",
+        "facebook":"https://www.facebook.com/AppCoinsOfficial/",
+        "twitter":"https://twitter.com/AppCoinsProject"
+    },
+    "overview":"AppCoins is meant for use in the AppCoins blockchain platform to perform transactions in the app store ecosystem.",
+    "symbol":"APPC",
+    "initial_price":"2994:1 ETH",
+    "whitepaper":"https://appcoins.io/pdf/appcoins_whitepaper.pdf",
+    "address":"0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+    "email":"info@appcoins.io"
 }

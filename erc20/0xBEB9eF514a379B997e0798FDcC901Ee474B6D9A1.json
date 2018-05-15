@@ -1,14 +1,15 @@
 {
-    "address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1", 
-    "email": "team@melonport.com", 
-    "links": {
-        "github": "https://github.com/melonproject", 
-        "reddit": "https://www.reddit.com/r/melonproject/", 
-        "slack": "http://chat.melonport.com/", 
-        "twitter": "https://twitter.com/melonport"
-    }, 
-    "overview": "The Melon protocol is a blockchain protocol for digital asset management built on the Ethereum platform", 
-    "symbol": "MLN", 
-    "website": "https://melonport.com/", 
-    "whitepaper": "https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf"
+    "website":"https://melonport.com/",
+    "published_on":"2017-02-15",
+    "links":{
+        "reddit":"https://www.reddit.com/r/melonproject/",
+        "github":"https://github.com/melonproject",
+        "slack":"http://chat.melonport.com/",
+        "twitter":"https://twitter.com/melonport"
+    },
+    "overview":"The Melon protocol is a blockchain protocol for digital asset management built on the Ethereum platform",
+    "symbol":"MLN",
+    "whitepaper":"https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf",
+    "address":"0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+    "email":"team@melonport.com"
 }

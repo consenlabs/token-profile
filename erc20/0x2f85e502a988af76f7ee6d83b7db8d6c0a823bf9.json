@@ -1,0 +1,18 @@
+{
+    "website":"https://latium.org/",
+    "published_on":"2017-11-15",
+    "links":{
+        "reddit":"https://www.reddit.com/r/LatiumPlatform/",
+        "github":"https://github.com/Latium-org",
+        "slack":"https://latium-team.slack.com/",
+        "telegram":"https://t.me/joinchat/GPJK8w3rbib8uj58hUXMJw",
+        "twitter":"https://twitter.com/latiumcoin",
+        "facebook":"https://www.facebook.com/LatiumProject/"
+    },
+    "overview":"tasking platform to incorporate an automated rating system in tandem with a one-to-many task relationship structure",
+    "symbol":"LATX",
+    "initial_price":"2000:1 ETH",
+    "whitepaper":"https://latium.org/whitepaper.pdf",
+    "address":"0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9",
+    "email":"support@latium.org"
+}

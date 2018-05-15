@@ -1,0 +1,15 @@
+{
+    "website":"https://mothership.cx",
+    "published_on":"2017-07-07",
+    "links":{
+        "telegram":"https://t.me/mothershipcx",
+        "twitter":"https://twitter.com/MothershipCX",
+        "slack":"http://slack.mothership.cx/"
+    },
+    "overview":"Decentralized AI for Collective Governance.",
+    "symbol":"MSP",
+    "initial_price":"6024:1 ETH",
+    "whitepaper":"https://mothership.cx/documents/whitepaper.pdf",
+    "address":"0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+    "email":"hello@mothership.cx"
+}

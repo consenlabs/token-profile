@@ -1,16 +1,17 @@
 {
-    "address": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab", 
-    "email": "support-fr@domraider.com", 
-    "links": {
-        "facebook": "https://www.facebook.com/Domraider-1432606216988548", 
-        "github": "https://github.com/Domraider/dr-token", 
-        "reddit": "https://www.reddit.com/r/DomRaider/", 
-        "slack": "https://domraiderico.slack.com/", 
-        "telegram": "https://t.me/Domraider_ICO", 
-        "twitter": "https://twitter.com/domraider"
-    }, 
-    "overview": "DomRaider aims to be the bridge between the world of assets and the potential of open-source blockchain.", 
-    "symbol": "DRT", 
-    "website": "https://www.domraider.io/en/", 
-    "whitepaper": "https://s3-eu-west-1.amazonaws.com/domraider/domraider/DomRaider+ICO+Whitepaper+EN.pdf"
+    "website":"https://www.domraider.io/en/",
+    "published_on":"2017-09-12",
+    "links":{
+        "reddit":"https://www.reddit.com/r/DomRaider/",
+        "github":"https://github.com/Domraider/dr-token",
+        "slack":"https://domraiderico.slack.com/",
+        "telegram":"https://t.me/Domraider_ICO",
+        "twitter":"https://twitter.com/domraider",
+        "facebook":"https://www.facebook.com/Domraider-1432606216988548"
+    },
+    "overview":"DomRaider aims to be the bridge between the world of assets and the potential of open-source blockchain.",
+    "symbol":"DRT",
+    "whitepaper":"https://s3-eu-west-1.amazonaws.com/domraider/domraider/DomRaider+ICO+Whitepaper+EN.pdf",
+    "address":"0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+    "email":"support-fr@domraider.com"
 }

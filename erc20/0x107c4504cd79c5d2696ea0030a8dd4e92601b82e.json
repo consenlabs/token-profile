@@ -1,0 +1,18 @@
+{
+    "website":"https://bloom.co/",
+    "published_on":"2017-11-30",
+    "links":{
+        "reddit":"https://www.reddit.com/r/BloomToken/",
+        "github":"https://github.com/hellobloom",
+        "slack":"https://slack.hellobloom.io/",
+        "telegram":"https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ",
+        "twitter":"https://twitter.com/Bloom",
+        "facebook":"https://www.facebook.com/bloomtoken/"
+    },
+    "overview":"Decentralized credit scoring powered by Ethereum and IPFS.",
+    "symbol":"BLT",
+    "initial_price":"800:1 ETH",
+    "whitepaper":"https://bloom.co/whitepaper.pdf",
+    "address":"0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+    "email":"team@bloom.co"
+}

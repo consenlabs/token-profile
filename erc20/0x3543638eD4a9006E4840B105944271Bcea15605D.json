@@ -1,15 +1,15 @@
 {
-    "address": "0x3543638eD4a9006E4840B105944271Bcea15605D", 
-    "email": "contact@u.network", 
-    "links": {
-        "facebook": "https://www.facebook.com/UNetworkHQ/", 
-        "github": "https://github.com/U-Network/unetwork", 
-        "reddit": "https://www.reddit.com/r/UNetwork/", 
-        "telegram": "https://t.me/UNetworkEN", 
-        "twitter": "https://twitter.com/UNetworkHQ"
-    }, 
-    "overview": "A Decentralized Protocol for Publishing and Valuing Online Content", 
-    "symbol": "UUU", 
-    "website": "https://u.network/", 
-    "whitepaper": "https://u.network/U_whitepaper_en.pdf"
+    "website":"https://u.network/",
+    "links":{
+        "telegram":"https://t.me/UNetworkEN",
+        "reddit":"https://www.reddit.com/r/UNetwork/",
+        "github":"https://github.com/U-Network/unetwork",
+        "facebook":"https://www.facebook.com/UNetworkHQ/",
+        "twitter":"https://twitter.com/UNetworkHQ"
+    },
+    "overview":"A Decentralized Protocol for Publishing and Valuing Online Content",
+    "symbol":"UUU",
+    "whitepaper":"https://u.network/U_whitepaper_en.pdf",
+    "address":"0x3543638ed4a9006e4840b105944271bcea15605d",
+    "email":"contact@u.network"
 }

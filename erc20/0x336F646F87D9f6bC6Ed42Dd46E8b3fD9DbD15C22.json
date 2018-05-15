@@ -1,16 +1,17 @@
 {
-    "address": "0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22", 
-    "email": "ccs@crystal-clear.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/CCSer/", 
-        "github": "https://github.com/CrystalClearS", 
-        "reddit": "https://www.reddit.com/user/CrystalClearServ/", 
-        "slack": "https://crystalclears.slack.com/", 
-        "telegram": "https://t.me/CrystalClearICO", 
-        "twitter": "https://twitter.com/CCS_Crystal"
-    }, 
-    "overview": "Decentralized Service System", 
-    "symbol": "CCT", 
-    "website": "http://crystal-clear.io/", 
-    "whitepaper": "http://crystal-clear.io/Whitepaper_english.pdf"
+    "website":"http://crystal-clear.io/",
+    "published_on":"2017-09-08",
+    "links":{
+        "reddit":"https://www.reddit.com/user/CrystalClearServ/",
+        "github":"https://github.com/CrystalClearS",
+        "slack":"https://crystalclears.slack.com/",
+        "telegram":"https://t.me/CrystalClearICO",
+        "twitter":"https://twitter.com/CCS_Crystal",
+        "facebook":"https://www.facebook.com/CCSer/"
+    },
+    "overview":"Decentralized Service System",
+    "symbol":"CCT",
+    "whitepaper":"http://crystal-clear.io/Whitepaper_english.pdf",
+    "address":"0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22",
+    "email":"ccs@crystal-clear.io"
 }

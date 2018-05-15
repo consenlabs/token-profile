@@ -1,14 +1,15 @@
 {
-    "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F", 
-    "email": "info@hubii.com", 
-    "links": {
-        "reddit": "https://www.reddit.com/r/hubiinetwork/", 
-        "slack": "https://slack.hubii.network/", 
-        "telegram": "https://t.me/hubiinetwork", 
-        "twitter": "https://twitter.com/hubiinetwork"
-    }, 
-    "overview": "A blockchain based decentralized marketplace.", 
-    "symbol": "HBT", 
-    "website": "https://www.hubii.network/", 
-    "whitepaper": "https://www.hubii.network/hubii-network-whitepaper-en.pdf"
+    "website":"https://www.hubii.network/",
+    "published_on":"2017-08-24",
+    "links":{
+        "telegram":"https://t.me/hubiinetwork",
+        "reddit":"https://www.reddit.com/r/hubiinetwork/",
+        "slack":"https://slack.hubii.network/",
+        "twitter":"https://twitter.com/hubiinetwork"
+    },
+    "overview":"A blockchain based decentralized marketplace.",
+    "symbol":"HBT",
+    "whitepaper":"https://www.hubii.network/hubii-network-whitepaper-en.pdf",
+    "address":"0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+    "email":"info@hubii.com"
 }

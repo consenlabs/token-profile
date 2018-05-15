@@ -1,0 +1,15 @@
+{
+    "website":"https://www.giga-watt.com/",
+    "published_on":"2017-06-02",
+    "links":{
+        "telegram":"https://telegram.me/wtt_token",
+        "twitter":"https://twitter.com/gigawatt_mining",
+        "facebook":"https://www.facebook.com/gigawattcom/",
+        "slack":"https://slack.giga-watt.com/"
+    },
+    "overview":"Full-service mining solution provider.",
+    "symbol":"WTT",
+    "whitepaper":"https://cryptonomos.com/wtt/white-paper.pdf",
+    "address":"0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+    "email":"support@giga-watt.com"
+}

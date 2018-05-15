@@ -1,0 +1,15 @@
+{
+    "website":"https://ori.network/",
+    "links":{
+        "telegram":"https://t.me/joinchat/Hee-UBG6o0usATKovCDzOg",
+        "reddit":"https://www.reddit.com/r/OrigamiNetwork/",
+        "github":"https://github.com/origamiMP",
+        "facebook":"https://www.facebook.com/origaminetworkico/",
+        "twitter":"https://twitter.com/origami_network"
+    },
+    "overview":"A protocol for building decentralized marketplaces using the Ethereum blockchain",
+    "symbol":"ORI",
+    "whitepaper":"http://ori.network/wp-content/uploads/2017/11/Origami-Network-Whitepaper-0.1.pdf",
+    "address":"0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49",
+    "email":"contact@ori.network"
+}

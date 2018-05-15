@@ -1,0 +1,13 @@
+{
+    "website":"https://www.fucktoken.com/",
+    "links":{
+        "telegram":"https://t.me/FuckToken",
+        "reddit":"https://www.reddit.com/r/FuckToken/",
+        "slack":"https://fucktoken.slack.com/join/shared_invite/MjMyNDgzNzc4MDY1LTE1MDM5Nzg2MTctY2FlOWMzMGNiMw",
+        "twitter":"https://twitter.com/FuckToken"
+    },
+    "symbol":"FUCK",
+    "whitepaper":"https://fucktoken.com/download/FUCKToken_Whitepaper_V1.pdf",
+    "address":"0x65be44c747988fbf606207698c944df4442efe19",
+    "email":"contact@fucktoken.com"
+}

@@ -1,15 +1,17 @@
 {
-    "address": "0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf", 
-    "email": "tokensale@sensetoken.com", 
-    "links": {
-        "facebook": "https://www.facebook.com/sensaybot/", 
-        "github": "https://github.com/sensay", 
-        "reddit": "https://www.reddit.com/r/sensetoken/", 
-        "telegram": "https://t.me/sensetoken", 
-        "twitter": "https://twitter.com/sensay"
-    }, 
-    "overview": "Sense creates blockchain based smart contracts in chat and rewards humans for the contributions they make to one another conversationally, across Sensay and other messenger applications.", 
-    "symbol": "SENSE", 
-    "website": "https://www.sensetoken.com/", 
-    "whitepaper": "https://www.sensetoken.com/pdfs/sensetoken_whitepaper_en.pdf"
+    "website":"https://www.sensetoken.com/",
+    "published_on":"2017-11-01",
+    "links":{
+        "telegram":"https://t.me/sensetoken",
+        "reddit":"https://www.reddit.com/r/sensetoken/",
+        "github":"https://github.com/sensay",
+        "facebook":"https://www.facebook.com/sensaybot/",
+        "twitter":"https://twitter.com/sensay"
+    },
+    "overview":"Sense creates blockchain based smart contracts in chat and rewards humans for the contributions they make to one another conversationally, across Sensay and other messenger applications.",
+    "symbol":"SENSE",
+    "initial_price":"2918:1 ETH",
+    "whitepaper":"https://www.sensetoken.com/pdfs/sensetoken_whitepaper_en.pdf",
+    "address":"0x6745fab6801e376cd24f03572b9c9b0d4edddccf",
+    "email":"tokensale@sensetoken.com"
 }

@@ -1,14 +1,15 @@
 {
-    "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280", 
-    "email": "team@tenx.tech", 
-    "initial_price": "0.00285714ETH", 
-    "links": {
-        "facebook": "https://www.facebook.com/tenxwallet/", 
-        "reddit": "https://www.reddit.com/r/TenX/", 
-        "slack": "https://ten-x.herokuapp.com/", 
-        "twitter": "https://twitter.com/tenxwallet"
-    }, 
-    "symbol": "PAY", 
-    "website": "http://www.tenx.tech/", 
-    "whitepaper": "http://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf"
+    "website":"http://www.tenx.tech/",
+    "published_on":"2017-06-24",
+    "links":{
+        "reddit":"https://www.reddit.com/r/TenX/",
+        "facebook":"https://www.facebook.com/tenxwallet/",
+        "slack":"https://ten-x.herokuapp.com/",
+        "twitter":"https://twitter.com/tenxwallet"
+    },
+    "symbol":"PAY",
+    "initial_price":"350:1 ETH",
+    "whitepaper":"http://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf",
+    "address":"0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+    "email":"team@tenx.tech"
 }

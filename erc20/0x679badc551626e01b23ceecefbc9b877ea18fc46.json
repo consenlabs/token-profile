@@ -1,0 +1,16 @@
+{
+    "website":"https://ccore.io",
+    "published_on":"2017-11-09",
+    "links":{
+        "telegram":"https://t.me/ccore_io",
+        "reddit":"https://www.reddit.com/user/ccore_io",
+        "facebook":"https://www.facebook.com/ccore.io",
+        "twitter":"https://twitter.com/ccore_io"
+    },
+    "overview":"Crypto Payment Platform",
+    "symbol":"CCO",
+    "initial_price":"1065:1 ETH",
+    "whitepaper":"https://ccore.io/assets/ccore-whitepaper.pdf",
+    "address":"0x679badc551626e01b23ceecefbc9b877ea18fc46",
+    "email":"team@ccore.io"
+}

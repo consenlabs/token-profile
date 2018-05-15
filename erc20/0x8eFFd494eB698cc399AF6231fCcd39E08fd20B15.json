@@ -1,14 +1,14 @@
 {
-    "address": "0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15", 
-    "email": "support@lampix.co", 
-    "links": {
-        "facebook": "https://www.facebook.com/Lampix-997463780290920/", 
-        "reddit": "https://www.reddit.com/r/Lampix/", 
-        "slack": "https://lampix-invite.herokuapp.com/", 
-        "twitter": "https://twitter.com/lampix_co"
-    }, 
-    "overview": "Lampix - a hardware and software solution that aims to turn any surface into a smart, augmented reality [or interactive] surface.", 
-    "symbol": "PIX", 
-    "website": "https://www.lampix.co/", 
-    "whitepaper": "https://www.lampix.co/whitepaper.pdf"
+    "website":"https://www.lampix.co/",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Lampix/",
+        "facebook":"https://www.facebook.com/Lampix-997463780290920/",
+        "slack":"https://lampix-invite.herokuapp.com/",
+        "twitter":"https://twitter.com/lampix_co"
+    },
+    "overview":"Lampix - a hardware and software solution that aims to turn any surface into a smart, augmented reality [or interactive] surface.",
+    "symbol":"PIX",
+    "whitepaper":"https://www.lampix.co/whitepaper.pdf",
+    "address":"0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+    "email":"support@lampix.co"
 }

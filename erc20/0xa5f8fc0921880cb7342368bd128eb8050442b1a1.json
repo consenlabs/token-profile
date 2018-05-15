@@ -1,0 +1,14 @@
+{
+    "website":"https://blockarray.com/",
+    "links":{
+        "telegram":"https://t.me/Block_Array",
+        "twitter":"https://twitter.com/blockarraygroup",
+        "github":"https://github.com/blockarraygroup",
+        "slack":"https://discordapp.com/invite/eJV8pgJ"
+    },
+    "overview":"Blockchain-based Solutions for the Logistics Industry.",
+    "symbol":"ARY",
+    "whitepaper":"https://github.com/blockarraygroup/documents/blob/master/long-form%20whitepaper.pdf",
+    "address":"0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+    "email":"contact@blockarray.com"
+}

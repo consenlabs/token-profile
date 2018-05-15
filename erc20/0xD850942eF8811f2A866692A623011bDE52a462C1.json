@@ -1,12 +1,13 @@
 {
-    "address": "0xD850942eF8811f2A866692A623011bDE52a462C1", 
-    "email": "support@vechain.com", 
-    "links": {
-        "github": "https://github.com/vechain/", 
-        "slack": "https://vechainofficial.slack.com/"
-    }, 
-    "overview": "VeChain aims to connect blockchain technology to the real world by providing a comprehensive governance structure, a robust economic model as well as advanced IoT integration.", 
-    "symbol": "VEN", 
-    "website": "https://www.vechain.org/", 
-    "whitepaper": "https://cdn.vechain.com/vechain_ico_ideas_of_development_en.pdf"
+    "website":"https://www.vechain.org/",
+    "published_on":"2017-08-18",
+    "links":{
+        "github":"https://github.com/vechain/",
+        "slack":"https://vechainofficial.slack.com/"
+    },
+    "overview":"VeChain aims to connect blockchain technology to the real world by providing a comprehensive governance structure, a robust economic model as well as advanced IoT integration.",
+    "symbol":"VEN",
+    "whitepaper":"https://cdn.vechain.com/vechain_ico_ideas_of_development_en.pdf",
+    "address":"0xd850942ef8811f2a866692a623011bde52a462c1",
+    "email":"support@vechain.com"
 }

@@ -1,14 +1,15 @@
 {
-    "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A", 
-    "email": "support@digix.io", 
-    "initial_price": "0.425714ETH", 
-    "links": {
-        "github": "https://github.com/digixglobal", 
-        "reddit": "https://www.reddit.com/r/digix/", 
-        "twitter": "https://twitter.com/digixglobal"
-    }, 
-    "overview": "DigixDAO is a decentralized voting / utility token that allows users to submit and manage proposals that relate to the growth of the Digix ecosystem and platform.", 
-    "symbol": "DGD", 
-    "website": "https://digix.io/", 
-    "whitepaper": "https://digix.global/whitepaper.pdf"
+    "website":"https://digix.io/",
+    "published_on":"2016-03-01",
+    "links":{
+        "reddit":"https://www.reddit.com/r/digix/",
+        "github":"https://github.com/digixglobal",
+        "twitter":"https://twitter.com/digixglobal"
+    },
+    "overview":"DigixDAO is a decentralized voting / utility token that allows users to submit and manage proposals that relate to the growth of the Digix ecosystem and platform.",
+    "symbol":"DGD",
+    "initial_price":"2:1 ETH",
+    "whitepaper":"https://digix.global/whitepaper.pdf",
+    "address":"0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+    "email":"support@digix.io"
 }

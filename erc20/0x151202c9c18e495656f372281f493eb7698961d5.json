@@ -1,0 +1,14 @@
+{
+    "website":"https://debitum.network/",
+    "links":{
+        "telegram":"https://t.me/debitum",
+        "reddit":"https://www.reddit.com/r/DebitumNetwork/",
+        "github":"https://github.com/debitum",
+        "facebook":"https://www.facebook.com/DebitumNetwork",
+        "twitter":"https://twitter.com/DebitumNetwork"
+    },
+    "symbol":"DEB",
+    "whitepaper":"https://debitum.network/whitepaper",
+    "address":"0x151202c9c18e495656f372281f493eb7698961d5",
+    "email":"welcome@debitum.network"
+}

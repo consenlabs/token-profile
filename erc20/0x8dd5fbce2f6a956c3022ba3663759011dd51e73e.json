@@ -1,0 +1,14 @@
+{
+    "website":"https://www.trusttoken.com/",
+    "links":{
+        "telegram":"https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+        "twitter":"https://twitter.com/TrustToken",
+        "github":"https://github.com/trusttoken",
+        "facebook":"https://www.facebook.com/TrustToken/"
+    },
+    "overview":"The TrustToken Platform aims to be the bridge between blockchains and real-world assets.",
+    "symbol":"TUSD",
+    "whitepaper":"https://docsend.com/view/ws6tkvs",
+    "address":"0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "email":"hello@trusttoken.com"
+}

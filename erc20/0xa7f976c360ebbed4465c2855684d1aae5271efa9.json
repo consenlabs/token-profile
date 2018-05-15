@@ -1,0 +1,16 @@
+{
+    "website":"https://trueflip.io/",
+    "published_on":"2017-06-28",
+    "links":{
+        "telegram":"https://t.me/joinchat/AAAAAELcwT-fgH2zG7xEng",
+        "reddit":"http://reddit.com/r/TrueFlip",
+        "github":"https://github.com/TrueFlip",
+        "facebook":"https://www.facebook.com/TrueFlip.io/",
+        "slack":"https://trueflip.io/slack"
+    },
+    "overview":"Blockchain games with instant payouts and open source code,",
+    "symbol":"TFL",
+    "whitepaper":"https://trueflip.io/TrueFlip_WP.pdf",
+    "address":"0xa7f976c360ebbed4465c2855684d1aae5271efa9",
+    "email":"info@trueflip.io"
+}

@@ -1,0 +1,15 @@
+{
+    "website":"https://www.eltcoin.tech/",
+    "links":{
+        "telegram":"https://t.me/ELTCOIN",
+        "twitter":"https://twitter.com/officialELTCOIN",
+        "github":"https://github.com/ELTCOIN",
+        "facebook":"https://www.facebook.com/eltcoin.community/",
+        "slack":"https://discordapp.com/invite/PHZUccd"
+    },
+    "overview":"Ethereum Limited Total Coin",
+    "symbol":"ELTCOIN",
+    "whitepaper":"https://docs.google.com/document/d/1DIjdWiVWjADiwwgGcp7Trk_Zr_xGiRBxfJizQaI_POY/view",
+    "address":"0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+    "email":"eltcoin@gmail.com"
+}

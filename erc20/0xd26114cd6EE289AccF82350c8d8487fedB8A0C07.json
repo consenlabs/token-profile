@@ -1,15 +1,17 @@
 {
-    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07", 
-    "email": "omg@omise.co", 
-    "links": {
-        "facebook": "https://www.facebook.com/OmiseGO/", 
-        "github": "https://github.com/omisego", 
-        "reddit": "https://www.reddit.com/r/omise_go/", 
-        "slack": "https://chat.omisego.network/", 
-        "twitter": "https://twitter.com/omise_go"
-    }, 
-    "overview": "OmiseGO (OMG) is a public Ethereum-based financial technology for use in mainstream digital wallets", 
-    "symbol": "OMG", 
-    "website": "https://omisego.network/", 
-    "whitepaper": "https://cdn.omise.co/omg/whitepaper.pdf"
+    "website":"https://omisego.network/",
+    "published_on":"2017-06-23",
+    "links":{
+        "reddit":"https://www.reddit.com/r/omise_go/",
+        "github":"https://github.com/omisego",
+        "facebook":"https://www.facebook.com/OmiseGO/",
+        "slack":"https://chat.omisego.network/",
+        "twitter":"https://twitter.com/omise_go"
+    },
+    "overview":"OmiseGO (OMG) is a public Ethereum-based financial technology for use in mainstream digital wallets",
+    "symbol":"OMG",
+    "initial_price":"841:1 ETH",
+    "whitepaper":"https://cdn.omise.co/omg/whitepaper.pdf",
+    "address":"0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "email":"omg@omise.co"
 }

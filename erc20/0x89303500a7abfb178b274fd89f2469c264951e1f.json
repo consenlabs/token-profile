@@ -1,0 +1,16 @@
+{
+    "website":"https://reftoken.io/",
+    "published_on":"2017-11-17",
+    "links":{
+        "telegram":"https://t.me/RefToken",
+        "reddit":"https://www.reddit.com/r/RefToken/",
+        "github":"https://github.com/reftoken",
+        "facebook":"https://www.facebook.com/RefToken/",
+        "twitter":"https://twitter.com/reftoken"
+    },
+    "overview":"Decentralized Affiliate platform",
+    "symbol":"REF",
+    "whitepaper":"https://reftoken.io/uploads/reftoken-whitepaper-5.6.pdf",
+    "address":"0x89303500a7abfb178b274fd89f2469c264951e1f",
+    "email":"contact@reftoken.io"
+}

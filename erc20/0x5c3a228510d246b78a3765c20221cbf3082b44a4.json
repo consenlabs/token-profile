@@ -1,0 +1,17 @@
+{
+    "website":"https://storiqa.com/",
+    "published_on":"2017-11-28",
+    "links":{
+        "telegram":"https://t.me/storiqa_en",
+        "reddit":"https://www.reddit.com/r/Storiqa/",
+        "github":"https://github.com/Storiqa/ico_smart_contract",
+        "facebook":"https://www.facebook.com/storiqa",
+        "twitter":"https://twitter.com/storiqa"
+    },
+    "overview":"crypto marketplace- Sell and buy goods with cryptocurrencies",
+    "symbol":"STQ",
+    "initial_price":"155279:1 ETH",
+    "whitepaper":"https://crowdsale.storiqa.com/static/docs/TS-white-paper-EN.pdf",
+    "address":"0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+    "email":"info@storiqa.com"
+}

@@ -1,15 +1,16 @@
 {
-    "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f", 
-    "email": "foundation@loopring.org", 
-    "links": {
-        "github": "https://github.com/loopring", 
-        "reddit": "https://www.reddit.com/r/loopring/", 
-        "slack": "https://loopring-team.slack.com/", 
-        "telegram": "https://t.me/loopringfans", 
-        "twitter": "https://twitter.com/loopringorg"
-    }, 
-    "overview": "Loopring is not only a protocol but also a decentralized automated execution system that trades across the crypto-token exchanges.", 
-    "symbol": "LRC", 
-    "website": "https://loopring.org/en/index.html", 
-    "whitepaper": "https://github.com/Loopring/whitepaper"
+    "website":"https://loopring.org/en/index.html",
+    "published_on":"2017-08-01",
+    "links":{
+        "telegram":"https://t.me/loopringfans",
+        "reddit":"https://www.reddit.com/r/loopring/",
+        "github":"https://github.com/loopring",
+        "slack":"https://loopring-team.slack.com/",
+        "twitter":"https://twitter.com/loopringorg"
+    },
+    "overview":"Loopring is not only a protocol but also a decentralized automated execution system that trades across the crypto-token exchanges.",
+    "symbol":"LRC",
+    "whitepaper":"https://github.com/Loopring/whitepaper",
+    "address":"0xef68e7c694f40c8202821edf525de3782458639f",
+    "email":"foundation@loopring.org"
 }

@@ -1,0 +1,16 @@
+{
+    "website":"https://www.mercuryprotocol.com/",
+    "published_on":"2017-10-25",
+    "links":{
+        "telegram":"https://t.me/joinchat/G47gcA8f5EYFfEsILw7H2w",
+        "reddit":"https://www.reddit.com/r/MercuryProtocol/",
+        "slack":"https://mercuryprotocol.slack.com/",
+        "twitter":"https://twitter.com/mercuryprotocol"
+    },
+    "overview":"Communication Platforms Built on the Ethereum Blockchain.",
+    "symbol":"GMT",
+    "initial_price":"7142:1 ETH",
+    "whitepaper":"https://www.mercuryprotocol.com/files/Mercury_Protocol_whitepaper.pdf",
+    "address":"0xb3bd49e28f8f832b8d1e246106991e546c323502",
+    "email":"info@mercuryprotocol.com"
+}

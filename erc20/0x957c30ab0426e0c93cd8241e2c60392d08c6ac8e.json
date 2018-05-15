@@ -1,0 +1,16 @@
+{
+    "website":"https://modum.io/",
+    "published_on":"2017-09-01",
+    "links":{
+        "reddit":"https://www.reddit.com/r/modum_io/",
+        "github":"https://github.com/modum-io",
+        "slack":"https://modum-token.slack.com/",
+        "twitter":"https://twitter.com/modum_io"
+    },
+    "overview":"modum.io combines IoT sensors with blockchain technology, providing data integrity for transactions involving physical products.",
+    "symbol":"MOD",
+    "initial_price":"391:1 ETH",
+    "whitepaper":"https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf",
+    "address":"0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e",
+    "email":"info@modum.io"
+}

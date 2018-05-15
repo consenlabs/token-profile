@@ -1,0 +1,17 @@
+{
+    "website":"https://privatix.io/",
+    "published_on":"2017-10-19",
+    "links":{
+        "telegram":"https://t.me/Privatix",
+        "reddit":"https://www.reddit.com/user/privatix",
+        "github":"https://github.com/Privatix",
+        "facebook":"https://www.facebook.com/Privatix.ltd/",
+        "twitter":"https://twitter.com/Privatix1"
+    },
+    "overview":"Internet Broadband Marketplace powered by P2P VPN Network on Blockchain.",
+    "symbol":"PRIX",
+    "initial_price":"100:1 ETH",
+    "whitepaper":"https://dxw4crzwfgmzw.cloudfront.net/whitepaper/PRIVATIX-WHITEPAPER.pdf",
+    "address":"0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+    "email":"support@privatix.io"
+}

@@ -1,0 +1,15 @@
+{
+    "website":"https://dock.io/",
+    "links":{
+        "telegram":"https://t.me/dockio",
+        "reddit":"https://www.reddit.com/r/dockio/",
+        "facebook":"https://www.facebook.com/getdock.io/",
+        "twitter":"https://twitter.com/dock_io"
+    },
+    "overview":"dock.io is a decentralized data exchange protocol that lets people connect their profiles, reputations and experiences across the web with privacy and security.",
+    "symbol":"DOCK",
+    "initial_price":"11111:1 ETH",
+    "whitepaper":"https://dock.io/whitepaper",
+    "address":"0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+    "email":"support@dock.io"
+}

@@ -1,0 +1,18 @@
+{
+    "website":"https://mywish.io/index.html",
+    "published_on":"2017-10-25",
+    "links":{
+        "reddit":"https://www.reddit.com/r/ethereum/comments/765b86/mywish_exlastwill_weekly_development_status_1_dr/",
+        "github":"https://github.com/mywishplatform",
+        "slack":"https://mywishteam.slack.com/",
+        "telegram":"https://t.me/MyWish_EN",
+        "twitter":"https://twitter.com/mywishplatform",
+        "facebook":"https://www.facebook.com/MyWish.io/"
+    },
+    "overview":"Aims to provide a service for funds management in case of different life events, in safe and convenient way.",
+    "symbol":"WISH",
+    "initial_price":"1288:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view",
+    "address":"0x1b22c32cd936cb97c28c5690a0695a82abf688e6",
+    "email":"support@mywish.io"
+}

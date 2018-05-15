@@ -1,0 +1,16 @@
+{
+    "website":"https://wepower.network/",
+    "published_on":"2017-02-01",
+    "links":{
+        "telegram":"https://t.me/WePowerNetwork",
+        "twitter":"https://twitter.com/WePowerN",
+        "github":"https://github.com/WePowerNetwork",
+        "facebook":"https://www.facebook.com/WePowerNetwork"
+    },
+    "overview":"Blockchain Green energy trading platform",
+    "symbol":"WPR",
+    "initial_price":"8000:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view",
+    "address":"0x4CF488387F035FF08c371515562CBa712f9015d4",
+    "email":"energy@wepower.network"
+}

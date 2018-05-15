@@ -1,0 +1,15 @@
+{
+    "website":"https://ip.sx/",
+    "published_on":"2018-02-28",
+    "links":{
+        "telegram":"https://t.me/IPExchange",
+        "twitter":"https://twitter.com/ipexchange1",
+        "facebook":"https://www.facebook.com/IPExchange/"
+    },
+    "overview":"Blockchain based system fully automated, with full clearing of utility tokens associating the price and distribution based on offer and demand for IPs",
+    "symbol":"IPSX",
+    "initial_price":"99999:1 ETH",
+    "whitepaper":"https://ip.sx/dist/Whitepaper-IPSX-05.pdf",
+    "address":"0x001f0aa5da15585e5b2305dbab2bac425ea71007",
+    "email":"contact@ip.sx"
+}

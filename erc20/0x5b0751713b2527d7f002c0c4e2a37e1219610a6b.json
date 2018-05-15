@@ -1,0 +1,15 @@
+{
+    "website":"https://ethorse.com/",
+    "links":{
+        "telegram":"https://telegram.me/ethorse",
+        "reddit":"https://www.reddit.com/r/Ethorse/",
+        "github":"https://github.com/ethorse",
+        "slack":"https://discordapp.com/invite/vdTXRmT",
+        "twitter":"https://twitter.com/EthorseTeam"
+    },
+    "overview":"DAPP to bet on the price of cryptocurrencies.",
+    "symbol":"HORSE",
+    "whitepaper":"https://ethorse.com/Whitepaper.pdf",
+    "address":"0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
+    "email":"support@ethorse.com"
+}

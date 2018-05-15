@@ -1,0 +1,16 @@
+{
+    "website":"http://www.voise.com/",
+    "published_on":"2017-05-06",
+    "links":{
+        "telegram":"https://t.me/voisecom",
+        "reddit":"https://www.reddit.com/r/voise/",
+        "github":"https://github.com/voisecom",
+        "slack":"https://voise.herokuapp.com/",
+        "twitter":"https://twitter.com/@voisecom"
+    },
+    "overview":"Block-Chain Powered Music Platform.",
+    "symbol":"VOISE",
+    "whitepaper":"https://voise.com/whitepaper-voise.pdf",
+    "address":"0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3",
+    "email":"support@voise.com"
+}

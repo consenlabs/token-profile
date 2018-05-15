@@ -1,13 +1,14 @@
 {
-    "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6", 
-    "email": "foundation@hellogold.org", 
-    "links": {
-        "github": "https://github.com/myHelloGold/Foundation", 
-        "reddit": "https://www.reddit.com/r/HelloGold/", 
-        "slack": "https://hellogold-foundation-slack.herokuapp.com/"
-    }, 
-    "overview": "HelloGold is a start-up that creates simple and accessible gold products for everyone, providing access to gold as a form of savings, loan collateral and remittance", 
-    "symbol": "HGT", 
-    "website": "https://www.hellogold.org/", 
-    "whitepaper": "https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf"
+    "website":"https://www.hellogold.org/",
+    "published_on":"2017-08-28",
+    "links":{
+        "reddit":"https://www.reddit.com/r/HelloGold/",
+        "github":"https://github.com/myHelloGold/Foundation",
+        "slack":"https://hellogold-foundation-slack.herokuapp.com/"
+    },
+    "overview":"HelloGold is a start-up that creates simple and accessible gold products for everyone, providing access to gold as a form of savings, loan collateral and remittance",
+    "symbol":"HGT",
+    "whitepaper":"https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf",
+    "address":"0xba2184520a1cc49a6159c57e61e1844e085615b6",
+    "email":"foundation@hellogold.org"
 }

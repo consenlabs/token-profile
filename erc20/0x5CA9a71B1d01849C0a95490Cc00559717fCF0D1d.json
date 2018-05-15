@@ -1,16 +1,17 @@
 {
-    "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d", 
-    "email": "info@aeternity.com", 
-    "initial_price": "0.0014ETH", 
-    "links": {
-        "facebook": "https://www.facebook.com/aeternityproject/", 
-        "github": "https://github.com/aeternity", 
-        "reddit": "https://www.reddit.com/r/Aeternity/", 
-        "telegram": "https://telegram.me/aeternity", 
-        "twitter": "https://twitter.com/aetrnty"
-    }, 
-    "overview": "Scalable smart contracts interfacing with real world data.", 
-    "symbol": "AE", 
-    "website": "https://www.aeternity.com/", 
-    "whitepaper": "https://aeternity.com/aeternity-blockchain-whitepaper.pdf"
+    "website":"https://www.aeternity.com/",
+    "published_on":"2017-05-29",
+    "links":{
+        "telegram":"https://telegram.me/aeternity",
+        "reddit":"https://www.reddit.com/r/Aeternity/",
+        "github":"https://github.com/aeternity",
+        "facebook":"https://www.facebook.com/aeternityproject/",
+        "twitter":"https://twitter.com/aetrnty"
+    },
+    "overview":"Scalable smart contracts interfacing with real world data.",
+    "symbol":"AE",
+    "initial_price":"714:1 ETH",
+    "whitepaper":"https://aeternity.com/aeternity-blockchain-whitepaper.pdf",
+    "address":"0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "email":"info@aeternity.com"
 }

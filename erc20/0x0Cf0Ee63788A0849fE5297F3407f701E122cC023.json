@@ -1,13 +1,15 @@
 {
-    "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023", 
-    "email": "contact@streamr.com", 
-    "links": {
-        "github": "https://github.com/streamr-dev", 
-        "slack": "https://slack.streamr.com/", 
-        "twitter": "https://twitter.com/streamrinc"
-    }, 
-    "overview": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.", 
-    "symbol": "DATA", 
-    "website": "https://www.streamr.com/", 
-    "whitepaper": "https://www.streamr.com/whitepaper"
+    "website":"https://www.streamr.com/",
+    "published_on":"2017-10-12",
+    "links":{
+        "twitter":"https://twitter.com/streamrinc",
+        "github":"https://github.com/streamr-dev",
+        "slack":"https://slack.streamr.com/"
+    },
+    "overview":"Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.",
+    "symbol":"DATA",
+    "initial_price":"5263:1 ETH",
+    "whitepaper":"https://www.streamr.com/whitepaper",
+    "address":"0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+    "email":"contact@streamr.com"
 }

@@ -1,0 +1,17 @@
+{
+    "website":"https://legolas.exchange/",
+    "published_on":"2018-02-01",
+    "links":{
+        "reddit":"https://www.reddit.com/r/LegolasExchange/",
+        "github":"https://github.com/LegolasExchange/LegolasToken",
+        "slack":"https://discordapp.com/invite/RATv9AV",
+        "telegram":"https://t.me/legolasannouncements",
+        "twitter":"https://twitter.com/LegolasExchange",
+        "facebook":"https://www.facebook.com/legolas.exchange/"
+    },
+    "overview":"Exchange with decentralized ledgers",
+    "symbol":"LGO",
+    "initial_price":"3232:1 ETH",
+    "whitepaper":"https://legolas.exchange/static//public/legolas-whitepaper-en.pdf",
+    "address":"0x123ab195dd38b1b40510d467a6a359b201af056f"
+}

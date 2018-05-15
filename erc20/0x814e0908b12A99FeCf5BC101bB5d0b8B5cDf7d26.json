@@ -1,15 +1,17 @@
 {
-    "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26", 
-    "email": "token@mdt.co", 
-    "links": {
-        "facebook": "https://www.facebook.com/measurabledata/", 
-        "github": "https://github.com/measurabledatatoken", 
-        "reddit": "https://www.reddit.com/r/MeasurableDataToken/", 
-        "telegram": "https://t.me/measurabledata", 
-        "twitter": "https://twitter.com/MeasurableData"
-    }, 
-    "overview": "Decentralized Data Exchange Economy.", 
-    "symbol": "MDT", 
-    "website": "https://mdt.co/", 
-    "whitepaper": "https://www.mdt.co/docs/whitepaper.pdf"
+    "website":"https://mdt.co/",
+    "published_on":"2017-11-30",
+    "links":{
+        "telegram":"https://t.me/measurabledata",
+        "reddit":"https://www.reddit.com/r/MeasurableDataToken/",
+        "github":"https://github.com/measurabledatatoken",
+        "facebook":"https://www.facebook.com/measurabledata/",
+        "twitter":"https://twitter.com/MeasurableData"
+    },
+    "overview":"Decentralized Data Exchange Economy.",
+    "symbol":"MDT",
+    "initial_price":"5000:1 ETH",
+    "whitepaper":"https://www.mdt.co/docs/whitepaper.pdf",
+    "address":"0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
+    "email":"token@mdt.co"
 }

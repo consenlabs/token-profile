@@ -1,0 +1,16 @@
+{
+    "website":"https://swissborg.com/",
+    "published_on":"2017-12-07",
+    "links":{
+        "telegram":"https://t.me/SwissBorgChat",
+        "twitter":"https://twitter.com/swissborg",
+        "github":"https://github.com/SwissBorg",
+        "facebook":"https://www.facebook.com/swissborg"
+    },
+    "overview":"Crypto Wealth Management.",
+    "symbol":"CHSB",
+    "initial_price":"4212:1 ETH",
+    "whitepaper":"https://swissborg.com/en/documents.html",
+    "address":"0xba9d4199fab4f26efe3551d490e3821486f135ba",
+    "email":"cyborg@swissborg.com"
+}

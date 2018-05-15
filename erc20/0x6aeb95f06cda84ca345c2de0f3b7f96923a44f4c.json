@@ -1,0 +1,14 @@
+{
+    "website":"https://rentberry.com/",
+    "published_on":"2017-12-05",
+    "links":{
+        "twitter":"https://twitter.com/rentberry_",
+        "github":"https://github.com/Rentberry",
+        "facebook":"https://www.facebook.com/RentberryInc/"
+    },
+    "overview":"Rentberry offers users a fully operational long-term rental platform. It leverages blockchain technology to ensure seamless rental experience.",
+    "symbol":"BERRY",
+    "whitepaper":"https://rentberry.cryptonomos.com/downloads/Rentberry_Whitepaper_en.pdf",
+    "address":"0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+    "email":"support@rentberry.com"
+}

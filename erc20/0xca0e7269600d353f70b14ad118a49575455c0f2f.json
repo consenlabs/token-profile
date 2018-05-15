@@ -1,0 +1,14 @@
+{
+    "website":"https://amlt.coinfirm.io/",
+    "published_on":"2017-12-12",
+    "links":{
+        "telegram":"https://t.me/amlt_coinfirm",
+        "twitter":"https://twitter.com/AMLT_Token",
+        "facebook":"https://www.facebook.com/AMLToken/"
+    },
+    "symbol":"AMLT",
+    "initial_price":"2941:1 ETH",
+    "whitepaper":"https://amlt.coinfirm.io/pdf/white-paper.pdf",
+    "address":"0xca0e7269600d353f70b14ad118a49575455c0f2f",
+    "email":"amlt@coinfirm.io"
+}

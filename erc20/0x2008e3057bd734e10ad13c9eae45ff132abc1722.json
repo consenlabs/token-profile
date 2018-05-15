@@ -1,0 +1,16 @@
+{
+    "website":"https://www.zebi.io/",
+    "published_on":"2018-03-05",
+    "links":{
+        "reddit":"https://www.reddit.com/user/ZebiData/",
+        "github":"https://github.com/zebidata/zebicrowdsale",
+        "slack":"https://zebicoin.slack.com/",
+        "telegram":"https://t.me/ZebiData",
+        "twitter":"https://twitter.com/ZebidataIndia",
+        "facebook":"https://www.facebook.com/ZebidataIndia/"
+    },
+    "symbol":"ZCO",
+    "whitepaper":"https://www.zebi.io/assets/wp.pdf",
+    "address":"0x2008e3057bd734e10ad13c9eae45ff132abc1722",
+    "email":"info@zebi.co"
+}

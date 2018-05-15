@@ -1,13 +1,13 @@
 {
-    "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D", 
-    "email": "hello@ebitcoin.org", 
-    "links": {
-        "github": "https://github.com/eBTCCommunityTrustToken/eBTC", 
-        "reddit": "https://www.reddit.com/r/eBTC/", 
-        "telegram": "https://t.me/ComTrust/", 
-        "twitter": "https://twitter.com/ebtcfoundation"
-    }, 
-    "overview": "The eBitcoin Ecosystem aims to bring together many Blockchain companies all under one umbrella-type group.", 
-    "symbol": "EBTC", 
-    "website": "https://ebitcoin.org/"
+    "website":"https://ebitcoin.org/",
+    "links":{
+        "telegram":"https://t.me/ComTrust/",
+        "reddit":"https://www.reddit.com/r/eBTC/",
+        "github":"https://github.com/eBTCCommunityTrustToken/eBTC",
+        "twitter":"https://twitter.com/ebtcfoundation"
+    },
+    "overview":"The eBitcoin Ecosystem aims to bring together many Blockchain companies all under one umbrella-type group.",
+    "symbol":"EBTC",
+    "address":"0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+    "email":"hello@ebitcoin.org"
 }

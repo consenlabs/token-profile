@@ -1,0 +1,16 @@
+{
+    "website":"https://eroscoin.org/",
+    "published_on":"2017-10-11",
+    "links":{
+        "telegram":"https://t.me/eroscoinplatform",
+        "twitter":"https://twitter.com/eroscoinnews",
+        "github":"https://github.com/eroscoin",
+        "facebook":"https://www.facebook.com/eroscoin/",
+        "slack":"https://eroscoin.slack.com/"
+    },
+    "overview":"Eroscoin aims to be a platform that empowers & enhances the payment systems.",
+    "symbol":"ERO",
+    "whitepaper":"https://eroscoin.org/whitepaper.pdf",
+    "address":"0x74ceda77281b339142a36817fa5f9e29412bab85",
+    "email":"support@eroscoin.org"
+}

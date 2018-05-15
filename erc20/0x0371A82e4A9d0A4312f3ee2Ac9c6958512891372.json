@@ -1,14 +1,16 @@
 {
-    "address": "0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372", 
-    "email": "Info@bitjob.io", 
-    "links": {
-        "facebook": "https://www.facebook.com/bitJobmarket/", 
-        "github": "https://github.com/bitjobteam", 
-        "telegram": "https://t.me/bitjob", 
-        "twitter": "https://twitter.com/BitJob_Team"
-    }, 
-    "overview": "Student jobs marketplace.", 
-    "symbol": "STU", 
-    "website": "https://bitjob.io/", 
-    "whitepaper": "https://drive.google.com/file/d/0B6VVmGzOdFPBb3FCdUlsNGVWMWM/view"
+    "website":"https://bitjob.io/",
+    "published_on":"2017-09-12",
+    "links":{
+        "telegram":"https://t.me/bitjob",
+        "twitter":"https://twitter.com/BitJob_Team",
+        "github":"https://github.com/bitjobteam",
+        "facebook":"https://www.facebook.com/bitJobmarket/"
+    },
+    "overview":"Student jobs marketplace.",
+    "symbol":"STU",
+    "initial_price":"888:1 ETH",
+    "whitepaper":"https://drive.google.com/file/d/0B6VVmGzOdFPBb3FCdUlsNGVWMWM/view",
+    "address":"0x0371a82e4a9d0a4312f3ee2ac9c6958512891372",
+    "email":"Info@bitjob.io"
 }

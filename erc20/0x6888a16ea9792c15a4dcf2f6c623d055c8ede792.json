@@ -1,0 +1,16 @@
+{
+    "website":"https://www.spectiv.io/",
+    "published_on":"2017-12-21",
+    "links":{
+        "telegram":"https://t.me/spectivtelegram",
+        "twitter":"https://twitter.com/spectivvr",
+        "github":"https://github.com/spectivofficial",
+        "facebook":"https://www.facebook.com/spectivvr/",
+        "slack":"https://communityinviter.com/apps/spectivvr/welcome"
+    },
+    "overview":"The Signal Token (SIG) Protocol is designed to decentralize the buying, selling, and rewarding of attention across media platforms by removing centralized intermediaries from advertising transactions.",
+    "symbol":"SIG",
+    "whitepaper":"https://drive.google.com/file/d/1-Y4-Bb9-70DhdVeTvYLZtkK5W3Lvruc-/view",
+    "address":"0x6888a16ea9792c15a4dcf2f6c623d055c8ede792",
+    "email":"info@spectivvr.com"
+}

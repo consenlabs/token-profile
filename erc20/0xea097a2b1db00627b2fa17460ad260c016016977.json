@@ -1,0 +1,15 @@
+{
+    "website":"https://www.upfiring.com/",
+    "published_on":"2017-10-03",
+    "links":{
+        "reddit":"https://www.reddit.com/r/Upfiring/",
+        "facebook":"https://www.facebook.com/upfiring",
+        "twitter":"https://twitter.com/upfiringHQ"
+    },
+    "overview":"Incentivied and deentralized P2P file sharing on the Ethereum Blockchain powered by the UFR token.",
+    "symbol":"UFR",
+    "initial_price":"10000:1 ETH",
+    "whitepaper":"https://www.upfiring.com/Upfiring_Whitepaper.pdf",
+    "address":"0xea097a2b1db00627b2fa17460ad260c016016977",
+    "email":"support@upfiring.com"
+}

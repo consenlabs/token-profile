@@ -1,0 +1,16 @@
+{
+    "website":"https://sportyco.io/",
+    "published_on":"2017-11-21",
+    "links":{
+        "telegram":"https://t.me/SportyCo_official",
+        "reddit":"https://www.reddit.com/r/SportyCo/",
+        "github":"https://github.com/sportyfi",
+        "facebook":"https://www.facebook.com/SportyCo.io",
+        "twitter":"https://twitter.com/sportyco_io"
+    },
+    "overview":"SPF Tokens will also be used to purchase additional services that SportyCo will provide to athletes, sports clubs, investors, and other participants in the ecosystem.",
+    "symbol":"SPF",
+    "whitepaper":"https://sportyco.io/SPORTYFI-Whitepaper.pdf",
+    "address":"0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef",
+    "email":"info@sportyco.io"
+}

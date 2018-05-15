@@ -1,0 +1,16 @@
+{
+    "website":"https://pareto.network/",
+    "published_on":"2017-12-01",
+    "links":{
+        "telegram":"https://t.me/paretonetworkdiscussion",
+        "reddit":"https://www.reddit.com/r/ParetoNetwork/",
+        "github":"https://github.com/ParetoNetwork",
+        "facebook":"https://www.facebook.com/paretonetworkofficial",
+        "twitter":"https://twitter.com/ParetoNetwork"
+    },
+    "overview":"The Pareto Network is a peer to peer financial content marketplace.",
+    "symbol":"PARETO",
+    "whitepaper":"https://pareto.network/download/Pareto-Technical-White-Paper.pdf",
+    "address":"0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
+    "email":"hello@pareto.network"
+}
