@@ -1,0 +1,27 @@
+{
+  "symbol": "RAC",
+  "address": "0xea8c9db193996bbc3f6a9afbdbea2b3b62c11253",
+  "overview":{
+        "en":"Cryptocurrency for the Traditional Gambling Industry"
+  },
+  "email": "info@racoin.io",
+  "website": "http://racoin.io",
+  "whitepaper": "http://racoin.io/pdf/racoin_whitepaper_eng.pdf",
+  "state": "UNLOCKED",
+  "published_on": "2018-05-31",
+  "initial_price":{
+        "ETH":"0.00001 ETH",
+        "USD":"0.0056 USD",
+        "BTC":"0.00000078 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/RAcoinNews",
+    "telegram": "https://t.me/racoinnews",
+    "github": "github.com/ra-coin/",
+    "facebook": "https://www.facebook.com/RAcoin-1348409231971565/",
+    "reddit": "https://www.reddit.com/user/RAcoinNews/",
+    "slack": "",
+    "medium": ""
+  }
+}
