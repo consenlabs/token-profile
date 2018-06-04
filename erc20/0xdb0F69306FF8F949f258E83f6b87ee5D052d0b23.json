@@ -1,11 +1,13 @@
 {
     "symbol": "GCP",
     "address": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
-    "overview": "Globcoin Crypto Platform",
+    "overview":{
+      "en":"Globcoin Crypto Platform"
+    },
     "email": "community@globcoin.io",
     "website": "https://globcoin.io/",
     "whitepaper": "https://globcoin.io/assets/whitepaper-GCP-v2.0.pdf",
-    "state": "LOCKED",
+    "state": "UNLOCKED",
     "published_on": "2018-02-09",
     "initial_price": "10000:1 ETH",
     "links": {
@@ -17,4 +19,4 @@
       "reddit": "https://www.reddit.com/r/globcoin/",
       "medium": "https://medium.com/@globcoin_io"
     }
-  }  
+}
