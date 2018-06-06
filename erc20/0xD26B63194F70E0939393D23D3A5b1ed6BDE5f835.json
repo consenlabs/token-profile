@@ -1,0 +1,21 @@
+{
+  "symbol": "SunPower",
+  "address": "0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835",
+  "overview":{
+        "en": "SunPower, focus on energy + blockchain industry, create solar energy public chain, solar energy mine, the whole blockchain ecology. The SunPower foundation will redeem the repurchase of SP on a regular basis.",
+        "zh": "光元区块链，SunPower,专注能源+区块链行业，打造太阳能公链，太阳能矿机，全区块链生态。光元基金会将定期兑换回购光元代币"
+  },
+  "email": "sp@sunpoer.io",
+  "website": "http://www.sunpoer.io",
+  "whitepaper": "http://www.360app.com/wp.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-05-18",
+  "initial_price":{
+        "ETH":"0.000021 ETH",
+        "USD":"0.012 USD",
+        "BTC":"0.0000016 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/sunpowerio",
+  }
+}
