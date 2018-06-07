@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2018-06-07",
   "initial_price":{
-        // "ETH":"0.00166666 ETH",
-        // "USD":"0.7 USD",
-        // "BTC":"0.00004137 BTC"
+        "ETH":"0.0005117 ETH",
+        "USD":"0.31 USD",
+        "BTC":"0.00004028 BTC"
   },
   "links": {
     // "blog": "",
