@@ -1,0 +1,29 @@
+
+{
+  "symbol": "IOA",
+  "address": "0x399a98fd25d43eab90b1bf0c3d75713be1dceeaa",
+  "overview":{
+        "en": "In Open Application.",
+        "zh": ""
+  },
+  "email": "contact@ioa-hcf.com",
+  "website": "http://ioa-hcf.com/",
+  "whitepaper": "http://ioa-hcf.com/IOA_HH20.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH":"0.1 ETH",
+        "USD":"1 USD",
+        "BTC":"0.00001 BTC"
+  },
+  "links": {
+    "blog": "http://ioa-hcf.com/finishes",
+    "twitter": "https://twitter.com/IOA_Furniture",
+    "telegram": "https://t.me/joinchat/IOA_Furniture",
+    "github": "https://github.com/Tutand/IOA",
+    "facebook": "https://www.facebook.com/IOA-Furniture-1187448791272744/?fref=ts",
+    "reddit": "#",
+    "slack": "#",
+    "medium": "#"
+  }
+}
