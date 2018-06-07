@@ -1,0 +1,50 @@
+Add token 0xfc5A50D9492066AB95d9fB732f3423dF71bfAA66.json
+
+{
+
+  "symbol": "FALC",
+
+  "address": "0xfc5A50D9492066AB95d9fB732f3423dF71bfAA66",
+
+  "overview":{
+
+        "en":"Token Description."
+
+  },
+
+  "email": "support@falcon.io",
+
+
+
+
+  "state": "OPENED",
+
+  "published_on": "2018-05-05",
+
+  "initial_price":{
+
+        "ETH":"0.01 ETH",
+
+        "USD":"7 USD",
+
+        "BTC":"0.0004137 BTC"
+
+  },
+
+  "links": {
+
+  
+
+    "twitter": "https://twitter.com/falcontoken",
+
+    "telegram": "https://t.me/falcontoken",
+
+
+    "reddit": "https://www.reddit.com/r/falconfun/"
+ 
+
+    "steemit": "https://steemit.com/falconfun
+
+  }
+
+}
