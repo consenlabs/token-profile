@@ -1,0 +1,21 @@
+{
+  "symbol": "AppleC",
+  "address": "0x9f99573cf3356df3649cd25d17af974fd5abb98f",
+  "overview":{
+        "en": "AppleC",
+        "zh": "支持更多实际消费场景的苹果币"
+  },
+  "email": "apple.coin@ccfan.com.cn",
+  "website": "http://applec.co/",
+  "whitepaper": "http://applec.co/doc/WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-02",
+  "initial_price":{
+        "ETH":"0.00025 ETH",
+        "USD":"0.15 USD",
+        "BTC":"0.0000198 BTC"
+  },
+  "links": {
+    "blog": "https://applec950081.github.io/AppleCoin/",
+  }
+}
