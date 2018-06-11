@@ -1,23 +1,23 @@
-+{
+{
 
-+  "symbol": "VTC",
+  "symbol": "VTC",
 
-+  "address": "0x9073d050Fa90fe910B74E2B1Eb7EFE5A016EAa05",
+  "address": "0x9073d050Fa90fe910B74E2B1Eb7EFE5A016EAa05",
 
-+  "overview":{
+  "overview":{
 
-+        "en": "VERDICT aims at building a better payment route for transportation system",
+        "en": "VERDICT aims at building a better payment route for transportation system",
 
-+        
+    
 
-+  },
+  },
 
-+  "links": {
+  "links": {
 
-+    "twitter": "https://twitter.com/VERDICTTOKEN",
+    "twitter": "https://twitter.com/VERDICTTOKEN",
 
-+    "telegram": "https://t.me/VERDICTCOMMUNITY",
+    "telegram": "https://t.me/VERDICTCOMMUNITY",
 
-+  }
+  }
 
-+}
+}
