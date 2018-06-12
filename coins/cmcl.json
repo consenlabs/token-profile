@@ -1,0 +1,15 @@
+{
+  "symbol": "CMCL",
+  "address": "Commonweal chain love",
+  "overview": "A point-to-point charitable donation system",
+  "website": "https://www.cmcl.co",
+  "whitepaper": "https://cmcl.co/images/cmcl_e.pdf",
+  "state": "FLOAT",
+  "published_on": "2018-5-1",
+  "initial_price": "1 ETH = 40000 CMCL ",
+  "links": {
+    "github": "https://gist.github.com/kabelyang/90f1b1167962dd939de56415272f47dc",
+    "twitter": "https://twitter.com/Commonweal chain"
+    
+  }
+}
