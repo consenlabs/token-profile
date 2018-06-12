@@ -1,0 +1,21 @@
+{
+  "symbol": "AppleC",
+  "address": "0x9f99573cf3356df3649cd25d17af974fd5abb98f",
+  "overview":{
+        "en": "AppleC",
+        "zh": "由韩国创始团队开发，基于ERC2.0标准协议，积极参与生态系统，支持更多实际应用场景的苹果币"
+  },
+  "email": "apple.coin@ccfan.com.cn",
+  "website": "http://apcoin.co/",
+  "whitepaper": "http://applec.co/doc/WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-06-02",
+  "initial_price":{
+        "ETH":"0.00025 ETH",
+        "USD":"0.15 USD",
+        "BTC":"0.0000198 BTC"
+  },
+  "links": {
+    "blog": "https://applec950081.github.io/AppleCoin/",
+  }
+}
