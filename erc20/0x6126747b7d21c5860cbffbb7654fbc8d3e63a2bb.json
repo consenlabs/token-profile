@@ -14,14 +14,11 @@ blockchain technology.",
   "initial_price":{
         "ETH":"0.00003618 ETH",
   },
-  "links": {
-    "blog": "https://your-awesome-project.com/blog",
+  "links": 
     "twitter": "https://twitter.com/hcmcoin-project",
     "telegram": "https://t.me/hcmcoin-project",
-    "github": "https://github.com/HCMcoin-project",
-    "facebook": "https://www.facebook.com/%E7%9B%8A%E7%94%9F%E5%81%A5%E6%AD%A5%E9%9E%8B-1155064067963686/-project",
+    "github": "https://github.com/HCMcoin-project"
     "reddit": "https://www.reddit.com/r/heise2017-project/",
-    "slack": "https://heise2013.slack.com-project",
-    "medium": "https://medium.com/your-awesome-project"
+    "slack": "https://heise2013.slack.com-project"
   }
 }
