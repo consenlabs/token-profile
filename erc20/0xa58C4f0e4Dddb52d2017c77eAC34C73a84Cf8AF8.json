@@ -1,39 +1,19 @@
-
-
-
-
-
 {
-	  "symbol": "JEO",
-	    "address": "0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8",
-	      "overview": {
-		          "en": "Joy Go EOS is a community centered platform for tourism reviews based on block chains. To connect the global travel service provider (enterprise or individual) to the consumer directly through the central block chain network, establish the product relationship through the intelligent contract, confirm the service results by online review, precipitate the tourism digital assets as the entrance, and build the vertical application of the tourism industry based on trust, incentive and low commission. JEO is an industry vertical application based on Ethernet. Its contracts, digital assets, travel records and accounts are kept and published in the ether store.",
-			      "zh": "Joy Go EOS 是基于区块链的去中心化旅游点评社区平台。通过去中心化的区块链网络直接连接全球旅行服务提供者(企业或个人)与消费者，通过智能合约建立产品关系，以在线点评确认服务结果，沉淀旅游数字资产为入口，构建基于信任、激励、低佣金的旅游行业垂直应用。JEO是一个基于以太坊开发的行业垂直应用，其合约、数字资产、旅行记录账本均在以太坊上保存并公开。
-			                  Joy Go EOS的生态系统由代号为JEO的 ERC-20 Token 所支撑，整体架构可分为三层，客户端、旅行点评平台、底层架构。"
-					    },
-					      "email": "service@joygo.pro",
-					        "website": "http://joygo.pro/",
-						  "whitepaper": "http://joygo.pro/JEO_bps.pdf",
-						    "state": "NORMAL",
-						      "published_on": "2018-06-13",
-						        "links": {
-								    "twitter": "https://twitter.com/EosJoygo",
-								        "telegram": "https://0.plus/#/jeocn",
-									    "github": "https://github.com/joygoeos/"
-									      }
-									      }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  "symbol": "JEO",
+  "address": "0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8",
+  "overview": {
+    "en": "Joy Go EOS is a community centered platform for tourism reviews based on block chains. To connect the global travel service provider (enterprise or individual) to the consumer directly through the central block chain network, establish the product relationship through the intelligent contract, confirm the service results by online review, precipitate the tourism digital assets as the entrance, and build the vertical application of the tourism industry based on trust, incentive and low commission. JEO is an industry vertical application based on Ethernet. Its contracts, digital assets, travel records and accounts are kept and published in the ether store.",
+    "zh": "Joy Go EOS 是基于区块链的去中心化旅游点评社区平台。通过去中心化的区块链网络直接连接全球旅行服务提供者(企业或个人)与消费者，通过智能合约建立产品关系，以在线点评确认服务结果，沉淀旅游数字资产为入口，构建基于信任、激励、低佣金的旅游行业垂直应用。JEO是一个基于以太坊开发的行业垂直应用，其合约、数字资产、旅行记录账本均在以太坊上保存并公开。
+            Joy Go EOS的生态系统由代号为JEO的 ERC-20 Token 所支撑，整体架构可分为三层，客户端、旅行点评平台、底层架构。"
+  },
+  "email": "service@joygo.pro",
+  "website": "http://joygo.pro/",
+  "whitepaper": "http://joygo.pro/JEO_bps.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-13",
+  "links": {
+    "twitter": "https://twitter.com/EosJoygo",
+    "telegram": "https://0.plus/#/jeocn",
+    "github": "https://github.com/joygoeos/"
+  }
+}
