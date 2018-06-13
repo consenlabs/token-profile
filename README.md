@@ -1,5 +1,5 @@
 # Token Profile
-
+#######
 The purpose of the repo is to make users know more about tokens details.
 
 It will be revealed in imToken 2.0 by going through **Wallet(tab)** -> **Token(for example, ETH)** -> **Token Profile Button(right-top corner)**.
