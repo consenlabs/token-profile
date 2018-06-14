@@ -1,0 +1,23 @@
+{
+  "symbol": "HCM",
+  "address": "0x6126747b7d21c5860cbffbb7654fbc8d3e63a2bb",
+  "overview":{
+        "en": "Fully release the vitality of new retail with
+blockchain technology.",
+        "zh": "用区块链技术全面释放新零售的活力"
+  },
+  "email": "admin@hcmcoin.club",
+  "website": "https://www.hcmcoin.io/",
+  "whitepaper": "https://www.hcmcoin.io/HCMWhitePaper.pdf",
+  "published_on": "Mar-16-2018",
+  "initial_price":{
+        "ETH":"0.00003618 ETH",
+  },
+  "links": {
+    "twitter": "https://twitter.com/hcmcoin-project",
+    "telegram": "https://t.me/hcmcoin-project",
+    "github": "https://github.com/HCMcoin-project",
+    "reddit": "https://www.reddit.com/r/heise2017-project/",
+    "slack": "https://heise2013.slack.com-project",
+  }
+}
