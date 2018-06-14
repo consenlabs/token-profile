@@ -1,6 +1,10 @@
 {
     "website": "http://jhfund.vip",
     "published_on": "2018-06-08",
+    "links": {
+        "telegram": "https://t.me/PyramidPMD",
+        "github": "https://github.com/Pyramid-PMD"
+    },
     "overview": {
         "en": "Pyramid is next generation of decentralized file storage underlying protocol. The goal of Pyramid is to build a distributed IaaS service platform. Pyramid combines flexible development tools to help developers release software and benefit from them, which changes the way storage tasks are organized and executed. By implementing decentralized microservices and asynchronous task execution, Pyramid is committed to becoming the cornerstone of building a future Internet world. By significantly reducing storage costs, everyone will benefit.",
         "zh": "Pyramid 是下一代去中心化文件存储底层协议。Pyramid 的目标是建立一个分布式的IaaS 服务平台。Pyramid 结合灵活的开发工具，帮助开发者发布软件并赚钱，进而改变了存储任务的组织和执行方式。通过实现去中心微服务和异步任务执行，Pyramid 致力于成为建设未来互联网世界的基石。通过大幅降低存储成本，将惠及每个人。"
