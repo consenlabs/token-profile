@@ -1,0 +1,18 @@
+{
+    "symbol": "AIC",
+    "address": "0xb9de4c5377409a74e5f1c2bff50cb5190c7c357f",
+    "overview": {
+        "en": "The bottom of the AItoken public chain is the AIC (block chain technology) research and development center team using its own core block chain R & D technology in Ethereum (Ethereum is the most typical distributed computing and block chain computing platform, the terminal function for all users, so that the user transaction process can be built into an intelligent contract. ' Platform.) On the basis of conquering common understanding, accounting mechanism and other mechanisms under the Commonwealth barrier, we independently developed a block chain intelligent contract solution ",
+        "zh": "速源链公有链底层是速源链（区块链技术）研发中心团队利用自身核心区块链研发技术在 Ethereum“ 以太坊”（ Ethereum 是最典型的分布式计算与区块链相结合的计算平台， 所具有的的终端功能面向所有用户， 让用户交易流程能搭建成为智能合约的平台。） 的基础上攻克共识、 核算等机制的庸肿壁垒下自主研发的区块链智能合约解决方案 "
+    },
+    "email": "services@aicchain.co",
+    "website": "https://www.aicchain.co/",
+    "whitepaper": "http://www.aicchain.co/AIC.pdf",
+    "published_on": "2018-05-29",
+    "initial_price": {
+        "ETH": "0.03647604 ETH",
+        "USD": "21.73 USD",
+        "BTC": "0.002886 BTC"
+    },
+    "links": {}
+}
