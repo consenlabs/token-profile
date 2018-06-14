@@ -2,8 +2,8 @@
   "symbol": "BTME",
   "address": "0xc5f39df24f5e8cb4503bcae74850a1a9a6da242a",
   "overview":{
-        "en": "BTME platform introduces a full-blown ecosystem for eSports and gaming industries with a focus on content generation and practical needs of streamers, providing unqiue interactive opportunities for all participants of the ecosystem - eSports tournament organizers, the streamers and the viewers.",
-        "zh": "BTME平台为电子竞技和游戏引入了全面的生态系统，重点是内容生成和流行的实际需求，而电子竞技和游戏中的大多数项目都集中在具体的解决方案上，只解决了电竞市场"
+        "en": "BTME is a full-blown ecosystem",
+        "zh": "BTME是完备的生态系统"
   },
   "email": "btme16sxdd3@163.com",
   "website": "http://www.vixtrip.com",
@@ -12,7 +12,5 @@
   "published_on": "2018-06-12",
   "initial_price":{
         "USD":"0.05 USD"
-  },
-  "links": {
   }
 }
