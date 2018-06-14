@@ -1,0 +1,28 @@
+{
+  "symbol": "aisi",
+  "address": "0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d",
+  "overview":{
+        "en":"AISI Group-token ."
+  },
+  "email": "contact@aisi500.org",
+  "website": "https:/www.aisi500.com/",
+  "whitepaper": "https://www.aisi500.org/",
+  "state": "LOCKED",
+  "published_on": "2018-05-30",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "https://www.aisi500.org/",
+    "twitter": "https://www.aisi500.org/",
+    "telegram": "https://www.aisi500.org/",
+    "github":  "https://github.com/aisigroup",
+    "facebook": "https://www.facebook.com/#",
+    "reddit": "https://www.reddit.com/r/#/",
+    "slack": "https://www.aisi500.org/",
+    "medium": "https://www.aisi500.org/"
+  }
+}
+
