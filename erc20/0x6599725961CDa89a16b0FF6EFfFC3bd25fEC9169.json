@@ -1,0 +1,14 @@
+{
+  "symbol": "OG",
+  "address": "0x6599725961CDa89a16b0FF6EFfFC3bd25fEC9169",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "website": "www.onlygame.io",
+  "state": "NORMAL",
+  "published_on": "2018-06-15",
+  "initial_price":{
+        "ETH":"0.00005 ETH"
+  }
+}
