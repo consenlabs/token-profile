@@ -1,0 +1,23 @@
+{
+  "symbol": "DY",
+  "address": "0x9b3502dF03D20bedDf429B205db26E74E62E32b3",
+  "overview":{
+        "en": "Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace, where musicians are matched with booking agencies and event organizers.",
+        "zh": "现场音乐生态系统众包平台。"
+  },
+  "email": "support@viberate.io",
+  "website": "https://www.viberate.io/",
+  "whitepaper": "https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-05",
+  "initial_price":{
+        "ETH":"0.00016528 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.000013 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/viberate_com",
+    "telegram": "https://t.me/joinchat/F-zenkQffjbGY7YqqSQl1w",
+    "facebook": "https://www.facebook.com/viberateOFC/",
+  }
+}
