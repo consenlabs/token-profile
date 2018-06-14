@@ -1,0 +1,18 @@
+{
+    "symbol": "VAO",
+    "address": "0x33dbFE3b3F4Cee8749f1435A848082F863C0BfA4",
+    "overview":{
+          "en":"The VAO blockchain aims to solve the bottleneck of online games where digital assets (game coins, game props) cannot cross game transactions. By establishing a mapping relationship between the digital assets in the game and the Token on the chain, the trading of digital assets in the game is realized. The digital assets in the game can be freely circulated among players, players and trading platforms, and players and investors. What's more, this will activate the entire game ecosphere. Blockchain has become a hot topic in the past two years because of its integration of technologies such as distributed data storage, point-to-point transmission, consensus mechanisms, and encryption algorithms. Blockchain can effectively solve the falsification of data in the system during the traditional transaction mode. In order to build a trusted trading environment and build a trusted society. In 2018, the blockchain and its related industries speed up development. China will lead the world into the “blockchain credible digital economic society”, and we are facing significant industrial opportunities in the blockchain.The VAO uses blockchain technology to achieve registration, transactions, and settlement of game assets.By digitizing game assets, game props can be freely transferred and traded, and in-game reputation systems can be established.In this way, the game player’s virtual assets’ property rights are protected. On this basis, based on the VAO platform, a new generation of value circulation networks will be created to allow digital assets to flow freely."
+    },
+    "email": "vaoofficial@outlook.com",
+    "website": "https://github.com/VAOOS",
+    "whitepaper": "https://github.com/VAOOS/VAO/blob/master/VAO/whitepaper/VAOWhitePaper.pdf",
+    "state": "LOCKED",
+    "published_on": "2018-06-01",
+    "initial_price":{
+          "ETH":"0.00021277 ETH"
+    },
+    "links": {
+      "github": "https://github.com/VAOOS"
+    }
+  }
