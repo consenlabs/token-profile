@@ -1,0 +1,28 @@
+{
+  "symbol": "KYB",
+  "address": "0x09337Fc4bAFff8D60F877c6566b0cB61dB1455b7",
+  "overview":{
+        "en": "Kang Yang Block",
+        "zh": "康养链（kang yang block)?是一款基于实体锚定恒量发行的数字固定资产，通过区块链技术与钱包存储，集金融，服务、医疗、康养社区、的国家政策支持发展的生态服务。玩家可在康养链中、通过挖矿、认购、投资交易，创造服务、建设服务标准、获得利益，甚至可以探索医疗行业，将去中心化的供应量金融，将传统的供应链交易方式转换成可信的业务往来，我们的虚拟市场完全去中心化，每销售的一笔，采销的一笔或者服务的定价权完全交给市场，由市场而动，市场而精。"
+  },
+  "email": "2468630704@qq.com",
+  "website": "https://www.kybcoin.top/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
