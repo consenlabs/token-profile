@@ -1,0 +1,25 @@
+{
+  "symbol": "BATT",
+  "address": "0xd1dC215E1e4Df951D0E0FA8E28efa6b3809Adf5F",
+  "overview":{
+        "en": "BattleWin Token (BATT) is the utility Token used across Battle.win platform ",
+        "zh": "搏盈链是用于 Battle.win平台的功能性通证"
+  },
+  "email": "vv@battle.win",
+  "website": "www.battle.win",
+  "whitepaper": "www.battle.win/download/battwhitepaper.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-06-14",
+  "initial_price":{
+        "ETH":"0.0000416666 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/BATTinternat",
+    "telegram": "https://t.me/BattleWininternational",
+    "facebook": "https://www.facebook.com/intrenat.batt.7",
+    "reddit": "https://www.reddit.com/user/BATTinternat/",
+    "medium": "https://medium.com/@battinternat"
+  }
+}
+
+
