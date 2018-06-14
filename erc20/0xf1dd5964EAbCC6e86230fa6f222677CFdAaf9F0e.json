@@ -1,0 +1,18 @@
+{
+  "symbol": "THM",
+  "address": "0xf1dd5964EAbCC6e86230fa6f222677CFdAaf9F0e",
+  "overview":{
+        "en": "Themis Chain is a decentralized forecasting ecosystem based on blockchain technology. It aims to provide more credible forecasts, and more immediate validation of future event outcomes. Users can create events on the Themis Chain platform, to express their judgments and predictions on future events.",
+        "zh": "Themis Chain是基于区块链技术打造的一个去中心化的预测生态平台，旨在为未来事件提供更可信的预测，为普遍性事件、实体等提供价格预测参考。用户可以在平台上创建事件，表达其对未来事件的判断与预测。"
+  },
+  "email": "themischain@gmail.com",
+  "website": "https://www.themis.im/",
+  "whitepaper": "https://ohduoklem.qnssl.com/wp/ThemisChain_Whitepaper_v1.0.6_English.pdf",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ThemisChain",
+    "telegram": "https://t.me/THM_Official",
+    "github": "https://github.com/themischain",
+    "medium": "https://github.com/themischain"
+  }
+}
