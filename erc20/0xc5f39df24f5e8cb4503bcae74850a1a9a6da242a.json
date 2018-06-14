@@ -9,5 +9,8 @@
   "website": "http://www.vixtrip.com",
   "whitepaper": "http://www.vixtrip.com/btme.pdf",
   "state": "NORMAL",
-  "published_on": "2018-06-12"
+  "published_on": "2018-06-12",
+  "initial_price":{
+        "USD":"0.05 USD"
+  }
 }
