@@ -1,0 +1,18 @@
+{
+  "symbol": "RNT",
+  "address": "0xff603f43946a3a28df5e6a73172555d8c8b02386",
+  "overview":{
+        "en": "",
+        "zh": "ONEROOT介绍：ONEROOT秉持共赢理念，提供基于共识协议的数字资产基础设施，与各方共建更加适配区块链行业特点的共享型经济生态体系。具体来说，ONEROOT希望在数字资产生态的所有共建者中达成共识，共建平等开放的区块链信息数据平台，共享业内资源充分流通带来的收益；同时，在共识协议基础上，建设数字资产基础设施，为需求者提供资讯、投资、交易和流动性等解决方案，方便更多外部资源进入区块链行业，形成可持续发展共享共赢的区块链经济生态。 "
+  },
+  "email": "market@oneroot.io",
+  "website": "https://www.oneroot.io",
+  "whitepaper": "https://www.oneroot.io/static/pdf/whitepaperCH.pdf",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/OneRootNetwork",
+    "telegram": "https://t.me/OneRootProject",
+    "reddit": "https://www.reddit.com/r/OneRoot/controversial",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
