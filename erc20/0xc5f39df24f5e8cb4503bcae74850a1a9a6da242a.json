@@ -1,0 +1,16 @@
+{
+  "symbol": "BTME",
+  "address": "0xc5f39df24f5e8cb4503bcae74850a1a9a6da242a",
+  "overview":{
+        "en": "BTME is a full-blown ecosystem",
+        "zh": "BTME是完备的生态系统"
+  },
+  "email": "btme16sxdd3@163.com",
+  "website": "http://www.vixtrip.com",
+  "whitepaper": "http://www.vixtrip.com/btme.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-12",
+  "initial_price":{
+        "USD":"0.05 USD"
+  }
+}
