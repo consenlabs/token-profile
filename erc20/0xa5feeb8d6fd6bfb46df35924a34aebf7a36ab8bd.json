@@ -8,7 +8,7 @@
   "email": "service@huc.im",
   "website": "http://huc.im",
   "whitepaper": "http://huc.im/whitePaper.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-06-01",
   "initial_price":{
     "ETH":"0.00066666 ETH",
