@@ -10,7 +10,6 @@
   "state": "NORMAL",
   "published_on": "2018-06-15",
   "initial_price":{
-        "USD":"0.15 USD",  
-        "CNY":"1.00 CNY"
+        "USD":"0.15 USD"  
   }
 }
