@@ -1,9 +1,9 @@
 {
-    "website": "https://www.sie.top/",
+    "website": "http://www.sie.top/",
     "published_on": "2018-06-11",
     "overview": {
-        "en": "",
-        "zh": "sie定位于去中心化数字资产交易平台，本身构架包含去中心化策略，与公有链SIE-chain应用契合度非常高."
+        "en": "SIE is a globally used credit issued by the Star International Blockchain Foundation. The initial SIE is based on the Ethereum erc 20 agreement, and will be transferred to a self-developed public chain SIE chain in the future, to promote the development of whole ecosystems including digital asset trading platforms and other applications (DApps).",
+        "zh": "SIE是由Star International blockchain 基金会发行的全球通用积分，简称SIE。SIE初期基于以太坊 erc 20协议发行，未来会转移到自研的公有链SIE chain（SIE-chain）之上，推动包括数字资产交易平台及其他应用（DApps）之间的生态体系建设。"
     },
     "state": "NORMAL",
     "symbol": "SIE",
