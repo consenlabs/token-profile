@@ -1,0 +1,21 @@
+{
+  "symbol": "HUC",
+  "address": "0xa5feeb8d6fd6bfb46df35924a34aebf7a36ab8bd",
+  "overview":{
+    "en": "中国红客联盟成员组建开发新时代区块链社交钱包，推动区块链更快的发展，将应用的各个领域用于快速支付通道，打造新联盟。",
+    "zh": "Members of the China Red Guest Alliance formed and developed a new era of blockchain social wallets to promote the faster development of the blockchain, using all areas of the application for rapid payment channels and creating new alliances."
+  },
+  "email": "service@huc.im",
+  "website": "http://huc.im",
+  "whitepaper": "http://huc.im/whitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-01",
+  "initial_price":{
+    "ETH":"0.00066666 ETH",
+    "USD":"0.02 USD",
+    "BTC":"0.00000137 BTC"
+  },
+  "links": {
+    "blog": "http://huc.im/"
+  }
+}
