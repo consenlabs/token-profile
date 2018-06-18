@@ -1,0 +1,21 @@
+{
+      "symbol": "Che",
+      "address": "0x25a1DE1C3eE658FE034B8914a1D8d34110423AF8",
+      "overview":{
+            "en": "Content Neutrality Network",
+            "zh": "内容中立网络（Content Neutrality Network）"
+      },
+      "email": "business@cnntoken.io",
+      "website": "https://cnntoken.io",
+      "whitepaper": "https://cnntoken.io/files/CNN_Whitepaper_en.pdf",
+      "state": "NORMAL",
+      "published_on": "2018-02-01",
+      "initial_price":{
+            "ETH":"0.000001 ETH"
+      },
+      "links": {
+        "twitter": "https://twitter.com/CNN_Blockchain",
+        "telegram": "https://t.me/cnn_cn_community",
+        "github": "https://github.com/cnntoken"
+      }
+    }
