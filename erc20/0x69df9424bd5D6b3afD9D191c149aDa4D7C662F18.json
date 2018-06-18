@@ -1,4 +1,8 @@
 {
     "symbol": "XTT",
-    "address": "0x69df9424bd5D6b3afD9D191c149aDa4D7C662F18"
+    "address": "0x69df9424bd5D6b3afD9D191c149aDa4D7C662F18",
+    "overview": {
+        "zh": "XTT 是 XTRA 数字资产交易平台的权益证明,拥有创新的“贡献即挖矿”机制。XTT 发行总量恒定100 亿枚,永不增发。 XTRA 会将大部分收入及时分配给 XTT 的持有者。同时,XTT 作为 XTRA 社区权益的代表,是 XTRA 社区治理的基石。"
+     },
+     "email": "xtraexchange@gmail.com"
 }
