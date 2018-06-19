@@ -1,0 +1,20 @@
+{
+  "symbol": "MNR",
+  "address": "0x5f824733d130Ad85EC5e180368559CC89D14933D",
+  "overview":{
+        "en": "MNR is ERC20 token used for Monoreto social network",
+        "zh": "我们创造赞货币化的社交网络"
+  },
+  "email": "granev@monoreto.com",
+  "website": "https://monoreto.com/",
+  "whitepaper": "https://monoreto.com/eng/resources/Monoreto_WP_ENG.pdf",
+  "published_on": "2018-05-07",
+  "links": {
+    "twitter": "https://twitter.com/MonoretoSocial",
+    "telegram": "https://t.me/monoreto_en",
+    "github": "https://github.com/monoreto/",
+    "facebook": "https://www.facebook.com/monoreto/",
+    "reddit": "https://www.reddit.com/user/Monoreto",
+    "medium": "https://medium.com/@monoretoinc"
+  }
+}
