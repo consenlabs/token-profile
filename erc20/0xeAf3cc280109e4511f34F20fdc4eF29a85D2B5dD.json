@@ -1,0 +1,12 @@
+﻿{
+  "symbol": "GCA",
+  "address": "0xeAf3cc280109e4511f34F20fdc4eF29a85D2B5dD"
+  "overview":{
+	"en":"A secure, decentralized blockchain solution to deliver 100,000+ on-chain TPS",
+	"zh": "一个安全、去中心化的，具有每秒10w+链上交易处理能力的区块链"
+  }
+  "published_on": "2018-06-19",
+  "initial_price": {
+	"ETH": "0.00017 ETH"
+  }
+}
