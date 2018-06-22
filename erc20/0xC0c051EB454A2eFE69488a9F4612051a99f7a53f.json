@@ -1,0 +1,18 @@
+{
+  "website": "https://www.egochain.io",
+  "symbol": "EGO",
+  "whitepaper": "https://www.egochain.io/white_paper.pdf",
+  "address": "0xC0c051EB454A2eFE69488a9F4612051a99f7a53f",
+  "overview":{
+        "en": "",
+        "zh": "异构链，实现数字内容上链为创业者实现更广泛的价值"
+  },
+  "email": "service@egochain.io",
+  "published_on": "2018-06-18",
+  "initial_price": {
+        "USD": "0.0600 USD"
+    },
+   "links": {
+    "github": "https://github.com/ego",
+  }
+}
