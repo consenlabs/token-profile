@@ -1,0 +1,30 @@
+{
+  "symbol": "XLMGOLD",
+  "address": "0x400a125eB01B59e01612382014aD64ad83DC25A5  ",
+  "overview":{
+        "en": "World's first anonymous mining farm Stellargold
+In our project we are offering three services like crypto-mining , bounty platform and ico services.We provide quality and the cheapest ico services in the world.With just $200 we are starting up an ico but not to all who's motto is only to earn money but to those who have a solution to a problem.
+Our mining platform offers cheapest and quality mining services with just $10 as miner registration fee and buying hashpower will be in terms of Stellargold tokens and the payouts are also sent in Stellargold tokens hence it is more affordable even for airdroppers to mine at Stellargold platform.We also have a bounty program which aims at providing poor people with daily income even for their food.50% of world's population is under poverty and hence our bounty platform helps to give them a little income
+Our Mining farm is the world's first anonymous mining farm in the world. Now a lot of data scams are occurring throughout the world and stellargold aimed at making their privacy secure and thereby we won't have any sort of communication with our miners except their ethereum address.
+We have made use of SHA - 256 and Scrypt using a large number of miners having great efficiency which makes you to earn nearly 25 - 45% of what you have invested at our mining farm,which is the best in this technology.Our region is having the world's largest wind farm and our climate is pretty dry and we can easily generate energy through wind and sun which makes our cost of mining so economical and hence we can mine at a very low cost and provide greatest output from our mining farm.And also we use cloud mining technology in which we cloud a lot of miners to a main network and hence the rate of finding the blocks can be increased at a faster rate and also we use special scrypt that are pooled to various miners and it constantly checks for the number of miners set anytime and configure our miners automatically to the pool with less traffic and hence the power of mining is increased at a greater rate.And hence our mining farm can mine cost efficiently.",
+        "zh": ""
+  },
+  "email": "support@stellargoldcoin.com",
+  "website": "https://stellargoldcoin.com/",
+  "whitepaper": "https://stellargoldcoin.com/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2018-02-15",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.10 USD",
+        
+  },
+  "links": {
+   
+    "twitter": "https://twitter.com/stellar_gold",
+    "telegram": "https://t.me/stellargoldsupport",
+    "github": "https://github.com/Stellargoldcoin",
+    "facebook": "https://www.facebook.com/Stellargoldcoin-2022368094650879/",
+    "medium": "https://medium.com/@stellargoldico"
+  }
+}
