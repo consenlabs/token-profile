@@ -1,0 +1,19 @@
+{
+  "symbol": "Funkey Pay",
+  "address": "0xee478b1797fe3e9922422b3adb72493ae8e81488",
+  "overview":{
+        "en": "The New P2P Payment Solution on SNS Services. "
+  },
+  "email": "official@funkeypay.com",
+  "website": "http://funkeypay.com",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-04-29",
+  "initial_price":{
+  },
+  "links": {
+    "twitter": "https://twitter.com/funkey_pay",
+    "telegram": "https://t.me/FUNKEYpay",
+    "github": "https://github.com/funkeypay/FunkeyPay",
+    "facebook": "https://www.facebook.com/FNKpay"
+  }
+}
