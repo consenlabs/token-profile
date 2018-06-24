@@ -16,13 +16,7 @@
         "BTC":"0.00004 BTC"
   },
   "links": {
-    "blog": "",
-    "twitter": "",
     "telegram": "https://0.plus/ino_chain",
-    "github": "https://github.com/simpai-dot-net",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/simpai-dot-net"
   }
 }
