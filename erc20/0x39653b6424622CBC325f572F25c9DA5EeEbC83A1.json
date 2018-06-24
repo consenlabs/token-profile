@@ -1,0 +1,28 @@
+{
+  "symbol": "INO",
+  "address": "0x39653b6424622CBC325f572F25c9DA5EeEbC83A1",
+  "overview":{
+        "en": "Innovations Token",
+        "zh": "创新链"
+  },
+  "email": "simple_ai@outlook.com",
+  "website": "https://innovationschain.net/",
+  "whitepaper": "https://innovationschain.net/whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.65 USD",
+        "BTC":"0.000041 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "https://0.plus/ino_chain",
+    "github": ""https://github.com/simpai-dot-net",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
