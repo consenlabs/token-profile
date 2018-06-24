@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2018-07-05",
   "initial_price":{
-        "ETH":"0.00034 ETH",
-        "USD":"0.15 USD",
-        "BTC":"0.00002562 BTC"
+        "ETH":"0.000034 ETH",
+        "USD":"0.015 USD",
+        "BTC":"0.000002562 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/VRCHAIN",
