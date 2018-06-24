@@ -8,7 +8,6 @@
 
   "website": "http://wswallets.com/",
   "whitepaper": "http://wswallets.com/img/baipi.pdf",
-  "state": "LOCKED | NORMAL",
   "published_on": "2018-06-01",
   "initial_price":{
         "ETH":"0.0015 ETH"
