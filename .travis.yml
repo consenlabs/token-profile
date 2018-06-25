@@ -5,6 +5,7 @@ node_js:
   - "node"
   - "9.3.0"
 
+  - "lts/carbon"
 cache:
   directories:
     - "node_modules"
