@@ -1,0 +1,15 @@
+{
+  "symbol": "BUE",
+  "address": "0x4acebeaa395569feaccdf70f919f36b4493cdeeb",
+  "overview":{
+        "en": "wanshanglian",
+        "zh": "万商链"
+  },
+
+  "website": "http://wswallets.com/",
+  "whitepaper": "http://wswallets.com/img/baipi.pdf",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH":"0.0015 ETH"
+  }
+}
