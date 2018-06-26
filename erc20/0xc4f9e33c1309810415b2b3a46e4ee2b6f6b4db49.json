@@ -1,0 +1,22 @@
+{
+  "symbol": "SEO",
+  "address": "0xc4f9e33c1309810415b2b3a46e4ee2b6f6b4db49",
+  "overview":{
+        "en": "SEO is committed to creating the world's largest decentralized search engine service, which can replace traditional search engines. The system can be extended through a large number of applications, enabling us to design in a cost-effective way from the presence of robots to form an Al outsourcing market. The source code for the search engine is open source, and everyone can use blockchain to accumulate every piece of data for free. The data chain is managed through a decentralized autonomous organization that functions according to the DPOS consensus algorithm.",
+        "zh": "SEO致力于打造全球最大的去中心化搜索引擎服务，它可以替代传统搜索引擎。该系统可通过大量应用程序进行拓展，使得我们能够以经济合理的方式设计出自有机器人，形成一个Al外包市场。搜索引擎的源代码为开放源码，每个人都可以免费使用区块链积累的每一个数据。数据上链通过一个去中心化自治组织管理，该组织依据DPOS共识算法发挥作用。"
+  },
+  "email": "team@seochain.io",
+  "website": "https://seochain.io",
+  "whitepaper": "https://www.seochain.io/s/SEO-COIN-English-WhitePaper-whyf.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-07",
+  "initial_price":{
+        "ETH":"0.0005117 ETH",
+        "USD":"0.31 USD",
+        "BTC":"0.00004028 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/thpc_official",
+    "telegram": "https://0.plus/seo_chain",
+  }
+}
