@@ -2,8 +2,10 @@ language: node_js
 sudo: enabled
 
 node_js:
-  - "lts/carbon"
+  - "node"
+  - "9.3.0"
 
+  - "lts/carbon"
 cache:
   directories:
     - "node_modules"
