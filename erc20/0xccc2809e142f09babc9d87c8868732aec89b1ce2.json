@@ -1,0 +1,19 @@
+﻿{
+    "website": "https://www.stjfw.net/",
+    "published_on": "2018-06-26",
+    "links": {
+        "github": "https://github.com/Mcddx/token-profile/"
+    },
+    "overview": {
+        "en": "DC is builded by developer.",
+        "zh": "DC是由开发者开发的开发币。"
+    },
+    "symbol": "DC",
+    "initial_price": {
+        "ETH": "0.001 ETH",
+        "CNY": "3 CNY"
+    },
+    "whitepaper": "https://www.stjfw.net/",
+    "address": "0xccc2809e142f09babc9d87c8868732aec89b1ce2",
+    "email": "511490508@qq.com"
+}
