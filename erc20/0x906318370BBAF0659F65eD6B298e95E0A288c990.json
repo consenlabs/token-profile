@@ -1,0 +1,17 @@
+{
+  "symbol": "ADCC",
+  "address": "0x906318370BBAF0659F65eD6B298e95E0A288c990",
+  "overview":{
+    "zh": "Kingkong Group将以钻石实物为基础，通过收益参与债券（PPN）及资产证券化（ABS）等多种金融工具，将实物钻石转换成可直接交易的商品互换合约，也就是ADCC电子大宗商品。"
+  },
+  "email": "15627265058@163.com",
+  "website": "www.adcc.world",
+  "whitepaper": "www.addc.world/addc.pdf",
+  "state": "LOCKED",
+  "published_on": "2018年4月6日",
+  "initial_price":{
+    "USDT":"0.73 USDT"
+  },
+  "links": {
+  }
+}
