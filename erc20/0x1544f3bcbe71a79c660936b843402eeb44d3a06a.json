@@ -1,0 +1,22 @@
+{
+  "symbol": "FOF",
+  "address": "0x1544f3bcbe71a79c660936b843402eeb44d3a06a",
+  "overview":{
+        "en": "FoundofFounds chain is an intelligent investment system of parent fund based on block technology.The system USES the block chain technology and the artificial intelligence technology to invest intelligently and remould the investment process through the block chain.",
+        "zh": "FoundofFounds(FOF)智金链是一个基于区块技术的母基金智能投资系统。系统利用区块链技术以及人工智能技术智能投资，通过区块链重塑投资流程。"
+  },
+  "email": "aifof.vip@gmail.com",
+  "website": "https://aifof.vip/",
+  "whitepaper": "https://aifof.vip/FOF-V1.0.pdf",
+  "state": " NORMAL",
+  "published_on": "2018-03-26",
+  "initial_price":{
+        "ETH":"0.000333 ETH",
+        "USD":"0.156 USD",
+        "BTC":"0.00002 BTC"
+  },
+  "links": {
+    "币用": "https://0.plus/aifof",
+    "telegram": "https://t.me/aifof",
+  }
+}
