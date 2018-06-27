@@ -8,11 +8,7 @@
   "website": "https://siacashcoin.com/",
   "whitepaper": "https://siacashcoin.com/#whitepaper",
   "state": "NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0 ETH",
-        "USD":"0 USD",
-        "BTC":"0 BTC"
+
   },
   "links": {
     "Discord": "https://discord.gg/yZSkdFV",
