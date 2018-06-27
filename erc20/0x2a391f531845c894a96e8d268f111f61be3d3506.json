@@ -1,0 +1,9 @@
+{
+  "symbol": "AU",
+  "address": "0x2a391f531845c894a96e8d268f111f61be3d3506",
+  "website": "https://www.audt.cc/",
+  "published_on": "2018-06-20",
+  "initial_price": {
+    "ETH": "0.00005 ETH"
+  }
+}
