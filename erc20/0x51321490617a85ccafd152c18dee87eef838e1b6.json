@@ -1,0 +1,12 @@
+﻿{
+  "symbol": "CAR",
+  "overview":{
+        "en": "About the design, production, circulation, valuation, financial and related industries of the car.",
+        "zh": "关于车的设计、生产、流通、估值、金融以及相关产业的公链。"
+  },
+  "state": "NORMAL",
+  "published_on": "2018-06-22",
+  "initial_price":{
+        "USD":"0.001538 USD"
+  }
+}
