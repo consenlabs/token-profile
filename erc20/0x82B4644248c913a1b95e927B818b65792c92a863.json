@@ -1,0 +1,26 @@
+{
+  "symbol": "VRW",
+  "address": "0x82B4644248c913a1b95e927B818b65792c92a863",
+  "overview":{
+        "en": "The token for Virtual Reality World Network",
+        "zh": "虚拟世界网络代币"
+  },
+  "email": "vrw@vrw.network",
+  "website": "https://vrw.network/",
+  "whitepaper": "https://vrw.network/whitepaper_v1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-05",
+  "initial_price":{
+        "ETH":"0.000034 ETH",
+        "USD":"0.015 USD",
+        "BTC":"0.000002562 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/VRCHAIN",
+    "telegram": "https://t.me/VRCHAIN",
+    "github": "https://github.com/VRCHAIN/VRCHAIN",
+    "facebook": "https://www.facebook.com/VRCHAIN-1336922876413014/",
+    "slack": "https:// VRCHAIN.slack.com"
+  }
+}
+
