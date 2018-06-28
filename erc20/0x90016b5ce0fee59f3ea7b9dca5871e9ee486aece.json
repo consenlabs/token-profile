@@ -2,8 +2,11 @@
   "symbol": "WELL(Wellspring)",
   "address": "0x90016b5ce0fee59f3ea7b9dca5871e9ee486aece",
   "overview":{
-        
-      "zh":"为全球区块链爱好者提供优质的区块链项目及最新的官方消息"
+          "en": "WellSpring is an integrated information platform strives to become the “Medium” for top-quality blockchain projects all over the world. Project selected by our patent mechanism can benefit from our one-stop services, cover timely update localization, community promotion campaign, target traffic supply, and a built-in crypto exchange with OTC services in WellSpring’s coming version of app.
+",
+        "zh": "Wellspring的目标是成为全球优质项目们的第二官网、第二社区，帮项目一站式解决中日韩翻译、社区传播、交易问题，App将会是一个专门面向区块链行业的Medium。
+" 
+      
   },
   "links": {
         "facebook": "https://www.facebook.com/WellSpring-359829807850922/?modal=admin_todo_tour"
