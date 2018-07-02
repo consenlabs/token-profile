@@ -1,9 +1,9 @@
-﻿{
+{
   "symbol": "FLOW",
   "address": "0x60eFbd3150459De7B1568889bcE04245aFc83Bde",
   "overview":{
         "en": "Flow chain builds a minimalist structure of products-users through innovation, and builds a multi-win blockchain global promotion ecosystem for users and promoters.",
-        "zh": "Flow 流链通过创新性的打造“产品 - 用户”的极简结构，构建用户与推广商多赢的区块链全球推广生态。"
+        "zh": "Flow 流链通过创新性的打造 产品 - 用户 的极简结构，构建用户与推广商多赢的区块链全球推广生态。"
   },
   "state": "NORMAL",
   "website": "https://flow-chain.io/",
