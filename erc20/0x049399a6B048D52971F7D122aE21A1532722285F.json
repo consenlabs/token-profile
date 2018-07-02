@@ -1,0 +1,25 @@
+{
+  "symbol": "FLOT",
+  "address": "0x049399a6B048D52971F7D122aE21A1532722285F",
+  "overview": {
+        "en": "FireLotto is an Ethereum-based lottery for cryptocurrencies. It's a finished and launched product whose code is available for inspection. The FLOT token allows holders to receive a commission from each ticket sold in every drawing."        
+  },
+  "email": "info@firelotto.io",
+  "website": "https://firelotto.io",
+  "whitepaper": "https://firelotto.io/whitepaper_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-11-12",
+  "initial_price":{
+        "ETH":"0.0001300 ETH",
+        "USD":"0.04001 USD",
+        "BTC":"0.00000815 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/FireLottery",
+    "telegram": "https://t.me/firelotto",
+    "github": "https://github.com/firelotto/firelotto",
+    "facebook": "https://www.facebook.com/firelotto",
+    "reddit": "https://www.reddit.com/r/Firelotto",
+    "medium": "https://medium.com/@firelotto"
+  }
+}
