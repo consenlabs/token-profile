@@ -1,0 +1,25 @@
+{
+    "website": "www.muncb.org/",
+    "published_on": "2018-06-06",
+    "links": {
+        "telegram": "https://0.plus/#/joinchat/HfQRa0k4NN_7ev2U733Kug",
+        "twitter": "",
+        "github": "https://github.com/MunCbProtocol",
+        "facebook": "",
+        "slack": ""
+    },
+    "overview": {
+        "en": "A Decentralized, Intelligent Multi-level Digital Currency Service Platform.MunCB integrates multi-service modules with different levels and depths, such as real-time sharing of digital currency-related data, intelligent investment strategy supply, and digital asset investment escrow.",
+        "zh": "去中心化、智能多層級的數字貨幣服務平台。系統集成數字貨幣相關數據實時共享、智能化投資策略供給、數字資產的投資托管等不同層級不同深度的多元服務模塊"
+    },
+    "symbol": "MCP",
+    "initial_price": {
+        "ETH": "0.53 ETH",
+        "USD": "317.3116 USD",
+        "BTC": "0.07756098 BTC"
+    },
+    "whitepaper": "http://www.muncb.org/book/MunCB_en.pdf",
+    "address": "0xf84b94def386a4726df4ca1a018cee5825d9e7c5",
+    "email": "muncbprotocol@gmail.com"
+}
+
