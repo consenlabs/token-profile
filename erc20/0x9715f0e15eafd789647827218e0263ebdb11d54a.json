@@ -13,7 +13,7 @@
   "initial_price":{
         "ETH": "0.0025 ETH",
         "USD": "1.225 USD"
-        "BTC":"0.00017922 BTC"
+        "BTC": "0.00017922 BTC"
   },
   "links": {
     "blog": "https://cryptomagz.info/news/index.php",
