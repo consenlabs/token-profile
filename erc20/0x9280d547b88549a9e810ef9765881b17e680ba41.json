@@ -1,0 +1,17 @@
+{
+  "symbol": "AMCC",
+  "address": "0x9280d547b88549a9e810ef9765881b17e680ba41",
+  "overview":{
+        "en": "Ambrer chain coin"
+  },
+  "email": "amcc@amberchaincoin.com",
+  "website": "http://www.amberchaincoin.com/",
+  "whitepaper": "http://www.amberchaincoin.com/doc/amberchain.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-16",
+  "initial_price":{
+        "ETH":"0.46 ETH"
+  },
+  "links": {
+  }
+}
