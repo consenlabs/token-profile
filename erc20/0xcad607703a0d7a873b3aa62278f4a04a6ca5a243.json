@@ -1,6 +1,10 @@
 {
   "symbol": "HANTU",
   "address": "0xcad607703a0d7a873b3aa62278f4a04a6ca5a243",
+  "overview":{
+        "en": "Give me the mysterious power",
+  },
+  "state": "LOCKED | NORMAL",
   "published_on": "2018-07-02",
   "initial_price":{
         "ETH":"0.00166666 ETH",
