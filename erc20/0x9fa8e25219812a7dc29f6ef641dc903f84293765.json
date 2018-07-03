@@ -1,0 +1,16 @@
+{
+  "symbol": "QQB",
+  "address": "0x9fa8e25219812a7dc29f6ef641dc903f84293765",
+  "overview":{
+        "en": "Based on the core concept of blockchain technology, the relatives chain is designed to provide a secure, encrypted decentralized application for intimate social interaction between loved ones.",
+        "zh": "基于区块链技术核心理念，亲亲链旨在提供一个加密的保护个人隐私的安全的用于亲人之间亲密社交的去中心化应用。"
+  },
+  "email": "support@qinqinji.com ",
+  "website": "https://www.qinqinji.com/",
+  "whitepaper": "https://www.qinqinji.com/QQB.pdf",
+  "published_on": "2018-07-03",
+  "links": {
+    "github": "https://github.com/QQBChain",
+    "facebook": "https://www.facebook.com/Relatives Chain",
+  }
+}
