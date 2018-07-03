@@ -9,5 +9,20 @@
   "website": "https://www.stbi-coin.com/",
   "whitepaper": "https://www.stbi-coin.com/STBI.pdf",
   "state": "NORMAL",
-  "published_on": "2018-06-07"
+  "published_on": "2018-06-07",
+  "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
 }
