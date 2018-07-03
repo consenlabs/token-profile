@@ -2,8 +2,11 @@
   "symbol": "THC",
   "address": "0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798",
   "overview":{
-        "en": "THC is issued by Tianhong Network Technology Company for redemption of intra-company and intra-city points for realizing the circulation and payment of points.",
+        "en": "THC is the circulation and payment for the points that Tianhong Company issues for the company's business and the points in the mall for redemption.",
         "zh": "THC 是天宏公司发行用于公司业务和商城内积分进行兑换，实现积分的流转和支付。"
   },
-  "website": "http://www.jeendo.com"
+  "state": "NORMAL",
+  "website": "http://jeendo.com/",
+  "whitepaper": "http://jeendo.com/whitebook.pdf",
+  "published_on": "2018-05-01"
 }
