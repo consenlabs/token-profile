@@ -2,18 +2,18 @@
   "symbol": "BOS",
   "address": "0x3c0cac8290e2a6241814f812259278bea9050838",
   "overview":{
-        "en": "Token Description.",
+        "en": "BOS Blockchain for Financial Services.",
         "zh": ""
   },
   "email": "support@bostoken.co",
   "website": "http://www.bostoken.co/",
-  "whitepaper": "https://bostoken.github.io/whitepaper.pdf",
+  "whitepaper": "https://github.com/Bostoken/bostoken.github.io/raw/master/whitepaper.pdf",
   "state": "NORMAL",
   "published_on": "2018-06-19",
   "initial_price":{
-        "ETH":"0.00005 ETH",
-        "USD":"0.00005 USD",
-        "BTC":"0.00000005 BTC"
+        "ETH":"0.00000005 ETH",
+        "USD":"0.000002 USD",
+        "BTC":"0.00000000003 BTC"
   },
   "links": {
     "blog": "http://www.bostoken.co",
