@@ -9,5 +9,10 @@
     "website": "http://wpay.ink/",
     "whitepaper": "http://wpay.ink/Info/wpay.pdf",
     "state": "NORMAL",
-    "published_on": "2018-07-15"
+    "published_on": "2018-07-15",
+    "links": {
+        "china.a-gov": "http://www.china.a-gov.com/caijing/4512.html",
+        "news.7yey": "http://news.7yey.com/news/629.html",
+        "news.hqzxnews":"http://news.hqzxnews.com/news/2018/05/17/1939.html"
+    }
 }
