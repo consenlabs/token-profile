@@ -1,0 +1,12 @@
+{
+  "symbol": "IPR",
+  "address": "0xaBf688C944317bA1D92E231c377f7Ee1b231Dd39",
+  "overview":{
+        "en": "A new generation of high-performance decentralized applications, scalable blockchain platform, highlights: fast transactions, Turing complete smart contract and decentralized prediction engine.",
+        "zh": "新一代高性能去中心化应用平,可拓展的区块链平台，亮点：快速交易、图灵完备的智能合约和去中心化预言机。"
+  },
+  "published_on": "2018-06-25",
+  "initial_price":{
+        "ETH":"0.000966 ETH"
+  }
+}
