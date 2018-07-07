@@ -1,0 +1,16 @@
+{
+  "symbol": "JTC",
+  "address": "0x6342a4744ea2fd9685610ab0c7d11f3d083bc7ba",
+  "overview":{
+        "en": "",
+        "zh": "JTC家链以个人为切入点，从家庭的沟通和传承出发，提供完善的家庭服务体系。以丰富家庭服务为主，促进家庭互动沟通。家链的核心产品家庭网，以每一位家庭成员为核心，展现其所处的家庭网络。提供家庭购物、资产管理、家谱、智能家居、娱乐等功能，增强家庭成员的交流。"
+  },
+  "email": "service@jiatingwang.net",
+  "website": "http://www.jiatingwang.net",
+  "whitepaper": "https://jtc-file.oss-cn-beijing.aliyuncs.com/%E5%AE%B6%E9%93%BEJTC%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-08",
+  "initial_price":{
+        "USD":"0.0014USD",
+  },
+}
