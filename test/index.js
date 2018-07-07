@@ -49,6 +49,10 @@ jsonFileNames
     let obj = null
     let parseErr = null
 
+    if (content.indexOf('�') !== -1) {
+      exitWithMsg(`ERROR! json file name ${jsonFileName} must be utf-8 encoding`)
+    }
+
     try {
       obj = JSON.parse(content)
     } catch (e) {
@@ -60,7 +64,7 @@ jsonFileNames
     }
 
     if (!imageAddrs.includes(addr.toLowerCase())) {
-      notice(`ERROR! dose not have ${addr + '.png'} in images dir, please check first`) 
+      notice(`Warning! dose not have ${addr + '.png'} in images dir, please check first`) 
     }
 
     if (!obj.symbol) {
