@@ -1,0 +1,17 @@
+{
+  "symbol": "LTR",
+  "address": "0xE9c77AD9CcF710834243da34B00e801280d63386",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://labtorum.com/",
+  "whitepaper": "https://labtorum.com/whitepaper.pdf",
+  "published_on": "2018-07-06",
+  "links": {
+    "twitter": "https://twitter.com/labtorum",
+    "telegram": "https://t.me/official_labtorum_global",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+  }
+}
