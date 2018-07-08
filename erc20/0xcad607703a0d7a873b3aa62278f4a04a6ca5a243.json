@@ -1,4 +1,22 @@
 {
   "symbol": "HANTU",
-  "address": "0xcad607703a0d7a873b3aa62278f4a04a6ca5a243"
+  "address": "0xcad607703a0d7a873b3aa62278f4a04a6ca5a243",
+  "overview":{
+        "en": "Hantucoin is a block chain application developed by the research and development center team based on the most adva",
+  },
+  "email": "1876993774@qq.com",
+  "website": "http://www.ghostcoin.vip/",
+  "whitepaper": "http://www.ghostcoin.vip/Hantucoin.pdf ",
+  "state": "NORMAL",
+  "published_on": "2018-07-02",
+  "initial_price":{
+        "ETH":"0.001435172 ETH",
+        "USD":"0.6045 USD",
+        "BTC":"0.000037263 BTC"
+  },
+  "links": {
+    "blog": "https://www.facebook.com/HANTU-836671663203720/",
+    "facebook": "https://www.facebook.com/HANTU-836671663203720/",
+  }
+
 }
