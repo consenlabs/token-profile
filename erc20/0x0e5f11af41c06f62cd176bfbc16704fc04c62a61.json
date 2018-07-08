@@ -1,0 +1,17 @@
+{
+  "symbol": "TDT",
+  "address": "0x0e5f11af41c06f62cd176bfbc16704fc04c62a61",
+  "overview":{
+        "en":"As a native token issued by Truedeal platform, TDT is a kind of digital voucher of rights and interests that can be used to trade second-hand idle products in Truedeal ecosystem, including purchase and sale, traceability, arbitration, and maintenance of the products.",
+        "zh":"TDT是Truedeal平臺發行的原生代幣，是一種數字權益憑證，可以在Truedeal生態圈內進行全球範圍的二手閒置品交易，包括貨品的買賣、溯源、仲裁、維護等。"
+  },
+  "email": "info@truedealchain.com",
+  "website": "https://truedeal.io",
+  "whitepaper": "https://truedeal.io/whitepaper/Truedeal_EN.pdf",
+  "published_on": "2018-07-01",
+  "links": {
+    "twitter": "https://twitter.com/truedealchain",
+    "facebook": "https://www.facebook.com/truedealchain",
+    "telegram": "https://t.me/truedealchain"
+  }
+}
