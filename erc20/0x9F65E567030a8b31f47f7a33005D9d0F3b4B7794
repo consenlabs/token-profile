@@ -1,17 +1,18 @@
 {
   "symbol": "LTR",
-  "address": "0xE9c77AD9CcF710834243da34B00e801280d63386",
+  "address": "0x9F65E567030a8b31f47f7a33005D9d0F3b4B7794",
   "overview":{
         "en": "LABTORUM is ERC20 wallet with nice info trading may help you to get profit from trading.",
-        "zh": ""
+        "zh": "LABTORUM是ERC20钱包，有良好的信息交易可以帮助您从交易中获利"
   },
   "email": "support@labtorum.com",
   "website": "https://labtorum.com/",
   "whitepaper": "https://labtorum.com/whitepaper.pdf",
-  "published_on": "2018-07-06",
+  "published_on": "2018-07-09",
   "links": {
     "twitter": "https://twitter.com/labtorum",
     "telegram": "https://t.me/official_labtorum_global",
-    "facebook": "https://www.facebook.com/Labtorum-Official-251673845565152/"
+    "medium": "https://medium.com/@Labtorum",
+    "facebook": "https://www.facebook.com/labtorum"
   }
 }
