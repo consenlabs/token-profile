@@ -6,7 +6,7 @@
     "zh": "I币是服务于区块链领域的一站式众筹融资服务平台FO.COM的生态代币,用于项目的投票上线以及整个fo平台的发展运营。"
   },
   "email": "service@fo.com",
-  "website": "https://fo.com/",
+  "website": "https://fo.com",
   "whitepaper": "https://foprodoss.oss-ap-southeast-1.aliyuncs.com/whitepaper/1528905882.8479.pdf",
   "state": "LOCKED | NORMAL",
   "published_on": "2018-01-01",
@@ -16,13 +16,8 @@
     "BTC": "0.00004137 BTC"
   },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/FOThailand",
     "telegram": "https://t.me/fodotcom",
-    "github": "",
-    "facebook": "https://www.facebook.com/FinancialOfferings",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "facebook": "https://www.facebook.com/FinancialOfferings"
   }
 }
