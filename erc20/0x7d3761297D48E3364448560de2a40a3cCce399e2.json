@@ -1,0 +1,24 @@
+{
+  "symbol": "BZC",
+  "address": "0x7d3761297D48E3364448560de2a40a3cCce399e2",
+  "overview":{
+        "en": "Global digital asset quantification gain platform",
+        "zh": ""
+  },
+  "email": "447995212@qq.com",
+  "website": "https://bz.cash/",
+  "whitepaper": "https://bz.cash/static/white_paper/white_paper_en.pdf",
+  "state": "",
+  "published_on": "2018-07-03",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.49 USD",
+        "BTC":"0.00005625 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/BzCash",
+    "telegram": "https://t.me/BZcash_cn",
+    "github": "https://github.com/BZCASH/BZcash",
+    "facebook": "https://www.facebook.com/BZcash-2037640446487129/",
+  }
+}
