@@ -8,7 +8,7 @@
   "email": "service@fo.com",
   "website": "https://fo.com",
   "whitepaper": "https://foprodoss.oss-ap-southeast-1.aliyuncs.com/whitepaper/1528905882.8479.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price": {
     "ETH": "0.00166666 ETH",
