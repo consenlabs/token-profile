@@ -1,10 +1,6 @@
 {
   "symbol": "IFIB",
   "address": "0x05f8b281410c9327a1bbf508db380fd967c31df6",
-  "overview":{
-        "en": "",
-        "zh": ""
-  },
   "website": "http://www.infinitepay.cn",
   "whitepaper": "http://www.infinitepay.cn/IFIB.pdf",
   "state": "NORMAL",
