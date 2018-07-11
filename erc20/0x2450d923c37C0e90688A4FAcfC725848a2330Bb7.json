@@ -10,7 +10,7 @@
   "whitepaper": "https://www.facebook.com/IMGamePlatform",
   "state": "NORMAL",
   "published_on": "2018-06-27",
-  "initial_price":{
+  "initial_price": {
         "ETH":"0.00000727 ETH"
   },
   "links": {
