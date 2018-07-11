@@ -2,17 +2,17 @@
   "symbol": "DLB",
   "address": "0xce1d3da32e3a45d27dc841781f09e40c41cac677",
   "overview":{
-  "en": "De centralized data platform for Pratt & Whitney data dividends",
-  "zh": "È¥ÖĞĞÄ»¯µÄÆÕ»İÊı¾İºìÀûµÄ´óÊı¾İ¿ª·ÅÆ½Ì¨",
-  "email": "E.biz@dlb.com",
-  "website": "http://www.dlb.com",
-  "whitepaper": "https://pan.baidu.com/s/1SdJG4ma_c3uz56f0KYbwTQ",
-  "state": "NORMAL",
-  "published_on": "2018-06-25",
-  "links": {
+    "en": "De centralized data platform for Pratt & Whitney data dividends",
+    "zh": "å»ä¸­å¿ƒåŒ–çš„æ™®æƒ æ•°æ®çº¢åˆ©çš„å¤§æ•°æ®å¼€æ”¾å¹³å°",
+    "email": "E.biz@dlb.com",
+    "website": "http://www.dlb.com",
+    "whitepaper": "https://pan.baidu.com/s/1SdJG4ma_c3uz56f0KYbwTQ",
+    "state": "NORMAL",
+    "published_on": "2018-06-25",
+    "links": {
       "telegram": "https://t.me/dlbgroup_cn",
       "facebook": "https://www.facebook.com/data.linkbase.1",
       "twitter": "https://twitter.com/DLB69817115"
-  }
+    }
   }
 }
