@@ -6,14 +6,13 @@
     "zh": "游戏永恒角色链，以游戏角色上链资产为核心，聚焦打造游戏Dapp社区生态。"
   },
   "email": "admin@gerc.club",
-  "website": "http://www.gerc.club/",
-  "whitepaper": "http://www.gerc.club/docs/whitepaper-cn.pdf",
+  "website": "https://www.gerc.club/",
+  "whitepaper": "https://www.gerc.club/docs/whitepaper-cn.pdf",
   "state": "NORMAL",
   "published_on": "2018-07-09",
   "initial_price": {
     "ETH": "0.000002 ETH",
     "USD": "0.00092 USD",
-    "BTC": "0.000000139 BTC"
   },
   "links": {
     "telegram": "https://t.me/GERC_CN",
