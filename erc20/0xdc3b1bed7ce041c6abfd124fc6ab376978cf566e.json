@@ -2,9 +2,7 @@
   "symbol": "han",
   "address": "0xdc3b1bed7ce041c6abfd124fc6ab376978cf566e",
   "overview":{
-        "en": "The platform provides transparency and traceability of the donation process, and also establishes links between Non-profit communities.
-
-",
+        "en": "The platform provides transparency and traceability of the donation process",
         "zh": "平台提供捐献过程透明性和可追溯性的同时也在非盈利社区之间建立了联系"
   },
   "email": "",
@@ -14,17 +12,9 @@
   "published_on": "2018-09-01",
   "initial_price":{
         "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "USD":"0.7 USD"
   },
   "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+     "telegram": "https://t.me/hq_cn"
   }
 }
