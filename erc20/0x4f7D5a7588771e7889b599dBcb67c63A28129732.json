@@ -8,11 +8,10 @@
   "email": "admin@gerc.club",
   "website": "https://www.gerc.club/",
   "whitepaper": "https://www.gerc.club/docs/whitepaper-cn.pdf",
-  "state": "NORMAL",
   "published_on": "2018-07-09",
   "initial_price": {
     "ETH": "0.000002 ETH",
-    "USD": "0.00092 USD",
+    "USD": "0.00092 USD"
   },
   "links": {
     "telegram": "https://t.me/GERC_CN",
