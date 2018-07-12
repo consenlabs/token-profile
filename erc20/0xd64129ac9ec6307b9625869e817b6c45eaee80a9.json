@@ -1,5 +1,4 @@
 {
-  "symbol": "FFC",
   "address": "0xd64129ac9ec6307b9625869e817b6c45eaee80a9",
   "overview":{
         "en":"",
@@ -11,6 +10,7 @@
         "github": "https://github.com/freefairchain/",
         "reddit": "https://www.reddit.com/user/FreeFairChain/"
    },
+  "symbol": "FFC",  
   "email": "ffc@freefairchain.com",
   "website": "https://www.freefairchain.com/",
   "whitepaper": "https://www.freefairchain.com/freefairchain-whitepaper.pdf",
