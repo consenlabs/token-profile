@@ -1,0 +1,26 @@
+{  
+   "symbol":"WEBN",
+   "address":"0x76A1AEb942B24d0020a2D4b0Ac3F2E5ED2bFF150",
+   "overview":{  
+      "en":"Webn token can be used as mode of payment to purchase Web Development, Web Applications, Graphic Designs, Logos and Video Presentations.",
+      "zh":""
+   },
+   "email":"info@webinnovationph.com",
+   "website":"https://webinnovationph.com/",
+   "state":"LOCKED",
+   "published_on":"07-09-2018",
+   "initial_price":{  
+      "ETH":"0.000001 ETH",
+      "USD":"0.004 USD",
+      "BTC":"0.00000007 BTC"
+   },
+   "total_supply":"6,000,000,000",
+   "links":{  
+      "blog":"https://steemit.com/ico/@joanpablo/webn-first-integrated-web-development-and-cryptocurrency",
+      "twitter":"https://twitter.com/WebnProject",
+      "telegram":"https://t.me/WEBN_EngOfficial_GroupChat",
+      "facebook":"https://www.facebook.com/webnproject/",
+      "youtube":"https://bit.ly/2Ktbzz1",
+      "discord":"https://discordapp.com/invite/NkBtY4X"
+   }
+}
