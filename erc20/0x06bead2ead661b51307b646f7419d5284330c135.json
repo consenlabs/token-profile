@@ -1,9 +1,9 @@
 {
   "symbol": "ESHIP",
-  "address": "erc20/0x06bead2ead661b51307b646f7419d5284330c135",
+  "address": "0x06bead2ead661b51307b646f7419d5284330c135",
   "overview":{
         "en": "EliteShipperToken (ESHIP) is an ERC20 compliant digital token distributed through the Ethereum network, supported by EliteShipper Ecosystem and tradeable in various cryptocurrency exchanges globally.",
-        "zh": ""
+        "zh": "EliteShipperToken（ESHIP）是一种符合ERC20标准的数字令牌，通过以太坊网络分发，由EliteShipper Ecosystem支持，可在全球各种加密货币交易中进行交易。"
   },
   "email": "eliteshippertoken@gmail.com",
   "website": "https://eliteshippertoken.org/",
