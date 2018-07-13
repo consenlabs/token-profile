@@ -1,0 +1,17 @@
+{
+  "symbol": "GLC",
+  "address": "0xb69134fb0bee6d70d66db935821ecf05bf4944f8",
+  "overview":{
+        "en": "Token Description.",
+        "zh": "Golden Light Coin 致力于开创“区块链+游戏行业”的伟大蓝海并持续保持游戏领先优势，成为用户满意、社会认可的全球去中心化游戏平台。"
+  },
+  "email": "Email",
+  "website": "http://www.worldglc.com/",
+  "whitepaper": "http://www.worldglc.com/glc.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-06",
+  "initial_price":{
+  },
+  "links": {
+  }
+}
