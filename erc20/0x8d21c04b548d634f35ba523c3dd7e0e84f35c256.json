@@ -1,0 +1,21 @@
+{
+  "symbol": "TN",
+  "address": "0x8d21c04b548d634f35ba523c3dd7e0e84f35c256",
+  "overview":{
+        "en": "Tongnian Token (TN) is the blockchain of cultural entertainment, educational growth and intelligent life for the new generation of children and adolescents around the world. TN has first landed on the childhood network platform of tens of millions of users, and has reached the platform of 10 million users.",
+        "zh": "Tongnian Token (TN)是全球新生代儿童少年的文化娱乐、教育成长、智能生活的区块链通证。TN率先落地在已有千万级用户的童年网平台，落地已有千万级用户的平台，这在区块链业界目前全球不超过3家。TN分阶段逐步服务全球高达20亿人的新生代儿童少年，他们的文化娱乐、教育成长、智能生活，每年是数百万亿美元的天量市场，TN面向这个天量市场有数十种落地应用场景。TN是具有实际价值并可长期持续稳健发展的全生态项目。"
+  },
+  "email": "1509379090@qq.com",
+  "website": "http://www.tongnian.net/",
+  "whitepaper": "http://www.tongnian.net/tn_chinese.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-10",
+  "initial_price":{
+    "ETH":"0.0002ETH", 
+    "USD":"0.1 USD", 
+    "BTC":"0.000015 BTC" 
+  },
+  "links": {
+    "github": "https://github.com/tntoken",
+  }
+}
