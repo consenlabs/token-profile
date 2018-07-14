@@ -1,0 +1,19 @@
+{
+  "symbol": "SEE",
+  "address": "0x5020c2099fb239605685a0e8c95a754f02395f55",
+  "overview":{
+        "en": "The world's first mineable short video community platform, content is value, reshaping the short video ecosystem with blockchain. Every content creator should get the most value return.",
+        "zh": "全球首款可挖矿的短视频社区平台，内容即价值，用区块链重塑短视频生态。每个内容创作者，都应该获得最大的价值回报。"
+  },
+  "email": "seechain001@gmail.com",
+  "website": "https://see.one/",
+  "whitepaper": "https://see.one/see_chain_whitepaper.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-10-10",
+  "initial_price":{
+        "ETH":"0.000008 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/See_Chain"
+  }
+}
