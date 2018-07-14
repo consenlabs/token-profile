@@ -1,0 +1,22 @@
+{
+  "symbol": "Only",
+  "address": "0x9eec65e5b998db6845321baa915ec3338b1a469b",
+  "overview":{
+        "zh": "OnlyChain打造的是一条应用型的公有链，目前已经实现了基础链，秉承“一物一区块，一链一生态”的理念，开发出了基于OnlyChian公有链的基础链之上的防伪溯源落地应用，今后将以此为流量入口，解决人们日常购物的假货困扰。随着基础链的不断完善，最终形成公有链，以及防伪溯源项目流量建设的不断壮大，来引爆基于OnlyChain公有链的应用生态建设，开启全新的区块链应用时代，OnlyChain不仅兼容主流的Dapp开发，同时支持传统的中心化应用平滑迁入，快速形成SAPP(半中心化应用)生态应用汇聚，为企业、为用户带来无限的便捷和实惠."
+  },
+  "email": "onlychain@163.com",
+  "website": "http://onlychain.pro/",
+  "whitepaper": "http://onlychainonly.onlychain-news.com/OnlyChainWhitePaper.pdf",
+  "published_on": "2018-07-14",
+  "initial_price":{
+        "ETH":"0.00004348 ETH"
+  },
+  "links": {
+      "twitter": "https://twitter.com/your-awesome-project",
+	  "telegram": "https://t.me/joinchat/your-awesome-project",
+	   "slack": "https://your-awesome-project.slack.com",
+	  "medium": "https://medium.com/@OnlyChain",
+	   "reddit": "https://www.reddit.com/user/OnlyChain",
+      "github": "https://github.com/onlychain/OnlyChain.git"
+  }
+}
