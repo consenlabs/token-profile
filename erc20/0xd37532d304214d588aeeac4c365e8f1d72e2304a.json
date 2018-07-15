@@ -11,11 +11,11 @@
   "published_on": "2018-06-02",
   "initial_price":{
         "ETH":"0.0005 ETH",
-        "USD":"0.2 USD" },
+        "USD":"0.2 USD" 
+  },
   "links": {
-    "website": "https://www.fcoin.com/",
-    "published_on": "2018-06-02",
-    "links": {
+        "website": "https://www.fcoin.com/",
+        "published_on": "2018-06-02",
         "telegram": "https://t.me/fcoinofficial",
         "twitter": "https://twitter.com/FCoinOfficial",
         "reddit": "https://www.reddit.com/user/fcoinoffical/",
