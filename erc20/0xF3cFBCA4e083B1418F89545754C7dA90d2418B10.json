@@ -1,0 +1,18 @@
+{
+  "symbol": "GMBEL",
+  "address": "0xF3cFBCA4e083B1418F89545754C7dA90d2418B10",
+  "overview":{
+        "en": "GMBEL is a project to help beginner traders to do trading activities with little capital. In order for beginner traders to gain new experience and low risk. Due to the rapid development of cryptocurrency and the highly fluctuating price of cryptocurrencies, it makes beginners traders face up to the risks they have never faced. To reduce such risks, we are here to create this project.",
+        "zh": "GMBEL是一个帮助初学者以少量资金进行交易活动的项目。为初学者交易者获得新的经验和低风险。由于加密货币的快速发展和加密货币的高度波动，它使初学者交易者面临他们从未面临的风险。为了减少这种风险，我们来创建这个项目。"
+  },
+  "email": "support@g-mbel.info",
+  "website": "https://g-mbel.info/",
+  "whitepaper": "https://g-mbel.info/whitepaper.html",
+  "published_on": "2018-07-11",
+  "links": {
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://twitter.com/gmbel_official",
+    "facebook": "https://www.facebook.com/GMbelOfficial",
+    "medium": "https://medium.com/@GMbelOfficial"
+  }
+}
