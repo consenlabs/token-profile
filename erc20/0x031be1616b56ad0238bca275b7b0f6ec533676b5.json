@@ -1,0 +1,26 @@
+{
+  "symbol": "PLC",
+  "address": "0x031be1616b56ad0238bca275b7b0f6ec533676b5",
+  "overview":{
+        "en": "Comment chain network: comprehensive, timely, intelligent, independent, objective, third party digital token intelligent investment assistant.",
+        "zh": "评链网：全面、及时、智能、独立、客观、第三方 数字货币智能投资助手。"
+  },
+  "email": "rabbit_2014@163.com",
+  "website": "http://valuechain.group",
+  "published_on": "2018-07-08",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "http://explorelife.vip/discuss/",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "http://valuechain.group/"
+  }
+}
