@@ -1,0 +1,18 @@
+{
+  "symbol": "STKC",
+  "address": "0x78dbd5be3e74567a97c5db15b3eb0004eb28f5b4",
+  "overview":{
+        "en": "Super Ticket Coin (STKC) is dedicated to the development and application of blockchains. Relying on Ethereum smart contracts and other features, it focuses on building a new financial consumption system and creating a point conversion ecosystem  to  serve  the  users  around  the  world.  It  aims  to  become  the  starting  point and daily essential tools for users&#8217; exploration of blockchains, thereby allowing the landing of the business mode of blockchains with great  efforts.",
+        "zh": "Super Ticket Coin（STKC）致力於區塊鏈開發應用，利用以太坊智能合約等特性，專注於構建新的金融消費系統，打造積分轉換生態圈，服務於全球用戶，使用戶成為探索區塊鏈的起點和日常必備工具，以極大的力度實現區塊鏈商業模式的應用落地。"
+  },
+  "email": "business@stkcoin.vip",
+  "website": "http://www.stkcoin.vip/",
+  "whitepaper": "http://www.stkcoin.vip/public/Home/doc/STKC_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-08",
+  "initial_price":{
+        "ETH":"0.00006852 ETH",
+        "USD":"0.03 USD",
+        "BTC":"0.0000048 BTC"
+  }
+}
