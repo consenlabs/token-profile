@@ -3,7 +3,7 @@
   "address": "0xe82d8cc52968d168d69be98fa1fa67417703ebc8",
   "overview":{
         "en": "The CELL team is dedicated to transforming genetic data into a core value of a healthy circular economy model, promoting more relevant industry organizations to reduce costs, helping more people to enjoy stem cell and gene-related medical services",
-        "zh": "CELL致力于以基因测序数据为核心的多维度健康数据隐私保护与去中心化共享，推进产业生态发展，实现普惠医疗"
+        "zh": "CELL致力于以基因测序数据为核心的多维度健康数据隐私保护与去中心化共享，推进产业生态发展，实现普惠医疗。"
   },
   "email": "business@hcell.io",
   "website": "http://www.healthycell.io/",
@@ -16,6 +16,6 @@
   "links": {
     "twitter": "https://twitter.com/CellChain",
     "telegram": "https://t.me/healthycell/",
-    "facebook": "https://www.facebook.com/Healthy-cell-chain-682927288759954/",
+    "facebook": "https://www.facebook.com/Healthy-cell-chain-682927288759954/"
   }
 }
