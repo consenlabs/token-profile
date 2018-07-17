@@ -6,8 +6,8 @@
 +        "zh": "数据科学技术链"
 +  },
 +  "email": "contact@dsdtweb.com",
-+  "website": "https://dsdtweb.com/",
-+  "whitepaper": "https://dsdtweb.com/download/dsdt_whitepaper.pdf",
++  "website": "https://github.com/DSD-TECH-FOUNDATION/DSDT",
++  "whitepaper": "https://github.com/DSD-TECH-FOUNDATION/DSDT/whitepaper.pdf",
 +  "state": "NORMAL",
 +  "published_on": "2018-06-01",
 +  "initial_price":{
@@ -16,13 +16,8 @@
 +        "BTC":"0.00004137 BTC"
 +  },
 +  "links": {
-+    "blog": "https://dsdtweb.com/blog",
-+    "twitter": "https://twitter.com/dsdtweb",
 +    "telegram": "https://t.me/joinchat/dsdt_bc",
-+    "github": "https://github.com/dsdtweb",
-+    "facebook": "https://www.facebook.com/dsdtweb",
-+    "reddit": "https://www.reddit.com/r/dsdtweb/",
-+    "slack": "https://dsdtweb.slack.com",
-+    "medium": "https://medium.com/dsdtweb"
++    "github": "https://github.com/DSD-TECH-FOUNDATION/DSDT",
++    "facebook": "https://www.facebook.com/dsdtweb"
 +  }
 +
