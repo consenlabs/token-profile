@@ -1,0 +1,25 @@
+{
+  "symbol": "RING",
+  "address": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+  "overview":{
+        "en": "RING is the global token of Evolution Land, a cross chain game world.",
+        "zh": "RING是进化星球的通证，进化星球是一个基于跨链的区块链游戏"
+  },
+  "email": "hello@evolution.land",
+  "website": "https://www.evolution.land",
+  "whitepaper": "https://www.evolution.land/whitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-14",
+  "initial_price":{
+        "ETH":"0.00001667 ETH",
+        "USD":"0.007 USD",
+        "BTC":"0.00000125 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/@evolutionland9",
+    "twitter": "https://twitter.com/evolutionland9",
+    "telegram": "https://t.me/evolutionland9",
+    "github": "https://github.com/evolutionlandorg",
+    "medium": "https://medium.com/@evolutionland9"
+  }
+}
