@@ -16,12 +16,10 @@
         "BTC":"0 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
     "twitter": "https://twitter.com/opx_official",
     "telegram": "https://t.me/opxofficialgroup",
-    "github": "https://github.com/your-awesome-project",
+    "github": "https://github.com/OPXFoundation",
     "facebook": "https://www.facebook.com/profile.php?id=100026647792906",
-    "instagram": "https://www.instagram.com/opx_blockchain/",
-    "medium": "https://medium.com/your-awesome-project"
+    "instagram": "https://www.instagram.com/opx_blockchain/"
   }
 }
