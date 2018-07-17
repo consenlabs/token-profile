@@ -1,0 +1,22 @@
+{
+    "symbol": "AIE",
+    "address": "0x0408d7ed44de8d93a2510caef3db4ac7a4a1dfec",
+    "overview":{
+          "en": "AI Ecology Based Blockchain",
+          "zh": "基于区块链的AI生态系统"
+    },
+    "email": "aieco@aieco.io",
+    "website": "https://aieco.io/",
+    "whitepaper": "https://aieco.io/whitepaper_en.pdf",
+    "state": "LOCKED | NORMAL",
+    "published_on": "2018-06-15",
+    "initial_price":{
+          "ETH":"0.0001 ETH",
+    },
+    "links": {
+      "blog": "https://aieco.io/blog",
+      "twitter": "https://twitter.com/aiecology",
+      "github": "https://github.com/aiecology",
+      "facebook": "https://www.facebook.com/aiecology",
+    }
+  }
