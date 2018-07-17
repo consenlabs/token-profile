@@ -16,8 +16,8 @@
         "BTC":"0 BTC"
   },
   "links": {
-    "medium": "https://medium.com/@aiecolog",
     "github": "https://github.com/aiecology",
-    "facebook": "https://www.facebook.com/aiecology"
+    "facebook": "https://www.facebook.com/aiecology",
+    "medium": "https://medium.com/@aiecology"
   }
 }
