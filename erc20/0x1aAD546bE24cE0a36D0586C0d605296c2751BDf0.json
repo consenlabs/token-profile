@@ -1,0 +1,23 @@
+{
+    "symbol": "HRC",
+    "address": "0x1aAD546bE24cE0a36D0586C0d605296c2751BDf0",
+    "overview":{
+          "en": "Hammer Chain publishes the digital token based on weak social interaction, finance and entertainment.",
+          "zh": "锤链基于ERC20用于弱社交场景、金融和娱乐发布数字资产令牌，主要目标是构建一个低成本获得数字资产的社交娱乐平台"
+    },
+    "email": "258707397@qq.com",
+    "website": "http://www.fermat-cdb.com/",
+    "whitepaper": "https://github.com/jarifee/HammerChain/blob/master/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-10",
+    "initial_price":{
+          "ETH":"0.002 ETH",
+          "USD":"0.9 USD"
+    },
+    "links": {
+      "blog": "http://blog.sina.com.cn/blockeye",
+      "twitter": "https://twitter.com/hammerchain2",
+      "github": "https://github.com/jarifee/HammerChain"
+    }
+  }
+
