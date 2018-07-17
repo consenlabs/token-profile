@@ -5,18 +5,19 @@
           "en": "AI Ecology Based Blockchain",
           "zh": "基于区块链的AI生态系统"
     },
-    "email": "aieco@aieco.io",
-    "website": "https://aieco.io/",
+    "email": "hi@aieco.io",
+    "website": "http://aieco.io/",
     "whitepaper": "https://aieco.io/whitepaper_en.pdf",
-    "state": "LOCKED | NORMAL",
+    "state": "NORMAL",
     "published_on": "2018-06-15",
     "initial_price":{
-          "ETH":"0.0001 ETH",
+          "ETH":"0 ETH",
+          "USD":"0 USD",
+          "BTC":"0 BTC"
     },
     "links": {
-      "blog": "https://aieco.io/blog",
-      "twitter": "https://twitter.com/aiecology",
       "github": "https://github.com/aiecology",
       "facebook": "https://www.facebook.com/aiecology",
+      "medium": "https://medium.com/@aiecology"
     }
   }
