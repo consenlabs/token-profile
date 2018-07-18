@@ -1,0 +1,23 @@
+{
+  "symbol": "TCT",
+  "address": "0x53864ece70ea808ce8a25632e8c67473b99fa93f",
+  "overview":{
+        "en": "The tycoon chain token (TCT) is the official token of Tycoon Global.",
+        "zh": "大亨币（TCT）是大亨全球的官方代币。"
+  },
+  "email": "Email",
+  "website": "http://www.tycoon.global",
+  "whitepaper": "https://www.tycoon.global/resource/images/WHITEPAPER_TYCOONGLOBAL.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-16",
+  "initial_price":{
+        "ETH":"0.002 ETH",
+        "USD":"1 USD",
+        "BTC":"0.000134 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/TCTCoin",
+    "telegram": "https://t.me/TCTcoin_en",
+    "facebook": "https://facebook.com/TCTCoinAtoZ"
+  }
+}
