@@ -1,0 +1,19 @@
+{
+  "symbol": "UGS",
+  "address": "0x8c3dea7df226602167fc3db5af2f474f55b8e5c2",
+  "overview":{
+        "en": "UGS:UGlobalServiceChian.",
+        "zh": "U付全球服务链"
+  },
+  "email": "support@ugs.io",
+  "website": "https://ugs.io/",
+  "whitepaper": "https://ugs.io/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-02-28",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00004137 BTC"
+  },
+
+}
