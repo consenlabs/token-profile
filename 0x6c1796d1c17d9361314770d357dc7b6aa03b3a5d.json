@@ -1,8 +1,3 @@
-{
-  "symbol": "ELIS",
-  "address": "0x6c1796d1c17d9361314770d357dc7b6aa03b3a5d"
-}
-
 
 {
   "symbol": "ELIS",
@@ -11,7 +6,7 @@
         "en": "ELISTOKEN",
         "zh": "爱丽丝慈善链"
   },
-  "email": "support@ellistoken.io",
+  "email": "support@ellistoken.com",
   "website": "http://www.ellistoken.com/",
   "whitepaper": "http://www.ellistoken.com/uploadfile/ELIS.pdf",
   "state": "NORMAL",
