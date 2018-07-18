@@ -1,0 +1,28 @@
+{
+  "symbol": "CT",
+  "address": "0x4451ceca554b25c361d992de82f344c2eaea9996",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "candytownio@gmail.com",
+  "website": "http://www.candytown.io/",
+  "whitepaper": "http://www.candytown.io/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-22",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
