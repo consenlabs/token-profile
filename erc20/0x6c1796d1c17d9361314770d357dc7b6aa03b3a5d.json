@@ -5,8 +5,15 @@
         "en": "ELISTOKEN",
         "zh": "爱丽丝慈善链"
   },
-  "email": "support@ellistoken.com",
+  "email": "support@ellistoken.io",
   "website": "http://www.ellistoken.com/",
   "whitepaper": "http://www.ellistoken.com/uploadfile/ELIS.pdf",
- 
+  "state": "NORMAL",
+  "published_on": "2018-07-03",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00004137 BTC"
+  },
+
 }
