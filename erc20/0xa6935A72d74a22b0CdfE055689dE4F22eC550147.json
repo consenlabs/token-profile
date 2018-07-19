@@ -1,0 +1,16 @@
+{
+  "symbol": "Token symbol",
+  "address": "0xa6935A72d74a22b0CdfE055689dE4F22eC550147",
+  "overview":{
+        "en": "MCS uses original interactive work proofs and uses blockchain technology to redefine interaction",
+        "zh": "魔方链采用独创的互动量工作证明，利用区块链技术，重新定义互动方式"
+  },
+  "email": "magicstonefund@outlook.com",
+  "website": "www.magicstonefund.com",
+  "whitepaper": "http://www.magicstonefund.com/download/magicstonelink_zh.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-01",
+  "initial_price":{
+        "ETH":"0.00066666 ETH",
+  }
+}
