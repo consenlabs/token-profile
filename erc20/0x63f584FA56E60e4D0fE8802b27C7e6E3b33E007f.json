@@ -1,5 +1,5 @@
 {
-  "symbol": "BOX",
+  "symbol": "BOX(ContentBox)",
   "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
   "overview":{
         "en": "Contentbox aims to build a blockchain-based ecosystem for the digital content industry of tomorrow. Under ContentBox, the whole industry will gain three unprecedented valuable things: a shared content pool, a shared user pool, and a unified payout system.",
@@ -8,7 +8,7 @@
   "email": "info@contentbox.one",
   "website": "https://contentbox.one/",
   "whitepaper": "https://contentbox.one/wp.pdf",
-  "state": "LOCKED",
+  "state": "NORMAL",
   "published_on": "2018-05-16",
   "links": {
     "twitter": "https://twitter.com/Contentbox_one",
