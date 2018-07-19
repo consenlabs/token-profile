@@ -2,11 +2,11 @@
   "symbol": "REAS",
   "address": "0xcfbed8f16aC4C79c402c5188250e24858DC749AF",
   "overview":{
-        "en": "",
-        "zh": ""
+        "en": "totalSupply  2100000000",
+        "zh": "总发行 2100000000"
   },
-  "email": "",
-  "website": "",
+  "email": "reas@reas.org",
+  "website": "https://www.reas.org",
   "whitepaper": "",
   "state": "NORMAL",
   "published_on": "",
