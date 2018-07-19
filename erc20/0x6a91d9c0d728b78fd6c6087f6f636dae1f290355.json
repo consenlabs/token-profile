@@ -1,15 +1,14 @@
-{
+﻿{
   "symbol": "LKC",
   "address": "0x6a91d9c0d728b78fd6c6087f6f636dae1f290355",
   "overview":{
-        "en": "Luckycoin founding community was established in 06nd June,2018,Chinese name is 猪猪币，English name is Luckycoin，symbol:LKC."
+        "en": "bring good luck to everyone in the 2019 Year of the Pig,always get money！We have airdrops and no fundraising",
 
-        "zh": "猪猪币创世社区正式成立于2018.06.06，中文名：猪猪币，英文名：Luckycoin（幸运币），缩写LKC。"
+        "zh": "猪年给大家带去好运，恭祝发财，一路发！有空投，无募资"
   },
   "email": "LKC@luckycoin.ltd",
   "website": "https://www.luckycoin.ltd/",
   "whitepaper": "https://www.luckycoin.ltd/files/Luckycoin-Whitepaper-CH-version.pdf",
-  "state": "LOCKED | NORMAL",
   "published_on": "2018-06-06",
  
   "links": {   
