@@ -24,7 +24,7 @@ entity.",
     },
     "symbol": "KEC",
     "initial_price": {
-        "USD": "1ETH = 800KEC"
+        "ETH": "1ETH = 800KEC"
     },
     "whitepaper": "http://www.kingec.vip/about_kffw/KECbps92e.html",
     "address": "0xD089966FFDe882D7955375898443f0fFC7FA06A1",
