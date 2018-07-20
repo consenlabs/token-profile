@@ -1,0 +1,25 @@
+{
+  "symbol": "ZINC",
+  "address": "0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea",
+  "overview":{
+        "en": "Zinc is a blockchain based hiring platform that will simplify and accelerate the hiring journey for you. By creating a completely transparent and authenticated identity and work reputation system, Zinc eliminates many of the inefficiencies associated with hiring.",
+        "zh": ""
+  },
+  "email": "hello@zinc.work",
+  "website": "https://zinc.work/",
+  "whitepaper": "https://zinc.work/whitepaper/",
+  "state": "NORMAL",
+  "published_on": "2018-20-02",
+  "initial_price":{
+        "ETH":"0.00082 ETH",
+        "USD":"0.78-98 USD",
+        "BTC":"0.000066 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/zinc_work",
+    "twitter": "https://twitter.com/zinc_work",
+    "telegram": "https://t.me/zinc_work",
+    "github": "https://github.com/zincwork",
+    "reddit": "https://www.reddit.com/r/zinc_work/",
+  }
+}
