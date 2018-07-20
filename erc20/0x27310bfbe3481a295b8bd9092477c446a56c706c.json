@@ -8,12 +8,16 @@
   "email": "imbix@bix.im",
   "website": "http://bix.im/",
   "whitepaper": "http://120.78.201.49/download/imBIX_whitepaper_english.pdf",
-  "state": "NORMAL",
-  "published_on": "2018-07-18",
+  "state": "LOCKED",
+  "published_on": "",
   "initial_price":{
         "USD":"0.1 USD"
   },
   "links": {
-    "twitter": "http://twitter.com/imBIX4"
+	"blog": "https://weibo.com/u/6606341012",
+    "twitter": "http://twitter.com/imBIX4",
+    "telegram": "https://0.plus/imBIX_shayu",
+    "github": "https://github.com/imbix/bixcoin",
+	"medium": "https://mp.weixin.qq.com/s/bGlKxURcKH7gX-SHdo4LKg"
   }
 }
