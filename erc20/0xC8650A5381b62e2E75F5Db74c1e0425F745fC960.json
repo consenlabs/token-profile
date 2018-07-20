@@ -1,0 +1,13 @@
+{
+    "symbol": "NAST",
+    "address": "0xC8650A5381b62e2E75F5Db74c1e0425F745fC960",
+    "overview":{
+        "en": "Node All-Star",
+        "zh": "Node All-Star"
+    },
+    "email": "Email",
+    "website": "http://nast.one/",
+    "whitepaper": "http://nast.one/files/whitepaper_cn_v1.0.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-04"
+}
