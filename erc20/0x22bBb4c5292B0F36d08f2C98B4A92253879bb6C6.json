@@ -1,0 +1,28 @@
+{
+  "symbol": "PotatoChain",
+  "address": "0xa3fd1c602189eb20d9dae57ac6696297d38316a29802f7a5cfc8c1c7459a9963",
+  "overview":{
+        "en": "",
+        "zh": "分布式泛娱乐社群公有链"
+  },
+  "email": "xnzhao196@163.com",
+  "website": "http://www.pt.vet/",
+  "whitepaper": "http://www.pt.vet/pc/pdf/book.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-11",
+  "initial_price":{
+        "ETH":"0.01 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.0006137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
