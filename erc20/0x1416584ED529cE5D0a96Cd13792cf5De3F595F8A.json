@@ -1,0 +1,22 @@
+{
+  "symbol": "BOL",
+  "address": "0x1416584ED529cE5D0a96Cd13792cf5De3F595F8A",
+  "overview":{
+    "en": "BOL is based on the platform digital currency of the DAPP, which is suitable for service purchase, player transaction, and physical item exchange behavior in DAPP.",
+    "zh": "BOL是基于不共般若DAPP的平台数字币，适用于DAPP内服务购买、玩家交易与实体物品兑换行为"
+  },
+  "email": "bgbr@cunpiao.com",
+  "website": "http://www.bgbr.pro/#/",
+  "whitepaper": "http://www.bgbr.pro/#/pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-15",
+  "initial_price":{
+    "ETH":"0.00001104 ETH",
+    "USD":"0.00498 USD",
+    "BTC":"0.00000078 BTC"
+  },
+  "links": {
+    "twitter": "https://pic.twitter.com/82nMqyvPqc",
+    "telegram": "https://t.me/joinchat/J5t_2RFvwnkTrrdQ2jc5Dg"
+  }
+}
