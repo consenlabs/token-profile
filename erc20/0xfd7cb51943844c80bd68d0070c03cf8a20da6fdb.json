@@ -10,8 +10,7 @@
   "whitepaper": "http://ambr.org/whitepaper/Ambr_English.pdf",
   "published_on": "2018-06-20",
   "initial_price":{
-       "ETH":"0 ETH",
-       "USD":"0 USD"
+       "ETH":"0.00000016 ETH",
   },
   "links": {
     "telegram":"http://t.me/AmbrChina",
