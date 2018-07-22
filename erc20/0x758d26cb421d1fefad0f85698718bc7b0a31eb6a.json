@@ -1,0 +1,16 @@
+{
+  "symbol": "ATT",
+  "address": "0x758d26cb421d1fefad0f85698718bc7b0a31eb6a",
+  "overview":{
+        "en": "Avatar Network Token", 
+        "zh": "阿凡达网络" 
+  },
+  "email": "hi@avatar-network.io", 
+  "website": "https://avatar-network.io", 
+  "whitepaper": "https://avatar-network.io/wp-content/uploads/2018/07/Avatar_Network_WhitePaper_EN.pdf", 
+  "published_on": "2018-05-01", 
+  "links": {
+    "blog": "https://www.avatar-network.io",
+    "telegram": "https://t.me/avatar"
+  }
+}
