@@ -1,0 +1,18 @@
+{
+  "symbol": "NINE",
+  "address": "0x265a3C88E0EF4B0037c90e90f0Ff8a5f53F78155",
+  "overview":{
+        "en": "BitNine Ecological Platform for Global Pan-tourism",
+        "zh": "久币全球泛旅游生态平台!"
+  },
+  "email": "ninecoin@gmail.com",
+  "website": "http://www.bitnine.com",
+  "whitepaper": "http://www.bitnine.com/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2018-07-19",
+  "initial_price":{
+        "USD":"0.5 USD"
+  },
+  "links": {
+  }
+}
