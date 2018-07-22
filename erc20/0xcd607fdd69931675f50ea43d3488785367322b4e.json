@@ -1,0 +1,27 @@
+{
+  "symbol": "QPAY",
+  "address": "0xcd607fdd69931675f50ea43d3488785367322b4e",
+  "overview":{
+        "en": "Quantum Pay is a decentralized monetary facility platform which aims to deliver money transfers, game credits, hotel bookings, bill payments, mobile top-ups, online shopping and sending money anywhere in any international arena. It uses digital exchange as a small charge entrance to investment, lending, finance, funding, and banking, ranging the scope of financial institutions beyond their existing outlet infrastructure to the many who are unbanked in the world.",
+        "zh": "Quantum Pay是一个分散式货币平台，旨在提供资金转移，游戏点数，酒店预订，账单支付，移动充值，网上购物以及在任何国际舞台上的任何地方汇款。它使用数字交换作为投资，贷款，融资，融资和银行业务的小额收费入口，将金融机构的范围从现有的出口基础设施扩展到世界上没有银行账户的人群。"
+  },
+  "email": "contact@quantumpay.co",
+  "website": "https://quantumpay.co/",
+  "whitepaper": "https://quantumpay.co/QUANTUMPAYWP.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-19",
+  "initial_price":{
+        "ETH":"0.00000007 ETH"
+       
+	   
+  },
+  "links": {
+    
+    "twitter": "https://twitter.com/Quantum_Pay",
+    "telegram": "https://t.me/quantumpayQPAY",
+    "github": "https://github.com/quantumpay",
+    "facebook": "https://www.facebook.com/QuantumPay/",
+    "reddit": "https://www.reddit.com/user/Quantum_Pay/",
+	"medium": "https://medium.com/@quantumpay"
+  }
+}
