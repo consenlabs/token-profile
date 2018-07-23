@@ -16,8 +16,8 @@
   "symbol":"BZX",
   "initial_price":{
     "USD":"0.00280 USD",
-    "ETH":"0.0.00000625 ETH",
-    "BTC":"0.0.000000367 BTC"
+    "ETH":"0.00000625 ETH",
+    "BTC":"0.000000367 BTC"
 
   },
   "address":"0x3cf064019fb405070036fb68e0dc91e9099eb2ec",
