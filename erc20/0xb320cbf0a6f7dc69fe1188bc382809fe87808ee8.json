@@ -1,0 +1,22 @@
+{
+  "symbol": "BHQ",
+  "address": "0xb320cbf0a6f7dc69fe1188bc382809fe87808ee8",
+  "overview":{
+        "en": "btztoken",
+        "zh": ""
+  },
+  "email": "yncybxgchnoc@qq.com",
+  "website": "http://www.btzcoin.com",
+  "whitepaper": "http://www.btzcoin.com/btz/b.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-21",
+  "initial_price":{
+        "ETH":"0.0021 ETH",
+        "USD":"1.2 USD",
+        "BTC":"0.00007 BTC"
+  },
+  "links": {
+    "blog": "http://blog.sina.com.cn/btzcoingf",
+    "twitter": "https://twitter.com/btzcoin_com",
+  }
+}
