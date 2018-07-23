@@ -1,0 +1,17 @@
+
+{
+  "symbol": "BFCC",
+  "address": "0x4e27a56b7618024a487d628fcbbef9759ea2540d",
+  "overview":{
+        "en": "Convenient cross-platform value and information interoperability through the DApp of BFCC",
+        "zh": "通过 BFCC 去中心化的DApp便捷的跨平台价值和信息互通。"
+  },
+  "email": "bussiness@bfcc.com",
+  "website": "http://www.btfbfcc.com",
+  "whitepaper": "http://www.btfbfcc.com/BFCC.pdf",
+  "initial_price":{
+        "ETH":"0.0002000 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/AAAAAFDvaE6eRFbPno0ovQ"}
+}
