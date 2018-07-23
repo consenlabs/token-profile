@@ -1,0 +1,21 @@
+{
+  "symbol": "TET",
+  "address": "0x4eE3f56Ba765D040871b1D42404616357FF24102",
+  "overview":{
+        "en": "TET is Token Economy Token, is issued by the TokenEconomy.one Certified Economic Service Platform and the TokenFactory.cn Digital Money Factory. It is based on the Ethereum Blockchain token . used in the reform of individuals, organizations and enterprises.",
+        "zh": "TET 全称Token Economy Token 是由 TokenEconomy.one 通证经济服务平台和 TokenFactory.cn 数字货币工厂发行的，基于以太坊区块链的加密代币。应用于个人，组织和企业的通证经济改革。"
+  },
+  "email": "admin@tokeneconomy.one",
+  "website": "https://www.tokeneconomy.one/",
+  "whitepaper": "https://www.tokeneconomy.one/whitepaperzh.pdf", 
+  "published_on": "2018-07-23",
+  "initial_price":{
+        "ETH":"0.00001 ETH"       
+  },
+  "links": {   
+    "twitter": "https://twitter.com/tokeneconomyone",
+    "telegram": "https://t.me/tokeneconomyone",
+    "github": "https://github.com/tokeneconomyone",
+    "facebook": "https://www.facebook.com/tokeneconomyone/"   
+  }
+}
