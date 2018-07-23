@@ -1,0 +1,16 @@
+{
+  "symbol": "CETH",
+  "address": "0x26c7bdd051318b48092390eabd1b69fce5080b25",
+  "overview":{
+        "en": "Claim Everything"
+  },
+  "email": "cethteam@gmail.com",
+  "website": "https://www.ceth.info/",
+  "whitepaper": "http://17208113.s21d-17.faiusrd.com/61/ABUIABA9GAAgpafX2gUosoLk-gM.pdf",
+  "published_on": "2018-07-25"
+  },
+  "links": {
+    "twitter": "https://twitter.com/cethteam",
+    "github": "https://github.com/CETHteam"
+  }
+}
