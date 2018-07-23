@@ -1,12 +1,23 @@
 {
   "symbol": "OPTC",
-  "address": "0x8E91A9cBAdB74EF60c456f1E4Ba3E391b143AAD9",
+  "address": "0x8e91a9cbadb74ef60c456f1e4ba3e391b143aad9",
   "overview":{
-        "en": "Optical Network",
-        "zh": ""
+        "en": "Optical Network."
   },
-  "email": "",
-  "website": "https://optc.cc",
-  "whitepaper": "",
+  "email": "support@optc.cc",
+  "website": "https://optc.cc/",
+  "whitepaper": "https://optc.cc/assets/pdf/20180723134620white.pdf",
   "state": "NORMAL",
+  "published_on": "2018-07-23",
+  "initial_price":{
+        "ETH":"0.00005 ETH",
+        "USD":"0.023 USD",
+        "BTC":"0.00000305 BTC" 
+  },
+ "links": {
+    "twitter": "https://twitter.com/OPTCfoundation",
+    "telegram": "https://t.me/optcteam",
+    "github": "https://github.com/OpticalNetwork",
+    "facebook": "https://www.facebook.com/OpticalNetwork"
+  }
 }
