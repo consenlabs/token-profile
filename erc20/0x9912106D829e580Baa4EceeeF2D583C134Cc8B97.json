@@ -16,10 +16,10 @@
     "BTC":"0.00001000 BTC"
   },
   "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "",
-    "facebook": ""
+    "blog": "https://namychain.io/",
+    "twitter": "https://namychain.io/",
+    "telegram": "https://namychain.io/",
+    "github": "https://namychain.io/",
+    "facebook": "https://namychain.io/"
   }
 }
