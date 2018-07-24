@@ -1,0 +1,16 @@
++{
++  "symbol": "1895",
++  "address": "0x8766f119AB72eAB9b82Fc33123E1Cd253817f707",
++  "overview": {
++    "en": "The 1895Chain is blockchain system is an open source project in the global blockchain initiated by the 1895 foundation, which is a BaaS project consisting of a micro kernel, a chain operating system, functional modules, and a growing number of private cloud storage hardware devices located all over the world.",
++    "zh": "1895Chain 是1895区块链系统是一个由1895基金会发起的全球性区块链开源项目，是一个由微内核、链上操作系统、各功能模块以及不断在增多的遍布全球的私有云存储硬件设备节点组成的BaaS项目。"
++  },
++  "email": "contact@1895chain.com",
++  "website": "https://www.1895chain.com/",
++  "whitepaper": "https://www.1895chain.com/data/doc/1895chainwhitepaper.pdf",
++  "state": "NORMAL",
++  "published_on": "2018-07-23",
++  "links":{
++  "github":"https://github.com/cmff"
++  }
++}
