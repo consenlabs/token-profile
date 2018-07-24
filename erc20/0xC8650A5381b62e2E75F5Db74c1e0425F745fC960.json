@@ -1,4 +1,19 @@
 {
     "symbol": "NAST",
-    "address": "0xC8650A5381b62e2E75F5Db74c1e0425F745fC960"
+    "address": "0xC8650A5381b62e2E75F5Db74c1e0425F745fC960",
+    "overview": {
+        "en": "Node All-Star is a pan-entertainment eco-community.",
+        "zh": "Node All-Star是一个基于区块链平台开发的的泛娱乐生态社区。"
+    },
+    "email": "node.all.star@gmail.com",
+    "website": "http://nast.one/",
+    "whitepaper": "http://nodeallstar.ushiji.vip/files/whitepaper_cn_v1.0.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-04",
+    "links": {
+        "github": "https://github.com/nodeallstar",
+        "twitter": "https://mobile.twitter.com/YikaLossy",
+        "telegram": "https://t.me/NodeAllStar",
+        "facebook": "https://www.facebook.com/allstar.node.1"
+    }
 }
