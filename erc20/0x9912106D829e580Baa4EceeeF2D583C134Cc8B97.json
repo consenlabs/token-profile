@@ -6,8 +6,8 @@
     "zh": "NamyChain NRCS（Namy Rapid TokenFinance Chain EcoSystem）- 金融级高可用性分布式协作网络，提供公有链底层基础设施。NRSC满足了「快速的处理数以千记的交易量」、「提供产生收入的方法」、「有可行的方法来增加新特征」及「在可移动设备上运行」特性，同时还消除了传统的POW机制所需要的算力设备军备竞赛，并在此基础上，提供创新的选装共识机制插座，以动态分层、异构冗余的思想，达到对交易的快速确认，同时保证系统的安全性。NRCS拥有一个完善的分布式大数据协作共享机制，致力于打造创新的基于公有链技术的数据处理生态，同时能够为通过NRCS公有链技术进行数据处理提供安全保护。"
   },
   "email": "support@namychain.io",
-  "website": "https://namychain.io/",
-  "whitepaper": "https://namychain.io/files/NamyChain_EcoSystem.pdf",
+  "website": "https://www.namychain.io/",
+  "whitepaper": "https://www.namychain.io/files/NamyChain_EcoSystem.pdf",
   "state": "NORMAL",
   "published_on": "2018-07-17",
   "initial_price":{
@@ -16,10 +16,10 @@
     "BTC":"0.00001000 BTC"
   },
   "links": {
-    "blog": "https://namychain.io/",
-    "twitter": "https://namychain.io/",
-    "telegram": "https://namychain.io/",
-    "github": "https://namychain.io/",
-    "facebook": "https://namychain.io/"
+    "blog": "https://www.namychain.io/",
+    "twitter": "https://www.namychain.io/",
+    "telegram": "https://www.namychain.io/",
+    "github": "https://www.namychain.io/",
+    "facebook": "https://www.namychain.io/"
   }
 }
