@@ -1,0 +1,16 @@
+{
+  "symbol": "CDC",
+  "address": "0xDf504f4a3EBFf88f1cb0571Cad3d7A441bF251F2",
+  "overview":{
+        "en": "Car data chain is committed to building a safe and equitable automotive data ecosystem",
+        "zh": "car data chain 致力于打造一个安全公平的汽车数据生态系统"
+  },
+  "email":"obd123456@outlook.com",
+  "website":"http://www.cdcblock.com/",
+  "whitepaper": "http://www.cdcblock.com/cdc.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-20",
+  "initial_price":{
+        "ETH":"0.00033333"
+  }
+}
