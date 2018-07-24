@@ -11,18 +11,15 @@
   "state": "NORMAL",
   "published_on": "2018-07-04",
   "initial_price":{
-        "ETH":"0.02000000 ETH",
-        "USD":"9.3576 USD",
-        "BTC":"0.00140000 BTC"
+        "ETH":"0.00001000 ETH",
+        "USD":"0.0048 USD",
+        "BTC":"0.00000060 BTC"
   },
   "links": {
     "blog": "http://asc.link",
     "twitter": "https://twitter.com/AssetsChain",
     "telegram": "https://t.me/assetchain",
     "github": "https://github.com/dmsggg/token-profile",
-    "facebook": "https://www.facebook.com/100027284177032",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "facebook": "https://www.facebook.com/100027284177032"
   }
 }
