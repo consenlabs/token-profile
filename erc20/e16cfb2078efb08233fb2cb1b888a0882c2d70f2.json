@@ -1,0 +1,21 @@
+{
+  "symbol": "1895",
+  "address": "e16cfb2078efb08233fb2cb1b888a0882c2d70f2",
+  "overview":{
+        "en": "1895 Chain is blockchain system is an open source project in the global blockchain initiated by the 1895 foundation, which is a BaaS project consisting of a micro kernel, a chain operating system, functional modules, and a growing number of private cloud storage hardware devices located all over the world.",
+        "zh": "1895 Chain 区块链系统是一个由1895基金会发起的全球性区块链开源项目，是一个由微内核、链上操作系统、各功能模块以及不断在增多的遍布全球的私有云存储硬件设备节点组成的BaaS项目。"
+  },
+  "email": "contact@1895chain.com",
+  "website": "https://www.1895chain.com",
+  "whitepaper": "https://www.1895chain.com/data/doc/1895chainwhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00 ETH",
+        "USD":"0.00 USD",
+        "BTC":"0.00 BTC"
+  },
+  "links": {
+    "telegram": "https://www.1895chain.com"
+  }
+}
