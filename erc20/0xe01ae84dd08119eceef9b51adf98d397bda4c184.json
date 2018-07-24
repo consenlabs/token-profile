@@ -2,12 +2,11 @@
   "symbol": "BOBC",
   "address": "0xe01ae84dd08119eceef9b51adf98d397bda4c184",
   "overview":{
-        "en": "BOBC place",
-        "zh": "宝宝币"
+        "en": "BOBC is good Token.",
+        "zh": "宝宝币可以用来兑换纸尿布"
   },
   "email": "sjhoon@163.com",
-  "website": "https://qq.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "website": "https://www.baidu.com",
   "state": "NORMAL",
   "published_on": "2018-07-24",
   "initial_price":{
