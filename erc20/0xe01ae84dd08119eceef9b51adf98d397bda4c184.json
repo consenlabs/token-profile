@@ -1,0 +1,21 @@
+{
+  "symbol": "BOBC",
+  "address": "0xe01ae84dd08119eceef9b51adf98d397bda4c184",
+  "overview":{
+        "en": "BOBC place",
+        "zh": "宝宝币"
+  },
+  "email": "sjhoon@163.com",
+  "website": "https://qq.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-24",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "github": "https://github.com/bitspace2018"
+  }
+}
