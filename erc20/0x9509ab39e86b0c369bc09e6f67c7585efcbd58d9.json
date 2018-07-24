@@ -1,0 +1,17 @@
+{
+  "symbol": "CODY",
+  "address": "0x9509ab39e86b0c369bc09e6f67c7585efcbd58d9",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "www@coindy.com",
+  "website": "https://www.coindy.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-07-01",
+  "initial_price":{
+  },
+  "links": {
+  }
+}
