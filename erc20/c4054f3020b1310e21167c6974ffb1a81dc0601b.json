@@ -1,0 +1,49 @@
+{
+  "symbol": "1895Chain",
+  "address": "0x8766f119AB72eAB9b82Fc33123E1Cd253817f707",
+  "overview":{
+        "en": "The 1895 blockchain system is an open source project in the global blockchain
+initiated by the 1895 foundation, which is a BaaS project consisting of a micro
+kernel, a chain operating system, functional modules, and a growing number of
+private cloud storage hardware devices located all over the world.",
+        "zh": "1895区块链系统是一个由1895基金会发起的全球性区块链开源项目，是一
+个由微内核、链上操作系统、各功能模块以及不断在增多的遍布全球的私有云存
+储硬件设备节点组成的BaaS项目。
+1895要实现针对内容相关商业行为的一个区块链基础设施和公链。
+1895制定了一套内容商业应用模式进行区块链应用的一套技术标准，遵循热
+插拔、模块化扩展、提供可替代的智能合约、共识机制、P2P传输网络、NAT网
+络连接、大数据加密存储、多账号体系、版权内容保护、内容线上交易及管理等
+功能。
+我们希望通过1895基础链，帮助原有与内容相关的、需要利用区块链技术进
+行业务开展的项目，能够快速建立去中心化的应用场景，自由搭建其业务模型，
+而不再需要从下到上重新去开发自己的区块链，尤其值得注意的是：1895系统本
+身具备分布式硬件属性，由于其具备“私有云”的各种无线路由器、跨地域存储、
+自由分享、内容交易功能，可以通过多种渠道、非常容易地部署到每一个家庭中，
+成为每一个家庭的“数据中心”，因此可以天然地与个人、家庭用户信息存储市
+场无缝契合，具备上百万甚至千万台的分布式1895Give硬件节点（简称G点）的
+可能性，这也是区块链分布式的本质要求所在，而这在现有的所有区块链项目中，
+是能够和比特币、以太坊相媲美的垂直行业“基础链“。
+我们希望1895成为第一个针对垂直广域行业的基础链，对标“行业性的以太
+坊“，为需要区块链服务的影视行业的内容分发提供BaaS（区块链即服务）；"
+  },
+  "email": "contact@1895chain.com",
+  "website": "https://www.1895chain.com/",
+  "whitepaper": "https://www.1895chain.com/data/doc/1895chainwhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00 ETH",
+        "USD":"0.00 USD",
+        "BTC":"0.00 BTC"
+  },
+  "links": {
+    "blog": " ",
+    "twitter": " ",
+    "telegram": " ",
+    "github": " ",
+    "facebook": " ",
+    "reddit": " ",
+    "slack": " ",
+    "medium": " "
+  }
+}
