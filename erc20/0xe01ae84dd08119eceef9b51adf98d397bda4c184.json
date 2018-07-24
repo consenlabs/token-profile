@@ -5,9 +5,8 @@
         "en": "BOBC is good Token.",
         "zh": "宝宝币可以用来兑换纸尿布"
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "email": "sjhoon@163.com",
+  "website": "https://www.baidu.com",
   "state": "NORMAL",
   "published_on": "2018-07-24",
   "initial_price":{
@@ -16,13 +15,6 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+      
   }
 }
