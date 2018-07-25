@@ -1,16 +1,20 @@
 ﻿{
-  "symbol": "MSKC",
-  "address": "0x7633f5f923c8a4a93dbd3c408127d4030f7b2e56",
-  "overview":{
-    "en": "MansukeCoin",
-    "zh": "曼杉币"
-  },
-  "email": "chain@mscn.mobi",
-  "website": "http://www.mscn.mobi",
-  "state": "NORMAL",
-  "published_on": "2018-06-30",
-  "initial_price":{
-    "ETH":"0.00166666 ETH",
-    "USD":"0.7 USD"
-  }
+	"symbol": "MSKC",
+	"address": "0x7633f5f923c8a4a93dbd3c408127d4030f7b2e56",
+	"overview": {
+		"en": "MansukeCoin",
+		"zh": "MansukeCoin"
+	},
+	"email": "chain@mscn.mobi",
+	"website": "http://www.mscn.bomi",
+	"whitepaper": "http://www.mscn.mobi/MSKC.pdf",
+	"state": "NORMAL",
+	"published_on": "2018-07-01",
+	"initial_price": {
+		"ETH": "0.00023 ETH",
+		"USD": "0.7 USD"
+	},
+	"links": {
+		"github": "https://github.com/DACChain"
+	}
 }
