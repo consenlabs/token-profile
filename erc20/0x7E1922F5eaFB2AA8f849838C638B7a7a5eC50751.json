@@ -1,0 +1,15 @@
+{
+  "symbol": "GCC",
+  "address": "0x7E1922F5eaFB2AA8f849838C638B7a7a5eC50751",
+  "overview":{
+        "en": "The Gcchain system is a blockchain system that uses blockchain technology to combine ad distribution with online shopping. The system uses GCC as a medium to obtain its own GCC by clicking on an ad (similar to mining) and selling new or unused second-hand items on the Gcchain eco-shopping platform. Gcchain follows the concept of decentralization, allowing users to earn revenue in the Gcchain ecosystem and buy and sell the items they want on the platform.",
+        "zh": "Gcchain生态体系是一款利用区块链技术，将广告分发与网购平台相结合的区块链生态体系。该体系以GCC为媒介，利用点击广告等方式（类似挖矿）赚取属于自己的GCC，同时也可在Gcchain生态网购平台上（Gcchain交易平台作为中间担保方）销售全新的或闲置二手的物品赚取GCC。Gcchain遵循去中心化的构想，用户在Gcchain生态中可以利用闲余时间赚取丰厚外快，并可以在平台上买卖自己想要的物品。"
+  },
+  "website": "https://gcchain.net/",
+  "whitepaper": "https://www.gcchain.net/whitepaper.pdf",
+  "email": "joe@gcchain.net",
+  "links": {
+    "twitter": "https://twitter.com/Gcchains",
+    "telegram": "https://t.me/joinchat/IPafww_n4rrARkGdmcyRjQ",
+  }
+}
