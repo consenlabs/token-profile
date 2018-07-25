@@ -1,0 +1,28 @@
+{
+  "symbol": "MSKC+",
+  "address": "0x7633f5f923c8a4a93dbd3c408127d4030f7b2e56",
+  "overview":{
+        "en": "MansukeCoin",
+        "zh": "ÂüÉ¼±Ò"
+  },
+  "email": "chain@mscn.mobi",
+  "website": "http://www.mscn.mobi",
+  "whitepaper": "http://www.mscn.mobi/MSKC.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
