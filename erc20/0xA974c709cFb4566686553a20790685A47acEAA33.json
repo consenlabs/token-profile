@@ -7,7 +7,7 @@
   },
   "email": "contact@mixin.one",
   "website": "https://mixin.one/",
-  "whitepaper": "https://mixin.one/assets/Mixin-Draft-2018-06-04.pdf",
+  "whitepaper": "https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf",
   "state": "NORMAL",
   "published_on": "2018-12-25",
   "initial_price":{
@@ -17,8 +17,8 @@
   },
   "links": {
     "blog": "https://mixin.one/logs",
-    "twitter": "https://twitter.com/MixinMessenger",
-    "github": "https://github.com/MixinMessenger",
-    "facebook": "https://www.facebook.com/MixinMessenger"
+    "twitter": "https://twitter.com/Mixin_Network",
+    "github": "https://github.com/MixinNetwork",
+    "facebook": "https://www.facebook.com/MixinNetwork"
   }
 }
