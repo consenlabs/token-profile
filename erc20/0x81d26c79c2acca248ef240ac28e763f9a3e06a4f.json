@@ -1,0 +1,23 @@
+{
+  "symbol": "草泥马币",
+  "address": "0x81d26c79c2acca248ef240ac28e763f9a3e06a4f",
+  "overview":{
+        "en": "Making the most of calculation resources and conducting a global distributed grid computing infrastructure, offering these idle computing forces to demanding customers will be composed of a huge grid computing network. That executes large-scale applications consuming traditional supercomputer at the cost of only one-tenth. The fields, performing large-scale parallel and distributed application programs, have rich types, such as 3D render, high energy physics, biomedical research, mathematics, financial algorithm, material research, AI training, meteorological prognosis, DNA detection and oil exploration. Synergistic complementation between physical network architecture and cloud computing technology creates open edge computing network, focusing on part and analysis of real time, short period data. This can be better to bolster local businesses of real time intelligent processing and execution..",
+        "zh": ""
+  },
+  "email": "team@alpaca.net.in",
+  "website": "https://alpaca.net.in/",
+  "whitepaper": "https://alpaca.net.in",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-04-06",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+      "telegram": "https://t.me/alpacanet",
+      "github": "https://github.com/AlpacaNetwork/token-profile",
+    }
+  }
+}
