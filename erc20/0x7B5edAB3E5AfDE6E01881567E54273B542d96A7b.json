@@ -1,0 +1,22 @@
+{
+  "symbol": "QB",
+  "address": "0x7B5edAB3E5AfDE6E01881567E54273B542d96A7b",
+  "overview":{
+        "en": "QuestBlock（QB）is issued by QBCC trading platform, The total amount of circulation is 6 billion，QB is a decentration block chain digital asset, which is based on the ERC-20 standard token of the Ethernet block chain. QB will be widely used in a variety of fields, Including news, advertising, lottery, charity and financial management.",
+        "zh": ""
+  },
+  "email": "service@qb.cc",
+  "website": "http://www.qb.cc",
+  "whitepaper": "http://www.musk.vip/qbccbook.html",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-07-24",
+  "initial_price":{
+        "ETH":"0.00001875 ETH",
+        "USD":"0.008929 USD",
+        "BTC":"0.0000010909 BTC"
+  },
+  "links": {
+    "twitter": "https://mobile.twitter.com/QuestBlock",
+    "facebook": "https://www.facebook.com/qb.questblock.5"
+  }
+}
