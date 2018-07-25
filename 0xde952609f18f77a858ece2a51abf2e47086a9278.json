@@ -1,0 +1,16 @@
+{
+  "symbol": "OSA",
+  "address": "0xde952609f18f77a858ece2a51abf2e47086a9278",
+  "overview":{
+        "en": "OSA is an asset digital tool, the complex block chain technology, with a simple operation interface, users can easily use OSA to realize the distribution, circulation and settlement of digital assets.",
+        "zh": "OSA是资产数字化工具，将复杂的区块链技术，以简单的操作界面呈现出来，用户能够轻松的应用OSA实现数字资产发行、流通、结算。"
+  },
+  "email": "osa@imosa.info",
+  "website": "https://imosa.info/",
+  "whitepaper": "https://imosa.info/static/white_paper_zh.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "links": {
+    "github": "https://github.com/osaZhanghu/"
+  }
+}
