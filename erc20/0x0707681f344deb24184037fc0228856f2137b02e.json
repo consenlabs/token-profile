@@ -11,8 +11,8 @@
   "state": "NORMAL",
   "published_on": "2018-07-26",
   "initial_price":{
-    "ETH":"0.0003425?ETH",
-    "USD":"0.35?USD"
+    "ETH":"0.0003425 ETH",
+    "USD":"0.35 USD"
   },
   "links": {
     "blog": "http://weibo.com/FNKOSofficial",
