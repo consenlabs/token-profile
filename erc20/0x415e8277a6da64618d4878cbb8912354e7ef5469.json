@@ -1,0 +1,18 @@
+{
+  "symbol": "HRC",
+  "address": "0x415e8277a6da64618d4878cbb8912354e7ef5469",
+  "overview":{
+        "en": "HunterChain is based on social relationship assets and blockchain technology to build a decentralized data identity value ecosystem. Hunting Chain Dapp is the first landing application on HunterChain. It is a decentralized job search management tool that includes job search and career files. In the HunterChain application, transactions and data transfers between nodes and nodes will be performed on the chain. In addition, the user's professional file, mutual verification data accounting, and the user's trajectory on the HunterChain will gradually be chained.",
+        "cn": "HunterChain（猎链）是以社会关系资产为基础、区块链技术为根基，构建去中心化的数据身份价值认定生态圈。猎链Dapp是HunterChain上的首个落地应用，是一款去中心化求职招聘管理工具，包含求职招聘和职业档案。在HunterChain应用中，节点与节点之间的交易、数据传输都将在链上进行。除此之外，用户的职业档案、相互验证数据记账、以及用户在HunterChain上的使用轨迹都会逐步上链。"
+  },
+  "email": "gbh@suzhi.work",
+  "website": "http://www.hunterchain.info/",
+  "whitepaper": "http://www.hunterchain.info/white-paper.pdf",
+  "published_on": "2018-07-17",
+  "links": {
+    "twitter": "https://twitter.com/HunterChain5",
+    "telegram": "https://t.me/HunterChain",
+    "github":"https://github.com/HunterChain",
+    "reddit": "https://www.reddit.com/user/HunterChain"
+  }
+}
