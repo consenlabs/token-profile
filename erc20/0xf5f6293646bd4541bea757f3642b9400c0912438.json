@@ -1,0 +1,19 @@
+{
+  "symbol": "BJS",
+  "address": "0xf5f6293646bd4541bea757f3642b9400c0912438",
+  "overview":{
+        "en": "Internet advertising business reception platform based on blockchain.",
+        "zh": "币加索是一家基于区块链的互联网广告接待平台"
+  },
+  "email": "bijiasuoinfo@gmail.com",
+  "website": "https://www.bijiasuo.info/",
+  "whitepaper": "https://www.bijiasuo.info/white.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-05",
+  "initial_price":{
+        "ETH":"0.002 ETH",
+  },
+  "links": {
+    "blog": "https://www.bijiasuo.info",
+  }
+}
