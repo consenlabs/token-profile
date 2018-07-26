@@ -1,0 +1,12 @@
+{
+  "symbol": "CQS",
+  "address": "0x84f3d27680fd92b42aecd5ef0b69dd730d1b75d2",
+  "overview":{
+        "en":"CQS is based on ERC20 CQS exchange equity token, its platform as an equity token, will be used for platform dividends, airdrop awards and other application scenarios.",
+        "zh":"CQS是基于ERC20的CQS交易所权益代币，其作为平台的权益代币，将被用于平台分红，空投奖励等多种应用场景。"
+  },
+  "email": "info@cqsexchange.com",
+  "website": "http://www.cqsexchange.io/",
+  "whitepaper": "https://www.cqsexchange.io/CQS_WP-EN2.0.pdf",
+  "published_on": "2018-07-26"
+}
