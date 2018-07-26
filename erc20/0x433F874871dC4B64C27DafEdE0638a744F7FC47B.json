@@ -1,5 +1,5 @@
 {
-  "symbol": "STC ",
+  "symbol": "STC",
   "address": "0x433F874871dC4B64C27DafEdE0638a744F7FC47B",
   "overview":{
         "en": "SomethingMarket is a peer-to-peer network trading system based on Ethereum. Here, you can use the easiest way to distribute and trade your own virtual tokens. Your virtual token will be your company's membership certificate, customer points, and even micro currency in your circle of friends. . ..",
@@ -12,6 +12,8 @@
   "published_on": "2018-07-26",
   "initial_price":{
         "ETH":"0.003 ETH",
+        "USD": "1.43 USD",
+        "BTC": "0.000174 BTC"
   },
   "links": {
     "telegram": "https://t.me/joinchat/G90evBGEkU60OnnNBuHzhQ",
