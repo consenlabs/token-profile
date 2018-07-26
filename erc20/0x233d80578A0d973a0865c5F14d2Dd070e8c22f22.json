@@ -1,0 +1,15 @@
+{
+  "symbol": "CROD",
+  "address": "0x233d80578A0d973a0865c5F14d2Dd070e8c22f22",
+  "overview":{ 
+        "zh": "CROD是英国嘉瑞基金组织和亚洲顶尖区块链技术团队Ｒ３共同研发的智能金融安保数字化金融服务的超级智能数字资产，主要服务于英国开曼群岛、美国华尔街、塞班岛的金融机构的金融安全软、硬件，CROD金融安防团队曾参与过瑞士银行钱库的设计采用 OpenCoin 开源算法的核心智能密码学算法，衡量发行 6.8 亿枚，可有效防止通货紧缩."   
+  },
+  "email": "coin@crodcoin.com",
+  "website": "http://www.crodcoin.com/",
+  "whitepaper": "http://mail.crodcoin.com/netfile.asp?fid=WB18072000000007&auth=0ca1a7a5cff4bff4c985dfda8bc7a1a6&name=%E5%8D%A1%E7%BD%97%E7%9B%BECROD%E7%99%BD%E7%9A%AE%E4%B9%A6V_.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-01",
+  "initial_price":{    
+        "USD":"0.1 USD" 
+  }
+}
