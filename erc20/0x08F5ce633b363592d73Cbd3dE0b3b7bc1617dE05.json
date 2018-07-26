@@ -1,0 +1,20 @@
+{
+  "symbol": "TVTO",
+  "address": "0x08F5ce633b363592d73Cbd3dE0b3b7bc1617dE05",
+  "overview":{
+        "en": "We hope to create a decentralized, sustainable and fair flow of value economic ecosystem.",
+        "zh": "打造一个去中心化的、可持续的、公正的流量价值经济生态。"
+  },
+  "email": "tvt@tvt.one",
+  "website": "http://tvt.one/",
+  "whitepaper": "http://tvt.one/TVTO.pdf#glossary",
+  "state": "NORMAL",
+  "published_on": "2018-07-06",
+  "initial_price":{
+        "ETH": "0.00006 ETH",
+        "BTC": "0.000004 BTC"
+  },
+  "links": {
+    
+  }
+}
