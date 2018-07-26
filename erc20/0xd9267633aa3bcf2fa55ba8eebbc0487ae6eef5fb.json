@@ -7,14 +7,7 @@
    },
    "email": "8806952@qq.com",
    "website": "http://www.otb.zone",
-   "whitepaper": "http://otb.zone/Public/home/img/LEBWhitePaper.pdf",
-   "published_on": "2018-07-12",
-   "initial_price":{
-        "ETH":"0.000025 ETH",
-        "BTC":"0.000002 BTC"
-    },
-    "links": {
-        "telegram": "https://t.me/otb"
-    }
-
+   "whitepaper": "http://otb.zone/Public/home/img/OTBWhitePaper.pdf",
+   "state": "NORMAL",
+   "published_on": "2018-07-26",
 }
