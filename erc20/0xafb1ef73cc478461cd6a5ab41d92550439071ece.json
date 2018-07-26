@@ -7,7 +7,7 @@
     },
     "email": "ln@liuniukeji.com",
     "website": "http://www.liuniuchain.com/",
-    "whitepaper": "",
+    "whitepaper": "http://www.liuniuchain.com/file/pandacoinwp.pdf",
     "state": "NORMAL",
     "published_on": "2018-07-26",
     "initial_price": {
@@ -16,6 +16,6 @@
         "BTC": "0.00004137 BTC"
     },
     "links": {
-       
+       "blog": "http://www.liuniuchain.com/"
     }
 }
