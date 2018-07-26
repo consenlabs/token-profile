@@ -2,8 +2,8 @@
   "symbol": "STC ",
   "address": "0x433F874871dC4B64C27DafEdE0638a744F7FC47B",
   "overview":{
-        "en": "Something capability.",
-        "zh": ""
+        "en": "SomethingMarket is a peer-to-peer network trading system based on Ethereum. Here, you can use the easiest way to distribute and trade your own virtual tokens. Your virtual token will be your company's membership certificate, customer points, and even micro currency in your circle of friends. . ..",
+        "zh": "SomethingMarket是一個建基於以太坊的對等網絡交易系統。 在這裡，您可以使用最簡單的方式去發行及交易您自己的虛擬代幣。 您的虛擬代幣將可以是您公司的會員證明、客戶積分、甚至是您朋友圈內的微貨幣。。。"
   },
   "email": "direct@somethingmarket.org",
   "website": "http://somethingmarket.org/",
@@ -12,17 +12,10 @@
   "published_on": "2018-07-26",
   "initial_price":{
         "ETH":"0.003 ETH",
-        "USD":"",
-        "BTC":""
   },
   "links": {
-    "blog": "https://github.com/MOKAKI/SomethingMarket-1/pulls",
-    "twitter": "",
     "telegram": "https://t.me/joinchat/G90evBGEkU60OnnNBuHzhQ",
     "github": "https://github.com/HongKongUsers/SomethingMarket",
     "facebook": "https://www.facebook.com/groups/2028126694129202",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
   }
 }
