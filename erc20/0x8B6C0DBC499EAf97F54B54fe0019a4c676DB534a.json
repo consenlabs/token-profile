@@ -1,0 +1,19 @@
+{
+  "symbol": "BYT",
+  "address": "0x8B6C0DBC499EAf97F54B54fe0019a4c676DB534a",
+  "overview":{
+        "en": "BYT is Bytex Token, Bytex is a new generation of exchanges platform for the South Korean market. It was founded by the top blockchain practitioners, token investors and technical experts in China and South Korea. The platform is committed to establishing a world-class cryptocurrency trading platform, which aims to provide our users with stable, transparent, efficient and professional exchange services. Bytex is expected to go live in early August and at the same time, release the brand new token BYT, as a bytex ecological equity certificate. Users who holding such can enjoy the revenue sharing, supervision and voting rights.",
+        "zh": "BYT是Bytex交易所的平台币，Bytex是面向韩国市场的新一代交易所，它由中韩两国顶尖区块链从业者、数字货币投资人、技术极客共同创立，致力于打造世界级区块链资产交易平台，为用户提供稳定安全、透明开放、高效专业的数字货币兑换服务"
+  },
+  "email": "chenlei@bytex.io",
+  "website": "https://www.bytex.io",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-07-26",
+  "initial_price":{
+  },
+  "links": {
+    "facebook":"https://www.facebook.com/Bytexio-308775543024478/",
+    "twitter":"https://twitter.com/BytexIo"
+  }
+}
