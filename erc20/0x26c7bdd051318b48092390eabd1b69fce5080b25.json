@@ -1,0 +1,14 @@
+{
+  "symbol": "CETH",
+  "address": "0x26c7bdd051318b48092390eabd1b69fce5080b25",
+  "overview":{
+        "en": "Claim Everything"
+  },
+  "email": "cethteam@gmail.com",
+  "website": "https://www.ceth.info/",
+  "published_on": "2018-08-10",
+  "links": {
+    "twitter": "https://twitter.com/cethteam",
+    "github": "https://github.com/CETHteam"
+  }
+}
