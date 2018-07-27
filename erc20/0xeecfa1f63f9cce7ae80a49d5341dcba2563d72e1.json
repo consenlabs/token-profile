@@ -10,19 +10,10 @@
   "whitepaper": "http://www.cros.work/files/cros_whitepaper_zh.pdf",
   "state": "NORMAL",
   "published_on": "2018-07-21",
-  "initial_price":{
-        "ETH":"0.000033 ETH",
-        "USD":"0.015 USD",
-        "BTC":"0.000002 BTC"
-  },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/CROS_Platform",
     "telegram": "https://t.me/cros_family",
     "github": "https://github.com/crosnetwork",
-    "facebook": "https://www.facebook.com/CROSplatform/",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "facebook": "https://www.facebook.com/CROSplatform/"
   }
 }
