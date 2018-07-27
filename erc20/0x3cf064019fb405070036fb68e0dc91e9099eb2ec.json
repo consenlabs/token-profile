@@ -1,0 +1,25 @@
+{
+  "website":"http://www.bzx.com/",
+  "published_on":"2018-07-21",
+  "links":{
+    "facebook":"https://www.facebook.com/bizaixian",
+    "twitter": "https://twitter.com/bizaixian",
+    "blog": "https://weibo.com/6608640036/profile?topnav=1&wvr=6",
+    "github": "https://github.com/bizaixian1",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/HXOA1w-2ag6MNjXKuHOlBw"
+  },
+  "overview":{
+    "en":"BZX COM exchange is a platform for global digital asset lovers to provide localized, one-stop high quality digital asset purchase services. The BZX COM exchange adopts the transaction mining innovation award mechanism, and proceeds to share dividends from users participating in the exchange through BZX.",
+    "zh":"BZX交易所，是为全球数字资产爱好者提供本地化、一站式的优质数字资产购买服务的交易平台。BZX COM交易所采用交易即挖矿的创新奖励机制，通过权益证明BZX对参与交易所建设的用户进行分红回馈。"
+  },
+  "symbol":"BZX",
+  "initial_price":{
+    "USD":"0.00280 USD",
+    "ETH":"0.00000625 ETH",
+    "BTC":"0.000000367 BTC"
+
+  },
+  "address":"0x3cf064019fb405070036fb68e0dc91e9099eb2ec",
+  "email":"kf@bzx.com"
+}
