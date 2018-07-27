@@ -1,0 +1,19 @@
+{
+  "symbol": "FHC",
+  "address": "0x1bd96b3C300E1E3d0Cf4E5E1C0bb4312a53F8419",
+  "overview":{
+        "en": "The world's first digital assets forcused the use of blockchain technology in protecting and preserving cultural heritage.",
+        "zh": "全球首个专注使用区块链技术保护以及保卫文化遗产。"
+  },
+  "email": "info@fhcoin.co",
+  "website": "https://fhcoin.co/",
+  "whitepaper": "https://www.fhcoin.co/fhc-whitepaper-V1.5-EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-18",
+  "initial_price":{
+        "USD":"0.50 USD"
+  },
+  "links": {
+    "github": "https://github.com/fhcoin/fhcoin-abi"
+  }
+}
