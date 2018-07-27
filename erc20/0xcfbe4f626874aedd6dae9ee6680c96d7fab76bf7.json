@@ -1,0 +1,25 @@
+{
+  "symbol": "MIDO",
+  "address": "0xcfbe4f626874aedd6dae9ee6680c96d7fab76bf7",
+  "overview":{
+        "en": "Integrating the platform of all consumer scenarios, linking the distributed applications of businesses and consumers, block chain integrator forerunner.",
+        "zh": "结合⽣活所有消费场景的应⽤平台,链接商家和消费者的分布式应用,区块链积分先行者"
+  },
+  "email": "sales@midocoin.tk",
+  "website": "http://www.midocoin.tk/",
+  "whitepaper": "http://www.midocoin.tk/mido.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-30",
+  "initial_price":{
+        "ETH":"0.000166666 ETH",
+        "USD":"0.08 USD",
+        "BTC":"0.000004137 BTC"
+  },
+  "links": {
+    "blog": "https://www.midocoin.tk/blog",
+    "twitter": "https://twitter.com/mido57331441",
+    "telegram": "https://t.me/joinchat/IzWX5xC0uPRMEo_R_A1pRw",
+    "github": "https://github.com/midocoin/midocoin",
+    "facebook": "https://www.facebook.com/coin.mido.1"
+  }
+}
