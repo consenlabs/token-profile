@@ -1,0 +1,16 @@
+{
+    "symbol": "KKK",
+    "address": "0xc282867651dc5d97046D185A14bBc98C7c6eEae3",
+    "website": "http://chaoxuan.io/",
+    "published_on": "2018-07-10",
+    "links": {
+        "blog": "http://www.chaoxuan.io/"
+    },
+    "overview":{
+        "en": "Token Description.",
+        "zh": ""
+    },
+    "initial_price": {
+        "ETH": "0.00002 ETH"
+    }
+}
