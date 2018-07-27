@@ -1,0 +1,25 @@
+{
+  "symbol": "WFT",
+  "address": "0x3558cf08f9f6b91918a015acc2959454208b35a8",
+  "overview":{
+        "en": "WFchain is a time-sharing wireless network value sharing ecosystem, and its main chain named WFchain is  developed based on Ethernet Intelligent contract ERC2.0.The aim is to establish a centralization, collective  governance, rule driven ecological trust system, and to achieve trustworthy and non tamperable data sharing  on this trust system.The role of participation in the ecosystem: Hot users, sharing customers, advertisers  can get reasonable incentives and rewards.",
+        "zh": "WFchain是分时无线网络价值共享生态系统,其主链WFchain基于以太坊智能合约ERC2.0开发。其目的是建立一套去中心化，集体治理，规则驱动的生态信任体系，并在此信任体系之上实现可信任且不可篡改的数据共享。使生态中参与角色：热点用户，共享客，广告投放主都能得到合理的激励与报酬。"
+  },
+  "email": "service@wifi.kim",
+  "website": "https://www.wifi.kim",
+  "whitepaper": "http://www.wifi.kim/WFchain/WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-22",
+  "initial_price":{
+        "ETH":"0.00002955 ETH",
+        "BTC":"0.00000201 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/servicewifikim",
+    "telegram": "https://t.me/wifikim",
+    "github": "https://github.com/wifikim/WFChain",
+    "facebook": "https://www.facebook.com/wifi.kim"
+   }
+}
+
+
