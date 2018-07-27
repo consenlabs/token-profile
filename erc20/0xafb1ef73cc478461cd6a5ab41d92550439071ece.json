@@ -1,0 +1,21 @@
+{
+    "symbol": "Panda",
+    "address": "0xafb1ef73cc478461cd6a5ab41d92550439071ece",
+    "overview": {
+        "en": "Panda coins are used in Panda education city to integrate education beyond K12. For example, music, art, programming, etc. You can pay internally and share the dividends of education.",
+        "zh": "熊猫币应用于熊猫教育城，把K12之外的教育整合到一起。例如：音乐、艺术、编程等。可以内部进行支付，分享教育的红利。"
+    },
+    "email": "ln@liuniukeji.com",
+    "website": "http://www.liuniuchain.com/",
+    "whitepaper": "http://www.liuniuchain.com/file/pandacoinwp.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-26",
+    "initial_price": {
+        "ETH": "0.00166666 ETH",
+        "USD": "0.7 USD",
+        "BTC": "0.00004137 BTC"
+    },
+    "links": {
+       "blog": "http://www.liuniuchain.com/"
+    }
+}
