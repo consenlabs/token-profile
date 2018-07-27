@@ -1,0 +1,19 @@
+{
+  "symbol": "AAIC",
+  "address": "0xe839d7c4d76b70ef80ac0927bf4248c3bdf236d3",
+  "overview":{
+        "en": "Ants AI Coin",
+        "zh": "蚂蚁智能"
+  },
+  "email": "support@antsai.org",
+  "website": "https://www.antsai.org/",
+  "whitepaper": "https://www.antsai.org/img/Technical_whitepaperV3.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-21",
+  "initial_price":{
+        "ETH":"0.0005 ETH"
+  },
+  "links": {
+  
+  }
+}
