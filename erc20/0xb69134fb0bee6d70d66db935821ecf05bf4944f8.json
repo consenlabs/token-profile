@@ -1,0 +1,16 @@
+{
+  "symbol": "GLC",
+  "address": "0xb69134fb0bee6d70d66db935821ecf05bf4944f8",
+  "overview":{
+        "zh": "金光币，英文名称为 Golden Light Coin ，简称GLC，总发行量8000万枚，致力于开创“区块链+游戏行业”的伟大蓝海并持续保持游戏领先优势，成为用户满意、社会认可的全球去中心化游戏平台。"
+  },,
+  "email": "business@worldglc.com",
+  "website": "http://www.worldglc.com/",
+  "whitepaper": "http://www.worldglc.com/glc.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-09",   
+  "initial_price":{
+        "ETH":"0.0015 ETH",  
+        "USD":"0.7 USD" 
+  }
+}
