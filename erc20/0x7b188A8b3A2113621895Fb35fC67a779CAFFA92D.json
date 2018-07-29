@@ -1,0 +1,23 @@
+{
+  "symbol": "QOS",
+  "address": "0x7b188A8b3A2113621895Fb35fC67a779CAFFA92D",
+  "overview":{
+        "en": "QOS",
+        "zh": "QOS"
+  },
+  "email": "contact@qoschain.io",
+  "website": "https://www.qoschain.io/",
+  "whitepaper": "https://www.qoschain.io/static/QOS-V0.6.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-29",
+  "initial_price":{
+        "ETH":"0.00005 ETH"
+  },
+  "links": {
+    "blog": "https://weibo.com/u/6310001987",
+    "twitter": "https://twitter.com/QOS_Foundation",
+    "telegram": "https://t.me/QOSOfficial_CN",
+    "github": "https://github.com/QOSGroup",
+    "facebook": "https://www.facebook.com/QOS.Foundation"
+  }
+}
