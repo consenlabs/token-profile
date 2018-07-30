@@ -3,13 +3,13 @@
   "address": "0x5661c46e366570360064ae1a50a17a7a1a8f3236",
   "overview":{
         "en": "Master chain (JLL) is an open source decentralized distributed protocol of education industry based on block chain technology. With JLL intelligent protocol, the master chain introduces block chain technology into the education industry. It will disrupt the traditional education industry and create the world's first education public chain. Its future blueprint include many distributed DAPP applications in education, a public chain of education industry, and a decentralized exchange of contents.",
-        "zh": "½ÌÁ´£¨JLL£©ÊÇ»ùÓÚÇø¿éÁ´¼¼ÊõµÄ¿ªÔ´È¥ÖĞĞÄ»¯·Ö²¼Ê½½ÌÓı²úÒµĞ­Òé¡£½ÌÁ´ÀûÓÃJLLÖÇÄÜĞ­Òé£¬½«Çø¿éÁ´¼¼ÊõÒıÈëÒÔ½ÌÓıĞĞÒµ£¬µß¸²´«Í³½ÌÓı²úÒµ£¬´òÔìÈ«ÇòÊ×Ìõ½ÌÓı¹«ÓĞÁ´£¬ÆäÎ´À´À¶Í¼°üÀ¨Öî¶à½ÌÓıÁìÓò·Ö²¼Ê½DAPPÓ¦ÓÃ£¬Ò»Ìõ½ÌÓı²úÒµ¹«ÓĞÁ´£¬Ò»¸öÄÚÈİÈ¥ÖĞĞÄ»¯½»Ò×Ëù¡£"
+        "zh": "æ•™é“¾ï¼ˆJLLï¼‰æ˜¯åŸºäºåŒºå—é“¾æŠ€æœ¯çš„å¼€æºå»ä¸­å¿ƒåŒ–åˆ†å¸ƒå¼æ•™è‚²äº§ä¸šåè®®ã€‚"
   },
   "email": "jll_chain@jll.one",
   "website": "http://www.jllone.com//",
   "whitepaper": "http://www.jllone.com/download/JLL%20Chain.pdf",
   "state": "NORMAL",
-  "published_on": "2018-01-01",
+  "published_on": "2018-04-21",
   "initial_price":{
         "ETH":"0.000004 ETH",
         "USD":"0.001967 USD",
@@ -18,6 +18,5 @@
   "links": {
     "twitter": "https://twitter.com/ChainJll?lang=zh-cn",
     "telegram": "https://t.me/jllchaincn"
-    
   }
 }
