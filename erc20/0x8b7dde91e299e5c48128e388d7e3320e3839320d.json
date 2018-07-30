@@ -1,18 +1,15 @@
 {
-    "symbol": "ABCchain",
+    "symbol": "ABC",
     "address": "0x8b7dde91e299e5c48128e388d7e3320e3839320d",
     "overview": {
-        "en": "ABC CHAIN is a distributed ledger system based on blockchain. Through decentralization, trust mechanisms, smart contracts, and consensus mechanisms, a decentralized agarwood trading center named 'Traceability System Blockchain Digital Assets 'was created based on blockchain technology. Creating a more efficient, transparent, credible, and self-maintaining ecosystem and turning it into a commercial blockchain that can be used to the traceability of agarwood around the world. The traceability service system of the ABC CHAIN utilizes the distributed accounting technology of the blockchain to provide a secure and tamper-proof ledger and adopt high anti-counterfeiting technology to solve offline problems. It writes down the traceability information of the product in the blockchain and digitizes the physical product to release the digital asset. In the process of circulation, real-time information will be recorded in detail to ensure the complete monitoring of information. Meanwhile, this transparent process has also improved the trust system of the supply chain of agarwood. It is hoped that by combining the traceability system blockchain technology with modern management methods, the spirit and essence of this traditional industry will be better passed on. The “ABC CHAIN” using blockchain technology is used to construct an integrated and ecological closed-loop of the agarwood industrial chain encompassing planting, processing, trading, logistics, channels, and training, products, services, operations, and sales, satisfying the consumer's traceability and fidelity needs of the agarwood products.",
-        "zh": "应用于全球沉香溯源的商用区块链。沉香链溯源服务系统利用区块链分布式记账技术提供一个安全的、防篡改的账本，以高防伪技术解决线下难题。将商品的溯源信息写入区块链中，再将实物商品数字化，发行数字资产。在流转过程中实时信息被层层记录，切实做到信息的全程监控，同时这种透明化流程也完善了沉香产品供应链的信任体系，希望通过溯源体系区块链技术结合现代的管理方式，将这个传统行业的精神和实质更好地传承下去。应用区块链技术的“沉香链”，构建了一个从种植、加工、交易、物流、渠道，再到培训、产品、服务、运营、销售等一系列环节全都囊括其中的沉香产业链完整生态闭环，满足了消费者对沉香产品的溯源及保真需求。"
+        "en": "ABC.Chain is a smart contract to create a global ecological traceable species traceability detection shared ecology, aiming to solve the problem of traceability detection in the green rare species industry through blockchain technology.ABC.Chain will first be applied in the traditional agarwood industry to solve the painful spots of the agarwood industry's counterfeit goods and promote the healthy development of the agarwood industry.In the future, ABC.Chain will become a public chain, and more green and rare species will be included in ABC.Chain's traceability detection ecosystem solve the problems of green rare species industry.ABC.Chain also pioneered the block-chain digital assets combined with the physical delivery of the bottom-up exchange, which will makehigher value-added attributes forABC digital assets.The object used as the bottom mark has chosen to be an extremely precious chess agarwood since ancient times.Because it is a scarce species in itself, and it is very versatile (medicinal market, perfume market, collectible market).The contributors in this ecology can exchange one gram (approximately RMB 1,000) for the cultivation of chess and agarwood in the global ABC.Chain ecology for every 100 ABCs held.The smart contract has a very large investment value-added attribute and guarantees the healthy development of the ABC.Chain community.",
+        "zh": "一款打造全球绿色珍稀物种溯源检测共享生态的智能合约-ABC.Chain，旨在通过区块链技术解决绿色珍稀物种行业的溯源检测难题。ABC.Chain首先将在传统沉香行业落地应用，解决沉香行业假货泛滥的痛点，促进沉香行业的健康发展。未来ABC.Chain将打造成一条公链，将更多绿色珍稀物种纳入ABC.Chain的溯源检测生态系统，以解决更多绿色珍稀物种行业存在的痛点。ABC.Chain同时开创了区块链数字资产结合实物交割的托底兑换发行先河，使ABC数字资产具有非常高的增值属性。而用作托底标的物选择了自古就有一片万钱之说极其珍贵的棋楠沉香。因为它本身就是一个稀缺性的物种，并且用途非常广泛（药用市场、香水市场、收藏品市场）等。该生态里的贡献者按每持有100个ABC，即可在全球ABC.Chain生态里兑换一克(价值人民币约1000元)的种植棋楠沉香。该智能合约具备非常大的投资增值属性及保正了ABC.Chain社群的健康发展。"
     },
     "email": "284862428@qq.com",
     "website": "http://www.abcchain1.com/",
     "whitepaper": "http://www.abcchain1.com/assets/pdf/ABC_CHAIN_WHITE_PAPER.pdf",
     "state": "NORMAL",
     "published_on": "2018-05-01",
-    "initial_price": {
-        "USD": "0.08 USD"
-    },
     "links": {
         "twitter": "https://twitter.com/ahcchain",
         "facebook": "https://www.facebook.com/abcchain",
