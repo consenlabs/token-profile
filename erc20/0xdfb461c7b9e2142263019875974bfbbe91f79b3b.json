@@ -1,0 +1,15 @@
+{
+  "symbol": "COF",
+  "address": "0xdfb461c7b9e2142263019875974bfbbe91f79b3b",
+  "overview":{
+        "en":"COF is a traceable private chain built on CAM-based chain technology. It utilizes the unique and non-tamperable distributed ledger record feature of the blockchain to build a traceability cloud platform, and solve the enterprise's raw materials through the sub-chain of the landing project and the corresponding DAPP application. Sources of information, anti-counterfeiting, and precision marketing in procurement, production, warehousing, circulation, distribution, and terminal consumption.",
+        "zh":"COF 是通过基于 CAM 公链技术搭建的溯源私链，利用区块链的独特不可篡改的分布式账本记录特性，构建溯源云平台，通过落地项目的子链及对应 DAPP 应用来 解决企业在商品原料采购、生产、仓储、流转、分销、终端消费过程中的信息溯源、防伪验真、精准营销难题。"
+  },
+  "links": {
+        " BiYong": "https://0.plus/COFofficial"
+   },
+  "email": "cof2018@163.com",
+  "website": "https://www.chainoffood.pro",
+  "whitepaper": "https://www.chainoffood.pro/COF.pdf",
+  "published_on": "2018-08-10"
+}
