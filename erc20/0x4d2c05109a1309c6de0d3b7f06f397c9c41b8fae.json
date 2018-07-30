@@ -10,7 +10,7 @@
     },
     "symbol": "VPP",
     "initial_price": {
-        "ETH": "0.000013ETH"
+        "ETH": "0.000013 ETH"
     },
     "address": "0x4d2c05109a1309c6de0d3b7f06f397c9c41b8fae",
     "email": "ValPromise@valp.io",
