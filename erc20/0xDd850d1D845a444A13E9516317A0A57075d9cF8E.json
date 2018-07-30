@@ -1,0 +1,20 @@
+{
+  "symbol": "FMW",
+  "address": "0xDd850d1D845a444A13E9516317A0A57075d9cF8E",
+  "overview":{
+        "en": "Fomowinner is a blockchain-based bonus game where you can get considerable dividends by purchasing the item keys in the game.",
+        "zh": "fomowinner 是一个基于区块链的分红游戏，通过购买游戏中的道具key，你可以获得可观的分红。"
+  },
+  "email": "master@fomowinner.com",
+  "website": "https://www.fomowinner.com/",
+  "whitepaper": "https://www.fomowinner.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-26",
+  "initial_price":{
+        "ETH":"0.00001 ETH"
+  },
+  "links": {
+    "github": "https://github.com/fomomaster/FMW", 
+    "telegram": "https://t.me/joinchat/G9S0VgxmPMl1p5NIiXihqw"
+  }
+}
