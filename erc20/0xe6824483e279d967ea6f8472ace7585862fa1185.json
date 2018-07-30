@@ -1,0 +1,23 @@
+{
+  "symbol": "T2T",
+  "address": "0xe6824483e279d967ea6f8472ace7585862fa1185",
+  "overview":{
+    "en": "traceto.io provides Decentralized KYC for businesses and individuals.",
+    "zh": "traceto.io为客户提供了去中心化的“了解你的客户（KYC）”服务。"
+  },
+  "email": "hello@traceto.io",
+  "website": "https://traceto.io/",
+  "whitepaper": "https://ico.traceto.io/static/wp/traceto_Whitepaper_v1_35_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-08",
+  "initial_price":{
+    "ETH":"0.0000750 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/tracetoio",
+    "telegram": "https://t.me/tracetoio",
+    "github": "https://github.com/tracetoio",
+    "facebook": "https://www.facebook.com/traceto.io",
+    "medium": "https://medium.com/traceto-io"
+  }
+}
