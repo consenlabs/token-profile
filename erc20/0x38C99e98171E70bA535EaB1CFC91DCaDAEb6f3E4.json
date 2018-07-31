@@ -2,16 +2,7 @@
   "symbol": "TOK",
   "address": "0x38C99e98171E70bA535EaB1CFC91DCaDAEb6f3E4",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
-  },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "NORMAL",
-  "published_on": "2018-07-27",
-  "initial_price":{
-  },
-  "links": {
+        "en": "World first Ethereum based business eco-system.",
+        "zh": "基于以太坊协议打造的全球第一个全覆盖型的生态商圈平台，采用“Small program+移动APP”模式，改变组织管理方式、提升工作效率与消费者粘性。"
   }
 }
