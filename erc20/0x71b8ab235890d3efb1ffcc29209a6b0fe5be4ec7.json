@@ -1,0 +1,15 @@
+{
+  "symbol": "DFXT",
+  "address": "0x71b8ab235890d3efb1ffcc29209a6b0fe5be4ec7",
+  "overview":{
+        "en": "DCoinFax Token",
+        "zh": "数金所"
+  },
+  "email": "info@dcoinfax.com",
+  "website": "https://www.dcoinfax.com",
+  "state": "NORMAL",
+  "published_on": "2018-07-31",
+  "links": {
+    "telegram": "https://t.me/DCcoinFax"
+  }
+}
