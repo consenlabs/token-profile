@@ -1,0 +1,17 @@
+{
+  "symbol": "TOK",
+  "address": "0x38C99e98171E70bA535EaB1CFC91DCaDAEb6f3E4",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-27",
+  "initial_price":{
+  },
+  "links": {
+  }
+}
