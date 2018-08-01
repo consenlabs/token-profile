@@ -1,44 +1,20 @@
 {
-"symbol": "CHC, 
-
-"address": "0x009725f31c561a64c30c89e74adb995c570330ff", 
-
-"overview":{ 
-
-"en": " 
-
-Comprehensive Health Chain was launched by Global Foundation of Comprehensive Health Chain, with Comprehensive Health Chain communities in US, Canada, Australia, Singapore, Japan, Russia, and in other countries and regions. CHC is positioned to be a leader in digital economy while serving as an incubator for applications in health industry.", 
-
-"zh": "" 
-
-}, 
-
-"email": "hcd099@126.com", 
-
-
-"whitepaper": "https://www.chchain.ink", 
-
-"state": "LOCKED | NORMAL", 
-
-"published_on": "2018-01-01", 
-
-"initial_price":{ 
-
-"ETH":"0.00166666 ETH", 
-
-"USD":"0.7 USD", 
-
-"BTC":"0.00004137 BTC" 
-
-}, 
-
-"links": { 
-
-"twitter": "https://twitter.com/@chchain3", 
-
-"telegram": "https://t.me/joinchat/IHOwhBKFkco1W1JvDAaS5g", 
-
-} 
-
-
+	"symbol": "CHC",
+	"address": "0x009725f31c561a64c30c89e74adb995c570330ff",
+	"overview": {
+		"en": "Comprehensive Health Chain was launched by Global Foundation of Comprehensive Health Chain,with Comprehensive Health Chain communities in US,Canada,Australia,Singapore,Japan,Russia and in other countries and regions.CHC is positioned to be a leader in digital economy while serving as an incubator for applications in health industry."
+	},
+	"email": "hcd099@126.com",
+	"whitepaper": "https://www.chchain.ink",
+	"state": "LOCKED | NORMAL",
+	"published_on": "2018-01-01",
+	"initial_price": {
+		"ETH": "0.00166666 ETH",
+		"USD": "0.7 USD",
+		"BTC": "0.00004137 BTC"
+	},
+	"links": {
+		"twitter": "https://twitter.com/@chchain3",
+		"telegram": "https://t.me/joinchat/IHOwhBKFkco1W1JvDAaS5g"
+	}
 }
