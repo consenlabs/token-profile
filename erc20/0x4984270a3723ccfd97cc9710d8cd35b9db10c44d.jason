@@ -1,0 +1,13 @@
+{
+   "symbol": "turingtoken",
+  "address": "0x4984270a3723ccfd97cc9710d8cd35b9db10c44d",
+  "overview":{
+        "en": "This is a token that will not be additional issuance.",
+        "zh": ""
+  },
+   "email": "ghhzm1@gmail.com",
+   "website": "https://medibloc.org/ch/",
+   "whitepaper": "https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_ch.pdf",
+   "state": "",
+   "published_on": "2018-07-27"
+ }
