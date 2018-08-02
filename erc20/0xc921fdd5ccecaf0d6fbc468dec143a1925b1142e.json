@@ -1,0 +1,18 @@
+{
+  "symbol": "BGAC",  
+  "address": "0xc921fdd5ccecaf0d6fbc468dec143a1925b1142e", 
+  "overview":{
+        "en": "Jue beauty art bo Chain (Beautiful Gems Artwork Chain, BGAC) with decentralized block Chain technology, traceability and tamper-resistant features, built the new art ecosystem, refactoring market rules, the reconstruction of value transfer, help artists, art collectors, the common people to participate in the art market, peacefully to drive the healthy development of the art market, will truly value and freedom to the art itself.",  
+        "zh": "珏美艺博链（Beautiful Gems Artwork Chain，简称 BGAC）运用区块链技术的去中心化、不可篡改和可 追溯等特性，筑建全新的艺术品交易生态圈，重构市场规则、重建价值传递，帮助艺术家、艺术藏家、普通 民众安心地参与艺术品市场，驱动艺术品市场健康发展，将价值与自由真正地还给艺术本身"  
+  },
+  "email": "10602185@qq.com", 
+  "website": "http://www.bgac.top/",   
+  "whitepaper": "http://www.bgac.top/baipishu.pdf",  
+  "state": "NORMAL",  
+  "published_on": "2018-06-21",   
+  "initial_price":{
+        "ETH":"0.002 ETH",   
+        "USD":"1.23 USD",  
+        "BTC":"0.00016 BTC"   
+  } 
+}
