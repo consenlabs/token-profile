@@ -1,0 +1,103 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @ChunFeng526 Sign out
+0
+0 820 ChunFeng526/token-profile
+forked from consenlabs/token-profile
+ Code  Pull requests 0  Projects 0  Insights  Settings
+Create 0x14be3d9bdfdef4cd54c3f470dc56a7f0df528b78.json
+
+ VCC
+@ChunFeng526
+ChunFeng526 committed 28 minutes ago 
+1 parent 46d2094 commit de091f03a3f118ab89d7dd470d9e68ced10fb8eb
+Showing  with 60 additions and 0 deletions.
+  
+60  erc20/0x14be3d9bdfdef4cd54c3f470dc56a7f0df528b78.json
+@@ -0,0 +1,60 @@
+Skip to content
+ 
+Search or jump to…
+ Pull requests
+Issues
+Marketplace
+Explore
+ @ChunFeng526 Sign out
+0
+0 820 ChunFeng526/token-profile
+forked from consenlabs/token-profile
+ Code  Pull requests 0  Projects 0  Insights  Settings
+token-profile/erc20/$template.json
+bf4f7aa  on 5 Jun
+ makoshan add example logo
+@kaichen @tyrone98
+     
+29 lines (28 sloc)  932 Bytes
+{
+  "symbol": "VCC",
+  "address": "0x14be3d9bdfdef4cd54c3f470dc56a7f0df528b78",
+  "overview":{
+        "en": "The VVC token is the native digital token in the VVBTC.VIP system.It is made up of the block chain technology mechanism.Combining intelligent contract with distributed application technology.",
+        "zh": "VVC代币是VVBTC.VIP系统里面的原生数字代币。采用区块链技术机制打造而成， 将智能合同和分布式应用程序技术相结合处理。"
+  },
+  "email": "1269917484@qq.com",
+  "website": "http://www.vvbtc.vip",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
+0 comments on commit de091f0
+@ChunFeng526
+     
+ 
+
+Leave a comment
+Attach files by dragging & dropping, , or pasting from the clipboard.  Styling with Markdown is supported
+  You’re not receiving notifications from this thread.
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
