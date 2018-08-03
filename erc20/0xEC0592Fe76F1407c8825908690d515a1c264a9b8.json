@@ -7,22 +7,15 @@
   },
   "email": "1019256714@qq.com",
   "website": "http://www.gebit.cn/",
-  "whitepaper": "",
+  "whitepaper": "http://www.gebit.cn/yii_gebite/agency/web/index/download1",
   "state": "NORMAL",
   "published_on": "2018-07-17",
   "initial_price":{
         "ETH":"0.0000333 ETH",
-        "USD":"",
-        "BTC":""
   },
   "links": {
     "blog": "",
     "twitter": "https://twitter.com/GeBit11?s=05",
     "telegram": "http://t.me/gebitAPP",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
   }
 }
