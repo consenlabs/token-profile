@@ -1,7 +1,6 @@
 {
-  "token_name": "Token Name",
-  "account_name": "token_name@account_name",
-  "decimals": "4",
+  "symbol": "Token Symbol",
+  "account_name": "symbol@account_name",
   "overview":{
         "en": "Token Description.",
         "zh": ""
@@ -19,10 +18,7 @@
     "twitter": "https://twitter.com/your-awesome-project",
     "telegram": "https://t.me/joinchat/your-awesome-project",
     "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
     "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project",
     "bp_profile": "https://github.com/consenlabs/eos-bp-profile/blob/master/bp/%24template.json"
   }
 }
