@@ -1,0 +1,21 @@
+{
+  "symbol": "OT",
+  "address": "0x6a81f341a859eb5b03b2500074e9e2d7a42cf789",
+  "overview":{
+        "en": "AsiaB Coin Token (OT).",
+        "zh": "AsiaB Coin Token (OT)."
+  },
+  "email": "info@asiabcoin.com",
+  "website": "https://www.asiabcoin.com/",
+  "whitepaper": "https://www.asiabcoin.com/v1.0/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+  },
+  "links": {
+    "blog": "https://www.asiabcoin.com/blog",
+    "twitter": "https://twitter.com/AsiaBCoin",
+    "telegram": "https://t.me/joinchat/AsiaBCoin",
+    "github": "https://github.com/AsiaBCoin"
+  }
+}
