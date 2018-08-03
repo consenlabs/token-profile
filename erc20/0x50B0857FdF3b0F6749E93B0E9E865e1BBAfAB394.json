@@ -1,0 +1,23 @@
+{
+  "symbol": "OT",
+  "address": "0x50B0857FdF3b0F6749E93B0E9E865e1BBAfAB394",
+  "overview":{
+        "en": "Next Generation Blockchain Origin, Connect Physical & Internet World with Blockchain!",
+        "zh": "新一代区块链的起源，让万事万物连上区块链!"
+  },
+  "email": "token@orginnetwork.org",
+  "website": "http://www.originnetwork.org",
+  "whitepaper": "http://www.originnetwork.org/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2018-07-15",
+  "initial_price":{
+        "USD":"1 USD"
+  },
+  "links": {
+    "media": "http://nb.ifeng.com/a/20180717/6733738_0.shtml",
+  	"media": "http://pj.nen.com.cn/system/2018/07/17/020579297.shtml",
+		"media": "https://m.tech.china.com/redian/2018/0717/167751.html",
+		"media": "http://news.3news.cn/jinr/2018/0717/528_114630.html",
+		"media": "http://www.licai18.com/article/ArticleDetail.jsp?docId=2493096"
+	}
+}
