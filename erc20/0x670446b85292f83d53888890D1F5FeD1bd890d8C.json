@@ -1,0 +1,16 @@
+{
+  "symbol": "DATN",  
+  "address": "0x670446b85292f83d53888890D1F5FeD1bd890d8C",  
+  "overview":{ 
+        "zh": "数字资产链是钱包、是身份ID、是社交工具、是交易纽带、是数字经济时代的价值路由器。数字资产链采用先进的端对端加密、生物识别以及移动化LBS和跨链技术，将区块链、社交群组、生物识别和机器学习结合起来，致力于为全球用户提供更加便捷的数字交易服务。"   
+  },
+  "email": "hyaimm@outlook.com", 
+  "website": "http://www.dssc.xyz",
+  "whitepaper": "http://www.dssc.xyz/bbs.pdf",
+  "state": "NORMAL", 
+  "published_on": "2018-07-06",   
+  "initial_price":{
+        "ETH":"0.00006 ETH",   
+        "USD":"0.03 USD"    
+  } 
+}
