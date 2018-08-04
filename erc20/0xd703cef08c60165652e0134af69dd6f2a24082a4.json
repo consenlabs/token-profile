@@ -1,0 +1,22 @@
+{
+  "symbol": "DIAO",
+  "address": "0xd703cef08c60165652e0134af69dd6f2a24082a4",
+  "overview":{
+        "en": "The power of the masses ",
+        "zh": "DIAO coin 致力于汇聚组织线下群众来帮商家做首批开道流量、拉盘控盘、初始粉丝群众等各种包括且不限于市场、舆论等业务"
+  },
+  "email": "diaocoin@gmail.com",
+  "website": "https://diaocoin.github.io",
+  "whitepaper": "https://diaocoin.github.io/pdf/diao.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH": "0.0001 ETH",
+	"USD": "0.082 USD",
+	"BTC": "0.00001 BTC"
+  },
+  "links": {
+    "blog": "https://diaocoin.github.io/blog",
+    "github": "https://github.com/diaocoin"
+  }
+}
