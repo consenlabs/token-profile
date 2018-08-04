@@ -1,0 +1,11 @@
+{
+  "symbol": "WCN",
+  "address": "0x68B1B762bD0e295CF36CE2e481cdE49544BF44B5",
+  "overview": {
+      "en": "World Charge Network",
+      "zh": "世界充电网络"
+  },
+  "website": "http://www.wcnwcn.com",
+  "whitepaper": "http://wcnwcn.com/common/main/white-paper.pdf",
+  "state": "NORMAL"
+}
