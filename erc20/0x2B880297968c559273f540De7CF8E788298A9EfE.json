@@ -1,0 +1,20 @@
+{
+  "symbol": "VPE",
+  "address": "0x2B880297968c559273f540De7CF8E788298A9EfE",
+  "overview":{
+        "en": "Virtual Product E-commerce Platform",
+        "zh": "虚拟产品电子商务平台"
+  },
+  "email": "support@vpeblock.com",
+  "website": "http://www.vpeblock.com/",
+  "state": "NORMAL",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH":"0.0001 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/vpeblock",
+    "telegram": "https://0.plus/vpeblock",
+    "facebook": "https://www.facebook.com/platform.vpe"
+  }
+}
