@@ -3,16 +3,12 @@
 	"address": "0x39c3caff2d97f558cc884bff26cb0921c93a5236",
     "website": "https://aibitbank.com/",
     "published_on": "2018-06-30",
-    "links": {
-       
-    },
     "overview": {
-        "en": "The platform token of Aibitbank.com,is part of the ecosystem of Aibitbank.com,shall be used as currency in our platform.",
+        "en": "The platform token and part of the ecosystem of Aibitbank.com,shall be used as currency in our platform.",
         "zh": "Aibitbank.com平台币，可以充当资金使用，作为AiBitBank生态圈的流通凭证。"
     },
-    
     "initial_price": {
-        "USD": "1.0 USD"
-    },
+        "USD": "0.2 USD"
+    }
    
 }
