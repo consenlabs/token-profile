@@ -1,0 +1,16 @@
+{
+  "symbol": "ETH",
+  "address": "ethereum",
+  "overview": "The crypto-fuel for the Ethereum network",
+  "website": "https://www.ethereum.org",
+  "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+  "state": "FLOAT",
+  "published_on": "2015-07-30",
+  "initial_price": "1 BTC = 2000 ETH",
+  "links": {
+    "github": "https://github.com/ethereum",
+    "twitter": "https://twitter.com/ethereum",
+    "facebook": "https://www.facebook.com/ethereumproject",
+    "blog": "https://blog.ethereum.org/"
+  }
+}
