@@ -12,5 +12,8 @@
         "ETH":"0.0 ETH",
         "USD":"0.0 USD",
         "BTC":"0.0 BTC"
+  },
+  "links": {   
+    "telegram": "https://t.me/Art_Block"   
   }
 }
