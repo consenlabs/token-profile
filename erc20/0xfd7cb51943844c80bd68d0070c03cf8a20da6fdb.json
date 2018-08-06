@@ -1,4 +1,21 @@
 {
   "symbol": "Ambr",
-  "address": "0xfd7cb51943844c80bd68d0070c03cf8a20da6fdb"
+  "address": "0xfd7cb51943844c80bd68d0070c03cf8a20da6fdb",
+  "overview":{
+        "en": "Ambr, the unlimited scalable platform with asynchronous smart contract and cross-chain support.",
+        "zh": "Ambr——无限可扩展性的异步智能合约与跨链平台"
+  },
+  "email": "Jarvishe89@gmail.com",
+  "website": "http://ambr.org/",
+  "whitepaper": "http://ambr.org/whitepaper/Ambr_English.pdf",
+  "published_on": "2018-06-20",
+  "initial_price":{
+       "ETH":"0.00000016 ETH",
+  },
+  "links": {
+    "telegram":"http://t.me/AmbrChina",
+    "twitter": "https://twitter.com/AmbrGlobal",
+    "github": "https://github.com/Ambr-org/Ambr",
+    "facebook": "https://www.facebook.com/AmbrGlobal/"
+  }
 }
