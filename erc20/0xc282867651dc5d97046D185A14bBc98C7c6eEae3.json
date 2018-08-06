@@ -1,0 +1,15 @@
+{
+    "symbol": "KKK",
+    "address": "0xc282867651dc5d97046D185A14bBc98C7c6eEae3",
+    "overview":{
+          "en": "Chaoxuan is a global blockchain， based on blockchain and smart contract technology, which is dedicated to serving the blockchain ecology—IPFS mining pool and computing service platform.",
+          "zh": "超选是⼀个基于区块链和智能合约技术，致⼒于服务区块链⽣态，⽽打造的全球性区块链— IPFS矿池及算⼒服务平台。"
+    },
+    "website": "http://www.chaoxuan.io/",
+    "state": "LOCKED",
+    "published_on": "2018-07-10",
+    "initial_price":{
+          "ETH":"0.00002 ETH",
+          "USD":"0.01 USD"
+    }
+  }
