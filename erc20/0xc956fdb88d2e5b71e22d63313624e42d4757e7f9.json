@@ -1,0 +1,21 @@
+{
+  "symbol": "APEc",
+  "address": "0xc956fdb88d2e5b71e22d63313624e42d4757e7f9",
+  "overview":{
+        "en": "The ApeCash Project and its ERC20 token, ApeCash Coin, aim to raise awareness for primate endangerment and support charities saving primates.",
+        "zh": ""
+  },
+  "email": "info@apecash.org",
+  "website": "https://apecash.org",
+  "whitepaper": "https://apecash.files.wordpress.com/2018/08/whitepaper1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-03"
+  },
+  "links": {
+    "blog": "https://apecash.org/blog",
+    "twitter": "https://twitter.com/apecash_org",
+    "telegram": "https://t.me/apecashchat",
+    "github": "https://github.com/ApeCashProject/ApeCash/",
+    "reddit": "https://www.reddit.com/r/ApeCashProject/"
+  }
+}
