@@ -1,0 +1,18 @@
+{
+  "symbol": "GCB",
+  "address": "0x2293e6c1c58d0e6a9f0702ddca5551cd2baca969",
+  "overview":{
+        "en": "Share the value article, the leisure class is posting and digging.",
+        "zh": "分享价值文章，休闲类发贴挖矿。"
+  },
+  "email": "fjyd_zxl@163.com",
+  "website": "http://www.gcb.space",
+  "state": "NORMAL",
+  "published_on": "2017-10-22",
+  "initial_price":{
+        "ETH":"0.0025 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/ruizhaoz1"
+  }
+}
