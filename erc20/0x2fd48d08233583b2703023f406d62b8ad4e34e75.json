@@ -4,11 +4,9 @@
   "overview":{
         "zh": "菠萝币"
   },
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-07-21",
   "initial_price":{
         "ETH":"0.000016666666666666667 ETH"
-  },
-  "links": {
   }
 }
