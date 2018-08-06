@@ -1,0 +1,16 @@
+{
+  "symbol": "SIGM",
+  "address": "0x2FfF3789cA0Fdc9299ffa167d8E4720ca93509da",
+  "overview":{
+        "en": "Sigma.IO, a blockchain derivatives and risk marketplace",
+        "zh": "Sigma.IO 是一个基于区块链的金融衍生品和风险交易平台"
+  },
+  "website": "http://www.sigmaIO.one",
+  "links": {
+    "twitter": "https://twitter.com/sigmaioadmin",
+    "telegram": "https://t.me/SigmaIO_official",
+    "github": "https://github.com/sigmaioadmin",
+    "facebook": "https://m.facebook.com/baopen.ju",
+    "medium": "https://medium.com/@sigmaioadmin"
+  }
+}
