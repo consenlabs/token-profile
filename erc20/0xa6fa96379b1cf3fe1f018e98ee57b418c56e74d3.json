@@ -1,0 +1,18 @@
+{
+  "symbol": "HMT",
+  "address": "0xa6fa96379b1cf3fe1f018e98ee57b418c56e74d3",
+  "overview":{
+        "en": "Hongmen Token",
+        "zh": "洪门令牌。"
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-08-3",
+  "initial_price":{
+  },
+  "links": {
+    "blog": ""
+  }
+}
