@@ -10,8 +10,8 @@
     },
     "symbol": "ET",
     "initial_price": {
-        "ETH": "0.00003 ETH",
-        "USD": "0.02 USD"
+        "ETH": "0.000004 ETH",
+        "USD": "0.002 USD"
     },
     "address": "0xfdE62485eca8F0880e367DC0900C3BECF926Bb03",
     "whitepaper": "http://www.etimchain.com/Etim.pdf",
