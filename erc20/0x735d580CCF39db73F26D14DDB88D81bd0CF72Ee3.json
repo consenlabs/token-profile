@@ -8,7 +8,7 @@
   "email": "info@bitconch.io",
   "website": "https://www.bitconch.io",
   "whitepaper": "http://bitconch.io/download/BCOOWhitePaperCN.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-07-27",
   "initial_price":{
         "ETH":"0.000049 ETH",
