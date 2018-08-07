@@ -2,10 +2,10 @@
   "symbol": "BUS",
   "address": "0x735d580CCF39db73F26D14DDB88D81bd0CF72Ee3",
   "overview":{
-        "en": "Bitconch is a platform for social ",
-        "zh": ""
+        "en": "Social network is the next big thing on blockchain,Bitconch chain proposed an innovative POR (Proof Of Reputation) reputation consensus algorithm, which offers a new solution that leverage blockchain technology to maintain both high throughput and decentralization.",
+        "zh": "贝克链，全球首创PoR（Proof of Reputation）信誉共识，是千亿级支持社交应用的底层公链和生态系统。由来自谷歌、MIT、高盛、IBM、Danaher（丹纳赫）、华为的技术专家开发。技术上远超EOS、IOTA等公链。三大核心亮点：1. 创新的POR信誉共识，有望成为POW、POS之后的新一代共识协议。用信誉共识，用社交“挖矿”。2. 采用DAG数据网络、Social Graph社交网络、互信节点闪电网络。交易速度可达十万TPS级别，但同时保持去中心化特质。3. 创新的信誉激励体系，解决公链生态建设中的流量瓶颈。自带流量的开发者可凭流量竞选超级全节点，普通用户可凭社交活跃度竞选超级轻节点，以此实现生态共建共享。"
   },
-  "email": "Email",
+  "email": "info@bitconch.io",
   "website": "https://www.bitconch.io",
   "whitepaper": "http://bitconch.io/download/BCOOWhitePaperCN.pdf",
   "state": "LOCKED | NORMAL",
