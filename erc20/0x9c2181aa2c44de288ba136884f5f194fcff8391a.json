@@ -14,15 +14,5 @@
         "ETH":"0.0001 ETH",
         "USD":"0.04 USD",
         "BTC":"0.0000059 BTC"
-  },
-  "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
   }
 }
