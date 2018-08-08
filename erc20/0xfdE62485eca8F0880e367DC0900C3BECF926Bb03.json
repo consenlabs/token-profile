@@ -1,0 +1,19 @@
+{
+    "website": "http://etimchain.com",
+    "published_on": "2018-08-05",
+    "links": {
+        "twitter": "https://twitter.com/etimchain",
+        "facebook": "https://www.facebook.com/etimchain.etimchain.3"
+    },
+    "overview": {
+        "en": "Decentralized social retail digital currency."
+    },
+    "symbol": "ET",
+    "initial_price": {
+        "ETH": "0.000004 ETH",
+        "USD": "0.002 USD"
+    },
+    "address": "0xfdE62485eca8F0880e367DC0900C3BECF926Bb03",
+    "whitepaper": "http://www.etimchain.com/Etim.pdf",
+    "email": "etimchain@gmail.com"
+}
