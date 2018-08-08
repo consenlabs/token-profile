@@ -19,6 +19,10 @@
     "blog": "https://www.loocar.net/",
     "twitter": "https://twitter.com/Loocarcn",
     "telegram": "https://t.me/Loocar",
-    "facebook": "https://facebook.com/loocarchain"
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://facebook.com/loocarchain",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "http://medium.com/your-awesome-project"
   }
 }
