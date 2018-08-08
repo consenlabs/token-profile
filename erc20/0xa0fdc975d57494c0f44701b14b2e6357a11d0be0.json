@@ -1,0 +1,18 @@
+{
+
+  "symbol": "CLLO",
+  "address": "0xa0fdc975d57494c0f44701b14b2e6357a11d0be0",
+  "overview":{
+    "en": "CLLO Establish a new generation of trust bridge system",
+    "zh": "CLLO 建立新一代的信任桥梁体系"
+  },
+  "email": "support@cllovip.com",
+  "website": "http://www.cllovip.com",
+  "state": "NORMAL",
+  "published_on": "2018-08-07",
+  "initial_price":{
+    "ETH":"0.000001 ETH",
+    "USD":"0.002 USD"
+  }
+
+}
