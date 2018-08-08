@@ -1,4 +1,4 @@
-{
+﻿{
 "symbol": "NZ",
 "address": "0x6225e606cbc1cb4f73596fbc9829354e02e63821",
 "overview":{
@@ -11,6 +11,9 @@
 "state": "NORMAL",
 "published_on": "2018-07-18",
 "links":{
-"telegram": "https://t.me/joinchat/KZgoc0nAypgmVqt0xET5Pg"
+"telegram": "https://t.me/joinchat/JTSaq1DD4XtxFoO6nDe5Bg",
+"twitter": "https://twitter.com/MgcexNz",
+"github": "https://github.com/MGCEXNZ",
+"instagram": "https://www.instagram.com/mgcex.nz"
 }
 }
