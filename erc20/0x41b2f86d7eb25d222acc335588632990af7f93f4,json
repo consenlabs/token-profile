@@ -1,0 +1,18 @@
+{
+  "symbol": "GH",
+  "address": "0x41b2f86d7eb25d222acc335588632990af7f93f4",
+  "overview":{
+        "en": "This is a token for fun and  will not  be added .",
+        "zh": ""
+  },
+  "email": "ghhzm1@gmail.com",
+  "website": "https://medibloc.org/ch/",
+  "whitepaper": "https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_ch.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-07", 
+  
+  "links":
+   {
+    "github": "https://github.com/Xp-Joe"
+    }
+}
