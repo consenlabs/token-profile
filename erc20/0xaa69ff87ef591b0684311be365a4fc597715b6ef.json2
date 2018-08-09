@@ -1,0 +1,17 @@
+
+{
+  "symbol":"XMMT",
+  "address":"0xaa69ff87ef591b0684311be365a4fc597715b6ef",
+  "overview":{
+        "en":"This is a token that will not be added.",
+        "zh":"这个代币不会增发"
+  },
+  "email":"ghhzm1@gmail.com",
+  "website":"http://www.xmmt.pro",
+  "whitepaper":"http://www.xmmt.pro/xmmtpage/XMMTwhitepaper1.4.5.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-07", 
+  
+  "links":
+   {"github":"https://github.com/Xp-Joe"}
+}
