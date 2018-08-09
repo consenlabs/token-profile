@@ -1,6 +1,7 @@
 {
+  "symbol": "SE",
   "symbol": "SE_OLD",
-  "address": "0x9648ad67d871523383c8251804bb87e64b6fecab"
+  "address": "0x9648ad67d871523383c8251804bb87e64b6fecab",
   "overview":{
         "en": "Logistics chain SE.",
         "zh": "物流链SE."
