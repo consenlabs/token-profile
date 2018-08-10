@@ -1,0 +1,20 @@
+{
+  "symbol": "HL",
+  "address": "0xDfF991Af459d05175B3bb766b950aFC697B68dF0",
+  "overview":{
+        "en": "Project Description: HotLove is an open source emotional social platform. It is also a decentralized interactive application running on the ethereum network. HL is a modular token that provides support for the HotLove network, including a centralizing push notification market and a social communication tool such as HotLove to Talk. It also proposed the "teller network" for the exchange of encrypted currencies in order to centralization the application directory and the sticker market. HotLove through advanced block chain + artificial intelligence + large data algorithms, provides users with more efficient and interesting social push and management, and verifies the privacy of the transaction system with great protection through zero knowledge.",
+        "zh": "真爱链是一款开源的情感社交平台，也是一款运行在以太坊网络上的去中心化交互应用。HL是为真爱链网络提供支持的模块化代币，包括去中心化的推送式通知市场，以及如HotLove to Talk 等的社交通讯工具。它同时还提出了法币兑换加密货币的“柜员网络”，去中心化应用程序目录以及贴纸市场。真爱链通过先进的区块链+人工智能+大数据算法，为用户提供更加高效有趣的社交推送和管理，并通过零知识验证交易系统极大的保护的隐私。"
+  },
+  "email": "support@zhenailian.com",
+  "website": "http://www.zhenailian.com/",
+  "whitepaper": "http://wp.zhenailian.com/",
+  "state": "NORMAL",
+  "published_on": "2018-03-03",
+  "initial_price":{
+        "ETH":"0.000018 ETH",
+        "USD":"0.007 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/hotloveio"
+  }
+}
