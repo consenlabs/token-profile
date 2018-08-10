@@ -1,0 +1,22 @@
+{
+  "symbol": "VWG",
+  "address": "0x56195746fd8686678fdc84befbdef404dce80cfb",
+  "overview":{
+    "en": "Thrugh the Vintage Wine Gold token project, we are engaged to reach the following goals: 1. Tokenizing the Wine Fund by fully linking the wine spot/wine value with the VWG  token to enable more people who like Premier Cru Wine, enjoy a more stable annual  appreciation of their investment. 2. Near release, we will make available of the Premier Cru Wine/En primeur at a lower  than the market price. The Vintage Wine Group community will have priority to  purchase and will pay by VWG token. 3. Buy and hold En primeur and spot wine in Premier Crus are subject to a mandatory  trust by the bank to ensure the safety of VWG assets. 4. To secure the transparency of VWG's financial and value information, an impartial  third-party appraisal agency will proceed with a monthly appraisal. 5. To ensure product authenticity and the health of our consumers, we will implement  anti-counterfeiting measures through blockchain and RFID technology when shipping  wine out of wineries. 6. Enhancing the social value of VWG. Expand the Premier Cru Wine community  activities: To taste and score En primeur in French Premier Crus, Grand Cru Wine  tasting and drinking expo in major cities, community/social media voting, combining  Chinese cuisine and wine, etc.  7. The quality of decision making for investment. In addition to the Best Wine of the  World (BWW) rating and Analytical Index of the General Red Wine Fund, VWG  improves the investment in Premier Cru Wine futures by incorporating big data  analysis, web scraping, and early wine tasting in Premier Cru.",
+    "zh": "透过 VWG 品酿金代币项目，我们致力于达成以下目标 : 1. 将葡萄酒基金代币化，藉由完全连动葡萄酒现货/期酒价值的代币，的让更多喜爱顶级葡萄酒人士可享受顶级葡萄酒的每年稳定增值 2. 将到期释出的顶级葡萄酒现货与期酒，以低于市价优先让社群爱酒人士以VWG代币购买 3. 未释出的期酒与在顶级酒庄之现货，均由银行进行强制信托，保证VWG资产之安全 4. 每月均透过公正第三方鉴价机构进行鉴价，确保VWG财务与价值信息透明化 5. 透过区块链与RFID技术，从酒庄出货便进行防伪认证，保障消费者健康 6. 扩大顶级葡萄酒社群活动：包括法国顶级酒庄期酒品鉴、各大城市级数酒品饮会、社群投票、中餐与葡萄酒结合...等提高VWG之社交价值 7.除一般红酒基金常用的国际酒类评比与指数分析之外，VWG更透过大数据分析、网络爬文、至一级酒庄进行期酒早期试饮等多种途径，提高顶级葡萄酒期货投资的决策质量; 希望以我们的力量，推动更多对顶级葡萄酒的认识与鉴赏，特别是除了西式餐饮搭配之外，我们更希望致力于葡萄酒与中式餐饮，甚至亚洲餐饮的结合，让我们除了单纯喝酒之外，也能真正享受顶级葡萄酒带给您的美好生活体验。"
+  },
+  "email": "allenwu@vwg.global",
+  "website": "http://www.vwg.global",
+  "whitepaper": "http://www.vwg.global/docs/whitebookcn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-01",
+  "initial_price":{
+    "ETH":"0.0005 ETH",
+    "USD":"0.18 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/VWG_global",
+    "github": "https://github.com/allenwu168/token-profile",
+    "facebook": "https://www.facebook.com/VintageWineGold"
+  }
+}
