@@ -1,0 +1,27 @@
+{
+  "symbol": "DEF",
+  "address": "https://etherscan.io/address/0xc32e282fb013e3aced3e4490a3c93234abfd4187",
+  "overview": {
+    "en": "Defchain is a global distributed network resource sharing platform based on 'blockchain + cloud service'.In the future, most of the computing power, storage and other resources will be scattered in countless smart devices all over the world, and these smart devices have a lot of idle time. We will use software embedding to low-cost, fast expansion of node count and coverage, and blockchain technology into an ARM base chain. Moreover, through the new mining mechanism of “node is mine machine”, the incentive node contributes idle resources. Ultimately, the blockchain is widely used by home users around the world.",
+    "zh": "Defchain是基于'区块链+云服务'的全球化分布式网络资源共享平台。在未来，大多数网络算力、存储等资源，将分散在遍布全球的无数智能设备上，而这些智能设备，都拥有大量闲置时间。我们将采用软件植入的方式，低成本、快速的扩展节点数量和覆盖面，以区块链技术整合成一条ARM基础链。并且，通过“节点即矿机”这种新型的挖矿机制，激励节点贡献闲置资源。最终实现区块链在全球家庭用户中的广泛使用。"
+  },
+  "email": "dev@defchain.io",
+  "website": "https://defchain.io",
+  "whitepaper": "https://defchain.io/documents/DEFCHAIN_WP_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-24",
+  "initial_price": {
+    "ETH": "0.0001 ETH",
+    "USD": "0.0372 USD",
+    "BTC": "0.00000569 BTC"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/company/defchain/",
+    "youtube": "https://www.youtube.com/channel/UCAMgeMQ1NHbIYPQH8VKGYow",
+    "twitter": "https://twitter.com/defchain",
+    "telegram": "https://t.me/defchain",
+    "github": "https://github.com/defchain",
+    "facebook": "https://www.facebook.com/defchain.io",
+    "reddit": "https://www.reddit.com/user/Defchain"
+  }
+}
