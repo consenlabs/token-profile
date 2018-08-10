@@ -1,0 +1,20 @@
+{
+  "symbol": "SP",
+  "address": "0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835",
+  "overview":{
+        "en": "Sunpower, symbol SP, decentralization of energy blockchain system. The combination of solar energy and blockchain pioneers. 12 years experience gold medal team. Regular use of solar energy mines to buy back tokens.",
+        "zh": "Sunpower,光元，代币符号SP,去中心化的能源区块链系统。太阳能与区块链结合开创先驱。12年从业经验金牌团队。将定期用太阳能矿机回购代币。"
+  },
+  "email": "sp@sunpower.io",
+  "website": "http://www.sunpower.io/",
+  "whitepaper": "http://www.360app.com.cn/wp.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-02-02",
+  "initial_price":{
+        "ETH":"0.00018 ETH",
+        "USD":"0.07 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/sunpoewrio"
+  }
+}
