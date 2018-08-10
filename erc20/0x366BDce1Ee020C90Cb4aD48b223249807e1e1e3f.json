@@ -1,0 +1,18 @@
+{
+
+  "symbol": "ICCT",
+  "address": "0x366BDce1Ee020C90Cb4aD48b223249807e1e1e3f",
+  "overview":{
+    "en": "ICCT THE DISTRIBUTED FORCE REVOLUTION OF THE NODE TYPE",
+    "zh": "ICCT 节点型的分布式算力革命"
+  },
+  "email": "support@icct.vip",
+  "website": "https://www.icct.vip/",
+  "state": "NORMAL",
+  "published_on": "2018-07-29",
+  "initial_price":{
+    "ETH":"0.00001 ETH",
+    "USD":"0.05 USD"
+  }
+
+}
