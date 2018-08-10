@@ -1,0 +1,28 @@
+{
+  "symbol": "GFC",//代币标识
+  "address": "0x671077c16f819d629c5ddcc23d730a4a5ab928cd",//公司地址
+  "overview":{//中英文预览信息
+        "en": "GFC is a decentralized utility token that backed by physical gold and could be intrinsically appreciated and fully applied in GFC ecosystem.",
+        "zh": ""
+  },
+  "email": "hi@gfcoin.io",//联系邮箱
+  "website": "https://www.gfcoin.io/",//官网地址
+  "whitepaper": "https://www.gfcoin.io/GFC.pdf",//代币白皮书
+  "state": "NORMAL",//币种状态
+  "published_on": "2018-04-10",//提交时间
+  "initial_price":{//代币初始兑换价格
+        "ETH":"0.00004642 ETH",
+        "USD":"0.04 USD",
+        "BTC":"0.00000325 BTC"
+  },
+  "links": {//连接信息
+    "blog": "https://your-awesome-project.com/blog",//博客
+    "twitter": "https://twitter.com/gold4coin",//推特
+    "telegram": "https://t.me/gold4coin",
+    "github": "https:// github.com/GFCoin",//GitHub仓库，代码仓库
+    "facebook": "https:// www.facebook.com/gold4coin",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
