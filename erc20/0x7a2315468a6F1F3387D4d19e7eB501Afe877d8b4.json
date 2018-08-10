@@ -8,8 +8,8 @@
   "email": "gaiachain@163.com",
   "website": "http://www.gaiachain.net/",
   "state": "NORMAL",
-  "published_on": "2018-08-02"，
-  "initial_price":{
+  "published_on": "2018-08-02",
+  "initial_price": {
         "ETH":"0.00001666 ETH"
   }
 }
