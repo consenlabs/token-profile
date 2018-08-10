@@ -1,0 +1,22 @@
+{
+  "symbol": "CBA",
+  "address": "0x2707DB5a2f6265B14Cd884FD3859E6490437De4E",
+  "overview": {
+    "en": "CBA is a new next-generation corporate finance application community brand and a member incentive award of CredBay Asset's CredBay Supply Chain Finance. CBA is widely used in supply chain finance (points, credit, warehouse receipt mortgage, asset issuance, credit rating), enterprise accounts payable management, enterprise supply chain management Rationale (traceability, accountability, coordination), enterprise digital wallet, Internet of things, etc.",
+    "zh": "CBA 是全新的下一代企业级金融应用社区品牌，是CredBay Asset 旗下「CredBay供应链金融」的会员激励奖章，CBA的应用场景非常广泛：供应链金融（积分、授信、仓单抵押、资产发行、信用评级）、企业应付账款管理、企业供应链管理（商品追溯、追责考核、协调）、企业数字钱包、物联网等。"
+  },
+  "email": "support@credbay.com",
+  "website": "https://www.credbay.com/",
+  "whitepaper": "https://www.credbay.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-10",
+  "initial_price":{
+        "ETH":"0.003 ETH",
+        "USD":"1.000 USD",
+        "BTC":"0.00016 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/CredbayA",
+    "github": "https://github.com/credbay"
+  }
+}
