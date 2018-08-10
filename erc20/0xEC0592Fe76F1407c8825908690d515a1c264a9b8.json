@@ -1,0 +1,23 @@
+{
+  "symbol": "GBTT",
+  "address": "0xEC0592Fe76F1407c8825908690d515a1c264a9b8",
+  "overview":{
+        "en": "GeBiTe APP official token",
+        "zh": "歌比特APP官方Token"
+  },
+  "email": "1019256714@qq.com",
+  "website": "http://www.gebit.cn/",
+  "whitepaper": "http://www.gebit.cn/yii_gebite/agency/web/index/download1",
+  "state": "NORMAL",
+  "published_on": "2018-07-17",
+  "initial_price":{
+        "ETH":"0.0000333 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/GeBit11?s=05",
+    "telegram": "http://t.me/gebitAPP",
+    "weibo": "https://weibo.com/u/6561176330",
+    "wechat": "GeBit007",
+    "QQGroup":"797756466"
+  }
+}
