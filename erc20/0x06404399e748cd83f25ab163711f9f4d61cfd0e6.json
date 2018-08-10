@@ -1,12 +1,12 @@
 {
   "symbol": "FNK",
-  "address": "0xee478b1797fe3e9922422b3adb72493ae8e81488",
+  "address": "0x06404399e748cd83f25ab163711f9f4d61cfd0e6",
   "overview":{
         "en": "The New P2P Payment Solution on SNS Services."
   },
   "email": "official@funkeypay.com",
   "website": "http://funkeypay.com",
-  "whitepaper": "https://s3.ap-northeast-2.amazonaws.com/funkeypaywhitepaper/WhitePaper_ver.1.0/Funkeypay_whitepaper_ver2.0_EN.pdf",
+  "whitepaper": "https://www.dropbox.com/sh/sel4af3yfgqbkzh/AAC9FM5hOPQl71ruvXN0APVHa?dl=0",
   "state": "LOCKED",
   "published_on": "2018-04-29",
   "initial_price":{
