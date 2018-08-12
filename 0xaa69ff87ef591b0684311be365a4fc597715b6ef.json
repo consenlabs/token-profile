@@ -1,0 +1,19 @@
+{
+  "symbol": "XMMT",
+  "address": "0xaa69ff87ef591b0684311be365a4fc597715b6ef",
+  "overview":{
+        "en": "The token will not be added. And the token's holder has been over 17000 ",
+        "zh": "我们这个代币不会增发，并且这个代币的拥有者已经超过了17000人。"
+  },
+  "email": "xselfmediamt@163.com",
+  "website": "http://www.xmmt.pro",
+  "whitepaper": "http://www.xmmt.pro/xmmtpage/XMMTwhitepaper1.4.5.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-2",
+  "initial_price":{
+        "ETH":"0.000002857143 ETH",
+        "USD":"0.000925714USD",
+        "BTC":"0.0000001477125 BTC"
+  }
+ 
+}
