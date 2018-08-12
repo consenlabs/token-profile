@@ -1,0 +1,12 @@
+{
+     "website": "https://www.tripedia.io/",
+     "published_on": "2018-09",
+     "overview": {
+         "en": "Tripedia is aimed at solving the problem that the tourism market is severely centralized due to Online Travel Agencies’ (hereinafter referred to as OTAs) monopoly, providing all the tourism market participants with platform where they can equally participate in the information sharing & resource trading, developing Artificial Intelligence Travel Designer (hereinafter referred to as AITD) based on data of information and resource, creating decentralized  ecosystem of travel information sharing & resource trading, and eventually establishing the new travel mode.",
+         "zh": "区智游是由Tripedia基金会发起的，旨在解决旅游市场被在线旅游服务商（OTA）垄断而导致的中心化现象严重，为旅游市场所有参与者提供可平等参与的进行信息分享资源交易场所，并基于资源数据构建人工智能旅行定制师（AI Travel Designer），最终打造去中心化旅游资源共享交易生态系统，建立人们旅行出游新模式。"
+     },
+     "symbol": "TPD",
+     "whitepaper": "https://www.tripedia.io/download/trepedia-%E7%99%BD%E7%9A%AE%E6%9B%B8-%E7%B9%81%E9%AB%94?wpdmdl=738",
+     "address": "0x2a6aac80905912ac1e769e28cda3807a4d20b3b6",
+     "email": "service@tripedia.io"
+ }
