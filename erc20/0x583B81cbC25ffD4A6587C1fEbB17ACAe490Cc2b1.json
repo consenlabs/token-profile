@@ -1,0 +1,22 @@
+{
+  "symbol": "ZTC",
+  "address": "0x583B81cbC25ffD4A6587C1fEbB17ACAe490Cc2b1",
+  "overview":{
+        "en": "Zest Coin",
+        "zh": "捷特币"
+  },
+  "email": "enquiries@rzcoin.co",
+  "website": "https://rzcoin.co/",
+  "whitepaper": "https://rzcoin.co/assets/RZWHITE%20PAPER%20EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-04-20",
+  "initial_price":{
+        "ETH":"0.021 ETH",
+        "USD":"10 USD",
+        "BTC":"0.0012 BTC"
+  },
+  "links": {
+    "blog": "http://wemedia.ifeng.com/63635569/wemedia.shtml",
+    "baidu": "http://baijiahao.baidu.com/s?id=1602499689040463078&wfr=spider&for=pc"
+  }
+}
