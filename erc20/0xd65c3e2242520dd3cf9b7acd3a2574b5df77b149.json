@@ -1,18 +1,4 @@
 {
   "symbol": "WICN",
-  "address": "0xd65c3e2242520dd3cf9b7acd3a2574b5df77b149",
-  "overview":{
-        "en": "Wine Petrus is a wine Anti-Counterfeiting project based on block chain technology and is also a landing project funded by several famous investors. WICN is the only currency of Wine Petrus.",
-        "zh": "Wine Petrus是一个基于区块链技术的红酒防伪项目，也是一个由多位著名投资人融资的落地项目。WICN 是 Wine Petrus 的唯一货币。"
-  },
-  "email": "winepetrus@qq.com",
-  "website": "https://winepetrus.io",
-  "whitepaper": "https://winepetrus.io/download/winepetrus.pdf",
-  "state": "CHINA",
-  "published_on": "2018-08-12",
-  "initial_price":{
-  },
-  "links": {
-    "blog": "http://blog.winepetrus.io/"
-  }
+  "address": "0xd65c3e2242520dd3cf9b7acd3a2574b5df77b149"
 }
