@@ -1,0 +1,20 @@
+{
+  "symbol": "SWST",
+  "address": "0xA89BF5992D8eb318385283E6F4380a201E8c7E04",
+  "overview":{
+    "en": "The Star Wonderful Stars project aim to Star project and serves beautiful business. It is committed to building a brand new pan entertainment content ecosystem (including short video, live broadcast, game, etc.) by using block chain technology. Through the distributed architecture, a pan entertainment open community ecosystem is established to create an internationalized incentive pan entertainment platform.",
+    "zh": "星美星SWS项目锁定明星项目、服务美丽事业，致力于利用区块链技术塑造全新的泛娱乐内容生态圈（包括短视频、直播、游戏、网剧等内容），通过分布式架构，建立泛娱乐开放式社区生态系统，打造国际化的激励型泛娱乐生态平台。"
+  },
+  "email": "starwonderfulstars@gmail.com",
+  "website": "https://starwstars.github.io/SWST/",
+  "whitepaper": "https://starwstars.github.io/SWST/pdf/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+    "ETH":"0.00001 ETH"
+  },
+  "links": {
+    "github": "https://github.com/StarWStars",
+    "facebook": "https://www.facebook.com/start.liu.522"
+  }
+}
