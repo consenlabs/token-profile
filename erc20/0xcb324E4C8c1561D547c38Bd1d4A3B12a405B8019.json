@@ -1,22 +1,14 @@
 {
-	"symbol": "PVB",
-	"address": "0xcb324E4C8c1561D547c38Bd1d4A3B12a405B8019",
-	"email": " pvbvip@outlook.com",
-  "website": "http://pvbvip.io/",
-   "whitepaper": "http://pvbvip.io/whitepaper.pdf",
-  "description": "Based on the fourth-generation block chain technology, PVB distributed block chain platform -- PVB gold data digital integral trading ecosystem is built.",
-	  "overview":{
+  "symbol": "PVB",
+  "address": "0xcb324E4C8c1561D547c38Bd1d4A3B12a405B8019",
+  "overview":{
         "en": " Based on the fourth-generation block chain technology, PVB distributed block chain platform -- PVB gold data digital integral trading ecosystem is built.",
-        "zh": "基于第四代区块链技术搭建了PVB分布式区块链平台——PVB黄金数据的数字积分交易生态系统。",
+        "zh": "基于第四代区块链技术搭建了PVB分布式区块链平台——PVB黄金数据的数字积分交易生态系统。"
   },
- 
-	  "links": {
-		"telegram": " https://t.me/PVBClubCN",
-  },
-  
-   "initial_price":{
-        "ETH":" 0.0000333333 ETH",
-        "USD":" 0.015385 USD",
-        "BTC":" 0.0000020537 BTC"
+  "email": "pvbvip@outlook.com",
+  "website": "http://pvbvip.io/",
+  "published_on": "2018-07-05",
+  "links": {
+    "telegram": "https://t.me/PVBClubCN"
   },
 }
