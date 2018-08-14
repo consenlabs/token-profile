@@ -1,0 +1,13 @@
+{
+  "symbol": "UTCC",
+  "address": "0xadacf6d4843da1606646c4aa7e3bfd85b38b8fef",
+  "overview":{
+        "en": "UTCC is the internal circulation equity certificate issued by UToken, a digital asset management platform",
+        "zh": "UTCC是数字资产管理平台UToken 发行的内部流通权益通证。"
+  },
+  "email": "15267132003@163.com",
+  "website": "http://www.utokenclub.com",
+  "whitepaper": "http://www.utokenclub.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-14"
+}
