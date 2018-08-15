@@ -6,10 +6,14 @@
         "zh": "环境污染已经成为当今世界性的三大社会问题之一，随着全球大气污染的日益严重，智能空气净化器的销量逐年攀升，针对智能净化器市场商品质量良莠不齐、更新换代速率快、以及物联网应用下的智能化水平差异等这些问题，AIRC与以云研为首的多家净化器企业组成空气净化联盟，主要解决室内空气环境，人有三分之二以上的时间都在室内，室内空气环境优良了，可很大程度上降低疾病的发生率，AIRC为每一台负氧离子净化器，运用区块链技术记录所有设备的大数据，科学定制家庭空气净化计划，利用移动终端的智能算力，实现数据共享，以每台设备提供新鲜空气容量大小来获得算率，奖励airc，并由此获得收益即AIRC家电运营模式得以产生。"
   },
   "email": "13297918112@163.com",
-  "website": "http://www.yunyan.io",
+  "website": "http://www.airchain.co/",
+  "whitepaper": "http://www.airchain.co/baipishu.pdf",
   "state": "NORMAL",
   "published_on": "2018-07-26",
   "initial_price":{
-        "USD":"0.1207 USD"
+        "USD":"0.02 USD"
+  },
+  "links": {
+    "telegram": "https://un75.com/Airckongqilian"
   }
 }
