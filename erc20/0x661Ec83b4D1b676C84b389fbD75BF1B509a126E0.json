@@ -6,8 +6,8 @@
         "zh": "ABS链是基于区块链和同态加密技术解决数据确权和用权问题的底层通用技术平台，旨在通过同态加密数据信息以及加密密钥去中心化分发，实现数据信息的定向分享传播，并借用人工智能技术实现数据信息撮合交易。"
   },
   "email": "support@abschain.io",
-  "website": "https://www.abschain.io",
-  "whitepaper": "http://www.abschain.io/ABS.pdf",
+  "website": "www.abschain.io",
+  "whitepaper": "www.abschain.io/ABS.pdf",
   "state": "NORMAL",
   "published_on": "2018-07-21",
   "links": {
