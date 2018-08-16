@@ -10,9 +10,7 @@
 	"whitepaper": "https://dvpnet.io/doc",
 	"state": "NORMAL",
 	"published_on": "2018-07-30",
-	"initial_price": {
-		"USD": "0.03 USD"
-	},
+	"initial_price": {},
 	"links": {
 		"twitter": "https://twitter.com/dvpnetio",
 		"telegram": "https://t.me/dvpnet",
