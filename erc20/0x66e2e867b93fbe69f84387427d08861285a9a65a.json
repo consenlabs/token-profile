@@ -10,21 +10,9 @@ In short, we use blockchain technology and the token economic model to promote t
   "email": "partnerATC@163.com",
   "website": "http://www.artemisChain.io",
   "whitepaper": "http://mohouse.artemis3d.com/artemisChain/static/other/artemisChain_whitepaer.pdf",
-  "state": "LOCKED | NORMAL",
   "published_on": "2018-06-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
-  },
   "links": {
     "blog": "http://www.karmay3d.com/blog/wordpress/blog",
-    "twitter": "https://twitter.com/ArtemisChain",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "telegram": "https://0.plus/artemischain"
   }
 }
