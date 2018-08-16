@@ -1,0 +1,28 @@
+{
+  "symbol": "BOOK",
+  "address": "0x90991ede233b47718893e89f489205db4b9b3b5f",
+  "overview":{
+        "en": "BOOK is the token of Bookchain that aims to connects authers,publishers and reader",
+        "zh": "BOOK 是读书链的通证，其目标是连接作者，发行商和读者"
+  },
+  "email": "James@vgtech.com.cn",
+  "website": "https://bookchains.org/",
+  "whitepaper": "https://bookchains.org/withpaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
