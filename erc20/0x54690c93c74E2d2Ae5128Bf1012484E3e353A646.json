@@ -1,0 +1,16 @@
+{
+  "symbol": "RT",
+  "address": "0x54690c93c74E2d2Ae5128Bf1012484E3e353A646",
+  "overview":{
+        "en": "Readchain is an online literary creation and reading platform based on the blockchain technology and new token economy, which realizes the value sharing, co-ownership and co-construction of online literature creators and readers. All users who enjoy reading on the platform can enjoy the rewards of the platform based on the principle of value creation and distribution.",
+        "zh": "悦读是基于区块链技术的、新锐的实践通证经济的网络文学创作与阅读平台，实现了网络文学创作者、阅读者的价值共享、共有和共建。所有悦读平台的用户，都能享受到依照价值创造和分配原则产生的平台的奖励。"
+  },
+  "email": "help@readchain.app",
+  "website": "https://readchain.app",
+  "whitepaper": "https://readchain.app/wihtepaper.pdf",
+  "state": "LOCKED",
+  "links": {
+    "github": "https://github.com/readchain",
+    "medium": "https://medium.com/@readchain"
+  }
+}
