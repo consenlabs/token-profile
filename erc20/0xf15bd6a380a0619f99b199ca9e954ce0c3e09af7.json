@@ -1,0 +1,20 @@
+{
+  "symbol": "PDT",
+  "address": "0xf15bd6a380a0619f99b199ca9e954ce0c3e09af7",
+  "overview":{
+        "en":"Matrix World is a blockchain project designed to improve the city's travel ecology and protect the car's sensitive data. It will become the first blockchain to realize the combination of virtual and real, complete the real landing, and have 10 million users. Promote the development of China's auto market in a green, healthy and transparent direction.",
+        "zh":"Matrix World是一个旨在改善城市出行生态，将汽车敏感数据上链保护的区块链项目，将成为区块链首个实现虚实结合，完成真实落地，并拥有千万级别用户的应用。推动中国汽车市场朝着绿色，健康，透明的方向发展。"
+  },
+  "email": "info@matrixworld.top",
+  "website": "https://www.matrixworld.top/",
+  "whitepaper": "http://matrixworld.top/res/white-paper-2.0.pdf",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH": "0.00002 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/MatrixWorld6",
+    "telegram": "https://t.me/MatrixWorld6",
+    "facebook": "https://www.facebook.com/MatrixWorld6"
+  }
+}
