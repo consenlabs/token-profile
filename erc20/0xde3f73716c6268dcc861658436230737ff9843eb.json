@@ -1,0 +1,16 @@
+{
+  "symbol": "HL",
+  "address": "0xde3f73716c6268dcc861658436230737ff9843eb",
+  "overview":{
+        "en":"token fund's receipt",
+        "zh":"华链收据"
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-08-16",
+  "links": {
+    "github": "https://github.com/esuifeng/"
+  }
+}
