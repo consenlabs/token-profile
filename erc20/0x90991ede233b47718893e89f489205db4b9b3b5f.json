@@ -9,20 +9,5 @@
   "website": "https://bookchains.org/",
   "whitepaper": "https://bookchains.org/withpaper.pdf",
   "state": "NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
-  },
-  "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
-  }
+  "published_on": "2018-01-01"
 }
