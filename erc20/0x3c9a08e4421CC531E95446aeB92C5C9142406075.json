@@ -1,0 +1,19 @@
+{
+  "symbol": "UNT",
+  "address": "0x3c9a08e4421CC531E95446aeB92C5C9142406075",
+  "email": "admin@unitedtoken.io",
+  "website": "https://unitedtoken.io/",
+  "whitepaper": "https://unitedtoken.io/white_paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-08",
+  "initial_price":{
+        "ETH":"0.0022 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00011 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/unitedtoken",
+    "github": "https://github.com/unitedtoken",
+    "medium": "https://medium.com/@unitedtoken"
+  }
+}
