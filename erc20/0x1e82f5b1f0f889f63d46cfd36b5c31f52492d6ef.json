@@ -1,0 +1,13 @@
+{
+  "symbol": "FHC",
+  "address": "	0x1e82f5b1f0f889f63d46cfd36b5c31f52492d6ef",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-14"
+}
