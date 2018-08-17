@@ -1,0 +1,15 @@
+{
+  "symbol": "CETH",
+  "address": "0x26c7bdd051318b48092390eabd1b69fce5080b25",
+  "overview":{
+        "en": "Claim Everything is a third-party Copyright Registration Platform Based on block chains and artificial intelligence. We continue to carry forward the successful experience of Bitcoin by means of block chains and artificial intelligence. Combined with artificial intelligence technology, we will do our best for copyright registration and protection and provide more protection for innovators. To serve the knowledge economy.",
+        "zh": "版权宝(ClaimEverything)的定位是一个基于区块链和人工智能的第三方著作权登记平台，我们采用区块链加上人工智能的方式，继续发扬比特币的成功经验，结合人工智能技术，为著作权登记和保护尽一份力，为创新者提供多一份保护，为知识经济服务。"
+  },
+  "email": "cethteam@gmail.com",
+  "website": "https://www.ceth.info/",
+  "published_on": "2018-08-01",
+  "links": {
+    "twitter": "https://twitter.com/cethteam",
+    "github": "https://github.com/cetht"
+  }
+}
