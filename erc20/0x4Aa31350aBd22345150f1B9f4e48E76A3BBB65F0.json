@@ -1,0 +1,23 @@
+{
+  "symbol": " I(ICOTH)",
+  "address": "0x4Aa31350aBd22345150f1B9f4e48E76A3BBB65F0",
+  "overview": {
+    "en": "`I` token is an ecological token which is served for FO.COM, FO.COM is an one-stop integrated crowd-funding financing platform. `I` token can be used for voting of the projects and the development of the entire FO platform. ",
+    "zh": "I币是服务于区块链领域的一站式众筹融资服务平台FO.COM的生态代币,用于项目的投票上线以及整个fo平台的发展运营。"
+  },
+  "email": "service@fo.com",
+  "website": "https://fo.com",
+  "whitepaper": "https://foprodoss.oss-ap-southeast-1.aliyuncs.com/whitepaper/1528905882.8479.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price": {
+    "ETH": "0.00166666 ETH",
+    "USD": "0.7 USD",
+    "BTC": "0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/FOThailand",
+    "telegram": "https://t.me/fodotcom",
+    "facebook": "https://www.facebook.com/FinancialOfferings"
+  }
+}
