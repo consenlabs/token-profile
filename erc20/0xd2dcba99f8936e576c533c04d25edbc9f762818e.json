@@ -1,0 +1,28 @@
+{
+  "symbol": "CMCL-token",
+  "address": "0xd2dcba99f8936e576c533c04d25edbc9f762818e",
+  "overview":{
+        "en": "The decentralized charitable commonweal donation system based on the underlying technology of blockchain.",
+        "zh": " "
+  },
+  "email": "postmaster@cmcl.co",
+  "website": "http://www.cmcl.co/",
+  "whitepaper": "http://www.cmcl.co/images.cmcl_e.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH":"0.000125 ETH",
+        "USD":"0.08 USD",
+        "BTC":"0.00001 BTC"
+  },
+  "links": {
+    "blog": "http://blog.sina.com.cn/u/1008265620",
+    "twitter": "https://twitter.com/commonwealchain",
+    "telegram": "https://0.plus/cmclofficial",
+    "github": "https://gist.github.com/kabelyang/90f1b1167962dd939de56415272f47dc",
+    "facebook": "https://www.facebook.com/profile.php?id=100026409675805",
+    "reddit": "https://www.reddit.com/user/cmclchain",
+    "slack": "https://cmclchain.slack.com",
+    "medium": "https://medium.com/@cmclchain"
+  }
+}
