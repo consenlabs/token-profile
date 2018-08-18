@@ -1,0 +1,13 @@
+{
+  "symbol": "TT",
+  "address": "0x57f278e7105b321f8bc4681ef7f0d548a3a94e04",
+  "overview":{
+        "en": "Trust token，TT，is the digital currency and token owned by Trust.one. TT represents all the rights of the Trust.One community.",
+        "zh": "Trust Token，简称TT，是交易平台Trust.One所拥有的数字货币和通证，代表Trust.One社区的所有权益。"
+  },
+  "email": "official@trust.one",
+  "website": "www.trust.one",
+  "links": {
+    "telegram": "https://t.me/TrustOne_Official"
+  }
+}
