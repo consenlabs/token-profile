@@ -1,0 +1,11 @@
+{
+	"symbol": "BB",
+	"address": "0xe4283e601fea362ab08bd90a0baba6a1d1875283",
+	"overview": {
+		"en": "The B-coin(BB) is used as the token of the Bone-Chain anti-counterfeiting traceability system.",
+		"zh": "B-coin作为铂恩链防伪溯源系统token，简称铂恩币(BB)。"
+	},
+	"website": "http://www.boen.red/",
+	"whitepaper": "http://www.boen.red/upload/file/2018-08-08/1533709207_5b6a8b97576ce.pdf",
+	"state": "NORMAL"
+}
