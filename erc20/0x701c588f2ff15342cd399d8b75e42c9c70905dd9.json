@@ -1,1 +1,14 @@
-
+{
+  "symbol": "QJG",
+  "address": "0x701c588f2ff15342cd399d8b75e42c9c70905dd9",
+  "overview":{
+        "en": "Qujiaosuo.net platform score currency.",
+        "zh": "Qujiaosuo.net 平台积分币"
+  },
+  "website": "https://www.qujiaosuo.net/",
+  "published_on": "2018-08-18",
+  "initial_price":{
+        "ETH":"0.00000243 ETH",
+        "USD":"0.0007565 USD"
+  }
+}
