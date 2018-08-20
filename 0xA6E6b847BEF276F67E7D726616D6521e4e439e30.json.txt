@@ -1,0 +1,28 @@
+﻿{
+  "symbol": "LFC",
+  "address": "0xA6E6b847BEF276F67E7D726616D6521e4e439e30",
+  "overview":{
+        "en": "The ERC20 Token to be used as the medium of exchange in Online LIFE World Platform.",
+        "th": "ERC20 โทเค่น บนอีธีเรียมบอลคเชน เนตเวิร์ค ที่จะนำไปใช้เป็นตัวกลางในการแลกเปลี่ยนบนแพลทฟอร์ม Online LIFE World"
+  },
+  "email": "bitcashout@gmail.com",
+  "website": "https://bitcashout.wixsite.com/life",
+  "whitepaper": "https://docs.wixstatic.com/ugd/d96892_62c4a164afa94d598409ae9e86b81dd3.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-14",
+  "initial_price":{
+        "ETH":"0.00001 ETH",
+        "USD":"0.005 USD",
+        "BTC":"0.0000005 BTC"
+  },
+  "links": {
+    "blog": "https://bitcashout.wixsite.com/life/blog",
+    "twitter": "https://twitter.com/DrShrati",
+    "telegram": "https://t.me/OnlineLIFEWorld",
+    "github": "https://github.com/CrytoLIFE/LIFECOIN",
+    "facebook": "https://www.facebook.com/onlineLIFEworld/",
+    "reddit": "https://www.reddit.com/user/LIFEcrypto/",
+    "slack": "https://onlinelifeworldltd.slack.com",
+    "medium": "https://medium.com/@bshrati"
+  }
+}
