@@ -1,6 +1,6 @@
 {
-	"symbol": "EOSC",
-	"address": "Contract Address",
+	"symbol": "CR",
+	"address": "0x83bea0afd0fe914cbfa922a25c4e795244b9d873",
 	"overview": {
 		"en": "EOS Chrome is EOS-based, decentralized Blockchain platform.While maintaining the scalability approaches of EOS,EOS Chrome fundamentally enhances the consensus algorithm to maximize the platform decentralization.",
 		"zh": "EOS Chrome是一个基于EOS的去中心化区块链平台，同时保留了EOS的扩展方法，EOS Chrome从根本上增强了共识算法，以最大程度实现平台的去中心化。"
@@ -10,11 +10,6 @@
 	"whitepaper": "http://eoschrome.io/wp-content/uploads/2018/08/0814_eoschrome_conceptpaper_2.0.pdf",
 	"state": "NORMAL",
 	"published_on": "2018-08-19",
-	"initial_price": {
-		"ETH": "0.000142857 ETH",
-		"USD": "0.042 USD",
-		"BTC": "0.000006 BTC"
-	},
 	"links": {
 		"blog": "http://eoschrome.io/?page_id=21"
 	}
