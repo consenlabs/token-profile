@@ -1,0 +1,63 @@
+INFO [08-14|17:15:42] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.8.3
+INFO [08-14|17:15:42] Allocated cache and file handles         database=/Users/kevin/Library/Ethereum/geth/chaindata cache=128 handles=1024
+INFO [08-14|17:15:43] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Metropolis: 9223372036854775807 Engine: ethash}"
+INFO [08-14|17:15:43] Disk storage enabled for ethash caches   dir=/Users/kevin/Library/Ethereum/geth/ethash count=3
+INFO [08-14|17:15:43] Disk storage enabled for ethash DAGs     dir=/Users/kevin/.ethash                      count=2
+INFO [08-14|17:15:43] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [08-14|17:15:43] Loaded most recent local header          number=3663100 hash=f226af…bebbc5 td=248009244693702605199
+INFO [08-14|17:15:43] Loaded most recent local full block      number=0       hash=d4e567…cb8fa3 td=17179869184
+INFO [08-14|17:15:43] Loaded most recent local fast block      number=3628941 hash=553cf4…196de2 td=236357250509909468321
+INFO [08-14|17:15:43] Starting P2P networking 
+INFO [08-14|17:15:43] UDP listener up                          self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|17:15:43] RLPx listener up                         self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|17:15:43] IPC endpoint opened: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|17:17:15] New wallet appeared                      url=keystore:///Users/kevin/Library… status=Locked
+INFO [08-14|17:26:14] New wallet appeared                      url=keystore:///Users/kevin/Library… status=Locked
+INFO [08-14|17:27:14] IPC endpoint closed: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|17:27:14] Blockchain manager stopped 
+INFO [08-14|17:27:14] Stopping Ethereum protocol 
+INFO [08-14|17:27:14] Ethereum protocol stopped 
+INFO [08-14|17:27:14] Transaction pool stopped 
+INFO [08-14|17:27:14] Database closed                          database=/Users/kevin/Library/Ethereum/geth/chaindata
+INFO [08-14|17:27:39] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.8.3
+INFO [08-14|17:27:39] Allocated cache and file handles         database=/Users/kevin/Library/Ethereum/geth/chaindata cache=128 handles=1024
+INFO [08-14|17:27:39] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Metropolis: 9223372036854775807 Engine: ethash}"
+INFO [08-14|17:27:39] Disk storage enabled for ethash caches   dir=/Users/kevin/Library/Ethereum/geth/ethash count=3
+INFO [08-14|17:27:39] Disk storage enabled for ethash DAGs     dir=/Users/kevin/.ethash                      count=2
+INFO [08-14|17:27:39] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [08-14|17:27:39] Loaded most recent local header          number=3663100 hash=f226af…bebbc5 td=248009244693702605199
+INFO [08-14|17:27:39] Loaded most recent local full block      number=0       hash=d4e567…cb8fa3 td=17179869184
+INFO [08-14|17:27:39] Loaded most recent local fast block      number=3628941 hash=553cf4…196de2 td=236357250509909468321
+INFO [08-14|17:27:39] Starting P2P networking 
+INFO [08-14|17:27:39] UDP listener up                          self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|17:27:39] RLPx listener up                         self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|17:27:39] IPC endpoint opened: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|17:27:39] HTTP endpoint opened: http://127.0.0.1:5010 
+INFO [08-14|17:54:29] HTTP endpoint closed: http://127.0.0.1:5010 
+INFO [08-14|17:54:29] IPC endpoint closed: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|17:54:29] Blockchain manager stopped 
+INFO [08-14|17:54:29] Stopping Ethereum protocol 
+INFO [08-14|17:54:29] Ethereum protocol stopped 
+INFO [08-14|17:54:29] Transaction pool stopped 
+INFO [08-14|17:54:29] Database closed                          database=/Users/kevin/Library/Ethereum/geth/chaindata
+INFO [08-14|18:07:43] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.8.3
+INFO [08-14|18:07:43] Allocated cache and file handles         database=/Users/kevin/Library/Ethereum/geth/chaindata cache=128 handles=1024
+INFO [08-14|18:07:43] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Metropolis: 9223372036854775807 Engine: ethash}"
+INFO [08-14|18:07:43] Disk storage enabled for ethash caches   dir=/Users/kevin/Library/Ethereum/geth/ethash count=3
+INFO [08-14|18:07:43] Disk storage enabled for ethash DAGs     dir=/Users/kevin/.ethash                      count=2
+INFO [08-14|18:07:43] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [08-14|18:07:43] Loaded most recent local header          number=3663100 hash=f226af…bebbc5 td=248009244693702605199
+INFO [08-14|18:07:43] Loaded most recent local full block      number=0       hash=d4e567…cb8fa3 td=17179869184
+INFO [08-14|18:07:43] Loaded most recent local fast block      number=3628941 hash=553cf4…196de2 td=236357250509909468321
+INFO [08-14|18:07:43] Starting P2P networking 
+INFO [08-14|18:07:43] UDP listener up                          self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|18:07:43] RLPx listener up                         self=enode://1a4823181f8824d5b6cc6bbd5e926944939baa498acdeda0d0d6bb55ccd3b5364244eccacd80a45430341fbb02d05eecb3802a0925d2eff19191c412f199ed53@[::]:9008
+INFO [08-14|18:07:43] IPC endpoint opened: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|18:07:43] HTTP endpoint opened: http://127.0.0.1:5010 
+INFO [08-14|18:09:56] HTTP endpoint closed: http://127.0.0.1:5010 
+INFO [08-14|18:09:56] IPC endpoint closed: /Users/kevin/Library/Ethereum/geth.ipc 
+INFO [08-14|18:09:56] Blockchain manager stopped 
+INFO [08-14|18:09:56] Stopping Ethereum protocol 
+INFO [08-14|18:09:56] Ethereum protocol stopped 
+INFO [08-14|18:09:56] Transaction pool stopped 
+INFO [08-14|18:09:56] Database closed                          database=/Users/kevin/Library/Ethereum/geth/chaindata
