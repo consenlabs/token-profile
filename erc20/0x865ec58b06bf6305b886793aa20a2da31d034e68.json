@@ -1,17 +1,16 @@
 ﻿{
   "symbol": "MOC",
   "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
-  "overview":{
+  "overview": {
         "en": "Location-based Augmented Reality Mobile Game based on Real Estate",
-        "zh": "Mossland是韩国首款基于不动产位置（AR+区块链）移动游戏"
+        "zh": "Mossland是韩国首款基于不动产位置(AR+区块链)移动游戏"
   },
   "email": "contact@moss.land",
   "website": "https://moss.land/",
   "whitepaper": "https://d2vy65gufabiok.cloudfront.net/whitepaper/Mossland+Whitepaper+-+ENG.pdf",
-  "state": "NORMAL",
   "published_on": "2018-05-21",
-  "initial_price":{
-        "USD":"0.12 USD"
+  "initial_price": {
+    "USD":"0.12 USD",
   },
   "links": {
     "blog": "https://steemit.com/@mossland",
