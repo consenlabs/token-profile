@@ -1,0 +1,18 @@
+{
+  "symbol": "CPCCoin",
+  "address": "0x8779663b55bf575739cc23f244c82fb11a12883a",
+  "overview":{
+        "en": "Parking Coin",
+        "zh": ""
+  },
+  "email": "lonekay@163.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-08-17",
+  "initial_price":{
+        "ETH":"0.0005555 ETH",
+        "USD":"0.14 USD",
+        "BTC":"0.0000227 BTC"
+  },
+}
