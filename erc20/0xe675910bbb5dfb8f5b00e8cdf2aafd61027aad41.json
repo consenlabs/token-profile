@@ -1,1 +1,10 @@
-
+{
+  "symbol": "RAPIDS",
+  "address": "0xe675910bbb5dfb8f5b00e8cdf2aafd61027aad41",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/rapidsrapids",
+    "telegram": "https://t.me/rapids",
+    "github": "https://github.com/RapidsOfficial"
+  }
+}
