@@ -2,6 +2,7 @@
   "symbol": "DEWH",
   "address": "0x0a66cad859483fe283c4caea37c6d8df32b2f5a5",
   "overview":{
+        "en": "Token Description.",
         "zh": "平台限量发行10亿个DEWH，对接公司的一系列资源，打造自己的经济生态商城，未来的DEWH将是大恩集团流通的数字货币，大恩集团强大的资源配置，将是DEC价值的有效保障"
   },
   "email": "chenjingyao7807@126.com",
@@ -15,6 +16,6 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "weibo": "https://weibo.com/6430204366/profile?topnav=1&wvr=6&is_all=1"
+    "blog": "https://weibo.com/6430204366/profile?topnav=1&wvr=6&is_all=1"
   }
 }
