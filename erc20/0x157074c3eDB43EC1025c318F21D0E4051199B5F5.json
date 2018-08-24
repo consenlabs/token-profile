@@ -1,9 +1,9 @@
 {
   "symbol": "LEB",
-  "address": "0x157074c3eDB43EC1025c318F21D0E4051199B5F5",
+  "address": "0x157074c3edb43ec1025c318f21d0e4051199b5f5",
   "overview":{
         "en": "In response to the booming entertainment market in Southeast Asia and the growing tourist demographic dividend in recent years, the LeToken blockchain project will be based in Thailand, mapping the entire Southeast Asia region, applying blockchain technology to fundamentally address identity management, asset security, cross-border payments and information fraud. The core issues that plague the development of the tourism industry. The LeToken project will eventually be built around the rapid development of several major industries such as tourism, interactive entertainment, leasing and home ownership.",
-        "zh": "Õë¶Ô½üÄêÀ´¶«ÄÏÑÇ»ğ±¬µÄÓéÀÖÊĞ³¡ÒÔ¼°Öğ²½Ôö³¤µÄÂÃÓÎÈË¿ÚºìÀû£¬LeTokenÇø¿éÁ´ÏîÄ¿½«Á¢×ãÌ©¹ú£¬Ó³ÉäÕû¸ö¶«ÄÏÑÇµØÇø£¬Ó¦ÓÃÇø¿éÁ´¼¼Êõ¸ù±¾ÉÏ½â¾öÉí·İ¹ÜÀí¡¢×Ê²ú°²È«¡¢¿ç¾³Ö§¸¶ÒÔ¼°ĞÅÏ¢Õ©Æ­µÈÀ§ÈÅÂÃÓÎ²úÒµ·¢Õ¹µÄºËĞÄÎÊÌâ¡£LeTokenÏîÄ¿×îÖÕ½«Î§ÈÆÂÃÓÎ¡¢»¥¶¯ÓéÀÖ¡¢×âÁŞ¡¢ÖÃÒµµÈ¼¸´ó²úÒµµÄ¿ìËÙÂäµØ¡£"
+        "zh": "é’ˆå¯¹è¿‘å¹´æ¥ä¸œå—äºšç«çˆ†çš„å¨±ä¹å¸‚åœºä»¥åŠé€æ­¥å¢é•¿çš„æ—…æ¸¸äººå£çº¢åˆ©ï¼ŒLeTokenåŒºå—é“¾é¡¹ç›®å°†ç«‹è¶³æ³°å›½ï¼Œæ˜ å°„æ•´ä¸ªä¸œå—äºšåœ°åŒºï¼Œåº”ç”¨åŒºå—é“¾æŠ€æœ¯æ ¹æœ¬ä¸Šè§£å†³èº«ä»½ç®¡ç†ã€èµ„äº§å®‰å…¨ã€è·¨å¢ƒæ”¯ä»˜ä»¥åŠä¿¡æ¯è¯ˆéª—ç­‰å›°æ‰°æ—…æ¸¸äº§ä¸šå‘å±•çš„æ ¸å¿ƒé—®é¢˜ã€‚LeTokené¡¹ç›®æœ€ç»ˆå°†å›´ç»•æ—…æ¸¸ã€äº’åŠ¨å¨±ä¹ã€ç§Ÿèµã€ç½®ä¸šç­‰å‡ å¤§äº§ä¸šçš„å¿«é€Ÿè½åœ°ã€‚"
   },
   "email": "luzhaojin@gmail.com",
   "website": "http://www.letoken.org/",
@@ -16,7 +16,7 @@
         "BTC":"0.000045 BTC"
   },
   "links": {
-    "telegram": "https://t.me/joinchat/GHdtQQ_liQhClrZGBGXjyA",
+    "telegram": "https://t.me/letoken",
     "github": "https://github.com/feifeiyazi/LEB"
   }
 }
