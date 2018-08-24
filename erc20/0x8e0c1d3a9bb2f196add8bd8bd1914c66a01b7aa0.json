@@ -1,0 +1,23 @@
+{
+  "symbol": "APK",
+  "address": "0x8e0c1d3a9bb2f196add8bd8bd1914c66a01b7aa0",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://ssy6688.cn"
+    "github": "https://github.com/jasonyu9503",
+    
+  }
+}
