@@ -1,0 +1,19 @@
+{
+  "symbol": "LTR",
+  "address": "0x1bd4e709a076fb71ea1014293a739f2b19ca565d",
+  "overview":{
+        "en": "Labtorum is an ERC20 wallet application that provides information about profit on trading, so that users can get profit while trading. With the user experience that we currently apply to the application view to facilitate the creation, recovery, import or export wallet and transaction in this application."
+  },
+  "email": "support@labtorum.com",
+  "website": "https://www.labtorum.com",
+  "whitepaper": "https://www.labtorum.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-16",
+  "links": {
+    "twitter": "https://twitter.com/labtorum",
+    "telegram": "https://t.me/official_labtorum_global",
+    "github": "https://github.com/labtorum",
+    "facebook": "https://www.facebook.com/labtorum",
+    "medium": "https://medium.com/@labtorum"
+  }
+}
