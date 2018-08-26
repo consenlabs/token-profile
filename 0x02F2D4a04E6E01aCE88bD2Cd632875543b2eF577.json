@@ -1,0 +1,24 @@
+{
+  "symbol": "PKG",
+  "address": "0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577.json",
+  "overview":{
+        "en": "Decentralized game platform operating on Blockchain",
+        "zh": "基于区块链的去中心化游戏平台"
+  },
+  "email": "info@pkgtoken.io",
+  "website": "http://pkgtoken.io",
+  "whitepaper": "http://pkgtoken.io/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-04-27",
+  "initial_price":{
+        "ETH":"0.00001 ETH",
+        "USD":"0.005 USD",
+        "BTC":"0.0000006 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/pokemongopkg",
+    "telegram": "https://t.me/pokemongopkg",
+    "github": "https://github.com/pokemongopkg",
+    "reddit": "https://www.reddit.com/user/pokemongopkg",
+  }
+}
