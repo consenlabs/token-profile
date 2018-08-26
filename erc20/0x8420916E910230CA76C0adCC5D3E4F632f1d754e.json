@@ -1,0 +1,26 @@
+{
+  "symbol": "Corl",
+  "address": "0x8420916E910230CA76C0adCC5D3E4F632f1d754e",
+  "overview":{
+        "en": "Corl is a revenue-sharing token designed to accelerate the growth of small businesses.",
+        "zh": "Corl是世界上第一个代表公司股权的证券代币，旨在加速中小企业业务增长。"
+  },
+  "email": "contact@corl.io",
+  "website": "https://corl.io/",
+  "whitepaper": "https://corl.io/resources/whitepaper/Corl-Whitepaper-en.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-10-20",
+  "initial_price":{
+        "ETH":"0.00004 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.0000017 BTC"
+  },
+  "links": {
+    "blog": "https://blog.corl.io/",
+    "twitter": "https://twitter.com/getcorl",
+    "telegram": "https://t.me/corltoken",
+    "facebook": "https://www.facebook.com/getcorl",
+    "reddit": "https://www.reddit.com/r/Corl/",
+    "medium": "https://medium.com/corl"
+  }
+}
