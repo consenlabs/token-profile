@@ -1,0 +1,22 @@
+{
+  "symbol": "YCB",
+  "address": "0xde0e46737f953666b7415ae1beb9a57f8220902a",
+  "overview":{
+        "en": "YCB is a digital currency for vehicles that is distributed throughout the network. It has a comprehensive digital currency for services such as financial leasing, auto finance, and automotive aftermarket.",
+        "zh": "YCB是全网流通的汽车数字货币，具有融资租赁，汽车金融，汽车后市场等服务的综合性数字货币。"
+  },
+  "email": "contact@yc-coin.com",
+  "website": "http://www.yc-coin.com/",
+  "whitepaper": "http://www.yc-coin.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-21",
+  "initial_price":{
+  },
+  "links": {
+    "telegram": "https://t.me/ycbofficial1",
+    "twitter": "https://twitter.com/YCB52462369",
+    "reddit": "https://www.reddit.com/r/YCB-coin/",
+    "slack": "https://yc-coin.slack.com/"
+
+  }
+}
