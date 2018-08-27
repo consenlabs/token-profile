@@ -2,8 +2,8 @@
 	"symbol": "CR",
 	"address": "0x83bea0afd0fe914cbfa922a25c4e795244b9d873",
 	"overview": {
-		"en": "EOS Chrome is EOS-based, decentralized Blockchain platform.While maintaining the scalability approaches of EOS,EOS Chrome fundamentally enhances the consensus algorithm to maximize the platform decentralization.",
-		"zh": "EOS Chrome是一个基于EOS的去中心化区块链平台，同时保留了EOS的扩展方法，EOS Chrome从根本上增强了共识算法，以最大程度实现平台的去中心化。"
+		"en": "EOS Chrome Korea IBCT team proposed a new solution to Block Chain 3.0, EOS Chrome enhanced consensus algorithm, added ICC (Inner Contract Communication), using Burn & Earn DPos mechanism to maximize platform de-centralization, is expected to start testing in April 2019",
+		"zh": "EOS Chrome韩国IBCT团队对区块链3.0提出的新的解决方案，EOS Chrome增强了共识算法，新加了ICC（Inner Contract Communication），采用Burn & Earn DPos机制以最大程度实现平台的去中心化，预计2019年四月份开始公测"
 	},
 	"email": "hk@ibct.io",
 	"website": "http://eoschrome.io/",
