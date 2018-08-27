@@ -1,0 +1,28 @@
+{
+  "symbol": "FCB",
+  "address": "0xC57829dC999ED644b24259deE582f55a0c1a35f5",
+  "overview":{
+        "en": "fly coin",
+        "zh": "飞币"
+  },
+  "email": "lanteng008@foxmail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-06-07",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
