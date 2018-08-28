@@ -1,0 +1,19 @@
+{
+  "symbol": "GACT",
+  "address": "0x50551265ba0aef89c43f9a965e58922867a6eb3a",
+  "overview":{
+        "en": "Gold Agricultural Chain Designed for agricultural industry, the memory block chain is the underlying technology, dedicated to creating a global memory block chain agricultural anti-counterfeiting traceability platform.",
+        "zh": "金农链是專為農業產業設計的區塊鏈底層技術，致力於打造壹個全球化區塊鏈農業產業防偽溯源平臺。"
+  },
+  "email": "admin@gact.io",
+  "website": "https://gact.io",
+  "whitepaper": "https://gact.io/file/gold_agricultural_chain_whitepaper_en_v1.0.pdf",
+  "published_on": "2018-08-020",
+  "initial_price":{
+        "USD":"0.045 USD"
+  },
+  "links": {
+    "github": "https://github.com/gact001",
+    "telegram": "https://0.plus/#/ourgact"
+  }
+}
