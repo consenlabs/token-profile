@@ -1,0 +1,19 @@
+{
+  "symbol": "EB",
+  "address": "0xe7994c2c1c6ac81d955c42ccb792669178081ef0",
+  "overview":{
+        "en":"EB is an Ethereum ERC-20 token, and the official coin of EXCHBTC, a leading digital asset exchange. By rigorous censorship, EXCHBTC devotes to creating excellent digital assets trading platform to investors all over the world.",
+        "zh":"EB是由 EXCHBTC 平台发行的代币，是基于以太坊Ethereum发行的去中心化的区块链数字资产，它是基于以太坊区块链的ERC 20标准代币。EXCHBTC数字资产交易平台是全球领先的世界级数字资产交易平台，平台致力于严格审查，精力挑选全球优质数字资产，为广大的投资者提供合理有效的数字资产配置管理平台。"
+  },
+  "email": "554906902@qq.com",
+  "website": "https://www.exchbtc.com/",
+  "whitepaper": "https://www.exchbtc.com/static/doc/white-book.pdf",
+  "published_on": "2018-07-23",
+  "initial_price":{
+        "ETH":"0.00001495 ETH",
+        "BTC":"0.000000629 BTC"
+  },
+  "links": {
+    "telegram": "share.telebox88.com/EXCHBTCby"
+  }
+}
