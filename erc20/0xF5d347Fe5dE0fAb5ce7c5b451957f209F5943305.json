@@ -1,0 +1,21 @@
+{
+  "symbol": "HoHo",
+  "address": "0xF5d347Fe5dE0fAb5ce7c5b451957f209F5943305",
+  "overview":{
+        "en": "HoHo is a blockchain game.",
+        "zh": ""
+  },
+  "email": "hohogamexxx@gmail.com",
+  "website": "https://hohogame.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-08-08",
+  "initial_price":{
+        "ETH":"0.000070761 ETH",
+        "USD":"0.02 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/team_hoho",
+    "telegram": "https://t.me/HoHoGame",
+  }
+}
