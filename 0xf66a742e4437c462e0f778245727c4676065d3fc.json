@@ -1,0 +1,18 @@
+{
+  "symbol": "RBX",
+  "address": "0xf66a742e4437c462e0f778245727c4676065d3fc",
+  "overview":{
+        "en": "A Ponzi game .",
+        "zh": "膨胀盒子,区块链上的增值游戏币"
+  },
+  "email": "c@risebox.io",
+  "website": "https://risebox.io/",
+  "whitepaper": "https://risebox.io/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-30",
+  "initial_price":{
+        "ETH":"0.0001 ETH"
+  },
+  "links": {
+  }
+}
