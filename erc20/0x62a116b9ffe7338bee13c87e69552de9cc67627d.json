@@ -1,0 +1,21 @@
+{
+  "symbol": "FUC",
+  "address": "0x62a116b9ffe7338bee13c87e69552de9cc67627d",
+  "overview":{
+        "en": "FUC 是基于区块链发行的，富比特平台首个数字资产交易服务生态链，致力于构建行业产业发展及资源管理服务为一体的生态空间",
+        "zh": "FUC is the first digital asset trading service ecological chain based on blockchain  of FUBT,comitting to buildingan ecological space integrating industrial development and resource management services"
+  },
+  "email": "service@fubt.com",
+  "website": "https://www.fubt.top/",
+  "state": "NORMAL",
+  "published_on": "2017-06-18",
+  "initial_price":{
+        "USD":"0.002927 USD"
+  },
+  "links": {
+    "blog": "https://weibo.com/u/6511211063?refer_flag=1001030101_&is_all=1",
+    "twitter": "https://twitter.com/HK_FUBT",
+    "telegram": " https://t.me/FUBT110",
+    "facebook": "https://www.facebook.com/HKFUBT/"
+  }
+}
