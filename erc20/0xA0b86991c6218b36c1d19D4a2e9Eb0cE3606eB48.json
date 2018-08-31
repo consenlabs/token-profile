@@ -13,13 +13,6 @@
         "USD":"1 USD"
   },
   "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "https://github.com/centrehq/centre-tokens",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/centrehq/centre-tokens"
   }
 }
