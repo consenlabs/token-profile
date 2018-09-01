@@ -1,0 +1,20 @@
+{
+  "symbol": "PCT",
+  "address": "0xa6e1cc1ba7674c05f3e2d190ff5eda0d0472de04",
+  "overview":{
+        "en": "PCT- the game platform token that based on block chain technology. PlayerChain which uses block chain technology provides gamers with rich game content and a tense certification economy.PCT is the player's settlement tool during the game, is user's rights and interests certificate on PlayerChain platform.",
+        "zh": "PCT-基于区块链游戏平台PlayerChain的通证。PlayerChain利用区块链技术为玩家提供丰富的游戏内容和有张力的通证经济体系，PCT是玩家在游戏过程中的结算工具，且是用户在PlayerChain平台上的权益证明。"
+  },
+  "email": "82819313@qq.com",
+  "website": "https://playerchian.io/",
+  "whitepaper": "https://playerchian.io/file.pdf",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://playerchian.io/"
+  }
+}
