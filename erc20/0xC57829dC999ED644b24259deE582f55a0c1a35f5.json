@@ -1,0 +1,28 @@
+{
+  "symbol": "FCB",
+  "address": "0xC57829dC999ED644b24259deE582f55a0c1a35f5",
+  "overview":{
+        "en": "FlyCoin",
+        "zh": "飞币"
+  },
+  "email": "lanteng008@foxmail.com",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-07",
+  "initial_price":{
+        "ETH":"0.00166665 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://www.cmlt.work",
+    "twitter": "https://twitter.com/lanteng008",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/lanteng008/fcb",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
