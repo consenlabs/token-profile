@@ -1,0 +1,15 @@
+{
+  "symbol": "LCT",
+  "address": "0x4A37A91eec4C97F9090CE66d21D3B3Aadf1aE5aD",
+  "overview":{
+        "en": "The vision of Liquor chain is to, through blockchain technology, build a decentralized and securely encrypted distributional liquor exchange as well as a platform for futures & spot trading and community to connect the digital world with the real world.",
+        "zh": "LC 通过区块链技术构建一个去中心化、安全加密的分布式基酒交易所、期现货交易及社区平台，从而联通数字世界和现实世界，在创造一个可信商业环境的同时，来重新构建中国酒行业的价值体系。"
+  },
+  "email": "service@liquorchain.io",
+  "website": "http://liquorchain.io",
+  "state": "LOCKED",
+  "published_on": "2018-08-30",
+  "links": {
+    "telegram": "https://t.me/liquorchain_cn"
+  }
+}
