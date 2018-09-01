@@ -1,0 +1,17 @@
+{
+  "symbol": "FPC",
+  "address": "0x9892897f1be09276c83a63ddee60e302b17605b3",
+  "overview":{
+        "zh": "基于社交物联网的去中心化数字货币服务平台,提供给用户IM、IOT、AI以及区块链相关应用，并推出具有成长性的数字货币FreePPCoin（FPC），用户可以通过社交挖 矿和投资获取FPC。更开放接口给第三方厂商，助力传统 企业向物联网和区块链企业转变。"
+  },
+  "email": "wala.tan@anteknets.com",
+  "website": "https://freepp.io",
+  "whitepaper": "https://freepp.io/pdf_generic/web/viewer.html?file=/img/FreePPCoin.pdf",
+  "published_on": "2018-08-24",
+  "initial_price":{
+        "ETH": "0.00008 ETH"
+  },
+  "links": {
+    "blog": "http://www.anteknets.com/"
+  }
+}
