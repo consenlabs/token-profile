@@ -1,0 +1,18 @@
+{
+  "symbol": "CR",
+  "address": "0x12a757cfce28fb09d5a76cbfc1616beb24c0cc14",
+  "overview":{
+ 
+        "zh": "CRToken是CREX平台币，持有平台币可享受平台一系列优惠和活动"
+  },
+  "website": "https://wwww.crexfit.com/",
+  "state": "NORMAL",
+  "published_on": "2018-7-30",
+  "initial_price":{
+        "USD":"0.14429USD"
+  },
+  "links": {
+    "blog": "http://www.crexfit.com/",
+    "github": "https://github.com/victorymen"
+  }
+}
