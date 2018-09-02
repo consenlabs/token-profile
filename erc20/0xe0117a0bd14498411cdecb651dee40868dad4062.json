@@ -1,0 +1,15 @@
+
+{
+  "symbol": "ODC",
+  "address": "0xe0117a0bd14498411cdecb651dee40868dad4062",
+  "overview":{
+        "zh": "OasisDapp是集合开发与发行的新一代区块链技术游戏社区，专注于开发与创新区块链游戏，构建新的通证经济游戏，充分考虑区块链技术特性，做到区块链去中心化与游戏趣味性之间的完美平衡,让用户享受到游戏和通证带来的价值。"
+  },
+  "email": "contact@oasisdapp.com",
+  "website": "https://www.oasisdapp.co/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/oasisdapp",
+    "telegram": "https://t.me/qasisdapp"
+  }
+}
