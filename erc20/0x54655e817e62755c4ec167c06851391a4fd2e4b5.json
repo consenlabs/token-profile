@@ -10,6 +10,10 @@
   "whitepaper": "http://www.baige.me/e?e=60023239-8c99-47d6-b432-3957a4aaa61a",
   "state": "NORMAL",
   "published_on": "2018-09-02",
+  "initial_price": {
+        "ETH":" 0.0000166666 ETH",
+        "USD":" 0.02 USD",
+        "BTC":" 0.000000004137 BTC"
   "links": {
     "twitter": "https://twitter.com/myico_com",
     "telegram": "https://t.me/ico188"
