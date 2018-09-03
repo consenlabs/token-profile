@@ -1,0 +1,21 @@
+{
+  "symbol": "IB(ICO188)",
+  "address": "0x54655e817e62755c4ec167c06851391a4fd2e4b5",
+  "overview": {
+        "en": "The coin god ICO188 provides a one-stop service for you.",
+        "zh": "币财神ICO188提供适合于你的一站式服务。"
+  },
+  "email": "contact@myico.com",
+  "website": "http://ico188.com",
+  "whitepaper": "http://www.baige.me/e?e=60023239-8c99-47d6-b432-3957a4aaa61a",
+  "state": "NORMAL",
+  "published_on": "2018-09-02",
+  "initial_price": {
+        "ETH":" 0.0000166666 ETH",
+        "USD":" 0.02 USD",
+        "BTC":" 0.000000004137 BTC"
+  "links": {
+    "twitter": "https://twitter.com/myico_com",
+    "telegram": "https://t.me/ico188"
+  }
+} 
