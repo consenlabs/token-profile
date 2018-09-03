@@ -1,31 +1,31 @@
 {
-  "symbol": "IB(ICO188)",
-  "address": "0x54655e817e62755c4ec167c06851391a4fd2e4b5",
+  "symbol":"IB(ICO188)",
+  "address":"0x54655e817e62755c4ec167c06851391a4fd2e4b5",
   "overview":{
-        "en": "The biggest meaning of the coin god ICO188 is that it can closely link 
+        "en":"The biggest meaning of the coin god ICO188 is that it can closely link 
         investors and project parties,through the rapid collection of market big data 
         and supplemented by mature familiar analysis team,more comprehensive,more  
         objective and more realistic project consultation and The evaluation report  
         makes it easier for every investor to find a more professional,higher quality  
         and more suitable ICO project,and also enjoy the one-stop service provided 
         by the platform.",
-        "zh": "币财神ICO188的最大意义源自于它能够将投资者与项目方紧密地联系在一起，
+        "zh":"币财神ICO188的最大意义源自于它能够将投资者与项目方紧密地联系在一起，
         通过市场大数据快速采集再辅以成熟的熟悉分析团队，更全面、更客观、更真实的项
         目咨询和评估报告，让每一个投资者可以更轻松地在这里找寻到更专业、更高质、更
         适合自己的ICO项目，同时还可以享受到平台所提供的一站式服务。"
   },
-  "email": "contact@myico.com",
-  "website": "http://ico188.com",
-  "whitepaper": "http://www.baige.me/e?e=60023239-8c99-47d6-b432-3957a4aaa61a",
-  "state": "NORMAL",
-  "published_on": "2018-09-02",
+  "email":"contact@myico.com",
+  "website":"http://ico188.com",
+  "whitepaper":"http://www.baige.me/e?e=60023239-8c99-47d6-b432-3957a4aaa61a",
+  "state":"NORMAL",
+  "published_on":"2018-09-02",
   "initial_price":{
         "ETH":"0.0000166666 ETH",
         "USD":"0.02 USD",
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://twitter.com/myico_com",
+    "twitter":"https://twitter.com/your-awesome-project",
+    "telegram":"https://twitter.com/myico_com"
   }
 }
