@@ -6,8 +6,6 @@
         "zh": "新媒体内容链BDCLUB代币"
   },
   "email": "mar1919@163.com",
-  "website": "",
-  "whitepaper": "",
   "state": "NORMAL",
   "published_on": "2018-08-28",
   "initial_price":{
@@ -15,4 +13,4 @@
         "USD":"0.005 USD",
         "BTC":"0.00000067568 BTC"
   }
-} 
+}
