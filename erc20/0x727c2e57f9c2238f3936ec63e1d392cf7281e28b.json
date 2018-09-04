@@ -1,0 +1,19 @@
+{
+  "symbol": "ASK",
+  "address": "0x727c2e57f9c2238f3936ec63e1d392cf7281e28b",
+  "overview":{
+        "zh": "平台限量发行300亿个ASK，AllSpark旨在通过区块链技术建立一套在社交媒体时代无法有效解决的内容和影响力定价机制。这套机制由一个分布式的内容生产、传播、交易市场和一个分布式的内容评价机制构成，用以建立社交媒体时代正向的内容传播与价值回馈机制。"
+  },
+  "email": "pr@allsparkchain.org",
+  "website": "https://www.allsparkchain.com/",
+  "whitepaper": "https://www.allsparkchain.com/pdf/AllSparkWhitePaperC.pdf",
+  "published_on": "2018-08-22",
+  "initial_price":{
+        "ETH": "0.000003333 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/allsparkchat",
+    "facebook": "https://www.facebook.com/allsparkchain",
+    "twitter":"https://twitter.com/allsparkchain"
+  }
+}
