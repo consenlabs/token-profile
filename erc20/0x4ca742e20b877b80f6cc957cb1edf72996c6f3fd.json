@@ -1,4 +1,8 @@
 {
   "symbol": "Fpay",
-  "address": "0x4ca742e20b877b80f6cc957cb1edf72996c6f3fd"
+  "address": "0x4ca742e20b877b80f6cc957cb1edf72996c6f3fd",
+  "overview":{
+        "en": "Fpaycoin.",
+        "zh": ""
+  }
 }
