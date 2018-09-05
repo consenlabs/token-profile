@@ -1,0 +1,28 @@
+{
+  "symbol": "SCH",
+  "address": "0xf34839b310097fcb4cf3a302dda8cc9b57501083",
+  "overview":{
+        "en": "Virtual Reality Electronic Sports, a unique E-Sports crypto currency based on the blockchain network",
+        "zh": ""
+  },
+  "email": "support@sachio.net",
+  "website": "https://sachio.net",
+  "whitepaper": "https://sachio.net/drive/Sachiowp.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-15",
+  "initial_price":{
+        "ETH":"0.0000013 ETH",
+        "USD":"0.00038 USD",
+        "BTC":"0.00000005 BTC"
+  },
+  "links": {
+    "blog": "-",
+    "twitter": "https://twitter.com/Sachiochain",
+    "telegram": "https://t.me/SachioGroup",
+    "github": "https://github.com/sachiochain",
+    "facebook": "https://www.facebook.com/sachiochain",
+    "reddit": "-",
+    "slack": "-",
+    "medium": "-"
+  }
+}
