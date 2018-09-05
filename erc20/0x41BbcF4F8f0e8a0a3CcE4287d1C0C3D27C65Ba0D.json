@@ -1,0 +1,21 @@
+{
+  "symbol": "MALL",
+  "address": "0x41BbcF4F8f0e8a0a3CcE4287d1C0C3D27C65Ba0D",
+  "overview":{
+        "en":"M mall is a pioneer of the new generation of social e-commerce and a practitioner of the real sharing economy. M mall will fully implement the certification economy system and let consumers, distributors and suppliers become the main owners of the value of the platform.",
+        "zh":"M商城是新一代社交电商的引领者，是真正的共享经济的践行者，M商城将全面践行通证经济制度，让消费者、分享者、供应商成为平台价值的主要拥有者。"
+  },
+  "email": "MBCoffcial@outlook.com",
+  "website": "http://mbc365.net/",
+  "whitepaper": "",
+  "published_on": "1",
+  "initial_price":{
+        "ETH":"",
+        "BTC":"",
+		"USD":"0.03 USD",
+  },
+  "links": {
+    "telegram": "",
+    "facebook": ""
+  }
+}
