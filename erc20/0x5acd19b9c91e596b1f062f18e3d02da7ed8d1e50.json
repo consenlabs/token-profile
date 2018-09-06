@@ -1,0 +1,24 @@
+{
+  "symbol": "BTCL",
+  "address": "0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50",
+  "overview":{
+        "en": "BTCL token",
+        "zh": "BTCL ???"
+  },
+  "email": "contact@btclite.org",
+  "website": "http://btclite.org/",
+  "whitepaper": "http://btclite.org/whitepaper/",
+  "state": "NORMAL",
+  "published_on": "2018-09-06",
+  "initial_price":{
+        "ETH":"0.000006000 ETH"
+	"BTC":"0.00000018 BTC"
+  },
+  "links": {
+    "blog": "http://btclite.org/blog/",
+    "twitter": "http://btclite.org/whitepaper/",
+    "telegram": "http://t.me/BTCLITE",
+    "github": "https://github.com/BTC-lite",
+    "medium": "https://medium.com/@btclite"
+  }
+}
