@@ -1,0 +1,23 @@
+{
+  "symbol": "RPD",
+  "address": "0x4bf4f2ea258bf5cb69e9dc0ddb4a7a46a7c10c53",
+  "overview":{
+        "en": "Fast and secure payment across social media using blockchain technology"
+  },
+  "email": "info@rapidsnetwork.io",
+  "website": "http://rapidsnetwork.io/",
+  "whitepaper": "http://rapidsnetwork.io/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-16",
+  "initial_price":{
+        "BTC":"0.00000010 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/RapidsRPD",
+    "telegram": "https://t.me/RapidsOfficial",
+    "github": "https://github.com/RapidsOfficial",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/rapidsofficial"
+  }
+}
