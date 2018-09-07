@@ -1,0 +1,22 @@
+{
+  "symbol": "DURIO",
+  "address": "0x4445364230C931e321533c54882f76D9d1FE4737",
+  "overview": {
+    "en": "THE COMPLETE AGRICULTURE DIGITIZATION SOLUTION",
+    "zh": "打造完整的农业数字化解决方案"
+  },
+  "email": "contactus@durio.io",
+  "website": "https://www.durio.io/",
+  "whitepaper": "https://www.durio.io/wp-content/uploads/2018/06/Durio-White-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-01",
+  "initial_price": {
+    "USD": "0.05 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Durioofficial",
+    "telegram": "https://t.me/joinchat/Durioofficial",
+    "github": "https://github.com/tfpdurio",
+    "reddit": "https://www.reddit.com/user/durioofficial"
+  }
+}
