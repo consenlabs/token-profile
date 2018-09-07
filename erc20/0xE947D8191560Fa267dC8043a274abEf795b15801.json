@@ -1,0 +1,19 @@
+{
+  "symbol": "BTBT",
+  "address": "0xE947D8191560Fa267dC8043a274abEf795b15801",
+  "overview":{
+        "en": "BitBTToken",
+        "zh": "BitBTToken数字货币的交易和舆情信息进行大数据采集、清洗、结构模型化。"
+  },
+  "email": "contact@test.com",
+  "website": "https://www.test.com/",
+  "whitepaper": "https://www.BitBTToken.io/test",
+  "state": "NORMAL",
+  "published_on": "2018-09-06",
+  "initial_price":{
+        "ETH":"0.00003777 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/BitBTToken"
+  }
+}
