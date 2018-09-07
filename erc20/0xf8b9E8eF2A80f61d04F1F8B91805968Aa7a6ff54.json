@@ -1,0 +1,15 @@
+{
+  "symbol": "PSC",
+  "address": "0xf8b9e8ef2a80f61d04f1f8b91805968aa7a6ff54",
+  "overview":{
+        "en": "Solution to track pharmaceuticals throughout the supply chain and to ensure the consumers receive an authentic product.",
+        "zh": "在整个供应链中跟踪药品质量，确保消费者始终都能得到正品的解决方案"
+  },
+  "website": "http://www.psctech.cc/",
+  "whitepaper": "http://www.psctech.cc/doc/psc_en.pdf",
+  "published_on": "2018-08-26",
+  "links": {
+    "twitter": "https://twitter.com/blockverify",
+    "facebook": "https://www.facebook.com/BlockVerify-908006529232881/"
+  }
+}
