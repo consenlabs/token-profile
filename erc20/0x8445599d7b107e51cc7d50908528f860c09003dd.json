@@ -1,0 +1,24 @@
+{
+  "symbol": "GIAC",
+  "address": "0x8445599d7b107e51cc7d50908528f860c09003dd",
+  "overview":{
+        "en": "South African diamond chain.",
+        "zh": "南非鑽石鏈"
+  },
+  "email": "vaccoin@mail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":"",
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
