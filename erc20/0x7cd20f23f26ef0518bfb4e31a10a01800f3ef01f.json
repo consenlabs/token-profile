@@ -1,0 +1,16 @@
+{ 
+  "symbol": "BDCT",
+  "address": "0x7cd20f23f26ef0518bfb4e31a10a01800f3ef01f",
+  "overview":{
+        "en": "token of a new-media content public chain",
+        "zh": "新媒体内容链BDCLUB代币"
+  },
+  "email": "mar1919@163.com",
+  "state": "NORMAL",
+  "published_on": "2018-08-28",
+  "initial_price":{
+        "ETH":"0.00002 ETH",
+        "USD":"0.005 USD",
+        "BTC":"0.00000067568 BTC"
+  }
+}
