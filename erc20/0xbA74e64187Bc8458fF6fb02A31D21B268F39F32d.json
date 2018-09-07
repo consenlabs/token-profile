@@ -1,0 +1,19 @@
+{
+  "symbol": "CCT",
+  "address": "0xbA74e64187Bc8458fF6fb02A31D21B268F39F32d",
+  "overview":{
+        "en": "With the help of blockchain and interactive technologies, Circus brings closer interactions with audiences to exhibitions and concert events, opening a wide new perspective on entertainment and arts industry. Delivering everyone more enjoyment and happiness. Pure happiness is what our core is made.  ",
+        "zh": "Circus將透過區塊鏈及互動科技讓展覽與演唱會等活動能與觀眾更貼近，打開娛樂及知性行業的新面貌，傳達更多的幸福與快樂給每一個人，不需要被轉達才是純粹的快樂！"
+  },
+  "email": "service@circusticket.io",
+  "website": "https://circusticket.io/",
+  "whitepaper": "https://circusticket.io/assets/circus_%E7%99%BD%E7%9A%AE%E6%9B%B8_0619.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-18",
+  "links": {
+    "twitter": "https://twitter.com/Circus98381668",
+    "telegram": "https://t.me/circusticket",
+    "github": "https://github.com/circusticket",
+    "facebook": "https://www.facebook.com/Circus-277104516391808/"
+  }
+}
