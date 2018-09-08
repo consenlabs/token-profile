@@ -1,0 +1,18 @@
+{
+  "symbol": "AIP",
+  "address": "0x9adc9c6265fcaa6b81ff8eab728311aba5003f1c",
+  "overview": {
+        "en": "AI-pay is committed to creating a commodity information exchange.",
+        "zh": "AI-pay 是基于区块链技术的开放性与不可逆性，结合市场调研结果与最新技术进展精心打造的覆盖全国乃至全球范围的全新商业信息管理系统与交易平台，致力于通过建立区块链底层架构技术逻辑以及商业模式智能化合约，将全国乃至全球的产品生产者、物流企业与消费者无缝连接在一起，打造区块链世界的商品信息交换与贸易系统，推动智能支付、智能合约、智能物流乃至智能生活的发展，引领全新生活方式的到来。"
+  },
+  "email": "turingclub@yandex.com",
+  "website": "http://www.aipay.ink",
+  "whitepaper": "http://www.aipay.ink/AIPAY.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-26",
+  "initial_price": {
+        "ETH":"0.0000166666 ETH",
+        "USD":"0.02 USD",
+        "BTC":"0.0000004137 BTC"
+  }
+}
