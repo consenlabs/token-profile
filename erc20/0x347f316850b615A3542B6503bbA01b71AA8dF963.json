@@ -3,12 +3,12 @@
   "address": "0x347f316850b615A3542B6503bbA01b71AA8dF963",
   "overview":{
         "en": "Create a more efficient, transparent, credible, autonomous and driven shared travel ecosystem platform through block chain technologies and concepts.",
-        "zh": "通过区块链的技术和理念，创建一个更加高效、透明、可信、且具备自治驱动力的共享旅行生态平台"
+        "zh": "通过区块链的技术和理念，创建一个更加高效、透明、可信、且具备自治驱动力的共享旅行生态平台。"
   },
   "email": "Mytouristplanet@outlook.com",
   "website": "http://www.touristplanet.net/",
-  "whitepaper": http://www.touristplanet.net/tp.pdf",
-  "published_on": "2018-01-01",
+  "whitepaper": "http://www.touristplanet.net/tp.pdf",
+  "published_on": "2018-07-31",
   "links": {
     "github": "https://github.com/hanwuji/token-profile"
   }
