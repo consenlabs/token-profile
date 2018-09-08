@@ -1,0 +1,18 @@
+{
+  "symbol": "CALL",
+  "address": "0x886785c4e5a161259c41cbcd45cd42513a95320a",
+  "overview":{
+        "en": "CALL by GCA is the first ERC777 ever which revolutionizes ERC20 standard. GlobalCryptoAlliance (GCA) offers services to the blockchain world with special rates for Network members. Blockchain Projects benefit from the support of our global  network of partnerships and services.",
+	"fr": "CALL (par GlobalCryptoAlliance) est le premier token ERC777 qui revolutionne le standard ERC20. GlobalCryptoAlliance offre des services à tout le monde de la Blockchain, avec des avantages pour les utilisateurs de token CALL sur tous nos services et nos réseaux de partenaires."
+  },
+  "email": "contact@gcalliance.io",
+  "website": "https://gcalliance.io",
+  "whitepaper": "https://gcalliance.io/wp-content/uploads/Whitepaper-GCA-Global-Crypto-Alliance-Call-Token-The-First-ERC777.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "links": {
+    "twitter": "https://twitter.com/GlobalCryptoAll",
+    "telegram": "https://t.me/Gcall777",
+    "discord":" "https://discord.gg/UttFjMD"
+  }
+}
