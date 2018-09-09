@@ -7,9 +7,10 @@
   },
   "email": "kefu@f-bbs.net",
   "website": "https://f-bbs.net/",
-  "whitepaper": "",
   "published_on": "2017-11-18",
-  "initial_price":{},
+  "initial_price":{
+    "ETH": "0.000005 ETH"
+  },
   "links": {
     "telegram": "https://0.plus/#/friendsbbs",
     "twitter": "https://twitter.com/FriendsBBS1"
