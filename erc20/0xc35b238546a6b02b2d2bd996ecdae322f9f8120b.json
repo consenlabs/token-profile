@@ -9,9 +9,9 @@
 	"website": "https://www.silkchain.io/",
 	"whitepaper": "https://www.silkchain.io/paper/SilkChainEnglish.pdf",
 	"state": "NORMAL",
-	"published_on": "",
+	"published_on": "2018-03-01",
 	"initial_price": {
-		"USD": "0.04 USD"
+		"USD":"0.04 USD"
 	},
 	"links": {
 		"blog": "",
