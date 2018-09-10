@@ -8,7 +8,7 @@
     "email": "dev@omchain.vip",
     "website": "https://omchain.vip",
     "whitepaper": "https://omchain.vip/attach/whitepaper_en.pdf",
-    "state": "LOCKED | NORMAL",
+    "state": "NORMAL",
     "published_on": "2018-09-10",
     "initial_price":{
           "ETH":"0.0002 ETH",
