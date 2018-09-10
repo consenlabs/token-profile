@@ -1,0 +1,19 @@
+{
+  "symbol": "CTH",
+  "address": "0x69F3a84fF0dd803836a6e92DcF3A3248DEA097C2",
+  "overview":{
+        "en": "",
+        "zh": ""
+      },
+  "email": "cthereum@163.com",
+  "website": "http://www.cth.one",
+  "whitepaper": "http://www.cth.one/wap/public/bps.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-30",
+  "initial_price":{
+        "USD":"0.1467 USD"
+  },
+  "links": {
+    "telegram": ""
+  }
+}
