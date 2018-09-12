@@ -1,0 +1,28 @@
+{
+  "symbol": "COW",
+  "address": "0x4DB612Bc1B35d78E05bBfDbd2AaC046C00B2036D",
+  "overview":{
+        "en": "cow（cow）It is a smart contract system based on ethereum blockchain technology. It is the Taiwan dollar of HUMPEX.COM, a well-known international exchange, where users can transact quickly and peacefully, and its cow coin is a bridge between global manufacturers and e-commerce operators. The HUMPEX.COM platform allows for truly global sharing of data on goods and helps eliminate the cost of travel across borders and borders. In addition, niu niu (cow money) is simple and quick, the transaction is confirmed within a few seconds, and the platform's transaction fee is almost zero.",
+        "zh": "牛牛币（cow）是基于以太坊区块链技术的智能合约系统，是国际知名交易所驼峰所（HUMPEX.COM）的平台币，用户在此平台内可以快速安心地进行交易，而其发行的牛牛币（cow）则是沟通全球生产商和电商运营商的桥梁。驼峰所(HUMPEX.COM)平台可以实现真正意义上的全球货物数据资源共享，并且还有助于消除跨行异地以及跨国支付费用。除此之外，牛牛币（cow）简便易行快捷，交易确认在几秒以内完成，平台关于牛牛币交易费用几乎是零。"
+  },
+  "email": "service@humpex.com",
+  "website": "https://www.humpex.com/",
+  "whitepaper":"https://shoy-exchange-public.oss-cn-beijing.aliyuncs.com//hryfile/baipishu-humpex/niuniubibaipishu-0904.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-05-02",
+  "initial_price":{
+        "ETH":"0.00050891 ETH",
+        "USD":"0.1465 USD",
+        "BTC":"0.0000202 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
