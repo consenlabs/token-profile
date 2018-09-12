@@ -1,0 +1,18 @@
+{
+  "symbol": "ADP",
+  "address": "0x957c7090c1e2bbaae73780d657df8132d6f3da9d",
+  "overview": {
+        "en": "AD Power is a cryptocurrency used for digital advertising in the future.",
+        "zh": " "
+  },
+  "email": "adpowerofficial@gmail.com",
+  "twitter": "https://twitter.com/adpowerofficial",
+  "telegram": "https://t.me/adpowerofficial",
+  "state": "NORMAL",
+  "published_on": "2018-09-09",
+  "initial_price": {
+        "ETH":"0.000000005 ETH",
+        "USD":"0.002 USD",
+        "BTC":"0.00000001 BTC"
+  }
+}
