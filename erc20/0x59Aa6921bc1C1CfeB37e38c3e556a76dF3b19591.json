@@ -1,0 +1,18 @@
+{
+  "symbol": "FMC",
+  "address": "0x59Aa6921bc1C1CfeB37e38c3e556a76dF3b19591",
+  "overview":{
+        "en": "Mulberry chain is a digital currency that can be operated online.Users can use the mulberry chain for secure online instant payment, and merchants can add an open source payment platform built by millions of users around the world.",
+        "zh": "桑树链是一种可线上操作的数字货币,用户可以使用桑树链进行安全的在线即时支付, 商户则可以为店内添加由全球千万用户所建立的开源支付平台."
+        
+  },
+  "email": "lanteng008@foxmail.com",
+  "website": "http://www.fmchain.pro/",
+  "whitepaper": "http://www.fmchain.pro/fmchain.pdf",
+  "published_on": "2018-08-26",
+  "initial_price":{
+        "ETH":"0.00066666 ETH",
+        "USD":"0.15 USD",
+        "BTC":"0.000022 BTC"
+  }
+}
