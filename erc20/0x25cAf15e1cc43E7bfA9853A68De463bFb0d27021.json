@@ -1,0 +1,30 @@
+{
+  "symbol": "NECC",
+  "address": "0x25cAf15e1cc43E7bfA9853A68De463bFb0d27021",
+  "overview":{
+        "en": "Natural Eco Carbon",
+        "zh": "Natural Eco Carbon",
+		"jp": "Natural Eco Carbon",
+		"kr": "Natural Eco Carbon"
+  },
+  "email": "leesm885@gmail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-09-03",
+  "initial_price":{
+        "ETH":"0.000190 ETH",
+        "USD":"0.044550 USD",
+        "BTC":"0.0000065 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "https://github.com/lsmlsm62/necc",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
