@@ -1,0 +1,14 @@
+{
+  "symbol": "WBCT",
+  "address": "0xdc0424b0ac70ff8700d6c029f621456259c26280",
+  "overview":{
+        "en": "WBCT is a traveling service market platform based on blockchain. Though the blockchain network links of decentration, it directly links the global traveling service providers(a business or individual) and consumers. With the penetration point of traveling accommodation reservation, the future tourism service ecology can be established based on trust, stimulation and zero commission.",
+        "zh": "WBCT是基于区块链的去中心化旅行服务市场平台。通过去中心化的区块链网络直接 链接全球旅行服务提供者（企业或个人）与消费者，以旅行住宿预订为切入口构建基 于信任、激励、零佣金的未来旅行服务生态。"
+  },
+  "whitepaper": "http://www.hqwll.com/lvyoulian.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-09-14",
+  "initial_price":{
+        "ETH":"0.00039066 ETH"
+  }
+}
