@@ -1,0 +1,22 @@
+{
+  "symbol": "DBD",
+  "address": "0xc2A6bCfD113F5Fa3836e8F828711685FEd42e670",
+  "overview":{
+    "en": "Dubai Exchange Dollar",
+    "zh": "迪拜国际数字资产交易所代币"
+  },
+  "email": "contact@mail.bcuae.com",
+  "website": "http://dbex.vip/",
+  "state": "NORMAL",
+  "published_on": "2018-04-01",
+  "initial_price":{
+    "ETH":"0.002 ETH",
+    "USD":"0.1 USD"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/blockchain.blockchain.944",
+    "twitter": "https://twitter.com/BlockchainGrou4",
+    "instagram": "https://www.instagram.com/blockchaingroup_official/",
+    "telegram": "https://t.me/joinchat/AAAAAE32fJbhMWJNtlmIcQ"
+  }
+}
