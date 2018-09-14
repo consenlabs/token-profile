@@ -1,0 +1,13 @@
+{
+    "published_on": "2018-07-29",
+    "overview": {
+        "en": "BCT is the base of BC exchange.",
+        "zh": "BCT 是 BC 交易平台本身的权益证明，是社区治理的基石。"
+    },
+    "symbol": "BCT",
+    "initial_price": {
+        "USD": "0.01 USD"
+    },
+    "address": "0xD040901d6e93BBDE2cD4991Bb3cC66F1016fFEAa",
+    "email": "bct-official@foxmail.com"
+}
