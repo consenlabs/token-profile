@@ -1,0 +1,10 @@
+{
+  "symbol": "EHZ",
+  "address": "0x27d9ff535b77a414a39acb7f554d6f39c5a9ad35",
+  "overview":{
+        "en": "The first step in developing the EHZ platform is to build a blockchain service that connects different AI services together to create a blockchain smart contract ecosystem for the benefit of users. We'll introduce the Dbot technology to provide interoperability between blockchain smart contracts and AI services. EHZ will implement a DApp in the Ethereum testnet to enable this capability on the Ethereum network. At this stage, an ERC-20 token contract will also be provided and tokens will be used as “gas” for the use of these AI services (handling fees).EHZ’s second step will be the creation of an independant EHZ blockchain with a native token which will be interoperable with other blockchains to enable an ecosystem of interoperable smart contracts to access AI services through EHZ’s DBot platform.",
+        "zh": "共享AI的第一步，是我們如何通過區塊鏈建立一個將不同AI服務連接到一起的服務，以及如何搭建區塊鏈智能合約世界和AI世界之間的橋樑，讓用戶獲益。我們將介紹如何用DBot技術鏈下共識技術來讓區塊鏈的智能合約和AI服務互相操作，我們將首先在以太坊上實現一個Dapp 來向以太坊網絡上的合約開放這種能力。在這個階段，還將提供一個ERC20的Token合約，提供代幣作為使用這些AI服務的燃料(手續費)。 EHZ的第二步，就是搭建一條獨立的基礎鏈，並將代幣互換服務、DBot平台等融合進一條獨立的鏈中，利用側鍊和分片技術與其他的網絡進行交互並實現價值交換。代幣合約將遷移至獨立鏈中變成本地代幣。"
+  },
+  "website": "https://etherzeal.club",
+  "whitepaper": "https://etherzeal.club/assets/images/homepage/EHZ-whitepaper-en.pdf",
+}
