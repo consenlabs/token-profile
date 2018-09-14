@@ -173,7 +173,7 @@ const checkWrongDirectoryItem = (directory, filename) => {
   } else if (directory === './images') {
     if (['bitcoin.png', 'eos.png', 'ethereum.png'].indexOf(filename) === -1 && !isAddressPng(filename)) {
       // temporality not throw
-      if (filename === '0x5581c0bc21a762e43d148b06d310f088b6cf97b3.png') {
+      if (filename === '0xF41861F194e7Ba8dE95144a89E0C6ed16EE0B3A0.png') {
         notice(errorMsg)
       } else {
         exitWithMsg(errorMsg)
