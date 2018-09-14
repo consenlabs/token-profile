@@ -16,6 +16,7 @@
         "BTC":"0.0000005909 BTC"
   },
   "links": {
-    "twitter": "https://t.me/EthereumUtility"
+    "twitter" : "https://twitter.com/EthereumUtility",
+    "telegram": "https://t.me/ethereumutility"
   }
 }
