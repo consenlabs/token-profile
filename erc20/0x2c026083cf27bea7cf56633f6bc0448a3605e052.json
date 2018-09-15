@@ -1,0 +1,21 @@
+{
+  "symbol": "SheQuLian",
+  "address": "0x2c026083cf27bea7cf56633f6bc0448a3605e052",
+  "overview":{
+        "en": "",
+        "zh": "社区链 SheQuLian 简称SQL,旨在建立一个去中心化的分布式社群，没有中心领导，人人都是会长，全球的社群组建为一个庞大的社群网络。每一个会长都是社群网络的节点，每个节点都有这个社群网络的决策权与投票权。"
+  },
+  "email": "81977736@qq.com",
+  "website": "http://www.shequlian.cc/",
+  "whitepaper": "http://www.shequlian.cc/upload/file/1535421156.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-27",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "https://www.weibo.com/shequlian",
+  }
+}
