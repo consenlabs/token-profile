@@ -1,0 +1,29 @@
+{
+  "symbol": "POC",
+  "address": "0xc9c4d9ec2b44b241361707679d3db0876ac10ca6",
+  "overview":{
+        "zh": "科技化時代，互聯網已經近乎完美地解決了資訊傳遞問題，現代人的社交、通訊以及支付，都可以通過互聯網快速便捷的完成資訊傳遞，然而，到目前為止互聯網還不能實現有價值的點到點傳遞，還是依賴於傳統的中心機構記帳。數位貨幣的出現改變了現狀，在其通過共識演算法、智慧合約等系列技術，讓網路來實現記帳，而不是中心機構，可以做到全球各地貨幣流通，實現價值點到點傳遞。系統中所有交易都不必通過仲介，可以直接進行交易，因為資料庫和整個系統的運作是公開透明的。能實現全球各地匯款以及貨幣之間數位化流通的，目前為止只有數位貨幣能做到了。而且大幅降低了交易費用、提升系統的運行速度，並提高匯款交易的可靠性和安全性。以往的跨境結算需要中央結算機構與金融機構聯動，而區塊鏈編制的分散式記帳作業系統可以自動執行、認證，且無差錯，可以顯著的提升效率。區塊鏈技術是一種典型的去中心化模型。每個電腦主機都是一個節點，而且它們之間都是平等的，系統中各個節點可以直接交互，沒有中心節點的概念。同時，任意兩個節點的交易資訊都向全網加密，所有節點都以加密區塊存儲方式，按時間序列單獨記錄，進而形成一種全新的去中心化模式，因此，A匯錢給B的資訊流的傳遞過程即是A向B資金轉移結算的過程，並且A和B通過各自的數位簽章來證明身份，不需要協力廠商信任背書直接實現點對點的電子現金支付。基於區塊鏈的轉帳支付系統具有高效率性、高安全性、高可用性以及高擴展性等特點。採用區塊鏈技術，使用分散式核算，每一使用者都能憑密碼查詢交易狀態，資金即時清算，既降低交易成本和風險，又使交易效率大大提升。"
+  },
+  "email": "POCcandy@163.com",
+  "website": "http://www.poccandy.com",
+  "whitepaper": "http://www.poccandy.com/poc.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-30",
+  "initial_price":{
+        "ETH":"0.00004 ETH"
+  },
+  "links": {
+    "耳朵财经": "http://www.iterduo.com/zixun/83273.html",
+    "链虎财经": "https://www.chainhoo.com/blockchain/41786/",
+    "共享财经": "http://wap.gongxiangcj.com/posts/10425",
+    "金牛财经": "http://www.jinniu.cn/news/3084",
+    "未来财经": "http://www.weilaicaijing.com/article/17336",
+    "火星财经": "http://www.huoxing24.com/newsdetail/20180905180453055910.html",
+    "金色财经": "https://www.jinse.com/bitcoin/237909.html",
+    "鸵鸟区块链": "https://www.tuoniaox.com/51753.html",
+    "BTC123": "https://www.btc123.com/news/newsDetails/27286",
+    "宏链财经": "https://mp.weixin.qq.com/s/9TIhIDBBmlOwiFFuEVRDHA",
+    "火球财经公众号": "https://mp.weixin.qq.com/s/MtvkifWbHYg8QCp7RelFsQ",
+    "火球财经官网": "https://www.ihuoqiu.com/Modular/HuoQiuInformation?data=__2FCbmWL1rYx2X__2BldfdjV__2Bcy1o4Egmml1vJSt2qqYtMZ4OqPygjhgaVTcYXmONvjEt8XTjvG4j__2FUJYWpUPA5uEEQpN2Lfnsoi5sRK5aDgNKKT3hxVaOUUSAIQ__2BB2bXOvDsTENYklqjpA5RGnFqHTydjA__2C__2C"
+  }
+}
