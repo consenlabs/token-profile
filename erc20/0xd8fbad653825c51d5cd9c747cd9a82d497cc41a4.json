@@ -1,0 +1,19 @@
+{
+  "symbol": "GNAIT",
+  "address": "0xd8fbad653825c51d5cd9c747cd9a82d497cc41a4",
+  "overview":{
+        "en": "GNAIT Smart Tokens can be used for the consumption and circulation of a wide range of modern artificial intelligence services. GNAI uses the decentralization of blockchain to establish AI services on the blockchain so that the model can be publicly evaluated and tested. At the same time, GNAI will provide protocols such as chain proxy and cross-chain communication, making each user access effective and secure. GNAIT obtains tokens through data sharing, and the computing power uses the method of consuming tokens to motivate communities to create data and share computing power.",
+        "zh": "GNAIT智能代币可用于 现代多种人工智能服务的消费以及流通。GNAI利用区块链去中心化的特点，将AI服务建立在区块链上，使得模型可以公开地得到评估和检验。同时GNAI将提供链下代理，跨链通信等协议，使得每一次用户访问是有效并且安全的。GNAIT通过数据分享获得代币，算力使用消耗代币的方式激励社区创建数据，分享算力。"
+  },
+  "email": "mingqiang.liang93@gmail.com",
+  "website": "http://gn-ai.com/",
+  "whitepaper": "http://gn-ai.com/whitepaper/GNAI_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "USD":"0.3 USD"
+  },
+  "links": {
+    "github": "https://github.com/gn-ai"
+  }
+}
