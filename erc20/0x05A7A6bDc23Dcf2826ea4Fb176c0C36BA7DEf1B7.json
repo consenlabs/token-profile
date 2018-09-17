@@ -2,8 +2,8 @@
   "symbol": "TCT",
   "address": "0x05a7a6bdc23dcf2826ea4fb176c0c36ba7def1b7",
   "overview":{
-        "en": "Tadpole Chain Token",
-        "zh": "蝌蚪链"
+        "en": "Tadpole Chain is the first multiple platform game contents sharing ecology based on the block chain technology in the world. ",
+        "zh": "蝌蚪链是全球首款基于区块链技术的多平台游戏内容分享生态。"
   },
   "email": "contactus@tadpolechain.com",
   "website": "https://www.tadpolechain.com/",
@@ -12,7 +12,7 @@
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.000142857 ETH",
-        "USD":"0.1 USD",
+        "USD":"0.1 USD"
   },
   "links": {
     "blog": "",
