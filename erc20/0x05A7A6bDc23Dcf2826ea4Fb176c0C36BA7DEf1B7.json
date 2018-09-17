@@ -15,13 +15,8 @@
         "USD":"0.1 USD"
   },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/TadpoleChain",
-    "telegram": "",
     "github": "https://github.com/tadpole-chain",
-    "facebook": "https://www.facebook.com/token.tadpolechain.1",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "facebook": "https://www.facebook.com/token.tadpolechain.1"
   }
 }
