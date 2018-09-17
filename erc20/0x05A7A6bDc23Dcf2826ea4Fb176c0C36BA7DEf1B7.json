@@ -1,0 +1,27 @@
+{
+  "symbol": "TCT",
+  "address": "0x05a7a6bdc23dcf2826ea4fb176c0c36ba7def1b7",
+  "overview":{
+        "en": "Tadpole Chain Token",
+        "zh": "蝌蚪链"
+  },
+  "email": "contactus@tadpolechain.com",
+  "website": "https://www.tadpolechain.com/",
+  "whitepaper": "http://img.suncity.ink/pdf/tct-en.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.000142857 ETH",
+        "USD":"0.1 USD",
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/TadpoleChain",
+    "telegram": "",
+    "github": "https://github.com/tadpole-chain",
+    "facebook": "https://www.facebook.com/token.tadpolechain.1",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
