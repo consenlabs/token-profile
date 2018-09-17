@@ -1,0 +1,17 @@
+{
+  "symbol": "tix",
+  "address": "0xf5afa047842c1fc25221b10df853438d17943c78",
+  "overview":{
+        "en": "TIX,Realizing the chain of content in digital industry, breaking the shackles of traditional content industries, and ensuring the value of knowledge and expanding the volume of industrial bodies."
+  },
+  "website": "http://lotterytickets.ink/",
+  "whitepaper": "http://lotterytickets.ink/LotteryTickets.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-15",
+  "initial_price":{
+        "ETH":"0.0 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/tixcn"
+  }
+}
