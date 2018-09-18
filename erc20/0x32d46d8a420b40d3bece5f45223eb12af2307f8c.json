@@ -1,0 +1,16 @@
+{
+  "symbol": "GJC",
+  "address": "0x32d46d8a420b40d3bece5f45223eb12af2307f8c",
+  "overview":{
+        "en": "GameJoy Chain is a technology driven block chain game industry ecosystem platform.",
+        "zh": "游乐链是一个技术驱动的块链游戏产业生态平台"
+  },
+  "website": "https://gamejoychain.com",
+  "whitepaper": "https://gamejoychain.com/upload/GameJoy%20Chain%20V1.0.pdf",
+  "published_on": "2018-08-05",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/GameJoyChain1",
+    "telegram": "https://t.me/GameJoyChain"
+  }
+}
