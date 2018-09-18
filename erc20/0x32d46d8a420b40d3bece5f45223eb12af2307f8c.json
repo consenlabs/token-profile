@@ -1,15 +1,18 @@
-﻿{
-  "symbol": "GJC",
-  "address": "0x32d46d8a420b40d3bece5f45223eb12af2307f8c",
-  "overview":{
-        "en":"GameJoy Chain is a technology driven block chain game industry ecosystem platform. The amusement chain will serve the global game market, aiming at building a decentralized game ecological platform through the block chain technology, and realizing the conversion of game assets into digital assets through the bottom structure of the block chain, thus generating commercial value and circulating in the entire game ecosphere to achieve value transfer. Technically, the high performance of the amusement chain improves the efficiency of the application of the block chain game, so that the block chain game returns to the rich type and strong experience of the nature of the game. With the growth of user scale, value enhancement and globalization are realized.",
-        "zh":"游乐链重新定义和打造区块链游戏新高度，以公有链技术为基础，面向全球游戏开发商、游戏运营商提供游戏接入服务、游戏资产互通的生态体系，为玩家提供丰富多彩的游戏价值产出、游戏互动、游戏资产转移、游戏资产变现等生态闭环一站式服务体验，打造全球首款去中心化、有价值、公平公开、信息透明、可信性和高效性的游戏生态圈。"
-  },
-  "email": "gjc@gamejoychain.com",
-  "website": "https://gamejoychain.com/",
-  "whitepaper": "https://gamejoychain.com/upload/GameJoy%20Chain%20V1.0.pdf",
-  "links": {
-    "twitter": "https://twitter.com/GameJoyChain1",
-    "telegram": "https://t.me/GameJoyChain"
-  }
+{
+"symbol": "GJC",
+"address": "0x32d46d8a420b40d3bece5f45223eb12af2307f8c",
+"overview":{
+"en": "GameJoy Chain is a technology driven block chain game industry ecosystem platform.",
+"zh": "游乐链是一个技术驱动的块链游戏产业生态平台。"
+},
+"email": "1426874278@qq.com",
+"website": "https://gamejoychain.com/",
+"whitepaper": "https://gamejoychain.com/upload/GameJoy%20Chain%20V1.0.pdf",
+"state": "NORMAL",
+"published_on": "2018-08-18",
+"initial_price":{
+"ETH":"0.0005 ETH",
+"USD":"0.0154 USD",
+"BTC":"0.000002 BTC"
+}
 }
