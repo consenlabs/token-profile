@@ -1,0 +1,22 @@
+{
+  "symbol": "LKY",
+  "address": "0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58",
+  "overview":{
+        "en": "LKY(Linkey) will greatly enhance the professional level of investment in the existing digital asset market. Through a series of smart contract-based financial products and smart financial community services, Linkey investors are no longer fully exposed to risks. What's more, it also provides better investment, circulation, and inheritance channels for digital asset assets. In return, the Linkey investors who get profits will also feedback the society, which can create a virtuous cycle financial ecology. Linkey is also a very innovative system which will not stick to the existing product and service design in the future. It embraces all innovations that are beneficial to the development of investors and blockchains, and continues to enhance and stabilize its professionalism, authority and influence in the digital asset market.",
+        "zh": "LKY通过一系列基于智能合约的金融产品和智慧金融社区的服务，让Linkey投资者不再完全暴露在风险之中，让数字货币资产拥有更好的投资、流通和传承的渠道，不止Linkey创始团队的盈利会全部回馈市场，同时Linkey投资者的盈利也会反哺社区，形成良性循环的金融生态。Linkey也是个极具创新的系统，未来将不会拘泥于已有的产品和服务设计，它拥抱一切有利于投资者和区块链发展的创新，不断提升和稳固自己在数字货币市场的专业性、权威性和影响力。"
+  },
+  "email": "ziyuan@linkey.info",
+  "website": "https://www.linkey.info/",
+  "whitepaper": "https://docs.wixstatic.com/ugd/f954a8_a68e5d26bbb341759c44caf8738699eb.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-04-28",
+  "initial_price":{
+        "ETH":"0.00025 ETH",
+        "USD":"0.16 USD",
+  },
+  "links": {
+    "telegram": "https://t.me/Linkey03",
+    "price": "https://mifengcha.com/coin/lky",
+    "logo":"http://pic.caigoubao.cc/607387/120lky.png"
+  }
+}
