@@ -1,0 +1,18 @@
+{
+  "symbol": "CBIT",
+  "address": "0x45c41987bdb0cd91c00dcdca23af34b52fbafcf3",
+  "overview":{
+        "en":"The team of CBIT is located in Singapore, Beijing, Shanghai and Hangzhou. The core members have an average of more than 10 years of experience in Internet product development. They are expert teams working on blockchain scenarios and deeply understand the innovation based on blockchain distributed economy. Internet user operations.",
+        "zh":"丘比特（CupidBit 简称 CBIT）是爱情表达的数字权益，是区块链技术基于爱情场景的创新应用。在丘比特 DApp 上，送 CBIT 给对方表达爱情即可以获得爱情上链服务，点对点的爱情表达和 CBIT 的使用，突破时空的局限，创造数字时代的爱情体验，让爱情经济自由流通。"
+  },
+  "links": {
+        "Telegram": "https://t.me/CupidFoundation",
+        "Twitter": "https://twitter.com/CBIT03082343",
+        "Facebook": "https://www.facebook.com/cbit.coin.1",
+        "Weibo": "https://weibo.com/6621135754/profile?topnav=1&wvr=6&is_all=1"
+   },
+  "email": "global@cbit.love",
+  "website": "www.cbit.love",
+  "whitepaper": "http://www.cbit.love/丘比特(CBIT)白皮书.pdf",
+  "published_on": "2018-08-22"
+}
