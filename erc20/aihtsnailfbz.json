@@ -1,0 +1,15 @@
+{
+  "symbol": "AIHT",
+  "address": “aihtsnailfbz",
+  "overview":{
+        "en": “AI HealthToken",
+        "zh": ""
+  },
+  "email": “yemingnan@trough.cn",
+  "website": "http://dev.api.xiangyingbaobao.com/share/index",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-09-20",
+  "initial_price":{
+        "USD":"0.00214 USD",
+  },
+}
