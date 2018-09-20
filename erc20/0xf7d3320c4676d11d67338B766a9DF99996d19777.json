@@ -1,0 +1,15 @@
+{
+  "symbol": "MKC",
+  "address": "0xf7d3320c4676d11d67338B766a9DF99996d19777",
+  "overview":{
+        "en":"MKC Token",
+        "zh":"在 MKC 的规划中，MKC 将打通人们生活娱乐刚需消费，成为全球数字加密货币系统的通行证。"
+  },
+  "links": {
+        "github": "https://github.com/mkcvip",
+   },
+  "email": "svip5@lzmkc.com",
+  "website": "http://www.lzmkc.com",
+  "whitepaper": "http://www.lzmkc.com/mkc/mkc_white_paper_v1.0.pdf",
+  "published_on": "2018-09-23"
+}
