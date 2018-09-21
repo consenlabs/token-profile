@@ -7,7 +7,7 @@
   },
   "email": "admin@netareum.org",
   "website": "https://netareum.org",
-  "whitepaper": "https://http://netareum.org/whitepaper/Netareum_whitepaper.pdf",
+  "whitepaper": "https://netareum.org/whitepaper/Netareum_whitepaper.pdf",
   "state": "NORMAL",
   "published_on": "2018-09-01",
   "initial_price":{
@@ -17,6 +17,6 @@
     "blog": "https://netareum.org/#about",
     "twitter": "https://twitter.com/netareum",
     "telegram": "https://t.me/netareumofficial",
-    "github": "https://github.com/netareum/",
+    "github": "https://github.com/netareum",
   }
 }
