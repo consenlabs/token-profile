@@ -1,0 +1,28 @@
+{
+  "symbol": "WNN",
+  "address": "0x187ee78717dc609b461fe945f40180f52f57141e",
+  "overview":{
+        "en": "Wine chain is committed to providing industry block chain infrastructure services, building a high security, high scalability application support platform.",
+        "zh": "酒业链致力于提供行业区块链基础设施服务，构建具有高安全性、高扩展性的应用支撑平台。"
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
