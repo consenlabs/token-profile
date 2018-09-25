@@ -1,0 +1,10 @@
+{
+  "symbol": "SEOS",
+  "address": "0xB49dd0d0e738c1b4129A735a880b728e04916816",
+  "overview":{
+        "en": "SEOS can be understood as a block chain operation system designed for commercial distributed applications.",
+        "zh": "SEOS是一个区块链操作系统，设计初衷是为商业分布式应用服务的。"
+  },
+  "website": "http://www.3seos.org/",
+  "whitepaper": "http://www.3seos.org/seosen.pdf"
+}
