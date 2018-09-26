@@ -1,0 +1,14 @@
+{
+  "symbol": "BIMG",
+  "address": "0x4045253edc2986c1c4800c3ce0cf0f5fb3c683e5",
+  "overview":{
+        "en": "The platform is the world's first Blockchain-based entertainment idol agency platform by leveraging Blockchain technology and distributed storage technology. Our ecosystem will provide models, artists, stars ,Internet celebrities, fans, and brand advertisers with a new platform that will enhance their interaction and promote better collaboration. The platform enables all participants to maximize their own interest.",
+        "zh": "彼链平台是全球首个区块链理念泛娱乐IDOL经纪平台，致力于利用区块链与分布式存储技术打造鲜活的生态系统，为模特、艺人、明星，粉丝、网红、和品牌广告商提供一个崭新的平台，将互动提高到新的层次，促进彼此之间更好的合作，同时让每个参与者都可以实现自身利益的最大化。"
+  },
+  "email": "bimg@bimgchain.com",
+  "website": "www.bimgchain.com/",
+  "published_on": "2018-09-09",
+  "links": {
+    "github": "https://github.com/bimg"
+  }
+}
