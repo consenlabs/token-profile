@@ -1,0 +1,17 @@
+{
+	      "symbol": "CMA",
+	      "address": "0xfa24a8e6E7518d9eaFC6e035C4f4D9314Bd31cEc",
+	      "overview":{
+	            "en": "Culture Media Asia Block Chain",
+	            "zh": "CMA亚美链，由亚美内存块链倾心打造的全球文娱数字资产链，拥有可开发的、具备良好可扩展性的、面向文化创意产业的内存块链底层技术。这意味着基于亚美链人们有机会构建丰富的针对特定场景的文化娱乐业务应用"
+	      },
+	      "email": "hello@cmac.io",
+	      "website": "http://cmac.io/",
+	      "whitepaper": "https://cmac.io/whitepaper_cn.pdf",
+	      "state": "NORMAL",
+	      "published_on": "2018-09-25",
+	      "links": {
+	        "github": "https://github.com/cmatoken",
+	        "medium": "https://medium.com/@cmatoken"
+	      }
+	    }
