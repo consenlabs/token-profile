@@ -1,0 +1,16 @@
+{
+  "symbol": "LMTC",
+  "address": "0x818D6D533273C61BCEFCD7B9b7096809065C591d",
+  "overview":{
+        "en": "Love & MedicalCare TransmitChain",
+        "zh": "爱医链"
+      },
+  "email": "584273466@qq.com",
+  "website": "http://www.lmtc999.com",
+  "whitepaper": "http://www.lmtc999.com/images/aiyilian-bps.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-21",
+  "initial_price":{
+        "CNY":"0.1 CNY"
+  }
+}
