@@ -10,7 +10,7 @@
   "whitepaper": "https://www.zischain.com/static/pdf/bps.pdf", 
   "published_on": "2018-08-01",
   "initial_price":{
-        "ETH":"0.0001418ETH"       
+        "ETH":"0.0001418 ETH"       
   },
   "links": {   
     "twitter": "https://twitter.com/PaymentZis",
