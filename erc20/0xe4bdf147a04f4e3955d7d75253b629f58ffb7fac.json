@@ -1,0 +1,16 @@
+{
+  "symbol": "AS",
+  "address": "0xe4bdf147a04f4e3955d7d75253b629f58ffb7fac",
+  "overview":{
+        "en": "AS is based on blockchain technology and fast charging as the core of the sharing economy, integrating people, vehicles and pile resources to create a fast charging and sharing ecological platform",
+        "zh": "众享充是基于区块链技术和快速充电为共享经济核心，整合人、车、桩资源，打造快速充电共享生态平台"
+  },
+  "email": "support@ascharge.com",
+  "website": "https://ascharge.com/",
+  "whitepaper": "https://ascharge.com/common/white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-28",
+  "links": {
+    "weibo": "https://weibo.com/ZXC68"
+  }
+}
