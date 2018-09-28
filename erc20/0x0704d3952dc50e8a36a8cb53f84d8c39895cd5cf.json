@@ -1,0 +1,21 @@
+{
+  "symbol": "MAYC",
+  "address": "0x0704d3952dc50e8a36a8cb53f84d8c39895cd5cf",
+  "overview":{
+        "en": "MAYC full name Magic Cube is an encrypted currency issued by the Magic Cube Foundation for multi-purpose living scene payment, payment scene discovery, chain, traceability and trading.",
+        "zh": "MAYC全称Magic Cube,是由Magiccube基金会发行的一种加密货币，用于多用途生活场景支付,支付场景发现，上链，溯源与交易。"
+  },
+  "email": "admin@magiccube.one",
+  "website": "http://www.magiccube.one",
+  "whitepaper": "http://www.magiccube.one/whitepaper.pdf", 
+  "published_on": "2018-07-28",
+  "initial_price":{
+        "ETH":"0.000015 ETH"       
+  },
+  "links": {   
+    "twitter": "https://twitter.com/magiccu65675631",
+    "telegram": "https://t.me/magiccubeone",
+    "github": "https://www.github.com/magiccubeone",
+    "facebook": "https://www.facebook.com/magiccubeone"   
+  }
+}
