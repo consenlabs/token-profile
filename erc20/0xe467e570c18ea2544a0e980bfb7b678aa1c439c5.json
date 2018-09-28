@@ -1,0 +1,19 @@
+{
+  "symbol": "HME",
+  "address": "0xe467e570c18ea2544a0e980bfb7b678aa1c439c5",
+  "overview":{
+        "en": "Using block chain technology to transform the flower industry, the human emotions, data stored in the chain of blocks.",
+        "zh": "利用区块链技术来改造鲜花产业，将人类情感数据存储在区块链上"
+  },
+  "email": "info@hmechain.io",
+  "website": "http://www.hmechain.io/",
+  "whitepaper": "http://www.hmechain.io/hmewhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ChainHme"
+  }
+}
