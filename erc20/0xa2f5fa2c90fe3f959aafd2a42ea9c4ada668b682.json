@@ -1,0 +1,28 @@
+{
+  "symbol": "FAC",
+  "address": "0xa2f5fa2c90fe3f959aafd2a42ea9c4ada668b682",
+  "overview":{
+        "en": "FastChat is a community management platform with built-in wallets that support the creation of token communities, platform communities, and consensus communities. FastChat currently implements functions such as one-button candy distributing, real-time token price display, official group certification, and will add community activities and project information in succession. In addition, FastChat community data is open, and the group owners can grasp community data dynamically in real time.",
+        "zh": "快信是一个社群管理平台，内置钱包，支持创建有币社群，平台社群和共识社群，目前还有一键发糖果，显示实时币价，官方群加v认证等功能，后续将陆续添加社群活动和项目资讯类等内容，此外快信社群数据开放，群主可以实时掌握社群数据动态。"
+  },
+  "email": "support@fastchat.im",
+  "website": "https://fastchat.im/",
+  "whitepaper": "https://fastchat.im/",
+  "state": "NORMAL",
+  "published_on": "2018-08-22",
+  "initial_price":{
+        "ETH":"0.666 ETH",
+        "USD":"0.666 USD",
+        "BTC":"0.666 BTC"
+  },
+  "links": {
+    "blog": "https://fastchat.im/blog",
+    "twitter": "https://twitter.com/fastchat",
+    "telegram": "https://t.me/joinchat/fastchat",
+    "github": "https://github.com/fastchatim",
+    "facebook": "https://www.facebook.com/fastchat",
+    "reddit": "https://www.reddit.com/r/fastchat/",
+    "slack": "https://fastchat.slack.com",
+    "medium": "https://medium.com/fastchat"
+  }
+}
