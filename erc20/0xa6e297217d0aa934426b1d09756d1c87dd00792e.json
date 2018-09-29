@@ -1,0 +1,21 @@
+{
+    "symbol": "HCL",
+    "address": "0xa6e297217d0aa934426b1d09756d1c87dd00792e",
+    "overview": {
+        "en": "Token Description.",
+        "zh": ""
+    },
+    "email": "ln@liuniukeji.com",
+    "website": "http://www.liuniuchain.com/",
+    "whitepaper": "http://www.liuniuchain.com/file/pandacoinwp.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-26",
+    "initial_price": {
+        "ETH": "0.00166666 ETH",
+        "USD": "0.7 USD",
+        "BTC": "0.00004137 BTC"
+    },
+    "links": {
+        "blog": "http://www.liuniuchain.com/"
+    }
+}
