@@ -1,0 +1,23 @@
+{
+  "symbol": "BTT",
+  "address": "0xac7ceccf97c8386c63abbb7490ec72fe8d2c3363",
+  "overview":{
+        "en": "New Generation of Cryptocurrency Trading Platform based on Community Autonomy.",
+        "zh": "新一代社区自治的加密货币交易平台。"
+  },
+  "email": "alen@bitian.io",
+  "website": "https://www.bitian.io",
+  "state": "NORMAL",
+  "published_on": "2018-09-21",
+  "initial_price":{
+        "ETH":"0.00189537 ETH",
+        "USD":"0.4 USD",
+        "BTC":"0.00006228 BTC"
+  },
+  "links": {
+    "blog": "https://weibo.com/BitianTech",
+    "twitter": "https://twitter.com/Bitian_io",
+    "telegram": "https://t.me/Bitian_cn",
+    "facebook": "https://www.facebook.com/bitian.io"
+  }
+}
