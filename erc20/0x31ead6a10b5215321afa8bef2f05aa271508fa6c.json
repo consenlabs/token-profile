@@ -1,4 +1,4 @@
-﻿{
+{
   "symbol": "DragonCoin",
   "address": "0x31ead6a10b5215321afa8bef2f05aa271508fa6c",
   "overview":{
@@ -8,6 +8,9 @@
   "website": "http://dragoncoin.link/",
   "whitepaper": "http://dragoncoin.link/dragoncoin.pdf", 
   "published_on": "2018-09-21",
+  "initial_price":{
+        "ETH":"0.000025 ETH",
+        "BTC":"0.000002 BTC"
   },
   "links": {
     "blog": "http://blog.sina.com.cn/u/6720951612",
