@@ -1,0 +1,23 @@
+{
+  "symbol": "LIB",
+  "address": "0xF2F0d1160aD0D96970DBF61DF3F6ecfFDB0d3631",
+  "overview":{
+        "en": "LibraChain is a public blockchain platform based on Ethereum, decentralized, distributed and competitive forecasting. It aims to provide industry solutions and competitive asset issuance services for the competitive entertainment industry and developers.",
+        "zh": "LibraChain是一个基于以太坊的、去中心化的、分布式的、竞技预测的公共区块链平台，旨在为竞技娱乐行业和开发者提供行业解决方案和竞技资产发行服务。"
+  },
+  "email": "server@librachain.io",
+  "website": "http://www.librachain.io",
+  "whitepaper": "http://www.librachain.io/Libra_White_Paper_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/librachain1",
+    "telegram": "https://t.me/libratech",
+    "facebook": "https://www.facebook.com/librachain"
+  }
+}
