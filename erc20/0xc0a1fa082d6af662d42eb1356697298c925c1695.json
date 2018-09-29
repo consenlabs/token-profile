@@ -1,0 +1,21 @@
+{
+  "symbol": "BCL",
+  "address": "0xc0a1fa082d6af662d42eb1356697298c925c1695",
+  "overview":{
+        "en":"BCL Decentralized Tokenized-Sharing Economy Network",
+        "zh":"去中心化的共享经济网络"
+  },
+  "email": "tech@blockchainlock.io",
+  "website": "https://www.blockchainlock.io",
+  "whitepaper": "https://www.blockchainlock.io/whitePaper.html",
+  "published_on": "2018-09-23",
+  "initial_price":{
+        "ETH":"0.000005 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/bcl_official",
+    "facebook": "https://www.facebook.com/bclfoundation.io/",
+	"twitter":"https://twitter.com/bcl_foundation",
+	"linkedin":"https://www.linkedin.com/company/bcl-foundation/"
+  }
+}
