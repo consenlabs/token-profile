@@ -1,0 +1,22 @@
+{
+  "symbol": "XUAN",
+  "address": "0x72a8e0272fdf57f26588dfca90082f01d51cb29a",
+  "overview":{
+        "en": "eXchanage User Assets Network",
+        "zh": "网圈为价值提供几何倍增变现"
+  },
+  "email": "xuan@xuanmen.io",
+  "website": "http://www.xuanmen.io",
+  "whitepaper": "https://www.xuanmen.io/whitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.002 ETH",
+        "USD":"1 USD",
+        "BTC":"0.00012 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/xuanmen",
+    "github": "https://github.com/xuanjuechanyuan"
+  }
+}
