@@ -1,0 +1,25 @@
+{
+  "symbol": "Token symbol",
+  "address": "Contract Address",
+  "overview":{
+        "en": "Taurus Pay Token (TAPT) Is a fully decentralized Escrow Platform built on the Ethereum ERC-20 platform with mission to Enhance the buying / selling process with decentralized escrow for secure payments, incoporated with the Low transaction fees compare to old school fiat.
+
+An escrow is a financial arrangement where a third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company.",
+        "zh": ""
+  },
+  "email": "admin@tauruspay.co",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://tauruspay.co/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-25",
+  "initial_price":{
+        "ETH":"0.0005 ETH",
+        "USD":"0.12 USD",
+        
+  },
+  "links": {
+    "twitter": "https://twitter.com/tauruspaytoken",
+    "telegram": "https://t.me/joinchat/tauruspaytoken",
+    "github": "https://github.com/tauruspaytoken"
+  }
+}
