@@ -2,5 +2,10 @@
     "symbol": "EOAS",
     "address": "0x6bec82cbd0fafc3b394629e601e39fea743be9f1",
     "state": "NORMAL",
-    "published_on": "2018-09-29"
+    "published_on": "2018-09-29",
+    "initial_price":{
+    },
+    "links": {
+      "blog": "http://blog.neoworld.io/"
+    }
   }
