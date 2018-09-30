@@ -1,0 +1,16 @@
+{
+  "symbol": "UFUND2TOKEN",
+  "address": "0x1120829c738bafb22c41135f1b85c03c9135a65b",
+  "overview":{
+        "en": "UFund 2 Token"
+  },
+  "email": "info@icofund.center",
+  "website": "http://icofund.center/",
+  "state": "NORMAL",
+  "published_on": "2018-09-30",
+  "initial_price":{
+        "ETH":"0.001050000 ETH"
+  },
+  "links": {
+  }
+}
