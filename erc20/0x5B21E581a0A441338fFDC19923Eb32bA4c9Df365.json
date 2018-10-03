@@ -1,0 +1,20 @@
+{
+  "symbol": "MHEC",
+  "address": "0x5B21E581a0A441338fFDC19923Eb32bA4c9Df365",
+  "overview":{
+        "en": "This project builds an ecosystem that users get benefits from maintaining a healthy body, in addition to being healthy. They receive rewards from us and our partners using the token."
+  },
+  "email": "hello@mhealthcoin.io",
+  "website": "https://www.mhealthcoin.io/",
+  "whitepaper": "https://www.mhealthcoin.io/mHealthCoin-white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-13",
+  "initial_price":{
+        "ETH":"0.00005 ETH"
+  },
+  "links": {
+    "telegram": "https://t.me/mhealthcoin",
+    "Facebook": "fb.me/mhealthcoin",
+    "github": "https://github.com/mhealthcoin-ICO/MHEC-token/tree/master"
+  }
+}
