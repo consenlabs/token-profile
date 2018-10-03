@@ -1,0 +1,28 @@
+{
+  "symbol": "ORe",
+  "address": "0x184001D794a8c91dEF72b8A488B67Cc907D4e5be",
+  "overview":{
+        "en": "It is a purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. It uses permission less distributed database based on the protocol that maintains a continuously growing list of transactional data records secured by cryptography that hardened against tampering and revision, even by operators of the data store's nodes. It is an electronic asset mainly used as a unit of account, medium of exchange and a store of value..",
+        "zh": ""
+  },
+  "email": "info@khazon.online",
+  "website": "https://web.khazon.online",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-10-03",
+  "initial_price":{
+        "ETH":"",
+        "USD":"1000.00USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "https://khazon.net/index.php?threads/what-is-kuarta-kta.5/",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
