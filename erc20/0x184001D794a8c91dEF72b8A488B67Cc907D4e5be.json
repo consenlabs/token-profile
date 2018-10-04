@@ -2,20 +2,17 @@
   "symbol": "ORe",
   "address": "0x184001D794a8c91dEF72b8A488B67Cc907D4e5be",
   "overview":{
-        "en": "It is a purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. It uses permission less distributed database based on the protocol that maintains a continuously growing list of transactional data records secured by cryptography that hardened against tampering and revision, even by operators of the data store's nodes. It is an electronic asset mainly used as a unit of account, medium of exchange and a store of value..",
+        "en": "Decentralized electronic tool used as medium of exchange, unit of account, and store of value",
         "zh": ""
   },
   "email": "info@khazon.online",
-  "website": "https://web.khazon.online",
-  "whitepaper": "",
+  "website": "https://web.khazon.online/",
   "state": "LOCKED | NORMAL",
-  "published_on": "2018-10-03",
+  "published_on": "2017-11-22",
   "initial_price":{
-        "ETH":"",
-        "USD":"1000.00USD",
-        "BTC":""
+        "USD":"1000.0 USD"
   },
   "links": {
-    "Forum": "https://khazon.net/",
+    "Forum": "https://khazon.net"
   }
 }
