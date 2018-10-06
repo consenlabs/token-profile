@@ -15,10 +15,8 @@
         "BTC":"0.0000001 BTC"
   },
   "links": {
-    "twitter": "https://twitter.com/AracleNetwork",
     "telegram": "https://t.me/AracleNetwork",
-    "github": "https://github.com/AracleNetwork",
     "facebook": "https://www.facebook.com/Aracle-1007041049495049",
-    "medium": "https://medium.com/@AracleNetwork"
+    "medium": "https://medium.com/@AracleNetwork",
   }
 }
