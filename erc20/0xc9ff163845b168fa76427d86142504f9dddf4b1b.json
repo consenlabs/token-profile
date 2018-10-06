@@ -1,0 +1,18 @@
+{
+  "symbol": "UDAT",
+  "address": "0xc9ff163845b168fa76427d86142504f9dddf4b1b",
+  "overview": {
+        "en": "",
+        "zh": "UDAT是持有马来西亚金融牌照的全球精品数字资产交易平台，成立之初即获得马来西亚鼎新资本千万美金投资。UDAT本着终结行业乱象，制定行业规则，引导行业健康发展愿景，搭建了顶级的项目筛选团队，致力于为用户挑选出最具潜力的精品项目，为用户提供安全、快捷、公平、公正的数字资产交易体验。"
+  },
+  "email": "unbtcpro@outlook.com",
+  "website": "https://unbtcpro.com",
+  "whitepaper": "http://unbtcpro.com/about/index.html?id=1",
+  "state": "NORMAL",
+  "published_on": "2018-07-31",
+  "initial_price": {
+        "ETH": "0.0006296886 ETH",
+        "USD": "0.15 USD",
+        "BTC": "0.00002268762 BTC"
+  }
+} 
