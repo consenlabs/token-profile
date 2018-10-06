@@ -3,11 +3,12 @@
   "address": "0x4d3DdFEE61326469a1B353920A313F226eA84314",
   "overview":{
         "en": "Aracle (Virtual Reality Electronic Sports) are tokens for VR video games and eSports that will be issued on the Ethereum platform",
+        "zh": "Aracle (Virtual Reality Electronic Sports) 是将在以太坊平台上发布的VR视频游戏和电子竞技的代币",
   },
   "email": "support@aracle.network",
   "website": "http://www.aracle.network/",
   "whitepaper": "http://www.aracle.network/whitepaper.html",
-  "state": "Normal",
+  "state": "NORMAL",
   "published_on": "2018-09-19",
   "initial_price":{
         "ETH":"0.000003 ETH",
