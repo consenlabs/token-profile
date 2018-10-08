@@ -1,0 +1,21 @@
+{
+    "symbol": "BS",
+    "address": "0x6b8f7eaf32b7476d099ee68e1a03863b52aa5f78",
+    "overview": {
+        "en": "BS is applied to social block chain, combining social function with block chain technology.",
+        "zh": "BS应用于社交区块链，将社交功能与区块链技术结合。"
+    },
+    "email": "ln@liuniukeji.com",
+    "website": "http://www.liuniuchain.com/",
+    "whitepaper": "http://www.liuniuchain.com/file/pandacoinwp.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-26",
+    "initial_price": {
+        "ETH": "0.00166666 ETH",
+        "USD": "0.7 USD",
+        "BTC": "0.00004137 BTC"
+    },
+    "links": {
+        "blog": "http://www.liuniuchain.com/"
+    }
+}
