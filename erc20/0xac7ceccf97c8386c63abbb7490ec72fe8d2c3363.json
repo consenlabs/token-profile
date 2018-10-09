@@ -1,0 +1,20 @@
+{
+  "symbol": "BTT",
+  "address": "0xac7ceccf97c8386c63abbb7490ec72fe8d2c3363",
+  "overview":{
+        "en": "Bitian Token",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://www.bitian.io",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-09-22",
+  "initial_price":{
+  },
+  "links": {
+     "blog": "https://weibo.com/BitianTech",
+    "twitter": "https://twitter.com/bitian_io",
+    "facebook": "https://www.facebook.com/bitian.io/"
+  }
+}
