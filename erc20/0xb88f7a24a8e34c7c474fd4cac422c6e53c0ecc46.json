@@ -1,0 +1,18 @@
+{
+  "symbol": "HBT",
+  "address": "0xb88f7a24a8e34c7c474fd4cac422c6e53c0ecc46",
+  "overview":{
+        "en": "The crypto-fuel for the HuiBitcoin network.",
+        "zh": "HuiBitcoin网络流通货币"
+  },
+  "email": "huibitcoin.com@domainsbyproxy.com",
+  "website": "https://www.huibitcoin.com",
+  "whitepaper": "https://www.huibitcoin.com/HuiBitcoin.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-01",
+    "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  }
+  }
