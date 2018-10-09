@@ -1,0 +1,26 @@
+{
+  "symbol": "AAS",
+  "address": "0xc4ad994b78012f42aebc6b41eadaa6028ce8b286",
+  "overview":{
+    "en": "aassio is a blockchain based platform providing effortless access to the real estate market to buy, sell and hold real estate in cryptocurrencies from the convenience of your own home or office. Real estate investment has never been easier or more accessible.",
+    "cn": "佐佑是一个便利的加密资产平台，用户可以在此用加密货币来参加区块链技术变革后的不动产交易。每一枚佐佑币都对应了佐佑生态系统中已代币化的不动产的相应价值。不动产市场从未有过的商业革新随着区块链技术的发展将在佐佑平台实现。"
+  },
+  "email": "mk@aass.io",
+  "website": "https://aass.io/",
+  "whitepaper": "https://drive.google.com/file/d/1Wq9mZpmcaO0voG3-J3yPKDMHmhJt8Dqq/view",
+  "published_on": "2018-10-04",
+  "state": "NORMAL",
+  "initial_price":{
+    "ETH":"0,0004511 ETH",
+    "USD":"0.1 USD",
+    "BTC":"0.00001520036359 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/aass_io",
+    "telegram": "https://t.me/aassionews",
+    "github": "https://github.com/aassio",
+    "facebook": "https://www.facebook.com/aassiorocks/",
+    "reddit": "https://www.reddit.com/user/aassio",
+    "medium": "https://medium.com/@aassio"
+  }
+}
