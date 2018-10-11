@@ -3,26 +3,14 @@
   "address": "0xbc79dc2b5a2c136d40833bd45ab01634742b1b8c",
   "overview":{
         "en": "JuCoin",
-        "zh": "桔子币"
+        "zh": "桔子币(JUC)"
   },
-  "email": "Email",
+  "email": "contact@juex.pro",
   "website": "https://www.juex.pro/",
   "whitepaper": "https://www.juex.pro/Juex/JuCoin%EF%BC%88JUC%EF%BC%89WhitePaper.pdf",
   "state": "NORMAL",
   "published_on": "2018-10-11",
-  "initial_price":{
-        "ETH":"0.00066666 ETH",
-        "USD":"0.15 USD",
-        "BTC":"0.00002222 BTC"
-  },
   "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "https://t.me/juexpro",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "telegram": "https://t.me/juexpro"
   }
 }
