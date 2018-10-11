@@ -1,0 +1,15 @@
+﻿{
+   "symbol": "GGT",
+   "address": "0x1d72e76e38c815b9f91661c340949e8673e897b3",
+   "overview": {
+		"en": "GGT, or Global Gold Token, issued by Goldlinks, is the utility token for all members of Global Gold Industry Blockchain Community to record, manage and distribute their interests and rights in the community. With GGT, members can enjoy the rights of buying gold with discount, participating in the gold mining investment, project voting, etc., and share the future growth value of the whole Goldlinks project.",
+		"zh": ""
+    },
+    "email": "business@goldlinks.one",
+    "website": "www.goldlinks.one",
+    "whitepaper": "http://www.goldlinks.one/templets/default/Goldlinks_Whitepaper_V1.0_Final_20181009.pdf",
+    "published_on": "2018-05-21",
+    "links": {
+	      "telegram": "https://t.me/joinchat/HsytzgxbQFbwftvu82InGw"
+    }
+}
