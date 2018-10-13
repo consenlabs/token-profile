@@ -6,7 +6,7 @@
         "zh": ""
   },
   "email": "admin@zenswapnetwork.info",
-  "website": "https://www.zenswapnetwork.info",
+  "website": "https://www.zenswapnetwork.info/",
   "whitepaper": "https://drive.google.com/file/d/1sNaiMxa87ra4-QQv5uFBo0etDnSDj6Y6/view",
   "state": "NORMAL",
   "published_on": "2018-06-15",
@@ -16,13 +16,11 @@
         "BTC":"0.000000004 BTC"
   },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/ZenswapNetwork",
     "telegram": "https://t.me/ZenswapNetwork",
     "github": "https://github.com/zenswapnetwork/ZenswapNetwork",
     "facebook": "https://www.facebook.com/ZenswapNetwork",
-    "reddit": "https://www.reddit.com/r/ZenswapNetwork",
-    "slack": "",
+    "reddit": "https://www.reddit.com/r/ZenswapNetwork/",
     "medium": "https://medium.com/your-awesome-project"
   }
 }
