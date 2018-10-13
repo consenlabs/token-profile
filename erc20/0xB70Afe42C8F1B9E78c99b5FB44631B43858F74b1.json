@@ -1,0 +1,19 @@
+{
+  "symbol": "EGG",
+  "address": "0xB70Afe42C8F1B9E78c99b5FB44631B43858F74b1",
+  "overview":{
+        "en": "Egg will be the token which used for Lucky Egg system",
+        "zh": "Egg 為支援LuckyEgg 活動系統中的遊戲代幣。"
+  },
+  "email": "pioneer.sid@gmail.com",
+  "website": "http://luckyegg.io/",
+  "whitepaper": "http://luckyegg.io/LUCKYEGG_Chinese_3.0.pdf",
+  "state": "",
+  "published_on": "2018-10-31",
+  "initial_price":{
+        "USD":"0.1 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/GQp6OxKYdNQ7M9BsRr0RLg"
+  }
+}
