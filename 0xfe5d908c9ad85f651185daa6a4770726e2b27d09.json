@@ -1,0 +1,28 @@
+{
+  "symbol": "BHR",
+  "address": "0xfe5d908c9ad85f651185daa6a4770726e2b27d09",
+  "overview":{
+        "en": "Bether (BHR) is a token linked to a crypto fund that will pay a dividend quarterly to the Bether owners/holders",
+        "zh": ""
+  },
+  "email": "info@bether.cc",
+  "website": "https://www.bether.cc",
+  "whitepaper": "https://www.bether.cc/wp-content/uploads/2018/10/BETHER_COIN-BHR-WHITE-PAPER-EN-2018.pdf",
+  "state": "NORMAL",
+  "published_on": "",
+  "initial_price":{
+        "ETH":"0.00001",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "blog": "https://bethercoin.blogspot.com/",
+    "twitter": "https://twitter.com/BETHERcoin",
+    "telegram": "https://twitter.com/BETHERcoin",
+    "github": "",
+    "facebook": "https://www.facebook.com/bethercoin.cc",
+    "reddit": "https://www.reddit.com/user/bether_coin_cc/",
+    "slack": "",
+    "medium": ""
+  }
+}
