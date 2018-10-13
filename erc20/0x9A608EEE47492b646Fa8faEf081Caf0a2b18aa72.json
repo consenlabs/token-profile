@@ -1,0 +1,16 @@
+{
+  "symbol": "OUR",
+  "address": "0x9A608EEE47492b646Fa8faEf081Caf0a2b18aa72",
+  "overview":{
+    "en": "OUR provides  a variety of specialized service platforms for information exchange and digital asset trading for global digital asset dealers and investors.",
+    "zh": "OUR为全球数字资产交易商和投资者提供信息沟通、数字资产交易等多种专业化服务平台。"
+  },
+  "email": "info@ourcoin.com",
+  "website": "https://www.ourcoingroup.com/",
+  "whitepaper": "https://www.ourcoingroup.com/assets/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-01",
+  "initial_price":{
+  }
+}
+
