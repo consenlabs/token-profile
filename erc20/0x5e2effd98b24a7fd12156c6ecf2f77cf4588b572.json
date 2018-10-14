@@ -2,8 +2,24 @@
   "symbol": "WT",
   "address": "0x5e2effd98b24a7fd12156c6ecf2f77cf4588b572",
   "overview":{
-        "en": "WT is WinbitEx global digital exchange coin",
-        "zh": "WT是WinbitEx全球数字交易所平台币"
+        "en": "WT is WinbitEx global digital exchange coin,is the Winbitex trading platform's own equity certificate, with innovative trading ie mining mechanism.",
+        "zh": "WT是WinbitEx全球数字交易所平台币，是Winbitex交易平台⾃⾝的权益证明，拥有创新的交易即挖矿机制。"
   },
-  "website": "https://www.winbitex.co"
+  "email": "service@winbitex.co",
+  "website": "https://www.winbitex.co",
+  "whitepaper":"https://www.winbitex.co/white-paper-en.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-24",
+  "initial_price":{
+    "BTC":"0.00003 BTC",
+    "ETH":"0.001 ETH",
+    "USD":"0.15 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/winbitex_co",
+    "telegram": "https://t.me/joinchat/KNg_vw-DIzzSWf4MAfxwBg",
+    "github": "https://github.com/winbitex",
+    "facebook": "https://www.facebook.com/winbitex.co",
+    "reddit": "https://www.reddit.com/r/WinBitEx/"
+  }
 }
