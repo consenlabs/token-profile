@@ -8,5 +8,12 @@
   "email": "pechain@foxmail.com",
   "website": "https://www.pechain.org/",
   "whitepaper": "https://www.pechain.org/whitepaper.pdf",
-  "published_on": "2018-10-11"
+  "state": "NORMAL",
+  "published_on": "2018-05-05"，
+  "initial_price":{
+         "USD":"0.01 USD"
+   },
+   "links": {
+     "Github": "https://github.com/PhotoelectricityChain/Photoelectricity-Chain-PEC"
+   }
 }
