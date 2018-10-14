@@ -1,13 +1,19 @@
 {
   "symbol": "GJC",
   "address": "0x32d46d8a420b40d3bece5f45223eb12af2307f8c",
-  "overview":{
-        "en": "GameJoy Chain is a technology driven block chain game industry ecosystem platform. The amusement chain will serve the global game market, aiming at building a decentralized game ecological platform through the block chain technology, and realizing the conversion of game assets into digital assets through the bottom structure of the block chain, thus generating commercial value and circulating in the entire game ecosphere to achieve value transfer. Technically, the high performance of the amusement chain improves the efficiency of the application of the block chain game, so that the block chain game returns to the rich type and strong experience of the nature of the game. With the growth of user scale, value enhancement and globalization are realized.",
-        "zh": "游乐链（Gamejoychain，简称GJC）是基于新一代区块链技术构建的分布式智能区块合约的游戏生态主链，它将颠覆传统的游戏行业的生态规则，以去中心化的核心构架将游戏生态的虚拟资产进行全面的改革，实现游戏资产链上管理，让游戏资产从传统消费进入到价值消费时代，真正打通游戏良性生态。"
+  "overview": {
+    "en": "GameJoy Chain is a technology driven block chain game industry ecosystem platform. The amusement chain will serve the global game market, aiming at building a decentralized game ecological platform through the block chain technology, and realizing the conversion of game assets into digital assets through the bottom structure of the block chain, thus generating commercial value and circulating in the entire game ecosphere to achieve value transfer. Technically, the high performance of the amusement chain improves the efficiency of the application of the block chain game, so that the block chain game returns to the rich type and strong experience of the nature of the game. With the growth of user scale, value enhancement and globalization are realized.",
+    "zh": "游乐链（Gamejoychain，简称GJC）是基于新一代区块链技术构建的分布式智能区块合约的游戏生态主链，它将颠覆传统的游戏行业的生态规则，以去中心化的核心构架将游戏生态的虚拟资产进行全面的改革，实现游戏资产链上管理，让游戏资产从传统消费进入到价值消费时代，真正打通游戏良性生态。"
   },
   "email": "gjc@gamejoychain.com",
-  "website": "https://www.gamejoychain.com",
+  "website": "https://www.gamejoychain.com/",
   "whitepaper": "https://gamejoychain.com/upload/GJC_V1.0.PDF",
   "state": "NORMAL",
-  "published_on": "2018-08-05"
+  "published_on": "2018-08-05",
+  "initial_price": {
+    "USD": "0.0015 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/gamejoychain"
+  }
 }
