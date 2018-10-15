@@ -1,0 +1,26 @@
+{
+  "symbol": "BCHIP",
+  "address": "0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B",
+  "overview":{
+        "en": "The Masterpiece Of Decentralized in Entertainment",
+        "zh": "?? ???????"
+  },
+  "email": "support@bluechips-token.com",
+  "website": "https://www.bluechips-token.com/",
+  "whitepaper": "https://bluechips-token.com/doc/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-20",
+  "initial_price":{
+        "ETH":"0.00000012 ETH",
+        "USD":"0.000023 USD",
+        "BTC":"0.000000003716 BTC"
+  },
+  "links": {
+    "twitter": "https://www.twitter.com/bchiptoken",
+    "telegram": "https://t.me/BluechipsNews",
+    "github": "https://github.com/BCHIPTOKEN",
+    "facebook": "https://www.facebook.com/bchiptoken/",
+    "reddit": "https://www.reddit.com/user/bluechip-token",
+    "medium": "https://www.medium.com/@bchip.project"
+  }
+}
