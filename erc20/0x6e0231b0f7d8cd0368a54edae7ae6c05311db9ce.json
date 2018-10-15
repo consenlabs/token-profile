@@ -1,0 +1,16 @@
+{
+  "symbol": "TXC",
+  "address": "0x6e0231b0f7d8cd0368a54edae7ae6c05311db9ce",
+  "overview":{
+        "en": "Gathering global capital to upgrade Thailand tourism",
+        "zh": "汇聚全球资本以升级泰国旅游"
+  },
+  "email": "info@tripxchain.io",
+  "website": "http://www.tripxchain.io/",
+  "whitepaper": "http://www.tripxchain.io/Tripxchain_WP_V1.3_Eng.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-05",
+  "links": {
+    "blog": "http://www.tripxchain.io/",
+  }
+}
