@@ -1,0 +1,16 @@
+{
+  "symbol": "JUC",
+  "address": "0xbc79dc2b5a2c136d40833bd45ab01634742b1b8c",
+  "overview":{
+        "en": "JuCoin",
+        "zh": "桔子币(JUC)"
+  },
+  "email": "contact@juex.pro",
+  "website": "https://www.juex.pro/",
+  "whitepaper": "https://www.juex.pro/Juex/JuCoin%EF%BC%88JUC%EF%BC%89WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-11",
+  "links": {
+    "telegram": "https://t.me/juexpro"
+  }
+}
