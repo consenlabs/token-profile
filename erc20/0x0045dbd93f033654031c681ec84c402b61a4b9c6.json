@@ -1,22 +1,22 @@
 {
-  "symbol": "TPC",
-  "address": "0x0045dbd93f033654031c681ec84c402b61a4b9c6",
-  "overview":{
-        "en":"On the background of `The Belt and Road` initiative and "China-Myanmar economic corridor" construction, TPC(Third Payment Circulation) is the first third-party payment ecosystem of Blockchain, based on the participation and promotion of Myanmar's government.TPC include the third party legal tender payment system, digital currency payment system, financial system, credit system four big plate, hatched by Myanmar First Blockchain Research Co.,Ltd.",
-        "zh":"TPC是在“一带一路”倡议和“中缅经济走廊”建设背景下，首个由缅甸政府参与并大力推广的基于区块链技术的第三方支付生态系统，由缅甸第一区块链研究院孵化落地，包括第三方法币支付体系、数字货币支付体系、理财体系、信用体系四大板块。"
-  },
-  "email": "into@tpc.one",
-  "website": "http://www.tpc.one",
-  "whitepaper": "http://www.tpc.one/index.html#",
-  "published_on": "2018-06-01",
-  "initial_price":{
-        "CNY":"0.1 CNY"
-  },
-  "links": {
-    "telegram": "https://t.me/joinchat/JUXSSRFlnM58Sh86AR1HKQ",
-	"telegram zh": "https://t.me/joinchat/JUXSSQ2rkIw0dHB3VygUtA",
-	"weibo":"https://weibo.com/u/6685048006?refer_flag=1005055013_",
-	"twitter":"https://twitter.com/TPC54815091",
-    "facebook": "https://www.facebook.com/profile.php?id=100027806825949&ref=br_rs"
-  }
+    "symbol": "TPC",
+    "address": "0x0045dbd93f033654031c681ec84c402b61a4b9c6",
+    "overview": {
+        "en": "On the background of `The Belt and Road` initiative and China-Myanmareconomiccorridor construction, TPC(Third Payment Circulation) is the first third-party payment ecosystem of Blockchain, based on the participation and promotion of Myanmar's government.TPC include the third party legal tender payment system, digital currency payment system, financial system, credit system four big plate, hatched by Myanmar First Blockchain Research Co.,Ltd.",
+        "zh": "TPC是在“一带一路”倡议和“中缅经济走廊”建设背景下，首个由缅甸政府参与并大力推广的基于区块链技术的第三方支付生态系统，由缅甸第一区块链研究院孵化落地，包括第三方法币支付体系、数字货币支付体系、理财体系、信用体系四大板块。"
+    },
+    "email": "into@tpc.one",
+    "website": "http://www.tpc.one",
+    "whitepaper": "http://www.tpc.one/index.html#",
+    "published_on": "2018-06-01",
+    "initial_price": {
+        "CNY": "0.1 CNY"
+    },
+    "links": {
+        "telegram": "https://t.me/joinchat/JUXSSRFlnM58Sh86AR1HKQ",
+        "telegram zh": "https://t.me/joinchat/JUXSSQ2rkIw0dHB3VygUtA",
+        "weibo": "https://weibo.com/u/6685048006?refer_flag=1005055013_",
+        "twitter": "https://twitter.com/TPC54815091",
+        "facebook": "https://www.facebook.com/profile.php?id=100027806825949&ref=br_rs"
+    }
 }
