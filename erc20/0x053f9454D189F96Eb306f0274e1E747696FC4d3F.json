@@ -1,0 +1,23 @@
+{
+  "symbol": "SCBC",
+  "address": "0x053f9454D189F96Eb306f0274e1E747696FC4d3F",
+  "overview":{
+    "en": "SCBC is Smart Car Block Chain platform token. It is based on the ERC-20 token standard and has a total supply of 2 billion tokens, with no further issuance. SCBC will circulate and be used throughout the ecosystem of the smart car chain, so it will have a wide range of usage scenarios and values in both B-end merchants and C-end users. The outlook for the SCBC ecosystem is to become a partner community. These partners include car dealers, car owners, financial institutions and transaction acquirer. The Fly Chain foundation aims to maintain and promote democratic management for members of the ecosystem",
+    "zh": "SCBC 是 Smart Car Block Chain 的简称， 是智慧车链平台发行的通证。SCBC基于ERC20发行，总量20亿枚，永不增发。SCBC 将在智慧车链整个生态中流通和使用，因此无论是B端商户还有C端用户，SCBC 将拥有广泛的使用场景和价值。SCBC生态系统的展望是成为一个合作伙伴社群。这些合作伙伴包括车商、车主、金融机构和交易获取者等。Fly Chain基金会旨在为该生态系统的成员维护并促进民主式管理。"
+  },
+  "email": "flycoin158@gmail.com",
+  "website": "http://www.flyscbc.io/",
+  "whitepaper": "http://www.flyscbc.io/chain.html",
+  "state": "NORMAL",
+  "published_on": "2018-09-22",
+  "initial_price":{
+    "ETH":"0.00069 ETH",
+    "USD":"0.147 USD",
+    "BTC":"0.0000222 BTC"
+  },
+  "links": {
+    "medium": "https://m.tech.china.com/tech/article/20180827/kejiyuan0718183778.html"
+  }
+}
+
+
