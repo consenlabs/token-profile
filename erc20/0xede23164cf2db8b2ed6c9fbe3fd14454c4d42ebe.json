@@ -1,0 +1,16 @@
+{
+  "symbol": "HCP",
+  "address": "0xede23164cf2db8b2ed6c9fbe3fd14454c4d42ebe",
+  "overview":{
+    "en": "Freely Convert Computing Power On The Platform",
+    "zh": "创新型社区自治算力设施运营平台"
+  },
+  "email": "service@ppstar.info",
+  "website": "http://hcp.ppstar.info/",
+  "whitepaper": "http://hcp.ppstar.info/file/PPStar.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-10-01",
+  "links": {
+    "telegram": "https://t.me/joinchat/GB_Oxg2dhcf2fFIxq9JmIA"
+  }
+}
