@@ -1,0 +1,12 @@
+{
+  "symbol": "QTTC",
+  "address": "0x5964562532402e91bbc5563a31dfbb407994a4a9",
+  "overview":{
+        "en":"QTTC aims to build a decentralized global quantitative trading platform, build an enterprise-level block chain application platform through block chain technology, record and store large amounts of data by using the distributed storage function of block chain technology, and create an efficient, transparent, credible and self-driving quantitative intelligence through intelligent analysis. It can be ecological.",
+        "zh":"QTTC旨在建设一个去中心化的全球量化交易平台，通过区块链技术搭建企业级区块链应用平台，利用区块链技术中的分布式储存功能，记录储存大量的数据，通过智能分析，创建一个高效、透明、可信且具备自我驱动力的量化智能生态."
+  },
+  "email": "407191473@qq.com",
+  "website": "http://www.qtchat.io/",
+  "whitepaper": "http://www.qtchat.io/QTTC.pdf",
+  "published_on": "2018-09-01"
+}
