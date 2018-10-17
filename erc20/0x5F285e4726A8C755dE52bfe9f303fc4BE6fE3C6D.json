@@ -1,0 +1,20 @@
+{
+  "symbol": "GLP",
+  "address": "0x5F285e4726A8C755dE52bfe9f303fc4BE6fE3C6D",
+  "overview":{
+        "en": "Based on the core concept of block chain, through the pay of GLP chain function, to enjoy the fastest mobile payment, in the new application of food safety, more intelligent system is selected, the contract will be triggered automatically compensate mechanism more quickly to meet user needs",
+        "zh": "基于区块链的核心理念，通过GLP链的支付功能，享受到最快捷的移动支付，在新食品安全的运用中，更加智能化的合约将被系统所选择，自动触发的赔机制更加迅速的满足用户需求"
+  },
+  "email": "timec@union166.com",
+  "website": "http://www.glpcoin.vip",
+  "whitepaper": "http://www.glpcoin.vip/img/baipishu.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-02",
+  "initial_price":{
+        "USD":"0.000331 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/glpcoin",
+    "facebook": "https://www.facebook.com/glpcoin.pan.9"
+  }
+}
