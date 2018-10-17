@@ -1,0 +1,16 @@
+{
+  "symbol": "LMTC",
+  "address": "0x818D6D533273C61BCEFCD7B9b7096809065C591d",
+  "overview":{
+        "en": "",
+        "zh": "爱医链，英文全称Love&MedicalCareTransmitChain，简称LMTC。爱医链的出现是为了服务于未来的“新型现代医疗行业“。Love&MedicalCareTransmitChain(爱医链)是基于现代医疗行业，以独有的区块链去中心化技术所呈现的分布式数据库识别、传播和记载信息的智能化对等网络，以及去中心化的对等网络，用开源软件把密码学原理、时序数据和共识机制相结合，来保障分布式数据库中各节点的连贯和持续，保证医疗数据和医药数据能即时验证、可追溯、但难以篡改，从而创造了一套高效隐秘安全的共享价值的体系，能解决医疗行业的痛点。"
+      },
+  "email": "584273466@qq.com",
+  "website": "http://www.lmtc999.com",
+  "whitepaper": "http://www.lmtc999.com/images/aiyilian-bps.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-21",
+  "initial_price":{
+        "ETH":"0.002 ETH"
+  }
+}
