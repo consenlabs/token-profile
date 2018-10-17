@@ -9,7 +9,7 @@
   "website": "https://www.dstoken.io/",
   "whitepaper": "https://dstoken.io/wp-content/uploads/2018/05/DST-White-Paper-V2.0.1.pdf",
   "state": "NORMAL",
-  "published_on": "2018-01-01",
+  "published_on": "",
   "initial_price":{
         "ETH":"",
         "USD":"",
