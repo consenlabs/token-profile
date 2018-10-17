@@ -1,0 +1,24 @@
+{
+  "symbol": "XLR",
+  "address": "0x60d5e18CD69f0CD2860Fb2543a44df026875B83F",
+  "overview":{
+        "en": "A decentralized community based distribution platform for gambling apps. Xunilair allows its users to play, host, and even develop games within its platform.",
+        "zh": ""
+  },
+  "email": "support@xunilair.com",
+  "website": "https://www.xunilair.io",
+  "whitepaper": "https://www.xunilair.io/docs/XunilairWhitepaperv4.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-11",
+  "initial_price":{
+        "ETH":"0.00000018 ETH",
+        "USD":"0.00004 USD"
+  },
+  "links": { 
+    "twitter": "https://twitter.com/XunilairToken",
+    "telegram": "https://t.me/xunilairgroup",
+    "github": "https://github.com/xunilair",
+    "facebook": "https://www.facebook.com/xunilair/", 
+    "medium": "https://medium.com/@xunilair"
+  }
+}
