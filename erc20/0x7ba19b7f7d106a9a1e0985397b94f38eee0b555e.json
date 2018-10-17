@@ -1,0 +1,28 @@
+{
+  "symbol": "WIX",
+  "address": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e",
+  "overview":{
+        "en": "Wixlar is Digital Currency offering 12 Services to the public and its own TV Broadcasting Channel 24/7",
+        "zh": "Wixlar 唯 的数字货币，向公众提供超过 12 项服务以及自己的电视广播频道 24/7"
+  },
+  "email": "info@wixlar.com",
+  "website": "https://wixlar.com",
+  "whitepaper": "https://wixlar.com/wp-content/uploads/2018/10/Wixlar-Coin-WhitePaper-v6.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-01",
+  "initial_price":{
+        "ETH":"0.00016 ETH",
+        "USD":"0.036 USD",
+        "BTC":"0.0000055 BTC"
+  },
+  "links": {
+    "blog": "https://wixlar.com/articles",
+    "twitter": "https://twitter.com/WixlarCoin",
+    "telegram": "https://t.me/wixlar",
+    "github": "https://github.com/wixlar/",
+    "facebook": "https://ww.facebook.com/WixlarCoin",
+    "reddit": "https://www.reddit.com/user/wixlarcoin",
+    "slack": "https://wixlarcoin.slack.com/",
+    "medium": "https://medium.com/@WixlarCoin"
+  }
+}
