@@ -1,0 +1,26 @@
+{
+  "symbol": "DSTE",
+  "address": "0x7d5a971b3fd37f3b984a26e3f3898010c9575887",
+  "overview":{
+        "en": "DSTE is a decentralized silver ecosystem underlying blockchain technology, utilizing smart contract protocol to allow traditional silver mining industrial to digitize the industrial resources, increase assets circulation and production efficiency, as well as increasing the credibility of quality assurance through credible and sophisticated verification process and warranty card certification.",
+        "zh": "达银链是一个公证伪造去中性化的应用系统结合智能合约模式通行证让传统贵金属矿业到达消费者整条生态圈链锁都能得到更公开、公正、公平的帐本系统，更低的合约费用，更有效的生产线系统，更好的质量保障和更有公信力的验证卡证书和保固卡。"
+  },
+  "email": "support@dstoken.io",
+  "website": "https://www.dstoken.io/",
+  "whitepaper": "https://dstoken.io/wp-content/uploads/2018/05/DST-White-Paper-V2.0.1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "twitter": "https://twitter.com/DSTE_io",
+    "telegram": "https://t.me/joinchat/DSTE_io",
+    "github": "https://github.com/DSTio",
+    "facebook": "https://www.facebook.com/OfficialDSTE.io",
+    "reddit": "https://www.reddit.com/r/DST_io/",
+    "medium": "https://medium.com/@DSTE_io"
+  }
+}
