@@ -1,0 +1,25 @@
+{
+  "symbol": "FTF",
+  "address": "0x01e799ebd5d11ddeea11e30466ce117b86726458",
+  "overview":{
+        "en": "FTF is a cryptocurrency economy.",
+        "zh": ""
+  },
+  "email": "ftfone1@ftfone.info",
+  "website": "https://www.ftfone.info/",
+  "whitepaper": "https://www.ftfone.info/whitepaper-ftf/",
+  "state": "NORMAL",
+  "published_on": "2018-05-09",
+  "initial_price":{
+        "ETH":"0,00000012 ETH",
+        
+        "BTC":"0,00000001 BTC"
+  },
+  "links": {
+    "blog": "https://www.ftfone.ml/",
+    "twitter": "https://twitter.com/FtFone",
+    "telegram": "https://t.me/officialFTFone",
+    "github": "https://github.com/tosa2009",
+    "medium": "https://medium.com/@ftfone.FTF"
+  }
+}
