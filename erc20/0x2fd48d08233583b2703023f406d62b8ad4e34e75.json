@@ -2,9 +2,12 @@
   "symbol": "BLC",
   "address": "0x2fd48d08233583b2703023f406d62b8ad4e34e75",
   "overview":{
+        "en": "BLC",
         "zh": "菠萝币"
   },
   "state": "NORMAL",
+  "website": "https://bolo.cool",
+  "whitepaper": "https://bolo.cool/static/pdf/whiterpaper.pdf",
   "published_on": "2018-07-21",
   "initial_price":{
         "ETH":"0.000016666666666666667 ETH"
