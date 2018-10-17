@@ -1,0 +1,13 @@
+{
+    "symbol": "TDP",
+    "address": "0x9abf396b6d996b8587954e14d232e11b4159191d",
+    "overview":{
+          "en": "We are committed to building a safe and fair eco-system for self-driving travel.",
+          "zh": "Travel Digital Pass 致力于打造一个安全公平的自驾游旅行生态系统。"
+    },
+    "state": "NORMAL",
+    "published_on": "2018-10-15",
+    "initial_price":{
+          "ETH":"0.00033333 ETH"
+    }
+  }
