@@ -1,0 +1,23 @@
+{
+  "symbol": "ZT",
+  "address": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
+  "overview":{
+        "en":"ZT is the platform point at ZBG，As the core hub of ZBG operation, ZT will be used to calculate and reward system users and support the business.ZBG will develop various trades involving thousands of kinds of cryptocurrency based on its token ZT.",
+        "zh":"ZT是ZBG的平台积分，作为ZBG运营的核心枢纽，用于计算、奖励系统用户，支撑业务。ZBG将围绕本平台的通用积分ZT开展数千个数字货币交易品种业务。"
+  },
+  "email": "sp@zbg.com",
+  "website": "https://www.zbg.com/",
+  "whitepaper": "https://zbgapp.oss-cn-beijing.aliyuncs.com/zbg%E7%99%BD%E7%9A%AE%E4%B9%A60905.pdf",
+  "published_on": "2018-07-25",
+  "initial_price":{
+        "ETH":"0.000382166 ETH",
+        "BTC":"0.00002203 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/GSG_SG",
+    "twitter":  "https://twitter.com/ZBGofficial",
+    "linkedin": "https://www.linkedin.com/company/zbgexchange",
+    "medium":  "https://medium.com/@ZBGofficial",
+    "facebook": "https://www.facebook.com/zbg.rus.35"
+  }
+}
