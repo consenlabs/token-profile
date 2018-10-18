@@ -1,0 +1,28 @@
+{
+  "symbol": "ZAO",
+  "address": "0x6729E731C64Af56d29D36B44A3193F287805FBc4",
+  "overview":{
+        "en": "ZAO区块链+娱乐+AI重塑社交新世界",
+        "zh": "Block chain + Entertainment + AI Creating a New World for Socialization"
+  },
+  "email": "gqq@xiangjiale.com",
+  "website": "http://www.zaoworld.com",
+  "whitepaper": "http://www.zaoworld.com/pdf/baipishu.pdf",
+  "state": "NORMAL",
+  "published_on": "2018.10.10",
+  "initial_price":{
+        "ETH":"0.000125 ETH",
+        "USD":"0.026 USD",
+        "BTC":"0.00004 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
