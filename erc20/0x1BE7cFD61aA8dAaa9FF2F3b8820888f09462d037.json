@@ -16,13 +16,9 @@
           "BTC":"0.00675 BTC"
     },
     "links": {
-      "blog": "",
       "twitter": "https://twitter.com/GramGoldCoin",
       "telegram": "https://t.me/GramGold_Coin",
       "github": "https://gitlab.com/GramGoldCoin/ggctoken",
-      "facebook": "",
-      "reddit": "",
-      "slack": "",
       "medium": "https://medium.com/gramgold-coin"
     }
 }
