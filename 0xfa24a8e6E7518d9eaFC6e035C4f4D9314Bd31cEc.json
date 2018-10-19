@@ -1,0 +1,17 @@
+{
+    "symbol": "CMA",
+    "address": "0xfa24a8e6E7518d9eaFC6e035C4f4D9314Bd31cEc",
+    "overview":{
+          "en": "Culture Media Asia Block Chain",
+          "zh": "CMA基于区块链的特性和优势，创建了一个基于Token的⽣态系统，以及服务于影响⼒经济的价值交易平台，将影响⼒(个性化的知识产权)转化为代币持有者的数字资产"
+    },
+    "email": "hello@cmac.io",
+    "website": "http://cmac.io/",
+    "whitepaper": "https://cmac.io/whitepaper_cn.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-09-25",
+    "links": {
+      "github": "https://github.com/cmatoken",
+      "medium": "https://medium.com/@cmatoken"
+    }
+  }
