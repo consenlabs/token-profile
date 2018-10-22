@@ -1,0 +1,25 @@
+{
+  "symbol": "BRXT",
+  "address": "0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E",
+  "overview":{
+        "en": "Brianex is a market exchange built by the community, we want to build an ecosystem where a platform that has modern and latest features.",
+        "zh": ""
+  },
+  "email": "support@brianex.com",
+  "website": "https://token.brianex.com/",
+  "whitepaper": "https://drive.google.com/open?id=1bM79sB3RD-aHW7_PuJZpd0sFZ5UWc02I",
+  "state": "NORMAL",
+  "published_on": "2018-10-10",
+  "initial_price":{
+        "ETH":"0.00000020 ETH",
+        "BTC":"0.00000001 BTC"
+  },
+  "links": {
+    "blog": "https://token.brianex.com/blog",
+    "twitter": "https://twitter.com/brianex_com",
+    "telegram": "https://t.me/brianexglobal",
+    "github": "https://github.com/brianexcom/SmartContract",
+    "facebook": "https://www.facebook.com/brianexcom",
+    "medium": "https://medium.com/@brianex"
+  }
+}
