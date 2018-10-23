@@ -1,0 +1,27 @@
+{
+  "symbol": "YUI",
+  "address": "0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF",
+  "overview":{
+        "en": "YUI is a digital currency community with a mission to create communities",
+        "zh": "YUI是一個數字貨幣社區，其使命是創建社區"
+  },
+  "email": "yuitoken77@gmail.com",
+  "website": "http://yuitoken.com",
+  "whitepaper": "http://yuitoken.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-23",
+  "initial_price":{
+        "ETH":"0.0000012 ETH",
+        "USD":"0.00038 USD",
+        "BTC":"0.00000005 BTC"
+  },
+   "links": {
+    "blog": "http://www.yuitoken.com",
+    "twitter": "https://twitter.com/yuitoken77",
+    "telegram": "https://t.me/yuitoken",
+    "github": "https://github.com/yuitoken",
+    "reddit": "https://www.reedit.com/u/yuitoken",
+    "medium": "https://medium.com/@yuitoken77"
+  }
+} 
+
