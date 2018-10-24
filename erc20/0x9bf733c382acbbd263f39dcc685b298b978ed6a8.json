@@ -1,0 +1,15 @@
+{
+  "symbol": "STLC",
+  "address": "0x9bf733c382acbbd263f39dcc685b298b978ed6a8",
+  "overview":{
+    "en":"Smart Life Coin, or STLC STL intelligent Life chain, is based on the cryptographic fuel currency issued by ERC20.Smart Life as a all intelligent Life system, will hold vast amounts of the third party intelligent application, as well as more commercial node, when the nodes need to complete the value transfer and transfer, you need to use STLC to to cover the cost of work force loss.",
+    "zh":"Smart Life Coin 简称STLC  STL智能生活链基于ERC20发行的加密燃料货币。Smart Life 作为一个所有的智能生活系统，将容纳海量的第三方智能应用，以及更多商业节点，当这些节点需要完成价值传递和转移的时候，就需要运用STLC来作为支付算力损耗的费用."
+  },
+  "email": "support@stlcoin.top",
+  "website": "https://www.stlcoin.top/",
+  "whitepaper": "https://www.stlcoin.top/STLCEN.pdf",
+  "published_on": "2018-01-26",
+  "initial_price":{
+    "ETH":"0.000285 ETH"
+  }
+}
