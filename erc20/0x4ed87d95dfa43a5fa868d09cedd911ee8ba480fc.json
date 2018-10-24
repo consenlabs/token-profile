@@ -8,7 +8,7 @@
   "email": "office@rutenium.com",
   "website": "https://rutenium.com/",
   "whitepaper": "https://rutenium.com/ruthenium.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-09-11",
   "initial_price":{
         "ETH":"0.000003 ETH",
