@@ -1,0 +1,28 @@
+{
+  "symbol": "BYXS",
+  "address": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
+  "overview":{
+        "en": "BUYEXSHOP Smart solutions using digital currency to correct online, are used for online shopping networks around the world
+",
+        "zh": "BUYEXSHOP使用數字貨幣在線糾正的智能解決方案，用於世界各地的在線購物網絡"
+  },
+  "email": "admin@buyexshop.com",
+  "website": "http://buyexshop.com/",
+  "whitepaper": "http://buyexshop.com/BXwhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-24",
+  "initial_price":{
+        "ETH":"0.0000012 ETH",
+        "USD":"0.00038 USD",
+        "BTC":"0.00000005 BTC"
+  },
+   "links": {
+    "blog": "http://buyexshop.com/",
+    "twitter": "https://twitter.com/buyexshop",
+    "telegram": "https://t.me/buyexshop",
+    "github": "https://github.com/buyexshop",
+    "reddit": "https://www.reedit.com/u/buyexshop",
+    "medium": "https://medium.com/@buyexshop"
+  }
+} 
+
