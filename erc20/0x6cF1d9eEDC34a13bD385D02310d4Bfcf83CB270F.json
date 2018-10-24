@@ -13,8 +13,10 @@
 "ETH":"0.000003 ETH",
 "USD":"0.0006 USD",
 "BTC":"0.00000615 BTC"},
-"links":{
-"github":"https://github.com/nexusworld",
-"twitter":"twitter":"https://twitter.com/NexusOfficer",
-"telegram":"telegram":"https://t.me/nexus_world"}
+"links":},
+  "links": {
+    "twitter":"https://twitter.com/NexusOfficer",
+    "telegram":"https://t.me/nexus_world",
+    "github":"https://github.com/nexusworld", 
+  }
 }
