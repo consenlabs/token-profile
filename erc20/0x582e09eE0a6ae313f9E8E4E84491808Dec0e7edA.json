@@ -6,18 +6,18 @@
         "zh": "BYXS是一個數字貨幣社區，其使命是創建社區"
   },
   "email": "admin@buyexshop.com",
-  "website": "http://buyexshop.com",
-  "whitepaper": "http://buyexshop.com/bxwhitepaper.pdf",
+  "website": "https://buyexshop.com",
+  "whitepaper": "https://buyexshop.com/BXwhitepaper.pdf",
   "state": "NORMAL",
   "published_on": "2018-10-24",
   "initial_price":{
-        "ETH":"0.0000012 ETH",
-        "USD":"0.00038 USD",
-        "BTC":"0.00000005 BTC"
+        "ETH":"0.00000005 ETH",
+        "USD":"0.00001 USD",
+        "BTC":"0.00000001 BTC"
   },
    "links": {
-    "blog": "http://buyexshop.com",
-    "twitter": "https://twitter.com/buyexshop",
+    "blog": "https://buyexshop.com",
+    "twitter": "https://twitter.com/Buyexshop",
     "telegram": "https://t.me/buyexshop",
     "github": "https://github.com/buyexshop",
     "reddit": "https://www.reedit.com/u/buyexshop",
