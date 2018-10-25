@@ -9,11 +9,11 @@
   "website": "http://enchain.cc",
   "whitepaper": "http://enchain.cc",
   "state": "NORMAL",
-  "published_on": "2019-04",
+  "published_on": "2018-03",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "ETH":"0.00026315 ETH",
+        "USD":"0.08088 USD",
+        "BTC":"0.00000764789 BTC"
   },
   "links": {
     "biyong": "https://0.plus/UniversalEnergyChain",
