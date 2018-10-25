@@ -1,18 +1,24 @@
 {
-  "symbol": "AMSC",
-  "address": "0x3f8828955db539ddd78ecc2a0cecd77d3eb8b033",
-  "overview":{
-        "en": "Amethyst Coin innovation for payment solutions.",
-        "zh": ""
-  },
-  "links": {
-        "twitter": "https://twitter.com/amethystcoin",
-		telegram": "https://t.me/amethystcoingroup",
-		"github": "https://github.com/amethyscoin1",
-		"medium": "https://medium.com/@amethystcoin"
-   },
-  "email": "official@amethystcoin.com",
-  "website": "http://amethystcoin.com/",
-  "whitepaper": "http://amethystcoin.com/assets/whitepaper/Amethystwhitepaper.pdf",
-  "published_on": "2018-09-30"
-} 
+"symbol": "AMSC",
+"address": "0x3f8828955db539ddd78ecc2a0cecd77d3eb8b033",
+"overview":{
+"en": "Amethyst Coin Innovation for Payment Solutions",
+
+},
+"email": "official@amethystcoin.com",
+"website": "http://amethystcoin.com/",
+"whitepaper": "http://amethystcoin.com/assets/whitepaper/Amethystwhitepaper.pdf",
+"state": "NORMAL",
+"published_on": "Sep-30-2018",
+"initial_price":{
+        "ETH":"0.00000005 ETH",
+        "USD":"0.00001 USD",
+        "BTC":"0.00000001 BTC"
+},
+"links": {
+"twitter": "https://twitter.com/amethystcoin",
+"telegram": "https://t.me/amethystcoingroup",
+"github": "https://github.com/amethyscoin1",
+"medium": "https://medium.com/@amethystcoin"
+ }
+}
