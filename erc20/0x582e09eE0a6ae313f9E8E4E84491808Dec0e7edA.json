@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2018-03-20",
   "initial_price":{
-        "ETH":"0.666 ETH",
-        "USD":"0.666 USD",
-        "BTC":"0.666 BTC"
+        "ETH":"0.66 ETH",
+        "USD":"0.66 USD",
+        "BTC":"0.66 BTC"
   },
   "links": {
     "blog": "http://buyexshop.com",
