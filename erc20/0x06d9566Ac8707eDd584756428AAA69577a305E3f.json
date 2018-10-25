@@ -1,0 +1,22 @@
+{
+  "symbol": "FTC",
+  "address": "0x06d9566Ac8707eDd584756428AAA69577a305E3f",
+  "overview":{
+        "en": "Sharing and transparent is the core concept of block chain, FTC financial trust  will launch platform sharing plan, improve the FTC universal integral gradually, sent candy to platform users freely, let each user participate in the construction and development of platform, and build FTC block chain ecosystem together..",
+        "zh": "金融共享和透明是区块链的核心理念， FTC将推出平台共享计划，将FTC全球通用积分逐步免费糖果派送给平台用户，让每一位用户参与平台的建设和发展，共建FTC区块链生态系统"
+  },
+  "email": "support@finust.org",
+  "website": "https://finust.org/",
+  "whitepaper": "https://finust.org/whitepaper_en.pdf",
+  "published_on": "2018-03-08",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/finust",
+    "telegram": "https://t.me/finust",
+    "github": "https://github.com/finust"
+    
+  }
+}
