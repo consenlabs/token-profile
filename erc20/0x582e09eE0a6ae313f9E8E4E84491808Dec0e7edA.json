@@ -1,27 +1,29 @@
 {
   "symbol": "BYXS",
   "address": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
-  "overview":{
-        "en": "BYXS is a digital currency community with a mission to create communities",
-        "zh": "BYXS是一個數字貨幣社區，其使命是創建社區"
+  "overview": {
+    "en": "BYXS is a digital currency community with a mission to create communities.",
+    "zh": "BYXS是一個數字貨幣社區，其使命是創建社區。"
   },
   "email": "admin@buyexshop.com",
   "website": "http://buyexshop.com",
   "whitepaper": "http://buyexshop.com/BXwhitepaper.pdf",
   "state": "NORMAL",
-  "published_on": "2018-10-24",
+  "published_on": "2018-03-20",
   "initial_price":{
-        "ETH":"0.00000005 ETH",
-        "USD":"0.00001 USD",
-        "BTC":"0.00000001 BTC"
+        "ETH":"0.666 ETH",
+        "USD":"0.666 USD",
+        "BTC":"0.666 BTC"
   },
-   "links": {
+  "links": {
     "blog": "http://buyexshop.com",
     "twitter": "https://twitter.com/Buyexshop",
     "telegram": "https://t.me/buyexshop",
+    "reddit": "https://www.reddit.com/r/buyexshop",
     "github": "https://github.com/buyexshop",
-    "reddit": "https://www.reedit.com/u/buyexshop",
-    "medium": "https://medium.com/@buyexshop"
+    "facebook": "https://www.facebook.com/buyexshop",
+    "slack": "https://buyexshop.slack.com",
+    "medium": "https://medium.com/buyexshop"
   }
-} 
+}
 
