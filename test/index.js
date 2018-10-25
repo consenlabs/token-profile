@@ -9,12 +9,17 @@ const urlExp = /^(?:([A-Za-z]+):)?(\/{0,3})([0-9.\-A-Za-z]+)(?::(\d+))?(?:\/([^?
 
 const emailExp = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
 
-const isAddress = (address) => {
-  if (!/^(0x)?[0-9a-f]{40}$/i.test(address)) {
-    return false
-  }
-  return true
-}
+const jsonExp = /\.json$/
+
+const imgExp = /\.png$/
+
+const addressExp = /^(0x)?[0-9a-f]{40}$/i
+
+const isAddress = address => addressExp.test(address)
+
+const isAddressJson = (filename) => jsonExp.test(filename) && isAddress(filename.replace(jsonExp, ''))
+
+const isAddressPng = (filename) => imgExp.test(filename) && isAddress(filename.replace(imgExp, ''))
 
 const isStringWithCharacter = (str) => {
   return str && typeof str === 'string' && str.trim()
@@ -33,14 +38,15 @@ const notice = (msg) => {
 
 const jsonFileNames = fs.readdirSync('./erc20')
 const imageFileNames = fs.readdirSync('./images')
-const imageAddrs = imageFileNames.map(n => n.toLowerCase().slice(0, 42)).filter(n => n.startsWith('0x'))
+const imageAddrs = imageFileNames.map(n => n.slice(0, 42)).filter(n => n.startsWith('0x'))
+const lowerCaseImageAddrs =imageAddrs.map(x => x.toLowerCase())
 
 jsonFileNames
   .filter(jsonFileName => {
     return jsonFileName !== '$template.json' && jsonFileName.endsWith('.json')
   })
   .forEach(jsonFileName => {
-    const addr = jsonFileName.replace('.json', '')
+    const addr = jsonFileName.replace(jsonExp, '')
     if (!isAddress(addr)) {
       exitWithMsg(`ERROR! json file name ${jsonFileName} is not like a address.json`)
     }
@@ -63,8 +69,13 @@ jsonFileNames
       exitWithMsg(`ERROR! json file name ${jsonFileName} parse error, please check first (maybe has some unnecessary space or comma symbol like ",")`)
     }
 
-    if (!imageAddrs.includes(addr.toLowerCase())) {
-      notice(`Warning! dose not have ${addr + '.png'} in images dir, please check first`) 
+    if (!lowerCaseImageAddrs.includes(addr.toLowerCase())) {
+      notice(`Warning! dose not have ${addr + '.png'} in images dir, please check first`)
+    } else if (!imageAddrs.includes(obj.address)) {
+      const imgAddr = imageAddrs.find(imgad => {
+        return imgad.toLowerCase() === addr.toLowerCase()
+      })
+      exitWithMsg(`Warning! ${imgAddr + '.png'} in images dir, that capital and small letter isn't quite the same with ${addr}`)
     }
 
     if (!obj.symbol) {
@@ -81,6 +92,8 @@ jsonFileNames
 
     if (obj.address.toLowerCase() !== addr.toLowerCase()) {
       exitWithMsg(`ERROR! json file ${jsonFileName} should be the same with address field ${obj.address}`)
+    } else if (obj.address !== addr) {
+      // exitWithMsg(`Warning! json file ${jsonFileName}, that capital and small letter isn't quite the same with object.address ${obj.address}`)
     }
 
     if (obj.published_on !== undefined) {
@@ -138,7 +151,7 @@ jsonFileNames
 imageFileNames.forEach(n => {
   const path = `./images/${n}`
   
-  if (n.endsWith('.png')) {
+  if (imgExp.test(n)) {
     fs.createReadStream(path)
       .pipe(new PNG()).on('metadata', (metadata) => {
         if (metadata.width !== metadata.height) {
@@ -158,4 +171,42 @@ imageFileNames.forEach(n => {
   }
 })
 
-// process.exit(0)
+const checkWrongDirectoryItem = (directory, filename) => {
+  const errorMsg = `${filename} in the wrong directory ${directory}/`
+  if (directory === './erc20') {
+    if (['$template.json', 'README.md'].indexOf(filename) === -1 && !isAddressJson(filename)) {
+      exitWithMsg(errorMsg)
+    }
+
+  } else if (directory === './images') {
+    if (['bitcoin.png', 'eos.png', 'ethereum.png'].indexOf(filename) === -1 && !isAddressPng(filename)) {
+      // temporality not throw
+      if (filename === '0x4488ed050cd13ccfe0b0fcf3d168216830142775.jpg') {
+        notice(errorMsg)
+      } else {
+        exitWithMsg(errorMsg)
+      }
+    }
+
+  } else if (isAddressJson(filename) || isAddressPng(filename)) {
+    exitWithMsg(errorMsg)
+  }
+}
+
+const checkWrongDirectory = (directory) => {
+  fs.readdirSync(directory).forEach((filename) => {
+    // filter dot files
+    if (!filename.startsWith('.')) {
+      const path = directory + '/' + filename
+      const stats = fs.statSync(path)
+      if (stats.isDirectory()) {
+        checkWrongDirectory(path)
+
+      } else {
+        checkWrongDirectoryItem(directory, filename)
+      }
+    }
+  })
+}
+
+checkWrongDirectory('.')
