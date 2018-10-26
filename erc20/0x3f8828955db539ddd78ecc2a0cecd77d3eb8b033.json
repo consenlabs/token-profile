@@ -3,7 +3,7 @@
   "address": "0x3f8828955db539ddd78ecc2a0cecd77d3eb8b033",
   "overview":{
         "en": "Amethyst Coin Innovation for Payment Solutions.",
-        "zh": ""
+        "zh": "紫水晶硬币创新的支付解决方案。"
   },
   "email": "official@amethystcoin.com",
   "website": "http://amethystcoin.com/",
@@ -16,7 +16,6 @@
   "links": {
     "twitter": "https://twitter.com/amethystcoin",
     "telegram": "https://t.me/amethystcoingroup",
-    "github": "https://github.com/amethyscoin1",
     "medium": "https://medium.com/@amethystcoin"
   }
 }
