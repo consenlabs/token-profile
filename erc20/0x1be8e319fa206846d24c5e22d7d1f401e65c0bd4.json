@@ -1,0 +1,21 @@
+{ 
+	"symbol":"ISC", 
+	"address":"0x1be8e319fa206846d24c5e22d7d1f401e65c0bd4", 
+	"overview":{ 
+		"en":"ISC英文简介", 
+		"zh":"ISC中文简介"
+	 },
+	"email":"service@omtmchain.com", 
+	"website":"https://www.omtmchain.com", 
+	"published_on":"2018-10-01", 
+	"initial_price":{ 
+		"ETH":"0.0005 ETH", 
+		"USD":"0.1 USD", 
+		"BTC":"0.0 BTC"
+	},
+	"links": { 
+		"blog":"https://cois.io",
+		"telegram":"https://t.me/canonchain"
+	}
+}
+
