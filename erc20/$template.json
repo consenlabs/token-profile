@@ -1,21 +1,17 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
-  "overview": "Token Description",
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED",
-  "published_on": "2018-01-01",
-  "initial_price": "2000:1 ETH",
+  "symbol": "AMSC",
+  "address": "0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033",
+  "overview": "Amethyst Coin Innovation for Payment Solutions",
+  "email": "official@amethystcoin.com",
+  "website": "http://amethystcoin.com/",
+  "whitepaper": "http://amethystcoin.com/assets/whitepaper/Amethystwhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-30",
+  "initial_price": "200000:0.01 ETH",
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "twitter": "https://twitter.com/amethyst_coin",
+    "telegram": "https://t.me/amethystcoingroup",
+    "github": "https://github.com/amethyscoin1",
+    "medium": "https://medium.com/@amethystcoin"
   }
 }
