@@ -11,6 +11,8 @@
   "state": "NORMAL",
   "published_on": "2018-10-10",
   "initial_price":{
-        "HKD":"1.0000 HKD"
+        "ETH":"0.0002418 ETH",
+        "USD":"0.1272 USD",
+        "BTC":"0.00001836 BTC"
   }
 }
