@@ -1,0 +1,22 @@
+{
+  "symbol": "NEXUS",
+  "address": "0x6cF1d9eEDC34a13bD385D02310d4Bfcf83CB270F",
+  "overview":{
+        "en": "New innovation Cryptocurrency Wallet with security and efficient support for future assets, easy to use and support various platforms."
+  },
+  "email": "Email",
+  "website": "http://nexusworld.us/",
+  "whitepaper": "hhttp://nexusworld.us/download/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-91-30",
+  "initial_price":{
+        "ETH":"0.00000003 ETH",
+        "USD":"0.000001 USD",
+        "BTC":"0.000000001 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/nexusOfficer",
+    "telegram": "https://t.me/nexus_world,
+    "github": "https://github.com/nexusworld"
+  }
+}
