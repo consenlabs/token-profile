@@ -6,8 +6,8 @@
         "zh": "YUI是一個數字貨幣社區，其使命是創建社區"
   },
   "email": "yuitoken77@gmail.com",
-  "website": "https://www.yuitoken.com",
-  "whitepaper": "https://www.yuitoken.com/whitepaper.pdf",
+  "website": "http://www.yuitoken.com",
+  "whitepaper": "http://www.yuitoken.com/whitepaper.pdf",
   "state": "NORMAL",
   "published_on": "2018-10-23",
   "initial_price":{
@@ -16,7 +16,7 @@
         "BTC":"0.00000005 BTC"
   },
    "links": {
-    "blog": "https://www.yuitoken.com",
+    "blog": "http://www.yuitoken.com",
     "twitter": "https://twitter.com/yuitoken77",
     "telegram": "https://t.me/yuitoken",
     "github": "https://github.com/yuitoken",
