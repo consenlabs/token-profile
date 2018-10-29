@@ -16,6 +16,11 @@
         "BTC":"0.0000222 BTC"
   },
   "links": {
-    "medium": "https://m.tech.china.com/tech/article/20180827/kejiyuan0718183778.html"
+    "medium": "https://m.tech.china.com/tech/article/20180827/kejiyuan0718183778.html",
+	"sohu":"http://www.sohu.com/a/271541223_217124",
+	"sohu":"https://www.sohu.com/a/255536666_217124",
+	"china.com":"https://tech.china.com/article/20180827/kejiyuan0718183778.html",
+	"prcfe":"http://www.prcfe.com/finance/2018/0822/303799.html",
+	"ifeng":"http://auto.ifeng.com/changsha/xinwen/2018/0925/27750.shtml"
   }
 }
