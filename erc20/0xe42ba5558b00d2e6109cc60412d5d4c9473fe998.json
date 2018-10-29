@@ -12,14 +12,13 @@
   "published_on": "2018-03-30",
   "initial_price":{
         "ETH":"0.002273 ETH",
-        "USD":"1 USD",
-
+        "USD":"1 USD"
   },
   "links": {
     "blog": "https://immcoin.wordpress.com",
     "twitter": "https://twitter.com/imm_coin",
     "github": "https://github.com/immcoin",
     "facebook": "https://www.facebook.com/iMMCoin.Official/",
-    "slack": "https://immcoin.slack.com/",
+    "slack": "https://immcoin.slack.com/"
   }
 }
