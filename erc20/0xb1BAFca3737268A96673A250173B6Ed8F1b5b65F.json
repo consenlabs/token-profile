@@ -1,0 +1,18 @@
+{
+  "symbol": "O2T",
+  "address": "0xb1BAFca3737268A96673A250173B6Ed8F1b5b65F",
+  "overview":{
+        "en":"By Fully leveraging the technology of distributed ledger (DLT) and digital encryption, O2 separates the single payment action into 2 different steps: pay and unlock, and so it will be able to overcome the innate weakness of the current banknote due to its limitation from its physical natures.",
+        "zh":"O2充分利用區塊鏈技術的分散式記帳，去中心化和加密數位貨幣技術，改造傳統紙幣本身因為其物理特性而與生俱來的弊端，就是我們天天要面對的，甚至已經習以為常的欺詐風險。 "
+  },
+  "email": "support@o2token.io",
+  "website": "http://o2token.io/",
+  "whitepaper": " http://o2token.io/doc/whitepaper.pdf",
+  "published_on": "2018-11-01",
+  "initial_price":{
+  },
+  "links": {
+    "telegram": "https://t.me/o2token",
+    "twitter": "o2token@yandex.com"
+  }
+}
