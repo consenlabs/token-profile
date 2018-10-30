@@ -1,0 +1,22 @@
+{
+  "symbol": "TXC",
+  "address": "0x9b12B29399e0797b48822F6857fA2CeccF5d9f2f",
+  "overview":{
+        "en": "Tripxchain to develop a decentralised tourisim ecosystem",
+        "zh": "Tripxchain “共享旅游链生态"
+  },
+  "email": "contactus@trip-xc.com",
+  "website": "https://www.trip-xc.com/",
+  "whitepaper": "https://www.trip-xc.com/Tripxchain_WP_eng.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-28",
+  "initial_price":
+        "ETH":"0.0002 ETH"
+      
+        
+  },
+  "links": {
+    "telegram": "https://t.me/tripxc"
+    
+  }
+}
