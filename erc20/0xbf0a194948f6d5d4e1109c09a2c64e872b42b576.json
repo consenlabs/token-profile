@@ -1,0 +1,19 @@
+{
+  "symbol": "MYC",
+  "address": "0xbf0a194948f6d5d4e1109c09a2c64e872b42b576",
+  "overview":{
+        "en":"Sharing and transparent is the core concept of block chain, improve the MYC universal integral gradually,  let each user participate in the construction and development of platform, and build MYC block chain ecosystem together.",
+        "zh":"共享和透明是区块链的核心理念， MYC将推出平台共享计划，让每一位用户参与平台的建设和发展，共建MYC区块链生态系统。"
+  },
+  "email": "manycoin@yeah.net",
+  "website": "https://manycoin.club/",
+  "whitepaper": "https://manycoin.club",
+  "published_on": "2018-10-31",
+  "initial_price":{
+        "ETH":"0.000033 ETH",
+        "BTC":"0.000002 BTC"
+  },
+  "links": {
+    "telegram": "http://share.telebox88.com/joinchat/HG1gxxJXDML8fflJTSOMnQ",
+  }
+}
