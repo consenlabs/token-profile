@@ -1,0 +1,18 @@
+{
+  "symbol": "NIC9",
+  "address": "0xd01ebda4b59cac132be6f67a90de13a0909d882e",
+  "overview":{
+        "en": "Token NIC9 has a target, which is where the NIC9 Token develops intelligently in cryptocurrency, so that it can improve the quality of prices in NIC9 trading",
+  },
+  "email": "icnine9@ic9.xyz",
+  "website": "https://ic9.xyz/",
+  "whitepaper": "https://ic9.xyz/wp-content/uploads/2018/10/WHITEPAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-09",
+  "links": {
+    "twitter": "https://twitter.com/cnine_i",
+    "telegram": "http://t.me/IC_Official_Group",
+    "github": "https://github.com/icnine9",
+    "medium": "https://medium.com/@IC9"
+  }
+}
