@@ -12,11 +12,9 @@
   "published_on": "2018-11-01",
   "initial_price":{
         "ETH":"0.0002 ETH",
-        "USD":"0.03 USD",
-       
+        "USD":"0.03 USD"
   },
   "links": {
     "telegram": "https://t.me/tripxc"
-    
-  }
+    }
 }
