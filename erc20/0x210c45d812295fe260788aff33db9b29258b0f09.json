@@ -6,8 +6,6 @@
         "zh": "人生总会有一条路是留给你的！"
   },
   "email": "luprojects@163.com",
-  "website": "http://luproject.cn/",
-  "whitepaper": "",
   "state": "NORMAL",
   "published_on": "2018-10-28",
   "initial_price":{
@@ -16,13 +14,8 @@
         "BTC":"0.00000 BTC"
   },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/LU43876944",
     "telegram": "https://t.me/luproject",
-    "github": "https://github.com/luproject",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/luproject"
   }
 }
