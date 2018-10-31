@@ -14,7 +14,7 @@
         "USD":"0.0003 USD",
         "BTC":"0.0000000001 BTC"
   },
-  "links":
+  "links": {
     "twitter": "https://t.me/ruthenium_group",
     "telegram": "https://t.me/ruthenium_group",
     "github": "https://github.com/rutheniumtoken",
