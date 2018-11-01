@@ -8,7 +8,7 @@
   "email": "574093027@qq.com",
   "website": "https://your-awesome-project.com/",
   "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-11-01",
   "initial_price":{
         "ETH":"0.00166666 ETH",
