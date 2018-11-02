@@ -1,0 +1,21 @@
+{
+  "symbol": "BINK",
+  "address": "0x296ef409c3d266f40b2f8b1092596d7b5633d93d",
+  "overview":{
+    "en": "Bi.Link is a new decentualized crypocurrency pledge loan and exchange platform, which is 100% built on blockchain system, and has the exact same user experience as those centualized exchanges. It uses the "On-Chain + Off-Chain" order processing mechanism, which result in a good balance between security and efficiency. Bi.Link's pledge loan function has multiple risk control system, to make sure there is no risk for user's asset. And also the smart contracts will be audited by several famous blockchain security company. Bi.Link will always stick on the core spirit of blockchain, its trading-mine, profit-share and BINK buy-back will all be automatically executed by smart contract.",    "zh":"Bi.Link是全新的去中心化数字资产借贷和交易平台，100%基于区块链开发，并且有接近中心化平台的用户体验。其链上+链下结合的订单方式，在安全和效率之间维持了一个很好的平衡。借贷模块设置有多重风控体系，确保用户安全贷出自己的资金。另外Bi.Link的智能合约经多家知名安全公司进行审计，消除代码漏洞导致的资金风险。Bi.Link一贯秉承区块链的核心理念，其交易挖矿、持币分红、平台币回购等均由智能合约自动执行，最大限度保证公开透明。"
+  },
+  "email": "dev@bi.link",
+  "website": "https://bi.link/",
+  "whitepaper": "https://bi.link/BiLink_WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-01",
+  "initial_price":{
+    "ETH":"0.001 ETH",
+    "USD":"0.2 USD",
+    "BTC":"0.000031 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/BiLink_CN",
+    "github": "https://github.com/bi-link"
+  }
+}
