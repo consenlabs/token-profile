@@ -1,0 +1,19 @@
+{
+    "symbol": "HC",
+    "address": "0x4aacacb0994e04f3c6d8311496aa2ad20e57c178",
+    "overview":{
+          "en":"The full name of HC, HiEXCoin (HC), is the platform currency issued by the HiEX Digital Asset Exchange. HiEX is the first digital asset exchange in the world to introduce a digital asset banking mechanism. The HiEX platform has introduced the Hi Se Credit Credit Rating System in the field of digital assets. The data recorded by the HiEX credit branch will be chained, using blockchain technology to create credit points in the field of personal digital assets.",
+          "zh":"HC全称HiEXCoin（HC）是HiEX数字资产交易所发行的平台币。HiEX是全球首家引入了数字资产银行机制的数字资产交易所，HiEX平台更是引入了数字资产领域的“芝麻信用”HiEX Credit信用分评级系统。HiEX信用分所记录的数据均会上链，利用区块链技术打造个人数字资产领域的信用分。"
+    },
+    "email": "token@hiex.net",
+    "website": "https://www.hiex.net",
+    "whitepaper": "https://rlc-cdn.azureedge.net/Public/Home/pdf/white-book.pdf",
+    "published_on": "2018-06-01",
+    "initial_price":{
+          "ETH":"0.000028 ETH",
+          "BTC":"0.0000014 BTC"
+    },
+    "links": {
+
+    }
+  }
