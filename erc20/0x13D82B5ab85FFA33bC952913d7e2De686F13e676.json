@@ -1,0 +1,20 @@
+﻿{
+  "symbol": "SML",
+  "address": "0x13D82B5ab85FFA33bC952913d7e2De686F13e676",
+  "overview": {
+        "zh": "SML基金会是一家服务于全球数码产品技术开发的运营团队。 具有丰富数码科技经验的技术，拥有大量的行业技术专家和权威技术顾问，为 全球超过诸多数码科技平台提供底层技术引擎和科学算法。"
+  },
+  "website": "http://www.shumalian.io",
+  "whitepaper": "https://shumalian.github.io/wp/shumalian-cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-03",
+  "initial_price": {
+        "ETH": "0.00026315 ETH",
+        "USD": "0.08088 USD",
+        "BTC": "0.00000764789 BTC"
+  },
+  "links": {
+    "biyong": "https://0.plus/shumalian",
+    "github": "https://github.com/shumalian"
+  }
+}
