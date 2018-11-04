@@ -1,0 +1,21 @@
+{
+  "symbol": "AIRDROP",
+  "address": "0xba7435A4b4C747E0101780073eedA872a69Bdcd4",
+  "overview":{
+        "en": " AirdropToken is the airdrop eco-public TOKEN, the world’s first eco-public token, a digital asset with a combination of targeting, parameters and community tags, and is committed to a decentralized public airdrop ecology TOKEN. AIRDROP is ERC20 based on Ethereum, distributed free of charge through the contract declining airdrop mode, and the reserve part is released simultaneously. It’s distributed to the support body which facing to the airdrop ecology, rewarded and used as a co-construction ecological support.",
+        "zh": "AIRDROP(AirdropToken)是空投生态公共TOKEN，全球首个生态公有通证，是具备靶向、参数和社群标签复合属性的数字资产，致力于达成一个去中心化的公共空投生态TOKEN。AIRDROP是运行在以太坊上的ERC20，通过合约递减型空投模式免费派发，储备部分同步释放，面向空投生态的的支撑主体进行派送、奖励和用作共建生态支撑。"
+  },
+  "email": "AirdropGift@Gmail.com",
+  "website": "http://Airdrop.Gift",
+  "whitepaper": "http://Airdrop.Gift",
+  "state": "NORMAL",
+  "published_on": "2018-02-23",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "github": "https://github.com/AirdropGift"
+  }
+}
