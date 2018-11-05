@@ -1,16 +1,21 @@
----
-addr: '0x0784dbabb6c6834bddfb7cfee116ba049e5dafab'
-decimals: 18
-description: >-
-  iBTC is a tokenized version of Bitcoin on the Ethereum blockchain to help bitcoin to achieve is full
-  potential. There are 21 million iBTC, and no additional tokens will ever be produced.
-links:
-- Bitcointalk: https://bitcointalk.org/index.php?topic=2251334.0
-- Blog: http://ibtctoken.com/blog
-- Email: mailto:info@ibtctoken.com
-- Reddit: https://www.reddit.com/r/iBTCToken
-- Telegram: https://t.me/joinchat/FNH590OePKXIG4kci-Z--w
-- Twitter: https://twitter.com/ibtctoken
-- Website: http://ibtctoken.com/
-name: IBTC
-symbol: IBTC
+{
+  "symbol": "NWR",
+  "address": "0x60AD32E32e07dEf2997dCA8859b6AC8a29E259f1",
+  "overview":{
+        "en": "NEWERA is a future cryptocurrency project that focuses on the cryptocurrency exchange marketand online stores in the future."
+  },
+  "email": "official@newera.icu",
+  "website": "https://www.newera.icu/",
+  "whitepaper": "https://www.newera.icu/WHITEPAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-04",
+  "initial_price":{
+        "ETH":"0.00000005 ETH"
+  },
+  "links": {
+    "medium": "https://medium.com/@NEWERA",
+    "twitter": "https://twitter.com/NWR_NEWERA",
+    "telegram": "https://t.me/NeweraOfficial",
+    "github": "https://github.com/NEWERAproject/"
+  }
+}
