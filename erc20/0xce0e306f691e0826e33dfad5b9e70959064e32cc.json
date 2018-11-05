@@ -1,0 +1,16 @@
+{
+  "symbol": "HSCM",
+  "address": "0xce0e306f691e0826e33dfad5b9e70959064e32cc",
+  "overview":{
+        "en": "mCloudhash Mobile Ethereum mining A Platform for Association Mining in Binding-Data.We use the mobile phone binding mine mining . That we made with the latest technology! ",
+        "zh": "mCloudhash 移动以太坊挖掘 绑定数据中的关联挖掘平台。我们使用手机绑定矿井挖掘。我们用最新技术制作的！"
+  },
+  "email": "hello@mcloudhash.cn",
+  "website": "http://www.mcloudhash.io/",
+  "state": "NORMAL",
+  "published_on": "2018-05-23",
+  "initial_price":{
+        "ETH":"0.00004 ETH",
+        "USD":"0.002 USD" 
+  }
+}
