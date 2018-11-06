@@ -1,0 +1,20 @@
+{
+  "symbol": "SAG",
+  "address": "0x12702ee32b4ba523d3006d4466fb13a1af799549",
+  "overview":{
+        "en": "Super Ability Group",
+        "zh": "超能链"
+  },
+  "email": "",
+  "website": "https://sag.superability.vip/",
+  "whitepaper": "https://sag.superability.vip/",
+  "state": "NORMAL",
+  "published_on": "2018-11-01",
+  "initial_price":{
+        "ETH":"0.00004727 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.00000156 BTC"
+  },
+  "links": {
+  }
+}
