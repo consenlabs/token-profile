@@ -1,0 +1,22 @@
+{
+  "symbol": "MICRO",
+  "address": "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d",
+  "overview":{
+        "en": "MicroExchange is the next generation of Cryptocurrenecy exchanger platforms. MicroExchange only supports ERC-20 Token platforms run by Ethereum. MicroExchange is a decentralized exchange. Why did we choose Decendralized Excahnge? Because in a decentralized exchange you can manage your own funds."
+  },
+  "email": "admin@micromines.co",
+  "website": "https://micromines.co",
+  "whitepaper": "https://micromines.co/wp-content/uploads/2018/10/wp-fix-mcr.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-23",
+  "initial_price":{
+        "ETH":"0.00000005 ETH"
+  },
+  "links": {
+    "medium": "https://medium.com/@MicroMINS",
+    "twitter": "https://twitter.com/microminstoken",
+    "telegram": "https://t.me/MicrominesANN",
+    "github": "https://github.com/MicroToken",
+    "facebook": "https://www.facebook.com/pg/Microminestoken"
+  }
+}
