@@ -1,0 +1,20 @@
+{
+    "symbol": "BT",
+    "address": "0xfB868768802A1A59b7Ef9f37B73A939fAE319a39",
+    "overview":{
+          "en": "BT is a token issued by the Btcoins exchange platform,it's direction is an intermediary that aims to create a currency for all public currency currencies, enabling investors to cross-transactions, cross-settlement, access between different currencies and assets.",
+          "zh": "BT是由Btcoins exchange平台发行的代币,BT发展方向是一种中间媒介,旨在打造作为所有公链货币的兑换货币,实现投资者跨所交易、跨所结算、不同币种和资产之间的存取。"
+    },
+    "email": "support@btcoins.cc",
+    "website": "http://btcoins.cc",
+    "whitepaper": "http://www.btcoins.me/hryfile/whitepaper/btcoins.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-10-30",
+    "initial_price":{
+          "ETH":"0 ETH",
+          "USD":"1 USD",
+          "BTC":"0 BTC"
+    },
+    "links": {
+    }
+}
