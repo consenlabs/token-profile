@@ -1,28 +1,28 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "TKLK",
+  "address": "okkkkkkkkkkk",
   "overview":{
-        "en": "Token Description.",
+        "en": "The first global financial planning service based on EOS aims to build a global decentralized asset transmission network system.",
         "zh": ""
   },
   "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "website": "https://tklk.io/",
+  "whitepaper": "https://tklk.io/m/WhiteBook",
   "state": "LOCKED | NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "ETH":"0.000625 ETH",
+        "USD":"0.2 USD",
+        "BTC":"0.00002137 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
   }
 }
