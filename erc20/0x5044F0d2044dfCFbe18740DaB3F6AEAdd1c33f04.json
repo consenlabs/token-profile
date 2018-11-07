@@ -1,0 +1,17 @@
+{
+  "symbol": "CCEA",
+  "address": "0x5044F0d2044dfCFbe18740DaB3F6AEAdd1c33f04",
+  "overview":{
+        "en": "Initiated by 30 chairmen of the Chamber of Commerce,CCEA in the world use memory block chain technology to issue and issue bills of lading transactions on exchanges for products with high quality and premium market at ex-factory price plus 20% to fundamentally solve the problems of product circulation, pipeline operation, enterprise financing and capital investment.",
+        "zh": "世界华商由30位商会会长发起，利用内存块链技术，将全球刚需高质量有溢价有市场的产品以出厂价加20%作为产品券在交易所发行并挂单交易，从根本上解决产品流通、管道运营、企业融资、资本投资问题。"
+  },
+  "email": "support@ccea.club",
+  "website": "http://ccea.club/",
+  "whitepaper": "https://cceaio.github.io/wp/ccea.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-06-29",
+  "links": {
+    "github": "https://github.com/cceaio",
+    "telegram": "https://t.me/cceaio"
+  }
+}
