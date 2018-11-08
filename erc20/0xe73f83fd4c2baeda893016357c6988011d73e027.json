@@ -10,7 +10,9 @@
     "state": "NORMAL",
     "published_on": "2018-05-03",
     "initial_price":{
-          "USD":"0.045 USD"
+          "ETH":"0.0002083 ETH",
+          "USD":"0.045 USD",
+          "BTC":"0.000006875 BTH"
     },
     "links": {
       "blog": "https://www.bgj.io/",
