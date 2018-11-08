@@ -16,13 +16,13 @@
           "BTC":""
     },
     "links": {
-      "blog": "",
+      "blog": "https://www.bgj.io/",
       "twitter": "https://twitter.com/bgj_io",
       "telegram": "https://t.me/joinchatHHbi4xDqMT",
       "github": "https://github.com/bgjio",
-      "facebook": "",
+      "facebook": "https://www.bgj.io/",
       "reddit": "https://www.reddit.com/user/bgj_io",
-      "slack": "",
-      "medium": ""
+      "slack": "https://www.bgj.io/",
+      "medium": "https://www.bgj.io/"
     }
   }
