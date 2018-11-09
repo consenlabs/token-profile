@@ -1,0 +1,15 @@
+{
+  "symbol": "WPAY",
+  "address": "0x1436c08d4c02b2071bc092666c97e19940733ab8",
+  "overview":{
+        "en": "WPAY",
+        "zh": "W通证"
+  },
+  "email": "lonekay@163.com",
+  "website": "http://www.bitooex.com/",
+  "state": "NORMAL",
+  "published_on": "2018-11-1",
+  "initial_price":{
+        "USD":"0.14 USD"
+  }
+}
