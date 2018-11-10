@@ -1,0 +1,23 @@
+{
+  "symbol": "GCS",
+  "address": "0x163c2916188a6df1d543de51a85558d7e1d0d2bb",
+  "overview":{
+        "en": "Genealogy Chain System.",
+        "zh": "家谱链系统"
+  },
+  "email": "genealogychain@genealogychain.io",
+  "website": "https://genealogychain.io/",
+  "whitepaper": "https://genealogychain.io/whitepaperen.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-23",
+  "initial_price":{
+        "USD":"0.3 USD"
+  },
+  "links": {
+    "blog": "https://www.jianshu.com/u/c269195b30aa",
+    "twitter": "https://twitter.com/genealogychain",
+    "telegram": "share.telebox88.com/GCSchain",
+    "github": "https://github.com/Genealogychain",
+    "facebook": "https://www.facebook.com/genealogychain.chain"
+  }
+}
