@@ -1,0 +1,23 @@
+{
+  "symbol": "GCS",
+  "address": "0x163C2916188A6dF1d543De51A85558D7e1D0d2bB",
+  "overview":{
+        "en": "A community with strong social interaction, such as pedigree information, geographical information, genetic similarity information, is presented with block chain technology to create a multi-dimensional, in-depth and strong application of block chain as a platform for social ecology.",
+        "zh": "一个通过将谱系信息、地域信息、基因相似信息等强社会互动关系社区以区块链技术呈现，打造多元化、深度化、强应用化的区块链先导社交生态的平台。"
+  },
+  "email": "genealogychain@genealogychain.io",
+  "website": "https://genealogychain.io/",
+  "whitepaper": "https://genealogychain.io/whitepaperen.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-23",
+  "initial_price":{
+        "USD":"0.3 USD"
+  },
+  "links": {
+    "blog": "https://www.jianshu.com/u/c269195b30aa",
+    "twitter": "https://twitter.com/genealogychain",
+    "telegram": "https://t.me/GCSchain",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/genealogychain.chain"
+  }
+}
