@@ -18,7 +18,6 @@
     "twitter": "https://twitter.com/your-awesome-project",
     "telegram": "https://t.me/joinchat/your-awesome-project",
     "github": "https://github.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "bp_profile": "https://github.com/consenlabs/eos-bp-profile/blob/master/bp/%24template.json"
+    "reddit": "https://www.reddit.com/r/your-awesome-project/"
   }
 }
