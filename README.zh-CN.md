@@ -25,12 +25,12 @@ git clone git@github.com:xxxxxxxx/token-profile.git
 4. 在 erc20 目录里添加一个新的 json 文件，使用 **checksum** 代币合约地址命名这个 json 文件。举例：
 *0xf90f1648926005A8bb3ed8ec883164De7F768743.json*
 
-5. json 文件的内容参照模板文件：[$template.json](./erc20/$template.json)
+5. json 文件请使用UTF-8编码，否则Travis-CI会构建失败。内容请参照模板文件：[$template.json](./erc20/$template.json)
 6. 代币 logo 放到 images 目录里，图片名称也是使用 **checksum** 代币合约地址命名。对于 logo 的要求参照下面的说明
 7. 如果你的代币已经被添加了，你可以在对应的目录下更新相应的代币信息
 8. commit 提交信息
 9. push 提交信息到你的 repo
-10. 在你的 repo 页面下点击 `New pull request` 按钮，并附上详细的描述（比如建议设置的 gas ，默认为 60000）
+10. 在你的 repo 页面下点击 `New pull request` 按钮，并附上详细的描述（比如建议 gas ，默认为 60000; 已收录的交易所）
 11. 我们会尽快核实你的 PR，如果 PR 没问题我们会合并到主分支下
 
 ## 要求
