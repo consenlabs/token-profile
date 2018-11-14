@@ -2,8 +2,7 @@
   "symbol": "SKYM",
   "address": "0x7297862B9670fF015192799cc849726c88bf1d77",
   "overview":{
-        "en": "SkyMap Token",
-        "zh": ""
+        "en": "SkyMap Token"
   },
   "email": "info@soar.earth",
   "website": "https://soar.earth",
@@ -22,7 +21,6 @@
     "github": "https://github.com/SoarEarth",
     "facebook": "https://www.facebook.com/SoarEarthOfficial/",
     "reddit": "https://www.facebook.com/SoarEarthOfficial/",
-    "slack": "",
     "medium": "https://medium.com/soar-earth"
   }
 }
