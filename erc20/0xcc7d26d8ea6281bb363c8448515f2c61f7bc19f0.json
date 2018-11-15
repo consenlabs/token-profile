@@ -16,13 +16,10 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "blog": " ",
     "twitter": "https://twitter.com/abbcfoundation",
     "telegram": "https://t.me/abbcfoundation",
     "github": "https://github.com/ABBCCash/ABBCCashtoken",
     "facebook": "https://www.facebook.com/abbcfoundation/",
-    "reddit": "https://www.reddit.com/r/ABBC/",
-    "slack": " ",
-    "medium": " "
+    "reddit": "https://www.reddit.com/r/ABBC/"
   }
 }
