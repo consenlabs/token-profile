@@ -1,9 +1,9 @@
 {
   "symbol": "GCS",
-  "address": "0x163c2916188a6df1d543de51a85558d7e1d0d2bb",
+  "address": "0x163C2916188A6dF1d543De51A85558D7e1D0d2bB",
   "overview":{
-        "en": "Genealogy Chain System.",
-        "zh": "家谱链系统"
+        "en": "A community with strong social interaction, such as pedigree information, geographical information, genetic similarity information, is presented with block chain technology to create a multi-dimensional, in-depth and strong application of block chain as a platform for social ecology.",
+        "zh": "一个通过将谱系信息、地域信息、基因相似信息等强社会互动关系社区以区块链技术呈现，打造多元化、深度化、强应用化的区块链先导社交生态的平台。"
   },
   "email": "genealogychain@genealogychain.io",
   "website": "https://genealogychain.io/",
@@ -18,6 +18,8 @@
     "twitter": "https://twitter.com/genealogychain",
     "telegram": "share.telebox88.com/GCSchain",
     "github": "https://github.com/Genealogychain",
+    "telegram": "https://t.me/GCSchain",
+    "github": "https://github.com/your-awesome-project",
     "facebook": "https://www.facebook.com/genealogychain.chain"
   }
 }
