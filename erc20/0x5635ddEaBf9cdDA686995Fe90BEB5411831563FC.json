@@ -8,7 +8,7 @@
   "email": "support@travelnote.io",
   "website": "https://ico.travelnote.io/",
   "whitepaper": "https://ico.travelnote.io/asset/travelnote-english.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-10-26",
   "initial_price":{
         "ETH":"0.00075 ETH",
