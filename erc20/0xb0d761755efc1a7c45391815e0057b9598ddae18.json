@@ -1,0 +1,13 @@
+{
+  "symbol": "Dogether",
+  "address": "0xb0d761755efc1a7c45391815e0057b9598ddae18",
+  "overview":{
+        
+        "zh": "探索以太坊和链的互换性，狗狗坊通过提高币的流动性促代币更好的适应加密货币市场"
+  },
+  "state": "NORMAL",
+  "published_on": "2018-11-14",
+  "initial_price":{
+        "USDT":"0.00005 USDT"
+  }
+}
