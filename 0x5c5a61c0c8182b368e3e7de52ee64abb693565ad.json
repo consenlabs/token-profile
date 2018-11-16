@@ -1,0 +1,11 @@
+{
+  "symbol": "ETFH",
+  "address": "0x5c5a61c0c8182b368e3e7de52ee64abb693565ad",
+  "overview":{
+        "en": "Widely popular in Ethereum and become community certification.."
+  },"state": "NORMAL",
+  "published_on": "2018-04-10",
+  "initial_price":{
+        "USD":"0.2 USD"
+  }
+}
