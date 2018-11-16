@@ -1,0 +1,20 @@
+{
+  "symbol": "ET",
+  "address": "0x37728ccfa82e101108be089dd7d97e8b7a642ee1",
+  "overview":{
+        "en":"1:1 duyuzhou element",
+        "zh":"1:1锚定度宇宙元素"
+  },
+  "email": "support@etex.vip",
+  "website": "https://etex.vip/",
+  "whitepaper": "",
+  "published_on": "2018-11-16",
+  "initial_price":{
+        "ETH":"0.000025 ETH",
+        "BTC":"0.000002 BTC"
+  },
+  "links": {
+    "telegram": "",
+    "facebook": ""
+  }
+}
