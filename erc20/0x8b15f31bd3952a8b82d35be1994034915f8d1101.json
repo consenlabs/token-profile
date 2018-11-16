@@ -1,0 +1,17 @@
+{
+  "symbol": "IFEX",
+  "address": "0x8b15f31bd3952a8b82d35be1994034915f8d1101",
+  "overview":{
+        "en":"IFEX is a payment transaction settlement platform that provides organizations and individuals, businesses and consumers with a new payment transaction settlement method, a form of transaction settlement using digital currency as a payment instrument.The development and use of IFEX allows digital currency to be used for real transactions of goods and services, making it a payment-paying product. IFEX is committed to becoming a leading edge performer of digital asset payment and settlement tools. IFEX has designed a complete ecosystem to meet the needs of individual business logic in individual entities, making it possible to apply digital currency payments to more scenarios.",
+        "zh":"IFEX是一个支付交易结算平台，为组织与个人、商家和消费者提供一种新的支付交易结算方式，一种以数字货币为支付工具的交易结算形式。IFEX的开发与使用，让数字货币用于真实的商品和服务交易，使其成为一种具有支付能力的产品。IFEX 致力于成为数字资产支付交易结算的前沿执行者，它设计了一整套完整的生态体系，满足各实体行业个性化商业逻辑需求，真正让数字货币支付应用于更多场景成为了可能。"
+  },
+  "email": "ifex@ifex.io",
+  "website": "https://ifex.io/",
+  "state": "NORMAL",
+  "whitepaper": "https://github.com/IFEXCHANGE/doc/raw/master/White-Paper.pptx",
+  "published_on": "2018-11-01",
+  "initial_price":{
+    "ETH":"0.0008 ETH",
+    "BTC":"0.0000253 BTC"
+  }
+}
