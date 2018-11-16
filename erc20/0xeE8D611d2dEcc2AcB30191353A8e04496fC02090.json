@@ -1,0 +1,22 @@
+{
+  "symbol": "VENO2",
+  "address": "0xeE8D611d2dEcc2AcB30191353A8e04496fC02090",
+  "overview":{
+        "en": "CRYPTOVENO is a Digital Currency & Blockchain Technology.",
+        "zh": ""
+  },
+  "email": "official@cryptoveno.com",
+  "website": "https://cryptoveno.com/",
+  "whitepaper": "https://www.cryptoveno.com/Whitepaper-V1.1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-61",
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/cvenoworld",
+    "telegram": "https://t.me/cryptoveno",
+    "github": "https://github.com/cryptoveno",
+    "facebook": "https://www.facebook.com/Cryptovenocom-Digital-Currency-Blockchain-Technology-409155736288033",
+    "medium": "https://medium.com/@cryptovenoproject"
+  }
+}
