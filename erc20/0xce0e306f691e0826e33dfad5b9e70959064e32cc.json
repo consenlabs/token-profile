@@ -1,0 +1,16 @@
+{
+  "symbol": "HSCM",
+  "address": "0xce0e306f691e0826e33dfad5b9e70959064e32cc",
+  "overview":{
+        "en": "Mobile Cloud Hash",
+        "zh": "手机云挖矿"
+  },
+  "email": "hello@mcloudhash.cn",
+  "website": "http://mcloudhash.com/",
+  "whitepaper": "http://mcloudhash.com/mCloudhasWhitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-17",
+  "initial_price":{
+        "USD":"0.02 USD"
+  }
+}
