@@ -8,7 +8,7 @@
   "email": "support@veloxproject.io",
   "website": "https://veloxproject.io",
   "whitepaper": "https://veloxproject.io/downloads/Velox-Whitepaper.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-09-16",
   "initial_price":{
         "ETH":"0.00160000 ETH",
