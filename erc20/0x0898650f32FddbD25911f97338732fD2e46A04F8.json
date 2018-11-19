@@ -1,0 +1,17 @@
+{
+  "symbol": "TIC",
+  "address": "0x0898650f32FddbD25911f97338732fD2e46A04F8",
+  "overview":{
+        "en": "Since Satoshi Nakamoto proposed the Bitcoin genesis block in 2009, the total market value of the global cryptocurrency market has soared from 0 dollar to today's more than 100 billion dollars. 2014 witnessed the birth of Ethereum made a even crazy vision with smart contract. Jointly with the block-chain technology, it has created a dramatic growth of the global cryptocurrency market. What’s more, it was quietly developing the power that can transform the world. ",
+        "zh": "自2009年中本聪写下比特币创世区块以来，世界数字货币市场总市值从0 飙升至今天的数千亿美元。2014年以太坊诞生，又掀起了去中心化去信任应用（智能合约）席卷全球的狂潮，与区块链技术一同为全球数字货币市场增长创造了神话，更是在悄然酝酿着变革世界的力量。"
+  },
+  "email": "m17196464776@163.com",
+  "website": "http://global-tic.com/",
+  "state": "NORMAL",
+  "published_on": "2018-11-19",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  }
+}
