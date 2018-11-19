@@ -1,0 +1,21 @@
+{
+    "symbol": "ZBT",
+    "address": "0x2237111f7352Aa08A7C2EBA1b43251ef2e4Dc9D6",
+    "overview": {
+        "en": "ZBT is dedicated to build a value discovery platform for game assets exchanging platform, and build a digital blockchain game assets leading the world. ZBT is different from other cryptocurrency or digital token. ZBT won’t have ICO, but ecologically encourage blockchain information ZBT.COM Platform in ZBT project. Users with ZBT can obtain more service contents from the ZBT.COM Platform. The holders of ZBT can be compensated based on the profitability of the team.",
+        "zh": "扎比特(ZBT)致力于打造专业的游戏资产交易平台。致力于打造全球领先的区块链游戏资产数字社区。扎比特(ZBT)与其它加密货币或数字代币不同，扎比特不会进行初始币（ICO）发行,而是使用ZBT.COM旗下区块链游戏资产交易平台ZBT.COM进行生态激励。拥有扎比特(ZBT)的用户可以得到平台更多服务内容，并根据团队的营利能力，持续对持币用户给予补偿。"
+    },
+    "email": "searchnet@126.com",
+    "website": "http://www.zbt.com",
+    "state": "NORMAL",
+    "published_on": "2018-11-01",
+    "initial_price":{
+        "ETH":"0.000039814 ETH",
+        "USD":"0.0086 USD",
+        "BTC":"0.000001315 BTC"
+  },
+    "links": {
+      "github": "https://github.com/taitaio/ZBTtoken",
+      "facebook": "https://www.facebook.com/Bithaw-Game-205153960134995/"
+    }
+}
