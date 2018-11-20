@@ -1,0 +1,18 @@
+{
+  "symbol": "WXY",
+  "address": "0x7bae88aed0510bf802fcc63afcac56e1fc513779",
+  "overview":{
+        "en": "WEX Designed to build a global digital asset trading platform and provide a flexible investment choice for the world",
+        "zh": "WEX旨在建立一个全球化的数字化资产交易平台，并为全世界提供一个灵活多样的投资选择。WEX专注于实物资产以及高附加值无形资产的数字化，通过严格的发行流程，在WEX上基于智能合约发行，实现免除中介、无需信任、信息真实的资产自由流通。我们将以丰富的资产流通交易解决方案，具备丰富经验的应用场景开发团队，同时联合优秀的底层开发团队以及全球各行业投资机构，引领区块链创新应用，助力全球化经济繁荣"
+  },
+  "email": "2904216389@qq.com",
+  "website": "http://vshen.mobile369.com/pc/index.html",
+  "whitepaper": "http://vshen.mobile369.com/pc/WEX.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-20",
+  "initial_price":{
+        "ETH":"0.001 ETH"
+  },
+  "links": {
+  }
+}
