@@ -7,8 +7,8 @@
   },
   "email": "tech@ectoken.io",
   "website": "https://ectoken.io/",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "state": "NORMAL",
+  "published_on": "2018-11-18",
   "initial_price":{
         "ETH":"0.00000001 ETH",
   },
