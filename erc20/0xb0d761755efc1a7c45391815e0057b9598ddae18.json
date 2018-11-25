@@ -2,10 +2,14 @@
   "symbol": "Dogether",
   "address": "0xb0d761755efc1a7c45391815e0057b9598ddae18",
   "overview":{
-        "en": "With the interchangeability of Sony-Taifang and Chain, Dog-dog Square improves the liquidity of money and promotes tokens to better adapt to the encrypted money market. "
+        "en": "With the interchangeability of Sony-Taifang and Chain, Dog-dog Square improves the liquidity of money and promotes tokens to better adapt to the encrypted money market. ",
+        "zh": "探索以太坊和链的互换性，狗狗坊通过提高币的流动性并促进代币更好的适应加密货币市场。"
   },
   "website": "http://www.5yg.com/",
   "whitepaper": "https://github.com/DogethereumD/ether/blob/Dogethereum/Dogethereum%20WHITE%20PAPER.pdf",
-  "published_on": "2018-11-14"
+  "published_on": "2018-11-14",
+ 
+  "links": {
+     "https://github.com/DogethereumD"
   }
 }
