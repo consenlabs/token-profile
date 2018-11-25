@@ -11,9 +11,7 @@
   "state": "NORMAL",
   "published_on": "2018-03-01",
   "initial_price":{
-    "ETH":"0.00005037 ETH",
-    "USD":"0.01 USD",
-    "BTC":"0.00000141 BTC"
+    "ETH":"0.00007142857143 ETH"
   },
   "links": {
     "blog": "https://medium.com/@nofake.io",
