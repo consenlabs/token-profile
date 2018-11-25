@@ -1,0 +1,24 @@
+
+{
+  "symbol": "DC",
+  "symbol": "DC_OLD",
+  "address": "0x7ec72e5c2e3e9c4b8757e43f80973ef6f39d374c",
+  "overview":{
+        "en": "The public chain project focusing on the bottom of commercial applications in the payment and credit finance industries is a universal decentralized financial information platform and a new generation of Internet financial platform based on block chains..",
+        "zh": "一个专注于支付、信贷金融行业商业应用底层的公有链项目，是一个通用的去中心化的金融信息平台，也是新一代的基于区块链的互联网金融平台。"
+  },
+  "website": "http://dragoncoin.link/",
+  "whitepaper": "http://dragoncoin.link/dragoncoin.pdf", 
+  "published_on": "2018-09-21",
+  "initial_price":{
+        "ETH":"0.000025 ETH",
+        "BTC":"0.000002 BTC"
+  },
+  "links": {
+    "blog": "http://blog.sina.com.cn/u/6720951612",
+    "twitter": "https://twitter.com/DCoin1969",
+    "telegram": "https://t.me/Dragon_Coin",
+    "facebook": "https://www.facebook.com/DCoin1969-236021113738949/",
+    "medium": "https://medium.com/p/67d33097a534"
+  }
+}
