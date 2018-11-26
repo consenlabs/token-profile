@@ -13,6 +13,7 @@
   "initial_price":{
         "ETH":"0.00000007 ETH",
         "USD":"0.000007 USD",
+        "BTC":"0.000000001 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/tokensultant",
