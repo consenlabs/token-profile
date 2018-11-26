@@ -1,0 +1,24 @@
+{
+  "symbol": "SLT",
+  "address": "0x0C80B7dC2E6FbcB0Ac577C3ac4dAf4BB98C2C845",
+  "overview":{
+        "en": "Sultant is a platform for the future, The next generation banking platform for digital product transactions in its own market.",
+        "zh": ""
+  },
+  "email": "support@sultant.io",
+  "website": "https://sultant.io/",
+  "whitepaper": "https://sultant.io/WHITEPAPER-SULTANT.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-31",
+  "initial_price":{
+        "ETH":"0.00000007 ETH",
+        "USD":"0.000007 USD",
+  
+  },
+  "links": {
+
+    "twitter": "https://twitter.com/tokensultant",
+    "telegram": "https://sultant.io",
+    "facebook": "https://www.facebook.com/sultanttoken/",
+  }
+}
