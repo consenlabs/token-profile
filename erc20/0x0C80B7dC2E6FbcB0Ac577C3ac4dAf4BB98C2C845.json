@@ -2,7 +2,7 @@
   "symbol": "SLT",
   "address": "0x0C80B7dC2E6FbcB0Ac577C3ac4dAf4BB98C2C845",
   "overview":{
-        "en": "Sultant Store is one of the marketplace with receipt of payment for sultant tokens. everyone can participate to buy sultant tokens and use them to buy various kinds of digital products at the sultant store.",
+        "en": "Sultant Store is one of the marketplace with receipt of payment for sultant tokens to buy digital products at the sultant store.",
         "zh": "-"
   },
   "email": "admin@sultant.io",
@@ -13,7 +13,7 @@
   "initial_price":{
         "ETH":"0.00000007 ETH",
         "USD":"0.000007 USD",
-        "BTC":"0.000000001 BTC"
+        "BTC":"0.00000001 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/tokensultant",
