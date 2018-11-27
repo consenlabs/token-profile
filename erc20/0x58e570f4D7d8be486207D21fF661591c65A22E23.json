@@ -2,9 +2,10 @@
   "symbol": "PHNEX",
   "address": "0x58e570f4D7d8be486207D21fF661591c65A22E23",
   "overview":{
-        "en": "PHOENEX (PHNEX) is a standard ERC-20 compliant token created through Ethereum Smart Contract. Wallets that support ERC20 tokens can be used to receive, store, and send PHOENEX tokens. The PHOENEX token is not a security token. It is classified as payment or utility tokens which will be used in the PHOENEX Exchange application as exchange fees, withdraw fees, new coin or token listing fees, advertising fees, etc."
+        "en": "PHOENEX (PHNEX) is a standard ERC-20 compliant token created through Ethereum Smart Contract. Wallets that support ERC20 tokens can be used to receive, store, and send PHOENEX tokens. The PHOENEX token is not a security token. It is classified as payment or utility tokens which will be used in the PHOENEX Exchange application as exchange fees, withdraw fees, new coin or token listing fees, advertising fees, etc.",
+        "zh": ""
   },
-  "email": "offcial@phoenex.global",
+  "email": "official@phoenex.global",
   "website": "https://phoenex.global/",
   "whitepaper": "https://docs.wixstatic.com/ugd/43cc44_09315c81f8b64fbbbcfbcaee049e4e27.pdf",
   "state": "NORMAL",
@@ -20,3 +21,4 @@
     "reddit": "https://www.reddit.com/r/PhoenEx",
     "medium": "https://medium.com/@phoenex.exchange/phoenex-exchange-reborn-5ef90b7a1c1"
   }
+}
