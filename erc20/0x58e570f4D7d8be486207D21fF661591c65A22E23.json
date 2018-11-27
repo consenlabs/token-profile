@@ -2,7 +2,7 @@
   "symbol": "PHNEX",
   "address": "0x58e570f4D7d8be486207D21fF661591c65A22E23",
   "overview":{
-        "en": "PHOENEX (PHNEX) is a standard ERC-20 compliant token created through Ethereum Smart Contract. Wallets that support Ethereum such as MyEtherWallet, ImToken, Metamask, Parity, Mist, and Ethereum Wallet can be used to receive, store, and send PHOENEX tokens. The PHOENEX token is not a security token. It is classified as payment or utility tokens which will be used in the PHOENEX Exchange application as exchange fees, withdraw fees, new coin or token listing fees, advertising fees, etc."
+        "en": "PHOENEX (PHNEX) is a standard ERC-20 compliant token created through Ethereum Smart Contract. Wallets that support ERC20 tokens can be used to receive, store, and send PHOENEX tokens. The PHOENEX token is not a security token. It is classified as payment or utility tokens which will be used in the PHOENEX Exchange application as exchange fees, withdraw fees, new coin or token listing fees, advertising fees, etc."
   },
   "email": "offcial@phoenex.global",
   "website": "https://phoenex.global/",
