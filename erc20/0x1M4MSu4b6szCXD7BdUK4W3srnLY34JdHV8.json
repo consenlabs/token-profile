@@ -1,34 +1,13 @@
-{
-  "symbol": "HCT",
-  "address": "0x1M4MSu4b6szCXD7BdUK4W3srnLY34JdHV8",
-  "overview":{
-        "en":"HCT is HashChain platform token. It is based on the ERC-20 token standard and has a total supply of 1 billion tokens, with no further issuance. 
-HCT will circulate and be used throughout the ecosystem of the HashChain, so it will have a wide range of usage scenarios and values in users. The outlook for the HCT ecosystem is to become a partner community. The HashChain foundation aims to maintain and promote democratic management for members of the ecosystem.",
-        "zh":"HCTÊÇHashChain TokenµÄ¼ò³Æ£¬ ÊÇHashÁ´Æ½Ì¨·¢ĞĞµÄÍ¨Ö¤¡£HCT»ùÓÚERC20·¢ĞĞ£¬×ÜÁ¿10ÒÚÃ¶£¬ÓÀ²»Ôö·¢¡£
-HCT½«ÔÚHashÁ´Õû¸öÉúÌ¬ÖĞÁ÷Í¨ºÍÊ¹ÓÃ£¬HCT½«ÓµÓĞ¹ã·ºµÄÊ¹ÓÃ³¡¾°ºÍ¼ÛÖµ¡£HCTÉúÌ¬ÏµÍ³µÄÕ¹ÍûÊÇ³ÉÎªÒ»¸öºÏ×÷»ï°éÉçÈº¡£
-HashChain»ù½ğ»áÖ¼ÔÚÎª¸ÃÉúÌ¬ÏµÍ³µÄ³ÉÔ±Î¬»¤²¢´Ù½øÃñÖ÷Ê½¹ÜÀí¡£HashChain»ù½ğ»áµÄÈÎÎñÊÇ·¢Õ¹»ùÓÚÇø¿éÁ´µÄĞĞÒµÉúÌ¬ÏµÍ³£¬Ê¹Ïû·ÑÕß¿ÉÒÔÓÚÆäÖĞÇáÒ×Ì½Ë÷²¢·¢ÏÖ¼ÛÖµ£¬Í¬Ê±Ò²ÎªÆäËû¿ª·¢ÕßÌá¹©Ò»¸ö¿ª·Å¿É³ÖĞøµÄÆ½Ì¨£¬ÒÔ½øĞĞ¿ª·¢¡¢½»¸¶ÓëÔöÇ¿ÕâĞ©·şÎñ²¢ÎüÒıÊ¹ÓÃÕß¡£ÎªÁËÍê³ÉÊ¹Ãü£¬HashChain»ù½ğ»á½«°Ñ×ÊÔ´Í¶Èëµ½ÓëÑĞ·¢ºÍ¹ÜÀíÏà¹ØµÄ¾ßÌåÄ¿±êÖĞ¡£
-01¹ÜÀíÄ¿±ê 
-HashChain»ù½ğ»á¼Æ»®Í¶Èë×ÊÔ´½¨Á¢Ò»¸ö¹«Æ½Í¸Ã÷µÄ¹ÜÀíÁ÷³Ì£¬²¢½«ÉúÌ¬ÏµÍ³ÄÚËùÓĞ²ÎÓëÕßµÄÒâ¼ûºÍĞèÇóÄÉÈë¿¼ÂÇ¡£ÕâÖÖ¿ª·ÅµÄ¹ÜÀíÄ£Ê½½«ÄÜ¼à¶½Óë»áÔ±Á÷³Ì¡¢²ÎÓë¹æÔò¡¢´ú±Ò·¢ĞĞ¡¢¶¨¼Û¹æÔò¡¢·¨ÂÉÊÂÏî£¬ÒÔ¼°ÄÚÈİÓëºÏ¹æ×¼ÔòÏà¹ØµÄ¾ö²ß¡£
-HashChain»ù½ğ»á½«¸ºÔğ¹ÜÀíºÍ¼à¶½HCTµÄ°²È«ĞÔ£¬ÒÔ¼°Ê¹ÓÃHCTºÍÈÎºÎ´ú±ÒÊÕÈëµÄÍ¸Ã÷¶È¡£
-02ÑĞ¾¿Ä¿±ê
-HashChain»ù½ğ»áÖ¼ÔÚÍ¸¹ıÓëºÏ×÷»ï°éºÏ×÷À´ÅàÓıÈ¥ÖĞĞÄ»¯µÄĞĞÒµÉúÌ¬»·¾³¡£ºÏ×÷ÄÚÈİ°üÀ¨²âÊÔ²ÎÓëÉúÌ¬ÏµÍ³µÄĞÂÍ¾¾¶¡¢ÍÆ¶¯¼ÛÖµ´´ÔìºÍ¹æÄ£Ğ§Ó¦¡£HashChain»ù½ğ»á¿ÉÒÔ×ÊÖúÑĞ·¢¹¤×÷£¬ÒÔÍêÉÆÒ»¸ö°²È«ÓĞĞ§µÄ×ÔÖ÷ÍøÂç¡£
-HashChain»ù½ğ»á¼Æ»®Ö¸µ¼²¢×ÊÖúHashÁ´±¾ÉíµÄ¿ª·¢£¬ÒÔ¼°ÄÜ¸³ÓèÉúÌ¬ÏµÍ³ºÏ×÷»ï°éÏàÁ¢¡¢·¢Õ¹ºÍ´´Ôì¼ÛÖµÄÜÁ¦µÄ¹¤¾ß¡£
-HashChain»ù½ğ»á½«Í¸¹ı²ÎÓë¿ª·¢ÍÅ¶Ó£¬³ÖĞø¸Ä½øÖ§Ô®ÉúÌ¬ÏµÍ³µÄ¼¼ÊõÌ×¼şÀ´½øÒ»²½¿ªÕ¹ÕâÏî¹¤×÷£¬»¥½¨²¢Î¬»¤ÉúÌ¬ÏµÍ³²ÎÓëÕß¿ÉÒÔÊ¹ÓÃµÄ¿ªÔ´´úÂë¿â¡£"
-  },
-  "email": "hash@zlinkchain.com",
-  "website": "https://www.zlinkchain.com/",
-  "whitepaper": "",
-  "state": "NORMAL",
-  "published_on": "2018-03-21",
-  "initial_price":{
-        ""
-  },
-  "links": {
-                "Browser":"http://www.zlinkchain.com/DefaultPage/BlockChainBrower",
-                "API Document":"http://121.196.223.37:8080/HFBlockChainServer/doc.html",
-                "Transaction enquiry":"http://www.zlinkchain.com/DefaultPage/THashSearch",
- 	"wechat": "https://mp.weixin.qq.com/s/ESxHSQTrM-37o6VCZ35GVg",
-	"github": "https://github.com/Hash-Chain",
 
-  }
-}
+1ã€å‘è¡Œä¸­å¤®é’±åŒ…åŸå§‹ç”¨æˆ·ï¼ˆé‡è¦ï¼‰
+
+ç§é’¥ï¼šJVuKKNiAyjOtu1HcnRa9BhjK8eYJyCX4V+3eebdiFWc=
+å…¬é’¥ï¼šAx+xJYL5CrFqV1AqkIZMsDahZouZJ0WY8JqBrjswL4ie
+ç§é’¥ç­¾åï¼šMEUCIQDlyoewR4xX6KPWhewEELebQaHh97slIf95Pu5IYic5iAIgdqLyPWwV9Zgr1bi53yv/xw1NFtxHWAWkWDnRrNA2Iy4=
+å¯¹åº”çš„è´¦å·åœ°å€ï¼š1BuAKdkjF5jmWqKyTz7Frw1JdvTmYeSACY
+è´¦æˆ·Uidï¼š1040306c3d1f4690a3db3f36fdaeff6e
+
+2ã€åŒºå—é“¾æµè§ˆå™¨æŸ¥è¯¢åœ°å€
+
+http://www.zlinkchain.com/DefaultPage/THashSearch
+
