@@ -1,0 +1,34 @@
+{
+  "symbol": "HCT",
+  "address": "0x1M4MSu4b6szCXD7BdUK4W3srnLY34JdHV8",
+  "overview":{
+        "en":"HCT is HashChain platform token. It is based on the ERC-20 token standard and has a total supply of 1 billion tokens, with no further issuance. 
+HCT will circulate and be used throughout the ecosystem of the HashChain, so it will have a wide range of usage scenarios and values in users. The outlook for the HCT ecosystem is to become a partner community. The HashChain foundation aims to maintain and promote democratic management for members of the ecosystem.",
+        "zh":"HCT是HashChain Token的简称， 是Hash链平台发行的通证。HCT基于ERC20发行，总量10亿枚，永不增发。
+HCT将在Hash链整个生态中流通和使用，HCT将拥有广泛的使用场景和价值。HCT生态系统的展望是成为一个合作伙伴社群。
+HashChain基金会旨在为该生态系统的成员维护并促进民主式管理。HashChain基金会的任务是发展基于区块链的行业生态系统，使消费者可以于其中轻易探索并发现价值，同时也为其他开发者提供一个开放可持续的平台，以进行开发、交付与增强这些服务并吸引使用者。为了完成使命，HashChain基金会将把资源投入到与研发和管理相关的具体目标中。
+01管理目标 
+HashChain基金会计划投入资源建立一个公平透明的管理流程，并将生态系统内所有参与者的意见和需求纳入考虑。这种开放的管理模式将能监督与会员流程、参与规则、代币发行、定价规则、法律事项，以及内容与合规准则相关的决策。
+HashChain基金会将负责管理和监督HCT的安全性，以及使用HCT和任何代币收入的透明度。
+02研究目标
+HashChain基金会旨在透过与合作伙伴合作来培育去中心化的行业生态环境。合作内容包括测试参与生态系统的新途径、推动价值创造和规模效应。HashChain基金会可以资助研发工作，以完善一个安全有效的自主网络。
+HashChain基金会计划指导并资助Hash链本身的开发，以及能赋予生态系统合作伙伴相立、发展和创造价值能力的工具。
+HashChain基金会将透过参与开发团队，持续改进支援生态系统的技术套件来进一步开展这项工作，互建并维护生态系统参与者可以使用的开源代码库。"
+  },
+  "email": "hash@zlinkchain.com",
+  "website": "https://www.zlinkchain.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-03-21",
+  "initial_price":{
+        ""
+  },
+  "links": {
+                "Browser":"http://www.zlinkchain.com/DefaultPage/BlockChainBrower",
+                "API Document":"http://121.196.223.37:8080/HFBlockChainServer/doc.html",
+                "Transaction enquiry":"http://www.zlinkchain.com/DefaultPage/THashSearch",
+ 	"wechat": "https://mp.weixin.qq.com/s/ESxHSQTrM-37o6VCZ35GVg",
+	"github": "https://github.com/Hash-Chain",
+
+  }
+}
