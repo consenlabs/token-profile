@@ -1,0 +1,23 @@
+{
+  "symbol": "ALC",
+  "address": "0x5477F7e1e7F741d448efDA2Ce04878eD5Eb2B1a4",
+  "overview":{
+        "en": "ALicoin headquartered in Dubai,is committed to resolve the contradiction transparent low-performance centralized exchange high-performance opaque and decentralized public exchange,and is expected to become the world's first to support multi-state law currency trading digital asset trading platform.",
+        "zh": "ALicoin总部位于迪拜，致力于解决中心化交易所高性能不透明与去中心化交易所公开透明低性能的矛盾，并有望成为全球首家支持多国家法币交易的数字资产交易平台"
+  },
+  "email": "foundation@alicoin.one",
+  "website": "https://www.alicoin.one",
+  "whitepaper": "http://alicoin.one/docs/wp/en_wp.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-20",
+  "initial_price":{
+        "ETH":"0.0001ETH",
+        "USD":"0.015USD",
+        "BTC":"0.00000312BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ALiCoin6?lang=en",
+    "telegram": "https://t.me/joinchat/LKby3xAtRbUe2SdX0x1ISA",
+    "facebook": "https://www.facebook.com/people/ALi-Coin/100029986755005",
+  }
+}
