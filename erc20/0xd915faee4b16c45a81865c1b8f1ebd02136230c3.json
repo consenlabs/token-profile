@@ -1,0 +1,22 @@
+{
+  "symbol": "BOSS",
+  "address": "0xd915faee4b16c45a81865c1b8f1ebd02136230c3",
+  "overview":{
+        "en": "DBOSS Token"
+  },
+
+  "email": "dboss@dboss.email",
+  "website": "https://www.dboss.vip",
+  "whitepaper": "https://usechain.net/usechain_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-07",
+  "initial_price":{
+        "BTC":"0.000000714 BTC"
+  },
+  "links": {
+       "blog": "https://your-awesome-project.com/blog",
+       "twitter": "https://mobile.twitter.com/home",
+        "telegram": "https://t.me/joinchat/JWP1gRI3FWJm_X1UlXBDiw",
+        "facebook": "https://m.facebook.com/home.php?ref=wizard&_rdr"
+  }
+}
