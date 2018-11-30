@@ -8,7 +8,7 @@
   "email": "admin@msg.top",
   "website": "http://bitmessage.pro/",
   "whitepaper": "http://bitmessage.pro/bitmessage.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-07-06",
   "initial_price":{
         "ETH":"0.00000141 ETH",
