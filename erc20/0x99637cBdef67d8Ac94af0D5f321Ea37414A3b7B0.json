@@ -11,7 +11,7 @@
   "state": "NORMAL",
   "published_on": "2018-11-28",
   "initial_price":{
-        "ETH":"0.0012500000",
+        "ETH":"0.0012500000 ETH",
         "USD":"0.2625000000 USD",
         "BTC":" 0.0000416667 BTC"
   },
