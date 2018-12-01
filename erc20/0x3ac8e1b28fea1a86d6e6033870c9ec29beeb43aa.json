@@ -1,6 +1,6 @@
 {
-  "symbol": "VC_Beta",
-  "address": "0x8cd9af9960f433d91776bfaa063d8481cf9aef51",
+  "symbol": "VC_Alpha",
+  "address": "0x3ac8e1b28fea1a86d6e6033870c9ec29beeb43aa",
   "overview":{
         "en": "VoiceWeb(Voice Enabled World Wide Web) Ecosystem Utility Token",
         "zh": "人工智能语音万维网（VoiceWeb）生态代币"
@@ -9,7 +9,7 @@
   "website": "https://www.voicecoin.com/",
   "whitepaper": "https://www.voicecoin.com/Voicechain_Whitepaper.pdf",
   "state": "NORMAL",
-  "published_on": "2018-05-30",
+  "published_on": "2018-03-01",
   "initial_price":{
         "ETH":"0.000012500000",
         "USD":"0.002625000000 USD",
