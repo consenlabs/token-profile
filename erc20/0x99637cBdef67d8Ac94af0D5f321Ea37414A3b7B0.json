@@ -8,7 +8,7 @@
   "email": "support@voicecoin.com",
   "website": "https://www.voicecoin.com/",
   "whitepaper": "https://www.voicecoin.com/Voicechain_Whitepaper.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-11-28",
   "initial_price":{
         "ETH":"0.0012500000",
