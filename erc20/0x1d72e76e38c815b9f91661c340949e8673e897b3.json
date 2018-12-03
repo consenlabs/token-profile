@@ -1,10 +1,11 @@
 ﻿{
-  "symbol": "GGT",
-  "address": "0x1d72e76e38c815b9f91661c340949e8673e897b3",
-  "website": "http://www.goldlinks.one",
-  "whitepaper": "http://www.goldlinks.one/templets/default/Goldlinks_Whitepaper_V1.0_Final_20181009.pdf",
-  "published_on": "2018-05-21",
-  "links": {
-    "telegram": "https://t.me/joinchat/HsytzgxbQFbwftvu82InGw"
+    "symbol": "GGT",
+    "address": "0x1d72e76e38c815b9f91661c340949e8673e897b3",
+    "email": "business@goldlinks.one",
+    "website": "http://www.goldlinks.one",
+    "whitepaper": "http://www.goldlinks.one/templets/default/Goldlinks_Whitepaper_V1.0_Final_20181009.pdf",
+    "published_on": "2018-05-21",
+    "links": {
+      "telegram": "https://t.me/joinchat/HsytzgxbQFbwftvu82InGw"
+    }
   }
-}
