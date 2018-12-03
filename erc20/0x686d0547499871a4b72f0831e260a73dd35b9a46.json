@@ -1,26 +1,20 @@
 ﻿{
-  "symbol": "GT",
-  "address": "0x686d0547499871a4b72f0831e260a73dd35b9a46",
+  "symbol": "GT(greenTea)",
+  "address": "0x0a89f7f4a634BF5430035281b578DB70EcED6a09",
   "overview":{
-        "en": "GT is a decentralized, global, secure, private, blockchain-based global green tea e-commerce system.The company is committed to making global consumption of green tea safe, private and easy for all consumers.",
-        "zh": "GT 是一个去中心化的，全球性的，安全的，隐私的，基于区块链的全球绿茶电子商务系统。致力于让所有消费者，安全、隐私、轻易的进行全球性绿茶的消费。"
+        "en": "The potato chain is based on the block chain to create a centralization community, payment, and credit system, so that the sharing of content is not dependent on the publisher's attention, but the quality and matching of the content; through the incentive of token, the circulation and value generation of content are promoted. Building a new community economic ecosystem based on the block chain, it will achieve a more efficient and convenient transaction mechanism, greatly reduce transaction costs, significantly enhance the synergy efficiency of the industrial chain, and more effectively protect the interests of all participants, build the pan entertainment industry infrastructure in the era of the value community and promote the whole industry.",
+        "zh": "土豆鏈，英文名稱為Potato chain，它以區塊鏈為基礎，打造一個去中心化社群、支付、征信體系，讓內容的分享不在取決於發佈者的關注度，而是在與該內容的品質和匹配度；通過token的激勵，促進內容的流通與價值生成。基於區塊鏈打造全新社群經濟生態圈，將實現更加高效便捷的交易機制，大幅度地降低交易成本，顯著提升產業鏈協同效率，更有力地保護各方參與者的利益，打造價值社群互聯網時代的泛娛樂產業基礎設施，推動整個行業的發展與進步"
   },
-  "email": "yooba@yooba.org",
-  "website": "https://yooba.org",
-  "whitepaper": "https://yooba.org/assets/YoobaWhitePaper_en.pdf",
+  "email": "906763860@qq.com",
+  "website": "http://www.pt.vet/",
+  "whitepaper": "http://www.pt.vet/pc/pdf/book.pdf",
   "state": "NORMAL",
-  "published_on": "2018-03-29",
+  "published_on": "2018-07-11",
   "initial_price":{
-        "ETH":"0.000002857 ETH",
-        "USD":"0.002 USD",
-        "BTC":"0.0000002 BTC"
   },
   "links": {
-    "blog": "https://blog.yooba.org",
-    "twitter": "https://twitter.com/YoobaProject",
-    "telegram": "https://t.me/yoobaproject",
-    "github": "https://github.com/yooba-team",
-    "facebook": "https://fb.me/YoobaProject",
-    "reddit": "https://www.reddit.com/r/Yooba/"
+    "twitter": "https://twitter.com/hBggAhDgLV1Cuev",
+    "telegram": "https://t.me/Potato88",
+    "facebook": "https://www.facebook.com/patato.chain.9"
   }
 }
