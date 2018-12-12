@@ -3,7 +3,7 @@
   "address": "0xBdE6Ec78568938B7d839e202f7AEe0ba84169AE5",
   "overview":{
         "en": "AMOS collect big data of physical information and provide reward for people to exercise. In addition, we developed a sport-related crowdfunding platform on which people can pay through AMOS token.",
-        "zh": ""
+        "zh": "AMOS收集大量的身体信息数据，并为人们提供运动奖励。此外，我们开发了一个与运动相关的众筹平台，人们可以通过该平台支付AMOS代币"
   },
   "email": "support@amos.global",
   "website": "https://amos.global/en",
@@ -11,9 +11,7 @@
   "state": "LOCKED | NORMAL",
   "published_on": "2018-12-01",
   "initial_price":{
-        "ETH":"0.00001 ETH",
-        "USD":"0.01 USD",
-        "BTC":"0.000003 BTC"
+        "ETH":"0.00005 ETH"
   },
   "links": {
     "blog": "",
