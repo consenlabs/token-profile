@@ -1,0 +1,16 @@
+{
+  "symbol": "SHEEP",
+  "address": "0xc3f1581c94a0c592a99595d2a55ba4b1f3d6e8cc",
+  "overview":{
+    "en":"Sheepcoin is the cryptocurrency used on the Membersheep B2B Platform, which offers numerous user benefits such as currency risk hedges, 0% commission, and significantly reduced waiting times. Ultimately, we will create an ecosystem where brands and retailers around the world can trust each other and trade more easily.",
+    "zh":"Sheepcoin(羊币)是在Membersheep B2B跨境电商平台上使用的加密货币，它为众多用户提供便利，例如货币风险对冲，0％佣金和大幅减少交易周期。 最终，我们将创建一个生态系统，让世界各地的品牌和零售商可以相互信任并更轻松地进行交易。"
+  },
+  "email": "shijun@membersheep.com",
+  "website": "http://www.membersheep.com",
+  "whitepaper": "http://www.shpcoin.io/IndexThree/download_whitePaper.pdf",
+  "published_on": "2018-12-13",
+  "links": {
+    "telegram": "https://t.me/MembersheepOfficial",
+    "facebook": "https://www.facebook.com/membersheep"
+  }
+}
