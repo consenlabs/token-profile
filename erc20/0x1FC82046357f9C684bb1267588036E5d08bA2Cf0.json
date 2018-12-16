@@ -16,9 +16,10 @@
         "BTC":"0.00000001 BTC"
   },
   "links": {
-    "blog": "https://t.me/DEXPchannel",
+    "blog": "https://medium.com/@dexpfunds",
     "twitter": "https://twitter.com/Dexpfund",
     "telegram": "https://t.me/Dexpfund",
     "github": "https://github.com/DEXPfunddev",
-   }
+    "medium": "https://medium.com/@dexpfunds"
+  }
 }
