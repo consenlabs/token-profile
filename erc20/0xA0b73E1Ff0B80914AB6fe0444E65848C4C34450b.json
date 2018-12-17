@@ -1,0 +1,24 @@
+{
+    "symbol": "ONL",
+    "address": "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+    "overview":{
+          "en": "On.Live (ONL)"
+    },
+    "email": "team@onlive.ltd",
+    "website": "https://on.live/",
+    "whitepaper": "https://v11.on.live/documents/OnLive_Whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-04-11",
+    "initial_price":{
+          "ETH":"0.001638 ETH",
+          "USD":"0.08 USD"
+    },
+    "links": {
+      "twitter": "https://twitter.com/on_live",
+      "telegram": "https://t.me/OnLive",
+      "facebook": "https://www.facebook.com/OnLive.TV/",
+      "reddit": "https://www.reddit.com/r/OnLiveTv/",
+      "medium": "https://medium.com/@On.Live",
+      "bitcointalk": "https://bitcointalk.org/index.php?topic=2738965"
+    }
+  }
