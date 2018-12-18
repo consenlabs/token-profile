@@ -1,0 +1,23 @@
+{
+  "symbol": "sUSD",
+  "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+  "overview":{
+        "en": "sUSD is a decentralized stablecoin backed by Synthetix Network Token (SNX). It is one of the synthetic assets of Synthetix Network."
+  },
+  "email": "info@synthetix.io",
+  "website": "https://synthetix.io/",
+  "whitepaper": "https://synthetix.io/uploads/synthetix_whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-13",
+  "initial_price":{
+        "ETH":"0.00227313 ETH",
+        "USD":"1.0 USD",
+        "BTC":"0.00015925 BTC"
+  },
+  "links": {
+    "discord": "https://discord.gg/8KQDXcY",
+    "twitter": "https://twitter.com/synthetix_io",
+    "linkedin": "https://www.linkedin.com/company/synthetix/",
+    "reddit": "https://www.reddit.com/r/synthetix_io/"
+  }
+}
