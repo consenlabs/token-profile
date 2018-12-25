@@ -1,0 +1,13 @@
+{
+  "symbol": "LOGO",
+  "address": "0x34833aba4d630d4a6956bd75e6f7583a1629bb60",
+  "overview":{
+        "en": "LOGOCOIN is a public blockchain platform with POL contract function. LOGOCOIN redefine human business value through its special crpytocurrency (LOGO)."
+  },
+  "email": "info@logocoin.com",
+  "website": "http://logocoin.com",
+  "links": {
+    "telegram": "https://t.me/logocoin",
+    "github": "https://github.com/LOGOcoinOfficial"
+  }
+}
