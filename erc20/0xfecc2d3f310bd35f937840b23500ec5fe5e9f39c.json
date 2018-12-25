@@ -1,0 +1,28 @@
+{
+  "symbol": "IEC6",
+  "address": "0xfecc2d3f310bd35f937840b23500ec5fe5e9f39c",
+  "overview":{
+        "en": "",
+        "zh": "智能房产链致力于服务全球房地产业，结合区块链与人工智能，开发第一个落地于实体行业的公链，为每一份产权分配一个永久记录在全球账本上的唯一标识符（一个哈希字符串）。实现产权数字化，不动产上链，房产溯源确权，保证房源真实性唯一性，并摒除了房源信息重复采集录入与多重抵押欺诈等行为，简化交易流程，提高工作效率。其中IEC Token作为流通的加密数字权益证明，是服务于生态内的燃料通证，起到激励等作用，并可用于买房卖房，酒店住宿等。由此吸引房地产商与需求用户，共同建立亿级用户的地产区块链社区，创造一个去中介化、透明、可信、安全、共享、繁荣的地产区块链商业生态体系。"
+  },
+  "email": "945885648@qq.com",
+  "website": "http://iecfund.com/",
+  "whitepaper": "http://iecfund.com/uploads/20180724/747a2a47f3b598f3cd0fd6b25c8544ac.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-08-08",
+  "initial_price":{
+        "ETH":"0.00096154 ETH",
+        "USD":"0.125 USD",
+        "BTC":"0.00003289 BTC"
+  },
+  "links": {
+    "blog": "https://www.jinse.com/bitcoin/263620.html",
+    "twitter": "",
+    "telegram": "https://0.plus/#/IEC888888",
+    "github": "https://github.com/IEC6",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
