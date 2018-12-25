@@ -1,6 +1,5 @@
 {
- - "symbol": "KMB",
- + "symbol": "KMB_Old",
+  "symbol": "KMB_Old",
   "address": "0x7a7b224d100c9034567ef95b8f095f4839abbcc2",
   "overview":{
         "en": "KMB is trying to use block chains in different payment modes and payment applications based on the digital asset eco-chain of block chains.",
