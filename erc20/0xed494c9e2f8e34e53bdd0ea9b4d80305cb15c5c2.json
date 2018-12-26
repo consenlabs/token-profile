@@ -1,0 +1,24 @@
+{
+  "symbol": "CWV",
+  "address": "0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2",
+  "overview":{
+        "en":"CWV Chain"
+  },
+  "email": "info@cwv.io",
+  "website": "https://cwv.io/",
+  "whitepaper": "https://cwv.io/whitepaper/CryptoWorld-EN.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-06-01",
+  "initial_price":{
+        "ETH":"0.00001250 ETH",
+        "BIX":"0.00650000 BIX",
+        "BTC":"0.00000308 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/CryptoWorld_CWV",
+    "telegram": "https://t.me/CryptoWorldLife",
+    "github": "https://github.com/CryptoWorldChain",
+    "facebook": "https://www.facebook.com/cwv.io/",
+    "coinmarketcap":"https://coinmarketcap.com/currencies/cwv-chain/"
+  }
+}
