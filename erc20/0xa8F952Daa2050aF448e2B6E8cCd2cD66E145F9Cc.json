@@ -1,0 +1,22 @@
+﻿{
+  "symbol": "RXCC",
+  "address": "0xa8F952Daa2050aF448e2B6E8cCd2cD66E145F9Cc",
+  "overview":{
+        "en": "Freedom of innovation in digital currency trading.",
+        "zh": "數字貨幣交易的創新自由."
+  },
+  "email": "crypto@cryptofreedom.ml",
+  "website": "https://cryptofreedom.ml/",
+  "whitepaper": "https://cryptofreedom.ml/files/2018/11/RXCC.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-10",
+  "initial_price":{
+        "ETH":"0,00000550 ETH",
+  },
+  "links": {
+    "twitter": "https://twitter.com/RXCCrypto",
+    "telegram": "https://t.me/cryptofreedomgroup",
+    "github": "https://github.com/RXcryptofreedom",
+    "medium": "https://medium.com/@RXCCcryptofreedom"
+  }
+}
