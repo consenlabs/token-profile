@@ -8,7 +8,7 @@
 	"email": "zybtc31311406@gmail.com",
 	"website": "http://www.bbacoin.org/",
 	"whitepaper": "https://github.com/bbacoin/BBA/raw/master/BBA%20white%20paper%202.0.pdf",
-	"state": "LOCKED | NORMAL",
+	"state": "NORMAL",
 	"published_on": "2018-12-11",
 	"initial_price": {
 		"ETH": "0.0000222 ETH",
