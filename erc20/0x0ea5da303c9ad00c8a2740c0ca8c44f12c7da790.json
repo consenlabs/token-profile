@@ -1,0 +1,25 @@
+{
+    "symbol": "NBAT",
+    "address": " 0x0ea5da303c9ad00c8a2740c0ca8c44f12c7da790",
+    "overview":{
+          "en": "Nobel Acme global tourism ecology public chain",
+          "zh": "Nobel Acme 全球旅游生态公链"
+    },
+    "email": "http://NBATofficial@gmail.com",
+    "website": "http://www.nbat.io",
+    "whitepaper": "http://nbat.io/Public/H5/js/NBAT_whitepaper-ch.pdf",
+    "state": "Singapore",
+    "published_on": "2018-05-03",
+    "initial_price":{
+          "ETH":"0.00052ETH",
+          "USD":"0.06428USD",
+          "BTC":"0.0002041BTC"
+    },
+    "links": {
+      "blog": "https://weibo.com/NBATofficial",
+      "telegram": "https://t.me/nbatCN",
+      "github": "https://github.com/NobelAcme",
+      "facebook": "http://www.facebook.com/NBATofficial"
+    }
+  }
+  
