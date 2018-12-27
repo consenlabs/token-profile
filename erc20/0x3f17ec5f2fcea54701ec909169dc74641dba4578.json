@@ -1,0 +1,17 @@
+{
+    "symbol": "ARG",
+    "address": "0x3f17ec5f2fcea54701ec909169dc74641dba4578",
+    "overview": {
+        "en": "ARG is an asset preservation system based on block chain technology and artificial intelligence. Through the combination of real gold backing and mining and intelligent contract technology, ARG has constructed a stable and growing public chain assets.",
+        "zh": "ARG是一款基于区块链技术和人工智能的資產保存系统，通过實體黃金的託抵及開採和智能合约技术相结合，构建出了一款穩定且成長的公有链資產。"
+    },
+    "email": "service@apexrealgold.io",
+    "website": "http://www.apexrealgold.io",
+    "whitepaper": "http://apexrealgold.io/image/pdf.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-12-20",
+    "links": {
+        "github": "https://github.com/apexrealgold",
+	"facebook": "https://www.facebook.com/Apex-Real-Gold-501344357019717/"
+    }
+}
