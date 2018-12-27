@@ -1,5 +1,6 @@
 {
   "symbol": "AUG",
+  "symbol": "AUG4_Old",
   "address": "0xb4e9f4a0f5d91ea9ea612b5ada9b4c0904a96de0",
   "overview":{
     "en": "AUG Cloud is a decentralized storage network that turns cloud storage into an algorithm market. This market operates on a block chain with local protocol tokens. Absentees in block chains can acquire AUG by providing storage for customers. Conversely, customers can employ Absentees to store or distribute data by spending AUG. Like Bitcoin, AUG Cloud's absentees compete to dig blocks for huge rewards, but AUG Cloud's mining efficiency is proportional to storage activity, which directly provides useful services to customers (unlike Bitcoin's mining only to maintain the consensus of the block chain). This approach creates a powerful incentive for absentees to aggregate as much memory as possible and rent it out to customers.",
