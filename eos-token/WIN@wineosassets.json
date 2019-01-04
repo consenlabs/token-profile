@@ -1,0 +1,20 @@
+{
+    "symbol": "WIN",
+    "account_name": "wineosassets",
+    "overview": {
+        "en": "",
+        "zh": ""
+    },
+    "email": "quickwin.one@gmail.com",
+    "website": "https://quickwin.one/",
+    "whitepaper": "",
+    "published_on": "2019-01-01",
+    "initial_price": {
+        "EOS": "0.0 EOS",
+        "USD": "0.0 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/your-awesome-project",
+        "telegram": "https://t.me/joinchat/your-awesome-project",
+    }
+}
