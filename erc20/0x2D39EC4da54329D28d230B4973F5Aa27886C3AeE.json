@@ -7,7 +7,7 @@
   "email": "sac@nfxcoin.io",
   "website": "https://www.nfxcoin.io",
   "whitepaper": "https://nfxcoin.io/white_paper_nfxcoin.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.0071 ETH",
