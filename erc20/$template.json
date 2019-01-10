@@ -1,28 +1,22 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "RXCC",
+  "address": "0xa8F952Daa2050aF448e2B6E8cCd2cD66E145F9Cc",
   "overview":{
-        "en": "Token Description.",
+        "en": "Creating crypto trading convenience (RXCC) makes innovation and a strong crypto foundation",
         "zh": ""
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "email": "crypto@cryptofreedom.ml",
+  "website": "https://cryptofreedom.ml/",
+  "whitepaper": "https://cryptofreedom.ml/files/2018/11/RXCC.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-11",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "ETH":"0.00000550 ETH",
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "twitter": "https://twitter.com/RXCCrypto",
+    "telegram": "https://t.me/cryptofreedomgroup",
+    "github": "https://github.com/RXcryptofreedom",
+    "medium": "https://medium.com/@RXCCcryptofreedom"
   }
 }
