@@ -3,23 +3,11 @@
   "address": "0x86e6a4f512b1290c043970b04e0b570d4fc98291",
   "overview":{
         "en": "IntelliShare is a distributed network based on Mesh technology. It customizes private networks for communities, campuses, factories, islands, non-network countries, urban complexes, etc., and provides network support for commercial use such as life, production, sales and service.",
-        "zh": "INE（Intellishare智联生态），是以 Mesh 技术为基础架构的分布式网络，为生活小区、校园、工厂、海岛、无网国家、城市综合体等等场景定制私有网络，提供生活、生产、销售、服务等商业运用落地的网络支持。"
+        "zh": "INE，是以 Mesh 技术为基础架构的分布式网络，为生活小区、校园、工厂、海岛、无网国家、城市综合体等等场景定制私有网络，提供生活、生产、销售、服务等商业运用落地的网络支持。"
   },
   "email": "ine@intellishare.io",
   "website": "https://www.intellishare.io/",
   "whitepaper": "http://www.intellishare.io/data/upload/file/201811/1046ba5af17572d763bcacf4fa895d5d.pdf",
   "state": "NORMAL",
-  "published_on": "2018-11-07",
-  "initial_price":{
-        "ETH":"0.00000489 ETH",
-        "USD":"0.00145 USD",
-        "BTC":"0.00000021 BTC"
-  },
-  "links": {
-
-    "twitter": "https://twitter.com/intellishare_",
-    "telegram": "https://t.me/IntelliShare_English",
-    "facebook": "https://www.facebook.com/intellishare",
-    "medium": "https://medium.com/@Intellishare_"
-  }
+  "published_on": "2018-11-07"
 }
