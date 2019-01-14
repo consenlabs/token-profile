@@ -1,0 +1,20 @@
+{
+  "symbol": "LFC",
+  "address": "0x95c9bd1f81cee7391da3eac81693e60f3292c1e0",
+  "overview":{
+    "en": "LFC is a kind of utility token used in the LINFINITY supply chain+blockchain ecosystem.",
+    "zh": "LFC是使用于LINFINITY区块链供应链生态系统的效用型代币"
+  },
+  "email": "support@linfinity.io",
+  "website": "https://linfinity.io/",
+  "whitepaper": "https://linfinity.io/uploadfile/1547453759_2.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-14",
+  "links": {
+    "twitter": "https://twitter.com/linfinitytoken",
+    "telegram": "https://t.me/LinfinityEn",
+    "github": "https://github.com/linfinityPlasma",
+    "facebook": "https://www.facebook.com/linfinity.io/",
+    "medium": "https://medium.com/@LinfinityChain"
+  }
+}
