@@ -1,0 +1,21 @@
+{
+    "website": "https://www.rewardwalletglobal.com/",
+    "published_on": "2018-09-15",
+    "links": {
+        "medium": "https://medium.com/@WalletReward",
+        "twitter": "https://twitter.com/WalletReward",
+        "facebook": "https://www.facebook.com/reward.wallet.2018"
+    },
+    "overview": {
+        "en": "The google play of blockchain's world",
+        "zh": "区块链世界的google play"
+    },
+    "symbol": "UPC",
+    "initial_price": {
+        "ETH": "0.000110606 ETH",
+        "USD": "0.015 USD"
+    },
+    "whitepaper": "https://drive.google.com/file/d/1iXDE7o2aySVpazxiXbkdg1hfJ9X6oLKH/view?usp=sharing",
+    "address": "0x59dA3C7Af91bB11356c390Bc8Ad1Db4acE1Ee16C",
+    "email": "sales@rewardwalletglobal.com"
+}
