@@ -1,0 +1,21 @@
+{
+  "symbol": "TEURO",
+  "address": "
+0x0569ae13ee0039Ac53C8457434288D92804DF820",
+  "overview":{
+        "en": "TrustEURO (TEURO) is First EURO Stable coin on ethereum blockchain 1 TEURO worth 1 EURO.",
+        "zh": ""
+  },
+  "email": "admin@teuro.site",
+  "website": "https://teuro.site/",
+  "whitepaper": "https://teuro.site/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-01",
+  
+  },
+  "links": {
+    "twitter": "https://twitter.com/trust_euro",
+    "telegram": "https://t.me/joinchat/TrustEURO_EG",
+    
+  }
+}
