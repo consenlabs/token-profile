@@ -1,0 +1,23 @@
+{
+  "symbol": "AET",
+  "address": "0xcFE60B9211F4770182A5dD7f797825DD0a28F818",
+  "overview": {
+    "en": "AET is a global utility token issued by AisiEx. The total available supply of AET will be one billion tokens(1,000,000,000).",
+    "zh": "AET 是 AisiEx(爱思交易所) 发行的全球通用积分。AET的发行总量为10亿枚。"
+  },
+  "email": "support@aisiex.com",
+  "website": "https://aisiex.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-01-18",
+  "initial_price":{
+        "ETH":"0.00016667 ETH",
+        "USD":"0.02 USD",
+        "BTC":"0.00000555 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/AisiEx",
+    "telegram": "https://t.me/aisiex",
+    "facebook": "https://www.facebook.com/aisiexchange"
+  }
+}
