@@ -1,0 +1,28 @@
+﻿{
+  "symbol": "Dapp",
+  "address": "0x9eb033c5ed9af8957860f153f477280772113828",
+  "overview": {
+    "en": "Dapp(Dapper Token) An ERC20 interface protocol based on the open source project of ETF is Tokens (token) converted from BCEX ecosystem. The community of 66 projects will be integrated, and 100,000 people online application ecological protocols will be built to realize the profitable APP of Tokens'smart contract (destruction + dividend + currency + consulting + game). It is based on the intelligent ecological protocol dividend token of block chain technology. It integrates cloud wallet and HD wallet into an open source protocol wallet, and realizes the seamless docking of currency ecology with APP.",
+    "zh": "Dapp 一个基于以太坊的开源项目的ERC20接口协议，是BCEX生态系统兑换而来的Tokens（令牌）。将对66个项目的社区进行整合，共建在线10万人的应用生态协议,实现Tokens的智能合约（销毁+分红+币息+咨询+游戏）的盈利型APP。它基于区块链技术的智能生态协议分红型令牌，将实现云端钱包和HD钱包整合的一个开源协议钱包，实现币生态的无缝对接应用APP。"
+  },
+  "email": "support@dapper.link",
+  "website": "http://www.dapper.link",
+  "whitepaper": "http://www.dapper.link/Dapper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-14",
+  "initial_price":{
+        "ETH":"0.000602 ETH",
+        "USD":"0.0735 USD",
+        "BTC":"0.00002 BTC"
+  },
+  "links": {
+    "blog": "#",
+    "twitter": "#",
+    "telegram": "https://t.me/dapperwork",
+    "reddit": "#",
+    "github": "https://github.com/dapperlink",
+    "facebook": "#",
+    "slack": "#",
+    "medium": "#"
+  }
+}
