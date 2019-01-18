@@ -11,18 +11,12 @@
   "state": "NORMAL",
   "published_on": "2018-08-08",
   "initial_price":{
-        "ETH":"0.001074 ETH",
+        "ETH":"0.0010740 ETH",
         "USD":"0.13 USD",
         "BTC":"0.00003598 BTC"
   },
   "links": {
-    "blog": "",
-    "twitter": "",
     "telegram": "https://0.plus/IEC888888",
-    "github": "https://github.com/IEC6",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/IEC6"
   }
 }
