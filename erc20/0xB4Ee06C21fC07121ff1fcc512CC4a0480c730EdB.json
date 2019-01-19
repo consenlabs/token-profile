@@ -1,4 +1,19 @@
 ﻿{
   "symbol": "OEC",
-  "address": "0xB4Ee06C21fC07121ff1fcc512CC4a0480c730EdB"
+  "address": "0xB4Ee06C21fC07121ff1fcc512CC4a0480c730EdB",
+  "overview":{
+        "en": "The tracing system constructed by OEC based on real payment scenarios and the irreversible principle of blockchain writes place of origin, procedure tracking and merchants credit onto the ecology chain. It truly makes tracing information comprehensive and authentic. Actually, it helps ecology platforms set up a credit system regarding goods sources, addresses the problem of quality which has long been denounced, and establishes a decentralized consensus relationship between ecology and consumers.",
+        "zh": "OEChain（全商链）是一个基于石墨烯架构、面向电子商务领域的生态型公链，主要为供应链提供溯源与支付一体化服务，为电商平台提供通证经济服务。OEChain最大的项目亮点就是将供应链溯源与支付捆绑，实现溯源即支付，而独特的双币循环模式，既为供应链的支付提供了稳定机制，又为代币的币值管理提供了内在的螺旋上升保障。OECchain最大的落地基石在于其自有和实现了战略合作的电商和供应商资源，资源覆盖80万供应商和原产地购销商、生产商、以及3000万电商用户。OEChain的项目代币为OEC，它将真实、活跃而充分地发挥供应链溯源支付、电商生态激励、电商通证营销等完备的电商生态功能。"
+  },
+  "email": "oec@email.oechain.io",
+  "website": "http://oechain.io/",
+  "whitepaper": "http://www.oechain.io/static/images/OEC-one.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-10-01",
+  "initial_price":{
+        "ETH":"0.0001 ETH"
+  },
+  "links": {
+    "github": "https://github.com/oechain"
+  }
 }
