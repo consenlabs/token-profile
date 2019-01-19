@@ -1,0 +1,28 @@
+{
+  "symbol": "MALL",
+  "address": "0x67904902c371fce92dc78b66dfc2f0baecfdef2f",
+  "overview":{
+        "en": "MALL",
+        "zh": "溯源商城基于区块链技术，打造电商生态体系，通过发行平台通证(MALL)构建一个去中心化的商业生态。通过打通通证与实体商业的价值对接，将强大的线下体验式服务与高效的区块链互联网金融完美结合，为广大用户、商户提供更具效率、更富有价值的智慧服务，实现商业服务的区块链转型。"
+  },
+  "email": "james@tacchain.cn",
+  "website": "https://www.suyuanmall.com/",
+  "whitepaper": "https://www.suyuanmall.com/",
+  "state": "NORMAL",
+  "published_on": "2019-01-07",
+  "initial_price":{
+        "ETH":"0.000119204 ETH",
+        "USD":"0.014492 USD",
+        "BTC":"0.00000407996 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
