@@ -1,16 +1,11 @@
 {
-  "symbol": "BKD",
-  "address": "0xe3b80f1f907878ca1f6da0645d9dbca2f0b76a81",
-  "overview":{
-        "en":"A Dedicated Decentralized and Scalable Smart Contracts. Black Diamond (BKD) token can handle, thousands of transactions every seconds. BKD Token want to expand blockchain
-technology throughout the world.",
-        
-  },
-  "links": {
-        "https://www.facebook.com/bkdplatform"
-   },
-  "email": "support@bkdplatform.com",
-  "website": "http://www.bkdplatform.net/",
-  "whitepaper": "https://bkdplatform.com/eth/whitepaper.pdf",
-  "published_on": "2019-01-10"
+  "1": {
+    "0xe3b80f1f907878ca1f6da0645d9dbca2f0b76a81": {
+      "address": "0xe3b80f1f907878ca1f6da0645d9dbca2f0b76a81",
+      "totalSupply": "550000000",
+      "decimals": 18,
+      "symbol": "BKD",
+      "name": "Black Diamond"
+    }
+  }
 }
