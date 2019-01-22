@@ -2,14 +2,16 @@
   "symbol": "RXCC",
   "address": "0xa8F952Daa2050aF448e2B6E8cCd2cD66E145F9Cc",
   "overview":{
-        "en": "the project's goal is to make progress and developments in the digital currency world and freedom in the crypto trading market.",
+        "en": "Creating crypto trading convenience (RXCC) makes innovation and a strong crypto foundation",
         "zh": ""
   },
   "email": "crypto@cryptofreedom.ml",
   "website": "https://cryptofreedom.ml/",
   "whitepaper": "https://cryptofreedom.ml/files/2018/11/RXCC.pdf",
   "state": "NORMAL",
-  "published_on": "2018-11-01",
+  "published_on": "2018-11-11",
+  "initial_price":{
+        "ETH":"0.00000550 ETH",
   },
   "links": {
     "twitter": "https://twitter.com/RXCCrypto",
