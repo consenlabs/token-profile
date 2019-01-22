@@ -1,4 +1,4 @@
-﻿{
+{
   "symbol": "RXCC",
   "address": "0xa8F952Daa2050aF448e2B6E8cCd2cD66E145F9Cc",
   "overview":{
@@ -10,6 +10,8 @@
   "whitepaper": "https://cryptofreedom.ml/files/2018/11/RXCC.pdf",
   "state": "NORMAL",
   "published_on": "2018-11-11",
+  "initial_price":{
+        "ETH":"0.00000150 ETH",
   },
   "links": {
     "twitter": "https://twitter.com/RXCCrypto",
