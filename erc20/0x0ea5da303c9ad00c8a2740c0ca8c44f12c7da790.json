@@ -1,0 +1,25 @@
+{
+    "symbol": "NBAT",
+    "address": " 0x0ea5da303c9ad00c8a2740c0ca8c44f12c7da790",
+    "overview":{
+    "en": "Global Travel Ecology Blockchain Operation System",
+    "zh": "全球旅游生态区块链操作系统"
+    },
+    "email": "nbatofficial@gmail.com",
+    "website": "https://www.nbat.io/",
+    "whitepaper": "http://nbat.io/Public/H5/js/NBAT_whitepaper-ch.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-11-30",
+    "initial_price":{
+    "ETH":"0.00055901 ETH",
+    "USD":"0.06521739 USD",
+    "BTC":"0.00001849 BTC"
+    },
+    "links": {
+    "blog": "https://weibo.com/NBATofficial",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/nbatCN",
+    "github": "ttps://github.com/NobelAcme",
+    "facebook": "http://www.facebook.com/NBATofficial"
+    }
+    }
