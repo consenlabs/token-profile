@@ -1,0 +1,13 @@
+{
+  "symbol": "CRCS",
+  "address": "0x6970f81b352cba5b728a54114926f0ca8bd75024",
+  "overview":{
+    "en": "Kirin coin is an ERC20 token developed on the basis of ethereum side chain. It is mainly used in the field of betting and guessing at present. With the unique cryptography of digital currency, it makes traditional betting betting more fair and just and ensures the safety of funds.",
+    "zh": "麒麟彩币是基于以太坊侧链的基础上开发出来的ERC20代币，主要用于目前博彩和竞猜领域，以数字货币独特的加密性，让传统的博彩竞猜，更加公平，公正，保障资金的安全。"
+  },
+  "published_on": "2019-01-09",
+  "initial_price":{
+    "ETH":"0.0000484 ETH",
+    "USD":"0.006 USD"
+  }
+}
