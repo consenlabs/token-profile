@@ -1,0 +1,25 @@
+{
+    "symbol": "NBK",
+    "address": "0xab8de12efcbf03bf3fc86738f4e598a5de8af001",
+    "overview":{
+    "en": "NewBank On the basis of sound risk management and control, New Future Bank provides professional and reliable digital financial services for digital asset investors to realize the preservation and appreciation of digital assets.",
+    "zh": "NewBank在健全的风险管控基础上,为数字资产投资者提供专业,可信赖的数字理财服务,实现数字资产的保值与增值. "
+    },
+    "email": "nbatofficial@gmail.com",
+    "website": "https://www.nfbank.org/",
+    "whitepaper": "http://www.nfbank.org/pdf.html",
+    "state": "SINGAPORE",
+    "published_on": "2018-11-08",
+    "initial_price":{
+    "ETH":"0.00000621 ETH",
+    "USD":"0.00072463 USD",
+    "BTC":"0.00000204 BTC"
+    },
+    "links": {
+    "blog": "https://weibo.com/6828360209/profile",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "http://t.me/NFBank",
+    "github": "ttps://github.com/NobelAcme",
+    "facebook": "http://www.facebook.com/NBATofficial"
+    }
+    }
