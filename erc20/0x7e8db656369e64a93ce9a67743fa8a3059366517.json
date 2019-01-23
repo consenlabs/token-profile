@@ -1,12 +1,12 @@
 {
   "symbol": "ZPC",
-  "address": "0x7e8db656369e64a93ce9a67743fa8a3059366517",
+  "address": "0x7E8Db656369E64A93ce9a67743Fa8A3059366517",
   "overview":{
         "en": "THE WORLD'S FIRST STABLE DIGITAL CURRENCY BASED ON COMPUTATIONAL ECOLOGICAL SETTLEMENT",
         "zh": "全球首个基于算力生态结算的数字货币。"
   },
   "email": "mail.zpool.ren",
-  "website": "https://www.zpool.vip/",
+  "website": "http://www.zpool.vip/",
   "whitepaper": "http://www.zpool.vip/whitepaper/en.pdf",
   "state": "NORMAL",
   "published_on": "2019-01-16",
