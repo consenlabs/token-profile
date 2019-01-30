@@ -9,5 +9,8 @@
   "website": "http://www.oftoken.io/",
   "whitepaper": "http://www.oftoken.io/picture/oftoken.pdf",
   "state": "NORMAL",
-  "published_on": "2019-01-28"
+  "published_on": "2019-01-28",
+  "links": {
+	  "website": "http://www.oftoken.io"
+  }
 }
