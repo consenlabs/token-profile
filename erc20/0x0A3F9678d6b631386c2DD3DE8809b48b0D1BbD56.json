@@ -1,0 +1,21 @@
+{
+  "symbol": "LK",
+  "address": "0x0A3F9678d6b631386c2DD3DE8809b48b0D1BbD56",
+  "overview": {
+    "en": "LIKER WORLD is a block-chain-based educational content platform. This is accompanied by a donation policy related to educational projects. Innovation in future education through technology is oriented towards a better society and humanity.",
+    "zh": ""
+  },
+  "email": "info@liker.world",
+  "website": "https://liker.world",
+  "whitepaper": "https://s3.ap-northeast-2.amazonaws.com/liker.world/whitepaper/LIKER_whitepaper.pdf",
+  "published_on": "2018-12-26",
+  "initial_price": {
+    "ETH": "0.0000086 ETH",
+    "USD": "0.009 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/likerworld",
+    "telegram": "https://t.me/likerworld",
+    "facebook": "https://www.facebook.com/likerworlds"
+  }
+}
