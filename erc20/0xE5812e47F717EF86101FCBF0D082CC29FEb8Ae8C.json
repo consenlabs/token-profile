@@ -1,5 +1,5 @@
 {
-  "symbol": "ARM",
+  "symbol": "ARM_OLD",
   "address": "0xE5812e47F717EF86101FCBF0D082CC29FEb8Ae8C",
   "overview":{
         "en": "ERC20 Token of Armors.io",
