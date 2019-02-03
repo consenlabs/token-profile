@@ -1,0 +1,23 @@
+{
+  "symbol": "KLX",
+  "address": "0x94d72c6394b32886e6e2afec9865d492f2c23346",
+  "overview":{
+        "en": "A Decentralized Platform of Content Compression, Distribution, Rights Tracking and Payment",
+        "zh": ""
+  },
+  "email": "azuan@klixtv.com",
+  "website": "https://klixio.net",
+  "whitepaper": "https://klixio.net/wp-content/uploads/2019/01/KLIXIO-Whitepaper-Latest.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-01",
+  "initial_price":{
+        "ETH":"0.00120000 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00003100 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/klix_world",
+    "instagram": "https://www.instagram.com/klixworld",
+    "facebook": "https://www.facebook.com/KLIXWORLD"
+  }
+}
