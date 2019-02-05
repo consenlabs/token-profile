@@ -1,0 +1,26 @@
+{
+  "symbol": "CUSD",
+  "address": "0x1410d4eC3D276C0eBbf16ccBE88A4383aE734eD0",
+  "overview":{
+        "en": "Carbon stablecoin pegged to 1 dollar, and be created using dollars and redeemed for dollars at https://fiat.carbon.money",
+        "zh": ""
+  },
+  "email": "team@carbon.money",
+  "website": "https://www.carbon.money",
+  "whitepaper": "https://www.carbon.money/explainer.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-02-05",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"1.0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "https://blog.carbon.money",
+    "twitter": "https://twitter.com/carbon_money",
+    "telegram": "https://telegram.me/carbon_money",
+    "github": "https://github.com/stablecarbon",
+    "facebook": "https://www.facebook.com/carbonmoney/",
+    "medium": "https://medium.com/@carbon_money"
+  }
+}
