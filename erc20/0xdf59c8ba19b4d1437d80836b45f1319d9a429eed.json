@@ -1,0 +1,17 @@
+{
+  "symbol": "IZI",
+  "address": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
+  "overview":{
+        "en": "THE GLOBAL BLOCKCHAIN PLATFORM FOR CAPITAL CONNECTION."
+  },
+  "email": "info@izichain.network",
+  "website": "https://www.izichain.network/",
+  "published_on": "2019-01-01",
+  "links": {
+    "blog": "https://medium.com/@izichainnetwork",
+    "twitter": "https://twitter.com/chain_izi",
+    "telegram": "https://t.me/izichainnetwork",
+    "facebook": "https://www.facebook.com/izichainnetwork/",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
