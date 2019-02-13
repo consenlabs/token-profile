@@ -1,0 +1,19 @@
+{
+    "symbol": "ALD",
+    "address": "0xd00c5123a36b3f26560770132413cd3deea38170",
+    "overview": {
+      "en": "ALD, a token issued by Aladdin Wallet, is currently issued only through official channels. It is inseparable and does not support transactions.",
+      "zh": "ALD是Aladdin Wallet旗下发行的代币，目前仅由官方渠道发放，不可分割，不支持交易"
+    },
+    "email": "9922577@qq.com",
+    "website": "https://www.aldbk.com/",
+    "state": "NORMAL",
+    "published_on": "2018-10-30",
+    "initial_price": {
+      "USD":"0.0295 USD"
+    },
+    "links": {
+      "blog": "http://weibo.com/Aldwallet",
+      "telegram": "https://t.me/aldwallet"
+    }
+  }
