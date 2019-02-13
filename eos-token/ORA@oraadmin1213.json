@@ -10,6 +10,11 @@
   "whitepaper": "https://www.orachain.top/ORA_Chain_Whitepaper_EN.pdf",
   "state": "NORMAL",
   "published_on": "2019-01-17",
+  "initial_price":{
+        "ETH":"0.00277536 ETH",
+        "USD":"0.3399816 USD",
+        "BTC":"0.00009499 BTC"
+  },
   "links": {
     "twitter": "https://twitter.com/ChainOracle",
     "telegram": "https://t.me/orachain",
