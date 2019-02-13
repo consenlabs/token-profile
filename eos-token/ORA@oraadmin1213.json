@@ -16,8 +16,13 @@
         "BTC":"0.00009499 BTC"
   },
   "links": {
+    "blog": "",
     "twitter": "https://twitter.com/ChainOracle",
     "telegram": "https://t.me/orachain",
-    "github": "https://github.com/ORAChain/token-profile"
+    "github": "https://github.com/ORAChain/token-profile",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
   }
 }
