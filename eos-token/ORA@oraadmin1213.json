@@ -2,23 +2,17 @@
   "symbol": "ORA",
   "address": "oraadmin1213",
   "overview":{
-        "en": "Oracle Data Chain (ORA) is the bottom public chain and infrastructure of the autonomy of the whole industry ecological database based on building a credible block chain, and a de-centralized data clearing system.",
-        "zh": "甲骨数链（Oracle Data Chain，简称ORA）,是基于打造可信的区块链全产业生态数据库自治权的底层公链和基础设施，是一个去中心化的数据清算系统。"
+        "en": "Oracle Data Chain",
+        "zh": "甲骨数链"
   },
   "email": "community@orachain.top",
   "website": "https://www.orachain.top/",
   "whitepaper": "https://www.orachain.top/ORA_Chain_Whitepaper_EN.pdf",
   "state": "NORMAL",
   "published_on": "2019-01-17",
-  "total_supply": "2,600,000,000",
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/ChainOracle",
     "telegram": "https://t.me/orachain",
-    "github": "https://github.com/ORAChain/ORAChain",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/ORAChain/ORAChain"
   }
 }
