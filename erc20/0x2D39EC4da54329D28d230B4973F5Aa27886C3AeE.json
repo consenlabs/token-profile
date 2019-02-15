@@ -10,7 +10,6 @@
   "state": "NORMAL",
   "published_on": "2018-07-31",
   "initial_price":{
-        "USD":"0.7 USD",
         "BTC":"0.00004040 BTC"
   },
   "links": {
