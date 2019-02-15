@@ -12,8 +12,7 @@
   "published_on": "2018-05-10",
   "initial_price":{
         "ETH":"0.00005714 ETH",
-        "USD":"0.04 USD",
-        "BTC":""
+        "USD":"0.04 USD"
   },
   "links": {
     "blog": "https://blog.l-pesa.com",
