@@ -1,0 +1,14 @@
+{
+    "symbol": "TSH",
+    "address": "0xe52648cf9CA94941c5da8f12C6cbcF7B3719E75d",
+    "overview":{
+          "en": "Tyche City is an innovative blockchain gaming platform, and TSH is the shares of the platform, with the right to distribute dividends on the platform.",
+          "zh": "幸运城是一个创新的区块链游戏平台，TSH 是这个平台的股份，具有平台收益的分红权利。"
+    },
+    "email": "tyche.city@gmail.com",
+    "website": "https://tychecity.com/",
+    "published_on": "2019-02-17",
+    "links": {
+      "github": "https://github.com/tychecity"
+    }
+  }

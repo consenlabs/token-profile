@@ -1,0 +1,14 @@
+{
+    "symbol": "TCH",
+    "address": "0xC68EaE3C22FE7A891ec487ECbDC42BB992B3FD87",
+    "overview":{
+          "en": "Tyche City is an innovative blockchain game platform, TCH is the platform's game currency.",
+          "zh": "幸运城是一个创新的区块链游戏平台，TCH 是这个平台的游戏币。"
+    },
+    "email": "tyche.city@gmail.com",
+    "website": "https://tychecity.com/",
+    "published_on": "2019-02-17",
+    "links": {
+      "github": "https://github.com/tychecity"
+    }
+  }
