@@ -1,0 +1,25 @@
+{
+  "symbol": "EVT",
+  "address": "0x5aaa2182459377b6ca18b10712f9f602140764af",
+  "overview":{
+        "en": "The Elevation Platform is an ecosystem of business, shopping, training, advertising and trading. We offer the opportunity to buy, sell, exchange, advertise and get trained on one platform.",
+          },
+  "email": "info@theelevationplatform.com",
+  "website": "https://www.theelevationico.com",
+  "whitepaper": "https://theelevationico.com/ico/files/white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-29",
+  "initial_price":{
+        "ETH":"0.0042 ETH",
+        "USD":"0.5 USD",
+        "BTC":"0.00014 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/@theelevationplatform",
+    "twitter": "https://twitter.com/Elevation_247",
+    "telegram": "https://t.me/theelevationplatform",
+    "github": "https://github.com/elevationp",
+    "facebook": "https://www.facebook.com/elevationplatform01",
+    "medium": "https://medium.com/@theelevationplatform"
+  }
+} 
