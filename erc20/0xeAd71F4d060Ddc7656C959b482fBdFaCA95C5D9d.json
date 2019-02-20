@@ -1,0 +1,17 @@
+{
+  "symbol": "JQB",   
+  "address": "0xeAd71F4d060Ddc7656C959b482fBdFaCA95C5D9d",   
+  "overview":{
+        "en": "The “level loan” project is a private lending transaction platform APP. It uses the blockchain technology to achieve decentralization. The borrower and the funder directly complete the loan transaction on the platform directly from point to point, and the platform collects the profit and profit items such as membership fee and withdrawal fee.",  
+        "zh": " “等级贷”项目是民间借贷款交易平台APP，采用区块链技术实现去中心化，借款人和资金方在平台直接点对点在线完成借款交易，平台收取会员费和提现费等盈利利润的项目。"   
+  },
+  "email": "10602185@qq.com", 
+  "website": "http://www.qukuai.ws/",   
+  "whitepaper": "http://www.qukuai.ws/JQB.pdf",  
+  "state": "NORMAL",   
+  "published_on": "2018-04-01",  
+  "initial_price":{
+        "ETH":"0.0016 ETH",   
+        "USD":"0.07 USD"   
+  }
+}
