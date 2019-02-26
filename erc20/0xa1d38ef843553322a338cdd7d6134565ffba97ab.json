@@ -1,0 +1,24 @@
+{
+  "symbol": "LEVT",
+  "address": "0xA1d38Ef843553322a338CdD7d6134565ffbA97ab",
+  "overview":{
+        "en": "Levyte Token is a new innovation Token that is used for payment of advertisements to speed up secure payments based on the ERC-20 blockchain.",
+        "zh": ""
+  },
+  "email": "support@levyte.com",
+  "website": "https://levyte.com/",
+  "whitepaper": "https://levyte.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-02-25",
+  "initial_price":{
+        "ETH":"0.00000005 ETH",
+        "USD":"0.000001 USD",
+        "BTC":"0.00000001 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/LevyteToken",
+    "telegram": "https://t.me/LevyteProject",
+    "github": "https://github.com/Levyte/",
+    "facebook": "https://www.facebook.com/LEVT-Levyte-Token-Foundation-358208911574632/"
+  }
+} 
