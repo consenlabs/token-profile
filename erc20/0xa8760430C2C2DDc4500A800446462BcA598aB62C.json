@@ -2,8 +2,8 @@
   "symbol": "MTM",
   "address": "0xa8760430C2C2DDc4500A800446462BcA598aB62C",
   "overview":{
-        "en": "The founding team of the Metatron project brings together outstanding elites in the financial and Internet industries. Headquartered in London, UK, it is developed by British blockchain companies, from world-renowned university scholars, and innovators who are actively involved in blockchain and digital currency related fields. The team grows and develops.",
-        "zh": "MTM（Metatron）项目创始团队集聚了金融、互联网、游戏行业杰出精英，总部设在英国 伦敦，由英国区块链公司开发，来自世界知名高校学者，以及积极投身于区块链 及数字货币相关领域的创新者，助力团队成长发展。目前已经研发行并落地应用有：Metatron APP 和 Singularity DAPP游戏。"
+        "en": "The vision of MTM (Metatron) is to construct the first chain in the global game public chain. It is the basic passport in the whole Metatron ecosystem. MTM can not only circulate, consume, exchange rights and interests, and commercialize in the Singularity public chain game, but also interact in the whole Metatron community to realize the cross-ecological circulation of POS_OCPC consensus mechanism.",
+        "zh": "MTM（Metatron）的愿景是构建全球游戏公链有链中的第一链，它是整个Metatron生态中的基础通行证，MTM不但可以在Singularity公链游戏中进行流通、消耗、权益兑换、商业化投放等诸多环节还可在整个Metatron社区中进行价值交互，从而实现POS_OCPC共识机制的跨生态流通。"
   },
   "email": "Metatron.vip001@gmail.com",
   "website": "https://www.metatron.work/",
@@ -13,4 +13,3 @@
   "links": {
         "website": "https://www.metatron.work"
   }
-}
