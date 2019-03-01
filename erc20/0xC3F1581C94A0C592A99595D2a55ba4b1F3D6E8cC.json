@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2018-12-12",
   "initial_price":{
-        "ETH":"0.002263ETH",
+        "ETH":"0.002263 ETH",
         "USD":"0.31 USD",
-        "BTC":"0.00008051BTC"
+        "BTC":"0.00008051 BTC"
   },
   "links": {
     "blog":"https://your-awesome-project.com/blog",
