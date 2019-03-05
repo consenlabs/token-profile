@@ -11,7 +11,7 @@
   "state": "NORMAL",
   "published_on": "2019-03-01",
   "initial_price":{
-        "USDT":"0.15 USDT"
+        "ETH":"0.0015 ETH"
   },
   "links": {
     "blog": "https://medium.com/gbex.global",
