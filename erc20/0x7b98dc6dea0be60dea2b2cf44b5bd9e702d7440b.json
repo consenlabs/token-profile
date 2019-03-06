@@ -1,0 +1,22 @@
+{
+  "symbol": "Bitrou token",
+  "address": "0x7b98dc6dea0be60dea2b2cf44b5bd9e702d7440b",
+  "overview":{
+        "en": "ROT is the digital rights and interests token issued by Bitrou exchange based on the ERC-20 of Ethereum and serves as an important asset rights and interests token in ROT ecological community. ROT is issued in fixed amounts of 10 billion yuan and will never be issued in new ones.",
+        "zh": "ROT是BITROU交易所基于以太坊ERC-20发行的数字权益通证，同时作为ROT生态社区当中重要的资产权益证明。ROT发行总量固定100亿，永不增发。"
+  },
+  "email": "services@bitrou.com",
+  "website": "https://bitrou.org/",
+  "whitepaper": "https://bitrou.org/docs/rot-en-whitepaper.pdf",
+  "published_on": "2018-11-29",
+  "initial_price":{
+        "ETH":"0.00003333 ETH",
+        "USD":"0.0045 USD",
+  },
+  "links": {
+    "team": "https://bitrou.org/#team",
+    "roadmap": "https://bitrou.org/#roadmap",
+    "telegram": "to be announced",
+    "facebook": "to be announced",
+  }
+}
