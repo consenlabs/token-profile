@@ -1,0 +1,22 @@
+{
+   "symbol": "DTSC",
+   "address": "0x886a4717AB89C2FB041C52eD166D8bC4A4f92283",
+   "overview":{
+         "en": "DTSC aims to build a digital currency that people can use in their daily lives, and become a universal value transmission medium in the virtual world at the same time.",
+         "zh": "DTSC 旨在构建一个人们日常生活中可以使用的数字货币，同时会成为虚拟世界里的通用价值传输媒介。"
+   },
+   "email": "hello@iworld.pro",
+   "website": "http://iworld.pro",
+   "whitepaper": "https://github.com/iWorldFoundation/Whitepaper",
+   "state": "NORMAL",
+   "published_on": "2019-01-08",
+   "initial_price":{        
+         "USD":"0.05 USD"
+   },
+   "links": {
+    "twitter": "https://twitter.com/iWorld_Official",
+    "telegram": "https://t.me/iworldofficialgroup",
+    "github": "https://github.com/iWorldFoundation",    
+    "medium": "https://medium.com/iworldofficial",   
+   }
+ }
