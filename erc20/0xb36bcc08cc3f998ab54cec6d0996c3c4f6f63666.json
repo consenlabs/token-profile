@@ -1,0 +1,27 @@
+{
+  "symbol": "XSAP",
+  "address": "0xb36bcc08cc3f998ab54cec6d0996c3c4f6f63666",
+  "overview": {
+    "en": "XSAP(xSapphire) Token is "A Dedicated Decentralized and Scalable Smart Contracts", made on Ethereum Network (ERC20).",
+    "zh": "XSAP（xSapphire）令牌是“专用分散和可扩展的智能合约”，在以太坊网络（ERC20）上制作。"
+  },
+  "email": "support@xsapphire.com",
+  "website": "https://www.xsapphire.com/",
+  "whitepaper": "https://www.xsapphire.com/eth/whitepaper.pdf/",
+  "state": "NORMAL",
+  "published_on": "2019-03-11",
+  "initial_price":{
+        "ETH":"0.0019 ETH",
+        "USD":"0.25 USD",
+        "BTC":"0.000065 BTC"
+  },
+  "links": {
+    "blog": "https://xsapphire.com/blog.php",
+    "twitter": "https://www.twitter.com/xsapofficial",
+    "telegram": "https://t.me/xsapofficial",
+    "reddit": "https://www.reddit.com/user/xsapofficial",
+    "github": "https://github.com/xsapphiretoken",
+    "facebook": "https://www.facebook.com/xsapofficial",
+    "linkedin": "https://www.linkedin.com/company/xsapphire"
+  }
+}
