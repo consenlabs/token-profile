@@ -1,0 +1,22 @@
+{
+   "symbol": "IWT",
+   "address": "0x4E8B3303BF12760323DDeA1aB54ab879FD19E8C0",
+   "overview":{
+         "en": "IWT is a digital gold that drives the operation of the iWorld system and is a value storage medium in this economic system. Because it has both value and use value",
+         "zh": "IWT 是驱动 iWorld 系统运行的数字货黄金，也是此经济系统中的价值储藏媒介。因为它同时具备价值和使用价值。"
+   },
+   "email": "hello@iworld.pro",
+   "website": "http://iworld.pro",
+   "whitepaper": "https://github.com/iWorldFoundation/Whitepaper",
+   "state": "NORMAL",
+   "published_on": "2018-07-30",
+   "initial_price":{       
+         "USD":"0.05 USD"
+   },
+   "links": {    
+    "twitter": "https://twitter.com/iWorld_Official",
+    "telegram": "https://t.me/iworldofficialgroup",
+    "github": "https://github.com/iWorldFoundation",    
+    "medium": "https://medium.com/iworldofficial",     
+   }
+ }
