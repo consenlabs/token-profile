@@ -1,4 +1,5 @@
-"symbol": "ALCT",
+{
+  "symbol": "ALCT",
   "address": "0x6141fd0F51314FFd4125Dc08F558f3C048DE4181",
   "overview":{
         "en":"ALCT is based on the decentralization of block chain. Its technical framework is different from the traditional communication network. The traditional communication network is based on the central server for data exchange and data flow connection. ALCT is totally based on distributed communication network, completely removing the central server, in order to achieve a comprehensive innovation of the traditional communication mode.",
