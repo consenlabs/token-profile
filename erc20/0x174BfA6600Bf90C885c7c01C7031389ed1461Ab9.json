@@ -2,12 +2,12 @@
   "symbol": "MGC",
   "address": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
   "overview":{
-        "en": "MGC (More Gold Coin) is a mobile APP payment multi-function wallet developed based on blockchain technology. It has zero-cost payment without borders, mainstream virtual currency trading platform, and electronic wallet scanning code payment. It is a multifunctional decentralized payment. MGC will offer sharing economy and service for the online paid merchants and consumers around the world.MGC intends to be the first company in the world to collaborate with payment agencies in the traditional offline payments sector, and MGC is based on peer-to-peer network technology, moreover, MGC has a new form of global payment based on blockchain and smart contracts. The purpose of MGC is to make “global payment simple and easy to use”, and the mission of MGC is “Serving the World”. We are committed to making MGC a globally freely encrypted digital asset and constructing payments platform among online merchants and consumers. Through the network of this platform, customers can realize real-time location-to-point payment, transfer, and even various financial investments, without central organization management, moreover MGC support different countries' currency exchange.",
-        "zh": "MGC(More Gold Coin)是基于区块链技术开发的手机APP支付多功能钱包，无国界支付零手续费，主流虚拟货币交易平台，电子钱包扫码支付，是一款多功能的去中心化支付工具，将为全球在线支付商家与消费者实现共享和服务提供便利。MGC 打算成为世界上第一个与线下传统支付领域的支付机构展开合作，在点对点网络技术的基础上，基于区块链和智能合约的全球支付新形态。MGC以创造“全球支付简单化，易用化”为宗旨，以“服务世界” 为使命，致力于将MGC打造成全球自由流通的加密数字资产，构造MGC在线下商家与消费者之间的支付平台。通过此平台的网络，客户可以实现实时地点对点支付、转账、甚至各种金融投资，不需要中心组织管理，且支持各国不同法币兑换。"
+        "en": "MGC (More Gold Coin) is a mobile APP payment multi-function wallet developed based on blockchain technology. It has zero-cost payment without borders, mainstream virtual currency trading platform, and electronic wallet scanning code payment. It is a multifunctional decentralized payment. MGC will offer sharing economy and service for the online paid merchants and consumers around the world.MGC intends to be the first company in the world to collaborate with payment agencies in the traditional offline payments sector, and MGC is based on peer-to-peer network technology, moreover, MGC has a new form of global payment based on blockchain and smart contracts. ",
+        "zh": "MGC(More Gold Coin)是基于区块链技术开发的手机APP支付多功能钱包，无国界支付零手续费，主流虚拟货币交易平台，电子钱包扫码支付，是一款多功能的去中心化支付工具，将为全球在线支付商家与消费者实现共享和服务提供便利。MGC 打算成为世界上第一个与线下传统支付领域的支付机构展开合作，在点对点网络技术的基础上，基于区块链和智能合约的全球支付新形态。"
   },
   "email": "team@mgc0.com",
   "website": "http://www.mgc0.com/",
-  "whitepaper": "http://www.mgc0.com/?attachment_id=11341&download=1",
+  "whitepaper": "http://en.mgc0.com/qfy-content/uploads/2019/03/9d9c10591994505723cd4e5d712371ff.pdf",
   "state": "NORMAL",
   "published_on": "2018-04-15",
   "initial_price": {
