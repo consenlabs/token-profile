@@ -10,12 +10,12 @@
   "state": "NORMAL",
   "published_on": "2019-01-23",
   "initial_price":{
-        "ETH":"0.00067 ETH",
+        "ETH":"0.00067 ETH"
   },
   "links": {
     "twitter": "https://twitter.com/FewNickels",
     "telegram": "https://t.me/TraderXCoin",
     "github": "https://github.com/FewNickels",
-    "facebook": "https://www.facebook.com/FewNickels/",
+    "facebook": "https://www.facebook.com/FewNickels/"
   }
 }
