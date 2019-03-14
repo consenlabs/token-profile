@@ -1,0 +1,25 @@
+{
+  "symbol": "HV",
+  "address": "0x141abb03f001deded9a0223d4ff26d929117b72e",
+  "overview": {
+    "en": "HighVibe.Network (HV) is an Ethereum-based ecosystem built for the wellness industry and designed to elevate human consciousness by incentivising personal growth and development.",
+  },
+  "email": "team@highvibe.network",
+  "website": "https://www.highvibe.network/",
+  "whitepaper": "https://s3.us-east-2.amazonaws.com/highvibenetwork/HighVibeNetwork+Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-01",
+  "initial_price":{
+        "USD":"0.01 USD",
+  },
+  "links": {
+    "blog": "https://www.youtube.com/channel/UC6-1IxjQvlzrQcXyl49O2CA",
+    "twitter": "https://twitter.com/HighVibeNetwork",
+    "telegram": "https://t.me/highvibenetworktoken",
+    "reddit": "https://www.reddit.com/r/HighVibeNetwork/",
+    "github": "https://github.com/HighVibe",
+    "facebook": "https://www.facebook.com/highvibe.network/",
+    "slack": "",
+    "medium": "https://medium.com/highvibe-network"
+  }
+}
