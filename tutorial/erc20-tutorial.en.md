@@ -80,8 +80,7 @@ git push origin xxx-token
 
 ### How to display token price:
 In imToken, the current displayed token prices are provided by the block.cc API. If you want your project’s token price to be displayed in imToken, your token price must be supported on block.cc and you have to provide us the corresponding link in your GitHub submission.
-
-   Sample: https://github.com/consenlabs/token-profile/issues/3595
+Sample: https://github.com/consenlabs/token-profile/issues/3595
 
 
 ### Regarding Duplicated Token Names or Contract Amendment
