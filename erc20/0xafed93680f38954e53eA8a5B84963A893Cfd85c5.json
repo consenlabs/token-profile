@@ -1,0 +1,15 @@
+{
+  "symbol": "PCS",
+  "address": "0xafed93680f38954e53eA8a5B84963A893Cfd85c5",
+  "overview":{
+        "zh": "PCS（PCSchain）通过利用区块链技术对底层公链开发，打造了一个消费和支付行业的数字通证生态平台。在赋能电商、物流溯源、游戏价值的生产者、开发者与游戏玩家之间，将有更加纯粹、完整的价值流通与交互，从而实现更加多元化、丰富的应用场景。"
+  },
+  "email": "pcstoken@126.com",
+  "website": "http://www.o58.io/",
+  "whitepaper": "http://www.o58.io/PCSchainV1.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-13",
+  "links": {
+        "website": "http://www.o58.io"
+  }
+}
