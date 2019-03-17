@@ -1,0 +1,22 @@
+{
+  "symbol": "BRP",
+  "address": "0xcbf15FB8246F679F9Df0135881CB29a3746f734b",
+  "overview":{
+    "en": "New Eco-Friendly and Layered Decentralized Economy: Three-layer solution, Multi-mining capability, Optimizing the energy consumption"
+  },
+  "email": "info@bitherstock.io",
+  "website": "https://bitherstock.io",
+  "whitepaper": "https://bitherplatform.io/docs/Whitepaper.pdf",
+  "initial_price":{
+    "ETH":"0.01 ETH"
+  },
+  "links": {
+    "blog": "https://medium.com/@bitherplatform",
+    "twitter": "https://twitter.com/BitherPlatform",
+    "telegram": "https://t.me/bitherplatform",
+    "github": "https://github.com/bitherhq",
+    "facebook": "https://www.facebook.com/Bitherplatform",
+    "reddit": "https://www.reddit.com/r/BitherPlatform",
+    "medium": "https://medium.com/@bitherplatform"
+  }
+}
