@@ -7,9 +7,6 @@
   "email": "info@bitherstock.io",
   "website": "https://bitherstock.io",
   "whitepaper": "https://bitherplatform.io/docs/Whitepaper.pdf",
-  "initial_price":{
-    "ETH":"0.01 ETH"
-  },
   "links": {
     "blog": "https://medium.com/@bitherplatform",
     "twitter": "https://twitter.com/BitherPlatform",
