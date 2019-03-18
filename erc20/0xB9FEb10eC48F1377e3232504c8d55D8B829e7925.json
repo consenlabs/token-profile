@@ -8,7 +8,7 @@
   "email": "ascchain@outlook.com",
   "website": "http://www.ascchain.com/",
   "whitepaper": "http://www.ascchain.com/refs.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.00106666 ETH",
