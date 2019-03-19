@@ -7,7 +7,6 @@
   },
   "email": "support@piexgo.com",
   "website": "https://piexgo.com",
-  "whitepaper": "",
   "state": "NORMAL",
   "published_on": "2018-06-06",
   "initial_price":{
@@ -16,13 +15,10 @@
         "BTC":"0.000001737 BTC"
   },
   "links": {
-    "blog": "",
     "twitter": "https://twitter.com/piexgocom",
     "telegram": "https://t.me/Piexgo_Global",
     "github": "https://github.com/piexgo",
     "facebook": "https://www.facebook.com/piexgo",
-    "reddit": "",
-    "slack": "",
     "medium": "https://medium.com/piexgo"
   }
 }
