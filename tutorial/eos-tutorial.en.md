@@ -76,6 +76,7 @@ git push origin xxx-token
 
 9. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch. And then your token profile will display in the current imToken App
 
+Thanks to [EOSPark](https://github.com/BlockABC/eos-tokens) for initial data.
 
 ## Frequently asked questions
 

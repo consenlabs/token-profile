@@ -62,6 +62,8 @@ git push origin xxx-token
 
 9. 我们会尽快核实你的 PR，如果 PR 没问题我们会合并到主分支下，至此你的代币资料将会出现在 imToken App 内
 
+感谢 [EOSPark](https://github.com/BlockABC/eos-tokens) 提供代币信息。
+
 ## 常见问题
 
 ### 如何显示价格？
