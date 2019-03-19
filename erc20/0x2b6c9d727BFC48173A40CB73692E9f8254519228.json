@@ -1,0 +1,18 @@
+{	
+	"website": "http://www.mnichain.com",
+	"symbol": "MNI",
+	"whitepaper": "http://www.mnichain.com/white_paper.pdf",
+	"address": "0x2b6c9d727BFC48173A40CB73692E9f8254519228",
+	"overview":{
+	"en": "MNI Chain aims to build a huge DApp ecosystem and develop a high-performance block chain ecological bottom platform with high versatility, expansibility and compatibility, which can realize a million-level TPS, universal language development intelligent contract and visualization operation block chain 3.0 pilot project.",
+	"zh": "MNI Chain旨在打造一个庞大的DApp生态，开发一个通用性、扩展性、兼容性极强的高性能区块链生态底层平台，可实现百万级TPS、通用语言开发智能合约、可视化操作的区块链3.0领航项目。"
+	},
+	"email": "support@mnichain.com",
+	"published_on": "2019-03-16",
+	"initial_price": {
+	"USD": "0.0600 USD"
+	},
+	"links": {
+	"github": "https://github.com/mniChain"
+	}
+	}
