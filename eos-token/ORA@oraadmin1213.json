@@ -14,10 +14,8 @@
         "USD": "0.3399 USD"
     },
     "links": {
-        "steemit": "",
         "twitter": "https://twitter.com/ChainOracle",
         "telegram": "https://t.me/orachain",
-        "github": "https://github.com/ORAChain/token-profile",
-        "reddit": ""
+        "github": "https://github.com/ORAChain/token-profile"
     }
 }
