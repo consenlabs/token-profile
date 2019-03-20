@@ -1,10 +1,7 @@
 {
-  "symbol": "NEB",
-  "account_name": "nebulatokenn",
-  "overview": {
-    "en": ""
-  },
-  "website": "",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "NEB",
+    "account_name": "nebulatokenn",
+    "overview": {
+        "en": ""
+    }
 }

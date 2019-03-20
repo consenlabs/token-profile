@@ -1,10 +1,8 @@
 {
-  "symbol": "ESB",
-  "account_name": "esbcointoken",
-  "overview": {
-    "en": "Free peer to peer sports betting community."
-  },
-  "website": "http://eossportsbets.io",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "ESB",
+    "account_name": "esbcointoken",
+    "overview": {
+        "en": "Free peer to peer sports betting community."
+    },
+    "website": "http://eossportsbets.io"
 }

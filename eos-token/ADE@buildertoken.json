@@ -1,10 +1,8 @@
 {
-  "symbol": "ADE",
-  "account_name": "buildertoken",
-  "overview": {
-    "en": "CADEOS is a distributed CAD file and project management platform."
-  },
-  "website": "https://cadeos.io",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "ADE",
+    "account_name": "buildertoken",
+    "overview": {
+        "en": "CADEOS is a distributed CAD file and project management platform."
+    },
+    "website": "https://cadeos.io"
 }

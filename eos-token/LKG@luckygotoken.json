@@ -1,10 +1,8 @@
 {
-  "symbol": "LKG",
-  "account_name": "luckygotoken",
-  "overview": {
-    "en": "A good platform for centralization of games."
-  },
-  "website": "https://www.luckygo.one",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "LKG",
+    "account_name": "luckygotoken",
+    "overview": {
+        "en": "A good platform for centralization of games."
+    },
+    "website": "https://www.luckygo.one"
 }

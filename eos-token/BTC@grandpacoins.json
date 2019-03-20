@@ -1,10 +1,7 @@
 {
-  "symbol": "BTC",
-  "account_name": "grandpacoins",
-  "overview": {
-    "en": ""
-  },
-  "website": "",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "BTC",
+    "account_name": "grandpacoins",
+    "overview": {
+        "en": ""
+    }
 }

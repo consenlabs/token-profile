@@ -1,10 +1,7 @@
 {
-  "symbol": "RAM",
-  "account_name": "ramtokenmoon",
-  "overview": {
-    "en": ""
-  },
-  "website": "",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "RAM",
+    "account_name": "ramtokenmoon",
+    "overview": {
+        "en": ""
+    }
 }

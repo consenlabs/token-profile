@@ -1,10 +1,7 @@
 {
-  "symbol": "ATMOS",
-  "account_name": "novusphereio",
-  "overview": {
-    "en": ""
-  },
-  "website": "",
-  "whitepaper": "",
-  "links": {}
+    "symbol": "ATMOS",
+    "account_name": "novusphereio",
+    "overview": {
+        "en": ""
+    }
 }
