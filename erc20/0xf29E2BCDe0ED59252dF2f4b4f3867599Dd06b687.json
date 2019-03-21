@@ -1,20 +1,20 @@
 {
-  "symbol": "SBIT",
-  "address": "0xf29E2BCDe0ED59252dF2f4b4f3867599Dd06b687",
-  "overview":{
-        "en": "SBIT is the platform currency of SENbit Exchange",
-        "zh": "SBIT是SENbit交易所的平台币"
-  },
-  "email": "service@senbit.cc",
-  "website": "https://senbit.cc",
-  "state": "NORMAL",
-  "published_on": "2018-10-30",
-  "initial_price":{        
-        "USD":"1 USD"     
-  },
-  "links": {
-    "twitter": "https://twitter.com/senbitglobal",
-    "telegram": "https://t.me/senbitglobal",
-    "medium": "https://medium.com/senbit-global"
-  }
+	"symbol": "SBIT",
+	"address": "0xf29E2BCDe0ED59252dF2f4b4f3867599Dd06b687",
+	"overview": {
+		"en": "SBIT is the platform currency of SENbit Exchange",
+		"zh": "SBIT是SENbit交易所的平台币"
+	},
+	"email": "service@senbit.cc",
+	"website": "https://senbit.cc",
+	"state": "NORMAL",
+	"published_on": "2018-10-30",
+	"initial_price": {
+		"USD": "1 USD"
+	},
+	"links": {
+		"twitter": "https://twitter.com/senbitglobal",
+		"telegram": "https://t.me/senbitglobal",
+		"medium": "https://medium.com/senbit-global"
+	}
 }
