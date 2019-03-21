@@ -1,0 +1,18 @@
+{
+  "symbol": "BKB",
+  "address": "0x5c39bc68e58a242a624e4fc96be77a383c52002d",
+  "overview": {
+    "en": "BitKeep is a decentralized digital asset wallet designed to provide users with a professional one - stop service, support multi - wallet management, exchange asset docking, and cover financial lending, cloud - mining, Dapp, games, blockchain payment And other functions . The founding team comes from top companies such as Google, Microsoft, 360, etc . The industry has a wealth of experience and connections . ",
+    "zh": "BitKeep是一款去中心化多链生态钱包，旨在为用户提供专业的一站式服务，支持多钱包管理、交易所资产对接，另外涵盖理财借贷、云挖矿、Dapp、游戏、区块链支付等功能。BKB是BitKeep通用积分，用于支持BitKeep业务上链。"
+  },
+  "email": "support@bitkeep.com",
+  "website": "https://bitkeep.com/",
+  "whitepaper": "http://cdn.bitkeep.com/White_Paper.pdf",
+  "published_on": "2019-03-01",
+  "initial_price": {
+  },
+  "links": {
+    "telegram": "https://t.me/BitKeep_Official",
+    "twitter": "https://twitter.com/BitKeepOS"
+  }
+}
