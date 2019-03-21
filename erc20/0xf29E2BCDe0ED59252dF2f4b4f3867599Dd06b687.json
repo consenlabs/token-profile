@@ -12,9 +12,9 @@
   "initial_price":{
     "USD":"1 USD"
   },
-  "links": {"twitter":
-            "https://twitter.com/senbitglobal",
-            "telegram": "https://t.me/senbitglobal",
-            "medium": "https://medium.com/senbit-global"
+  "links": {
+    "twitter":"https://twitter.com/senbitglobal",
+    "telegram": "https://t.me/senbitglobal",
+    "medium": "https://medium.com/senbit-global"
   }
 }
