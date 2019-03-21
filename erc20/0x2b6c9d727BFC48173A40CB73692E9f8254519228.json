@@ -1,5 +1,5 @@
 {	
-	"website": "http://www.mnichain.com",
+	"website": "https://www.mnichain.com",
 	"symbol": "MNI",
 	"whitepaper": "http://www.mnichain.com/white_paper.pdf",
 	"address": "0x2b6c9d727BFC48173A40CB73692E9f8254519228",
@@ -10,9 +10,9 @@
 	"email": "support@mnichain.com",
 	"published_on": "2019-03-16",
 	"initial_price": {
-	"USD": "0.0600 USD"
+		"USD": "0.00600 USD"
 	},
 	"links": {
 	"github": "https://github.com/mniChain"
 	}
-	}
+}
