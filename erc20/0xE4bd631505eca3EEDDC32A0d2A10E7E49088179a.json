@@ -1,21 +1,20 @@
 ﻿{
-  “符号”： “ SN ”，
-  “地址”： “ 0xE4bd631505eca3EEDDC32A0d2A10E7E49088179a ”，
-  “概述”：{
-        “ en ”： “ Basierend auf der heutigen Netzwerkumgebung und den enormen wirtschaftlichenvPerspektivenVerschlüsselungSccoinentworfen。”，
-        “ zh ”： “由德国团队打造的共享式交易平台，用以对接欧洲部分优秀项目，并以SN进行交易和沟通手续消耗.”
-  }，
-  “ email ”： “ sofortnundnum@gmail.com ”，
-  “网站”： “ https://sofortnundnum.blog ”，
-  “白皮书”： “ https://drive.google.com/file/d/19-ONJ0TIWqBBsBavi-1AR9jEAx0Okz0f/view?usp=sharing ”，
-  “州”： “锁定|正常”，
-  “ published_on ”： “ 2018-10-01 ”，
-  }，
-  “链接”：{
-    “博客”： “ https://sofortnundnum.blog ”，
-    “ github ”： “ https：//github.com/sofortnundnum ”，        
-    “电话”： “电话：+43 67763073219 ”，
-    “ Facebook ”： “ https://www.facebook.com/SofortNundnum-833930073622276/ ”，
-    “ Twitter ”： “ https://twitter.com/SofortNundnum ”，
+    "symbol": "SN",
+    "address": "0xE4bd631505eca3EEDDC32A0d2A10E7E49088179a",
+    "overview": {
+        "de": "Basierend auf der heutigen Netzwerkumgebung und den enormen wirtschaftlichenvPerspektivenVerschlüsselungSccoinentworfen.",
+        "zh": "由德国团队打造的共享式交易平台，用以对接欧洲部分优秀项目，并以SN进行交易和沟通手续消耗。"
+  },
+  "email": "sofortnundnum@gmail.com",
+  "website": " https://sofortnundnum.blog",
+  "whitepaper": "https://drive.google.com/file/d/19-ONJ0TIWqBBsBavi-1AR9jEAx0Okz0f/view?usp=sharing",
+  "state": "NORMAL",
+  "published_on": "2018-10-1",
+ },
+  "links": {
+    "blog": "https://sofortnundnum.blog",
+    "twitter": "https://twitter.com/SofortNundnum",
+    "github": "https：//github.com/sofortnundnum",
+    "facebook": "https://www.facebook.com/SofortNundnum-833930073622276",
   }
 }
