@@ -1,14 +1,14 @@
 {
-  "symbol": "Token symbol",
+  "symbol": "FCP",
   "address": "0x340520004a92DCbbba3793f40d089e040176DD4d",
   "overview":{
         "en": "FC Plus(ETH90 Token Plus,FC Token v2.0).",
-        "zh": "FC Plus(ETH90 Token Plus,FC Token v2.0)"
+        "zh": "FC Plus(ETH90 Token Plus,FC Token v2.0)."
   },
   "email": "weiming1306@163.com",
   "website": "https://www.ETH90.com/",
   "whitepaper": "",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.00698924 ETH",
