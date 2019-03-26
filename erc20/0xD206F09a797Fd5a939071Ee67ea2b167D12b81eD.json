@@ -1,0 +1,19 @@
+{
+  "symbol": "CPP",
+  "address": "0xD206F09a797Fd5a939071Ee67ea2b167D12b81eD",
+  "overview":{
+        "en": "Coinpinpin-New electronic commerce",
+        "zh": "Coinpinpin通证经济下的新电商生态"
+  },
+  "email": "team@coinpinpin.com",
+  "website": "https://www.coinpinpin.com",
+  "state": "NORMAL",
+  "published_on": "2019-03-12",
+  "initial_price":{
+        "ETH": "0.0000125"
+  },
+  "links": {
+    "whitepaper": "https://www.coinpinpin.com/static/pdf/index.html",
+    "telegram": "https://t.me/coinpinpin"
+  }
+}
