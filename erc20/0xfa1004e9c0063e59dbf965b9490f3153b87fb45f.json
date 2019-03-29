@@ -7,7 +7,7 @@
   },
   "website": "https://http://uzone.io/",
   "whitepaper": "http://img.uzone.io/material/Uzone20190323.pdf",
-  "state": " NORMAL",
+  "state": 'NORMAL',
   "published_on": "2018-03-18",
   "initial_price":{
         "ETH":"0.000110 ETH",
