@@ -1,28 +1,4 @@
 {
   "symbol": "JCB",
-  "address": "0xf5a36703a1627e35df5a53cc41c2d68a601d85d2",
-  "overview":{
-        "en": "JIUCAIBI",
-        "zh": "韭菜币"
-  },
-  "email": "Email",
-  "website": "https://www.jiucaibi.com/",
-  "whitepaper": "https://www.jiucaibi.com/file.pdf",
-  "state": "NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
-  },
-  "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
-  }
+  "address": "0xf5a36703a1627e35df5a53cc41c2d68a601d85d2"
 }
