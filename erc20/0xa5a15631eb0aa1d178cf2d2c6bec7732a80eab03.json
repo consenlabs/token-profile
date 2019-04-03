@@ -1,0 +1,14 @@
+{
+    "symbol": "EX",
+    "address": "0xa5a15631eb0aa1d178cf2d2c6bec7732a80eab03",
+    "overview": {
+        "en": "EXchange Token is the platform passport of EX. cast exchange, code EX, the total amount of issuance is constant 500 million, never additional issuance. EX holders share various rights of community governance.",
+        "zh": "EXchange Token是EX.cash交易所的平台通证，代号EX，发行总量恒定5亿，永不增发。EX持有者共同享有社区的治理各类权利。"
+    },
+    "email": "info@dbeth.us",
+    "website": "https://www.ex.cash",
+    "whitepaper": "https://www.ex.cash/download/EXchange%20Token%20wp.pdf",
+    "initial_price": {
+        "USD": "0.1 USD"
+    }
+}
