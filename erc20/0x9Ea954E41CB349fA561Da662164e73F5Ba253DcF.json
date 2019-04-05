@@ -1,0 +1,17 @@
+﻿{
+  "symbol": "RAT",
+  "address": "0x9Ea954E41CB349fA561Da662164e73F5Ba253DcF",
+  "overview":{
+        "en": "Token Description.",
+        "zh": "RatingToken令牌目前仅由新加坡基金会发放和运营，不可分割，不支持交易。令牌作为整个社区和平台的共识工具，促进社区的共建，激励更多的评级专家加入去中心化评级平台，发现优质的区块链项目。RAT促进了行业发展，区块链知识的普及和优质资讯的生产，提升了优质资产和资金的链接共识。"
+  },
+  "email": "ratingchain@gmail.com",
+  "website": "www. ratingchain.pro",
+  "whitepaper": "https://pan.baidu.com/s/1JRllhwWO2o2orxgrQ0k5WA",
+  "state": "NORMAL",
+  "published_on": "2019-03-18",
+  "links": {
+    "twitter": "https://twitter.com/icorili_net",
+    "telegram": "https://t.me/joinchat/HaMSdRb516u5ioDUzM1mNw"
+  }
+}
