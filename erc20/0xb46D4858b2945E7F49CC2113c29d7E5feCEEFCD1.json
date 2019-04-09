@@ -1,0 +1,18 @@
+{
+  "symbol": "ESC",
+  "address": "0xb46D4858b2945E7F49CC2113c29d7E5feCEEFCD1",
+  "overview":{
+        "zh": "ESC是基于以太坊公有区块链技术开发的去中心化ToKen,涵盖全球国际化数字交易平台，ESC完全遵循MIT许可协议，并在项目上线后第一时间将代码放到github.com 代码共享平台。 "
+  },
+  "email": "ami@amigroup.info",
+  "website": "http://www.esctoken.io/",
+  "whitepaper": "http://www.esctoken.io/index.html",
+  "state": "NORMAL",
+  "published_on": "2017-07-01",
+  "initial_price":{
+        "USD":"1 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ESC"
+  }
+}
