@@ -1,0 +1,15 @@
+{
+    "symbol": "YC",
+    "account_name": "tokenyancoin",
+    "overview": {
+        "en": "The Sanyan community, combined with the technology and ideas of the blockchain and the pass, has created a new “pass-through reading” model and opened the “big voyage era” of the Chinese Internet-passenging commercial revolution.",
+        "zh": "三言社区，结合区块链和通证的技术和思想，打造出全新的“通证阅读”模式，开启了中国互联网通证商业革命的“大航海时代”。"
+    },
+    "email": "ttookk_aliyun@163.com",
+    "website": "http://www.yancoin.info/yccoin/yc",
+    "published_on": "2019-03-30",
+    "initial_price": {
+        "EOS": "0.002 EOS",
+        "USD": "0.008 USD"
+    }
+}
