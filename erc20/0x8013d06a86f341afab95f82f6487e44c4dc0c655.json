@@ -1,0 +1,30 @@
+"overview": {
+    "en": " BSVG" Bitcoinsvgold (erc20)is the original Bitcoin for peer to peer transactions on erc20
+platform . It restores the original Bitcoin SV protocol , will keep it stable, and allow it to
+massively scale. Bitcoin SV GOLD will maintain the vision set out by Satoshi
+Nakamoto’s sprit.",
+    "zh": "BSVG" Bitcoinsvgold(erc20) shì erc20 shàng yòng yú diǎnduìdiǎn jiāoyì de yuánshǐ bǐtè bì
+píngtái. Tā huīfù yuánshǐ de bǐtè bì SV xiéyì, jiāng qí bǎochí wěndìng, bìng yǔnxǔ tā
+dàliàng de guīmó. Bǐtè bì SV GOLD jiāng bǎochí Satoshi de yuànjǐng
+zhōng běn cōng de jīngshén"
+  },
+  "email": "founder@bitcoinsvgold.org",
+  "website": "https://www.bitcoinsvgold.org",
+  "whitepaper": " https://drive.google.com/file/d/1Jfap2u2VsS_NnjOkG0AQpGiPoqGGN5Gx/view?usp=drivesdk",
+  "state": "NORMAL",
+  "published_on": "2019-03-1",
+  "initial_price":{
+        "ETH":"0.002 ETH",
+        "USD":"0.234USD",
+        "BTC":"0.00007910 BTC"
+  },
+  "links": {
+    "blog": 
+    "twitter": "https://www.twitter.com/bitcoinsvgold",
+    "telegram": "http://t.me/BitcoinsvgoldBSVG",    
+   "github": " https://github.com/bitcoinsvgold",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5130093 ",
+    "Coingeko":
+"https://www.coingecko.com/en/coins/bitcoinsvgold",
+  }
+}
