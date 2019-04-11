@@ -29,7 +29,6 @@
 - #imToken #1636 标签及其展示形式可自行调整。
 - 若未提供「官方公告」，则无法显示代币信息。
 
-
 #### Logo 设计要求
 - 尺寸: 120x120 像素
 - 图片为透明背景的 PNG 格式
@@ -67,7 +66,7 @@ git commit -m “Add xxx token”
 git push origin xxx-token
 ```
 
-8. 在你的仓库页面下点击 `New pull request` 按钮 ，并附上项目资料以及相关区块链媒体报道，包括但不限于以下：（团队背景；项目基本情况；媒体报道；收录的交易所）
+8. 在你的仓库页面下点击 `New pull request` 按钮 ，并附上项目资料、官方公告以及相关区块链媒体报道，包括但不限于以下：（官方公告；团队背景；项目基本情况；媒体报道；收录的交易所）
 
    PR 示例：https://github.com/consenlabs/token-profile/pull/3475
 
