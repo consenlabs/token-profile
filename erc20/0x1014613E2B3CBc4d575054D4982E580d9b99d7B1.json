@@ -1,0 +1,28 @@
+{
+  "symbol": "BCV",
+  "address": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+  "overview":{
+        "en": "BitCV focused on digital asset management, we technically reconstructed the bottom layer of popular blockchain platforms, built and support for cross-chain communications and made rapid payment possible. We also developed Gadgets to simplify user experience in our eco system. BitCV provide professional services and create better infrastructure which suitable for next generation digital asset management.",
+        "zh": "币威专注于区块链数字资产管理，从技术上研究和改造区块链底层，构建对跨链、快速支付的支持，同时从应用层实现落地，小工具切入，支持更完整的生态，为社群化运营提供专业的服务，打造更良好的基础设施。"
+  },
+  "email": "bitcv@bitcv.com",
+  "website": "https://www.bitcv.com/",
+  "whitepaper": "http://bitcv.one/doc/bitcv_whitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-26",
+  "initial_price":{
+        "ETH":"0.0002 ETH",
+        "USD":"0.03 USD",
+        "BTC":"0.000006 BTC"
+  },
+  "links": {
+    "blog": "https://weibo.com/bitcv",
+    "twitter": "https://twitter.com/BCVofficial",
+    "telegram": "https://t.me/bcvtoken",
+    "github": "https://github.com/bitcv",
+    "facebook": "https://www.facebook.com/BitCapitalVendor",
+    "reddit": "https://www.reddit.com/user/BitCVOfficial",
+    "slack": "https://bitcv.slack.com",
+    "medium": "https://medium.com/@bitcv"
+  }
+}
