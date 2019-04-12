@@ -1,0 +1,26 @@
+{
+  "symbol": "GRWT",
+  "address": "0x832ec40433b457028a1d27434f3b9fdf81aaecbe",
+  "overview":{
+        "en": "(Grow Decentralized Exchange) aims to fulfill its initial purpose of providing individuals traders with a fast, efficient and decentralized way of making direct transactions while maintaining your privacy.",
+        "zh": "（Grow Decentralized Exchange）旨在实现其最初目的，即为个人交易者提供快速，高效和分散的直接交易方式，同时保持您的隐私。"
+  },
+  "email": "support@growtoken.io",
+  "website": "https://growtoken.io/",
+  "whitepaper": "https://growtoken.io/GROW-whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-12-02",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.0001 BTC"
+  },
+  "links": {
+    "blog": "https://www.reddit.com/user/GrowTokenProject",
+    "twitter": "https://twitter.com/GRWT_Project",
+    "telegram": "https://t.me/GrowToken_Group",
+    "github": "https://github.com/GRWT122018",
+    "facebook": "https://www.facebook.com/GrowTokenProject/",
+    "reddit": "https://www.reddit.com/user/GrowTokenProject"
+  }
+}
