@@ -1,0 +1,23 @@
+{
+	    "symbol": "GART",
+	    "address": "0xa352f6908d398eb2a54e4b7a1ca170d3d63c0c01",
+	    "overview": {
+	        "en": "Global Art Contract (GART) is a smart contract developed for the decentralized trading and property rights of global art based on the underlying technology of blockchain.",
+	        "zh": "Global Art Contract(简称GART)全球艺术合约是基于区块链底层技术开发的应用于全球艺术品去中心化交易和产权存证的智能合约。"
+	    },
+	
+	  "email": "support@consenlabs.com",
+	  "website": "http://www.gartbc.com/",
+	  "whitepaper": "http://www.gartbc.com/documents/Whitepaper.pdf",
+	  "state": "NORMAL",
+	  "published_on": "2019-04-2",
+	  "initial_price":{
+	        "ETH":"0.000187 ETH",
+	        "USD":"0.03 USD",
+	        "BTC":"0.00000608 BTC"
+	  },
+	  "links": {
+	    "twitter": "https://twitter.com/Gart_Contract",
+	    "telegram": "https://t.me/GartContract"
+	  }
+	}
