@@ -9,5 +9,9 @@
     "website": "http://lianlian.top/",
     "whitepaper": "http://static.lianlian.top/PDF/white-papers-2.0.pdf",
     "state": "NORMAL",
-    "published_on": "2019-04-12"
+    "published_on": "2019-04-12",
+    "links": {
+        "twitter": "https://twitter.com/LianLia89114716",
+        "telegram": "https://t.me/lianlianuuq"
+      }
 }
