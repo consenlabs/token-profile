@@ -12,8 +12,6 @@
     "published_on": "2017-11-10",
     "initial_price":{
           "ETH":"0.0003387075 ETH",
-          "USD":"0.7 USD",
-          "BTC":"0.00004137 BTC"
     },
     "links": {
       "blog": "https://blog.coinfirm.com",
