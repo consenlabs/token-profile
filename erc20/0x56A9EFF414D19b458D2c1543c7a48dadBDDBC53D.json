@@ -1,0 +1,13 @@
+{
+  "symbol": "A-Token",
+  "address": "0x56A9EFF414D19b458D2c1543c7a48dadBDDBC53D",
+  "overview":{
+      "en": "A-TOKEN is a digital asset of the global agro-ecological supply chain. It is based on the ETC20 underlying technology development of Ethereum. It is filed through the international exchange, and 30 million pieces are issued in a constant quantity. The smart contract guarantees never to be issued, and can pass the imToken wallet. And the Nong Bao wallet transaction is the only value circulation certificate for the global investment of the Singapore Agricultural Pass.",
+      "zh": "农宝通证（A-TOKEN）是全球农业生态供应链数字资产，基于以太坊ERC20底层技术开发，通过国际交易所备案，恒量发行3000万枚，以智能合约保证永不增发，可通过imToken 钱包及农宝钱包交易，是新加坡农业通证基金会全球投资的唯一价值流通凭证。"
+  },
+  "state": "NORMAL",
+  "published_on": "2019-04-17",
+  "initial_price":{
+    "ETH":"0.1 ETH"
+  }
+}
