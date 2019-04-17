@@ -1,0 +1,22 @@
+{
+  "symbol": "BFC",
+  "address": "0xAA8B6fcb4488d3D553FCFc0B936143f99280d561",
+  "overview":{
+    "en": "blockchain financial capital",
+    "zh": ""
+  },
+  "email": "service@imcash.email",
+  "website": "http://imcash.art",
+  "state": "NORMAL",
+  "published_on": "2019-04-11",
+  "initial_price":{
+    "ETH":"0.00017469 ETH",
+    "USD":"0.029 USD",
+    "BTC":"0.00000556 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/IMCASH1/with_replies",
+    "telegram": "https://t.me/imcash_oversea",
+    "facebook": "https://www.facebook.com/imcash.wallet.3"
+  }
+}
