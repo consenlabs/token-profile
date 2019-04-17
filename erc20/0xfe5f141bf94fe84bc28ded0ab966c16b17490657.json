@@ -1,14 +1,13 @@
 {
-<<<<<<< HEAD
     "symbol": "LBA",
     "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
     "overview": {
-        "en": "Libra Credit is a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. ",
-        "zh": "Libra Credit提供基于加密币的借贷服务，凭借其行业领先的信用管理能力及伙伴关系网络形成一个世界级借贷生态系统，提供基于以太坊的信用服务，并致力于促进其信用开放使用。"
+        "en": "Cred is a decentralized global lending platform that facilitates open access to credit anywhere and anytime，harness the power of blockchain to allow everyone to benefit from low-cost credit products.",
+        "zh": "Cred是一个基于区块链和加密数字货币的金融生态系统，帮助全球的加密数字货币用户，随时随地高效地享受各类金融服务，比如理财CredEarn和借贷CredBorrow。"
     },
-    "email": "info@libracredit.io",
-    "website": "https://www.libracredit.io/",
-    "whitepaper": "https://www.libracredit.io/page/Libra%20Credit%20Whitepaper.pdf",
+    "email": "support@mycred.io",
+    "website": "https://www.mycred.io/",
+    "whitepaper": "https://static.mycred.io/CredWhitepaper.pdf",
     "state": "NORMAL",
     "published_on": "2018-05-01",
     "initial_price": {
@@ -17,41 +16,10 @@
         "BTC": "0.00001085 BTC"
     },
     "links": {
-        "blog": "https://medium.com/libracredit",
-        "twitter": "https://twitter.com/LibraCredit",
-        "telegram": "https://t.me/libraofficial",
-        "github": "https://github.com/libracredit",
-        "facebook": "https://www.facebook.com/Libra-credit-network-191105808142986/",
+        "twitter": "https://twitter.com/ihaveCred",
+        "telegram": "https://t.me/ihaveCred",
         "reddit": "https://www.reddit.com/r/Libra_Credit/",
-        "slack": "https://libracredit.slack.com/messages",
-        "medium": "https://medium.com/libracredit"
+        "Kakaotalk": "https://open.kakao.com/o/gdG1peM",
+        "medium": "https://medium.com/@ihaveCred"
     }
 }
-=======
-  "symbol": "LBA",
-  "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
-  "overview":{
-        "en": "Cred(LBA) is a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. ",
-        "zh": "Cred(LBA)提供基于加密币的借贷服务，凭借其行业领先的信用管理能力及伙伴关系网络形成一个世界级借贷生态系统，提供基于以太坊的信用服务，并致力于促进其信用开放使用。"
-  },
-  "email": "contact@mycred.io",
-  "website": "https://www.mycred.io/",
-  "whitepaper": "https://www.mycred.io/page/Libra%20Credit%20Whitepaper.pdf",
-  "state": "NORMAL",
-  "published_on": "2018-05-01",
-  "initial_price":{
-        "ETH":"0.0001491 ETH",
-        "USD":"0.1 USD",
-        "BTC":"0.00001085 BTC"
-  },
-  "links": {
-    "blog": "https://medium.com/libracredit",
-    "twitter": "https://twitter.com/ihavecred",
-    "telegram": "https://t.me/libraofficial",
-    "github": "https://github.com/libracredit",
-    "facebook": "https://www.facebook.com/ihaveCRED",
-    "reddit": "https://www.reddit.com/r/Libra_Credit/",
-    "medium": "https://medium.com/libracredit"
-  }
-}
->>>>>>> update logo and info for LBA
