@@ -6,6 +6,7 @@
 ### Information Preparation
 #### Complete project information and related blockchain media reports are appreciated, including but not limited to the following items:
 
+- Official announcement: (see details in **[Completeness and Accuracy of the information](https://github.com/consenlabs/token-profile/blob/master/tutorial/erc20-tutorial.en.md#completeness-and-accuracy-of-the-information)**)
 - Project team background:
 - Project basic information:
 - Media publications:
@@ -20,6 +21,14 @@ Sample Pull Request (PR): https://github.com/consenlabs/token-profile/pull/1636/
 #### Completeness and Accuracy of the information
 You are responsible for the information you submitted. Please ensure that the token information submitted is concise and accurate. Please refer to the sample PR. Complete information of your project can help imToken team understand your project better, which may speed up the review process. 
 
+In order to ensure the authenticity of the information submitted, please publish an announcement on your website or official social media channels and attach the corresponding link in “Official announcement”. We recommended a format similar to the following:
+>\#imToken #1636
+We are providing XXX token’s information on imToken. After completion, you can see the logo and full information inside imToken’s Token Manager.
+
+Note:
+- 1636 is the PR number, as in: https://github.com/consenlabs/token-profile/pull/1636 
+This number is the key to verify yourself as the rightful editor of the information to imToken.
+- The token information can only be changed after the official verification
 
 #### Logo Design Requirements
 - Size: 120x120 pixels
@@ -52,7 +61,7 @@ git checkout xxx-token
 
 4. Add a new json file to the erc20 directory, named by your token contract address. Please note the contract address should be done with capitalization with [checksum](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md) 
   For example:
-  *0xf90f1648926005A8bb3ed8ec883164De7F768743.json*
+  *0xf90f1648926005A8bb3ed8ec883164De7F768743.json* [Checksum tool](https://ethsum.netlify.com/)
 
 
 5. Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete token information: [$template.json](../erc20/$template.json)
@@ -69,7 +78,7 @@ git push origin xxx-token
 ```
 
 
-8. Under your repo page, click the “New pull request” button. Then, attach the detailed  project information and related blockchain media reports. This includes but not limited to the following: (Project team background; Project basic information; Media publications; Supported Exchanges; Suggested Gas limit setting).
+8. Under your repo page, click the “New pull request” button. Then, attach the detailed  project information, official announcement and related blockchain media reports. This includes but not limited to the following: (Official announcement; Project team background; Project basic information; Media publications; Supported Exchanges; Suggested Gas limit setting).
 
    Sample PR: https://github.com/consenlabs/token-profile/pull/1636 
 
@@ -79,7 +88,9 @@ git push origin xxx-token
 ## Frequently asked questions
 
 ### How to display token price:
-In imToken, the current displayed token prices are provided by the block.cc API. If you want your project’s token price to be displayed in imToken, your token price must be supported on block.cc and you have to provide us the corresponding link. Please refer to this page for more information: https://mifengcha.com/q/eth 
+In imToken, the current displayed token prices are provided by the block.cc API. If you want your project’s token price to be displayed in imToken, your token price must be supported on block.cc and you have to provide us the corresponding link in your GitHub submission. 
+
+Sample: https://github.com/consenlabs/token-profile/issues/3595 
 
 
 ### Regarding Duplicated Token Names or Contract Amendment
@@ -95,4 +106,4 @@ If you can't search via the contract address, please check if there is no succes
 
 ## Copyright
 
-2018&copy;imToken PTE. LTD.
+2019&copy;imToken PTE. LTD.
