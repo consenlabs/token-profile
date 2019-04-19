@@ -8,11 +8,12 @@
   "website": "http://www.esctoken.io/",
   "whitepaper": "http://www.esctoken.io/index.html",
   "state": "NORMAL",
-  "published_on": "2017-07-01",
+  "published_on": "2019-04-10",
   "initial_price":{
         "USD":"1 USD"
   },
   "links": {
-    "twitter": "https://twitter.com/ESC"
+    "blog": "http://www.esctoken.io/",
+    "medium": "http://news.cqtimes.cn/cq/gd/2019/0418/gd0228859.html"
   }
 }
