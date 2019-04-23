@@ -1,0 +1,25 @@
+{
+  "symbol": "STT",
+  "address": "0x1318d9d6e40500cD8220850372a91fA020F94A0F",
+  "overview":{
+        "en": "STGlobal Token is a token issued by STGlobal Fundation, also referred as 'STT', which is a decentralized block chain digital asset based on Ethereum. The total number of issuance is 3 billion. STT, as the fuel of STGlobal ecosystem and decentralized exchange, will be applied to many scenarios, such as using STT to deduct transaction fees of STGlobal, purchasing virtual gifts and so on. At present, STT is supported by a lot of block chain enthusiasts in many countries and regions around the world.",
+        "zh": "STGlobal Token是由STGlobal Fundation 发行的通证，简称STT，是基于以太坊Ethereum的去中心化的区块链数字资产。发行总量恒定为30亿个，每个季度根据STGlobal交易平台当季交易量对STT进行销毁。用户可通过区块链浏览器查询销毁记录，确保公开透明。STT作为STGlobal生态系统和去中心化交易所燃料，将应用到多个场景，如用STT抵扣STGlobal交易手续费、购买虚拟礼物等等。目前STT受到全球多个国家和地区的区块链爱好者支持。"
+  },
+  "email": "admin@stvip.pro",
+  "website": "https://www.stvip.pro",
+  "whitepaper": "https://www.stvip.pro/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-04-18",
+  "initial_price":{
+        "ETH":"0.000888 ETH",
+        "USD":"0.15 USD",
+        "BTC":"0.0000288 BTC"
+  },
+  "links": {
+    "blog": "https://www.stvip.pro",
+    "twitter": "https://twitter.com/stvip",
+    "telegram": "https://t.me/stvip/fans",
+    "github": "https://github.com/stvip",
+    "facebook": "https://www.facebook.com/stvip"
+  }
+}
