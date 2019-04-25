@@ -7,15 +7,15 @@
   },
   "email": "wr@wr.net",
   "website": "https://www.wr.net",
-  "whitepaper": "https://www.wr.net/book.pdf", 
+  "whitepaper": "https://www.wr.net/book.pdf",
   "state": "NORMAL",
   "published_on": "2019-02-14",
   "initial_price":{
-    "ETH":"0.009 ETH"       
+    "ETH":"0.009 ETH"
   },
   "links": {   
     "twitter": "https://twitter.com/wrnetofficial",
-    "telegram": "http://t.me/wrofficial",   
-    "facebook": "https://www.facebook.com/wrnetofficial"   
+    "telegram": "http://t.me/wrofficial",
+    "facebook": "https://www.facebook.com/wrnetofficial"
   }
 }
