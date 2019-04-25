@@ -3,7 +3,8 @@
   "address": "0x3dde229ef90cc8856b54c87349a60af1a442a6bc",
   "overview":{
         "en": "NUX is the digital asset exchange of Canada Nuclear Chain Foundation. It is the world's leading digital asset financial services provider, focused on digital assets trading and providing related services to users. With the world's first asset mapping public chain, we provide secure, trusted digital asset trading and asset management services to millions of users around the world.",
-        "zh": "NUX是Nuclear Chain Foundation 旗下数字资产交易所，全球领先的数字资产金融服务商，专注为用户进行数字资产交易和提供相关服务。拥有全球首个资产上链公链，为全球百万用户提供安全、可信赖的数字资产交易及资产管理服务。",
+        "zh": "NUX是Nuclear Chain Foundation 旗下数字资产交易所，全球领先的数字资产金融服务商，专注为用户进行数字资产交易和提供相关服务。拥有全球首个资产上链公链，为全球百万用户提供安全、可信赖的数字资产交易及资产管理服务。"
+  },
   "email": "kefu@NUchain.org",
   "website": "https://www.nux.top/",
   "whitepaper": "http://nuchain.net/Nuclear_Chain_Whitepaper_ZH_V3.64.pdf",
@@ -12,5 +13,4 @@
     "telegram": "https://t.me/nuchain",
     "facebook": "https://www.facebook.com/Nuclearchainlab"
   }
-}
 }
