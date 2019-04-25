@@ -1,12 +1,12 @@
-{
+ï»¿{
   "symbol": "WRB",
-  "address": "0x765a01875136455f4986269404d73eb4142d6873",
+  "address": "0x765a01875136455f4986269404D73eB4142D6873",
   "overview": {
     "en": "WRB is a global general integral issued by WR Global Exchange, with a total circulation of 21 million. As an important part of WR Global ecology, WRB will be used in the application scenarios of WR Global ecology construction, user fee reduction and currency voting, so as to better create a complete ecological system and achieve win-win industrial situation in the era of global block chain.",
-    "zh": "WRB ÊÇWR Global½»Ò×ËùÍÆ³öµÄÈ«ÇòÍ¨ÓÃ»ı·Ö£¬×Ü·¢ĞĞÁ¿2100ÍòÃ¶£¬WRB½«×÷ÎªWR GlobalÉúÌ¬µÄÖØÒª×é³É²¿·Ö£¬ÓÃÓÚWR GlobalÉúÌ¬½¨Éè£¬ÓÃ»§ÊÖĞø·Ñ¼õÃâ£¬ÉÏ±ÒÍ¶Æ±µÈÓ¦ÓÃ³¡¾°£¬¸üºÃµÄ´òÔì³öÍêÕûµÄÉúÌ¬ÌåÏµ£¬ÊµÏÖÈ«ÇòÇø¿éÁ´Ê±´úµÄ²úÒµ¹²Ó®¡£"
+    "zh": "WRB æ˜¯WR Globaläº¤æ˜“æ‰€æ¨å‡ºçš„å…¨çƒé€šç”¨ç§¯åˆ†ï¼Œæ€»å‘è¡Œé‡2100ä¸‡æšï¼ŒWRBå°†ä½œä¸ºWR Globalç”Ÿæ€çš„é‡è¦ç»„æˆéƒ¨åˆ†ï¼Œç”¨äºWR Globalç”Ÿæ€å»ºè®¾ï¼Œç”¨æˆ·æ‰‹ç»­è´¹å‡å…ï¼Œä¸Šå¸æŠ•ç¥¨ç­‰åº”ç”¨åœºæ™¯ï¼Œæ›´å¥½çš„æ‰“é€ å‡ºå®Œæ•´çš„ç”Ÿæ€ä½“ç³»ï¼Œå®ç°å…¨çƒåŒºå—é“¾æ—¶ä»£çš„äº§ä¸šå…±èµ¢ã€‚"
   },
   "email": "wr@wr.net",
-  "website": "https://www.wr.net",
+  "website": "https://www.wr.net/",
   "whitepaper": "https://www.wr.net/book.pdf",
   "state": "NORMAL",
   "published_on": "2019-02-14",
