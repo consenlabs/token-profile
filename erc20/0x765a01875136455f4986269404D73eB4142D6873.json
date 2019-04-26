@@ -1,28 +1,28 @@
 ﻿{
-	"symbol":"WRB",
-	"address":"0x765a01875136455f4986269404D73eB4142D6873",
-	"overview":{
-		"en":"WRB is a global general integral issued by WR Global Exchange, with a total circulation of 21 million. As an important part of WR Global ecology, WRB will be used in the application scenarios of WR Global ecology construction, user fee reduction and currency voting, so as to better create a complete ecological system and achieve win-win industrial situation in the era of global block chain.",
-		"zh":"WRB 是WR Global交易所推出的全球通用积分，总发行量2100万枚，WRB将作为WR Global生态的重要组成部分，用于WR Global生态建设，用户手续费减免，上币投票等应用场景，更好的打造出完整的生态体系，实现全球区块链时代的产业共赢。"
-	},
-	"email":"wr@wr.net",
-	"website":"https://www.wr.net/",
-	"whitepaper":"https://www.wr.net/book.pdf",
-	"state": "NORMAL"
-	"published_on": "2019-02-14",
-	"initial_price":{
-		"ETH":"",
-		"USD":"",
-		"BTC":""
-	},
-	"links":{
-		"blog": "",
-		"twitter":"https://twitter.com/wrnetofficial",
-		"telegram":"https://t.me/wrofficial",
-		"github": "",
-		"facebook":"https://www.facebook.com/wrnetofficial",
-		"reddit": "",
-		"slack": "",
-		"medium": ""
-	}
+  "symbol": "Token symbol",
+  "address": "Contract Address",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
 }
