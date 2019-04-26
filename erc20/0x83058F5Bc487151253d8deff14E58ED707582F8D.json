@@ -1,0 +1,28 @@
+{
+  "symbol": "ECO2",
+  "address": "0x83058F5Bc487151253d8deff14E58ED707582F8D",
+  "overview":{
+        "en": "ECO2 is the world's environmental cryptocurrency fighting against global warming, focus on building applications for CO2 emission reduction based on blockchain technology. Our goal is eliminating CO2 from the atmosphere.",
+        "zh": "ECO2是世界第一个对抗全球暖化的数字加密资产，目标以区块链技术来提升全球抗暖化的能力。"
+  },
+  "email": "info@eco2.cc",
+  "website": "https://www.eco2.cc/",
+  "whitepaper": "https://www.eco2.cc/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2018-01-04",
+  "initial_price":{
+        "ETH":"1.0 ETH",
+        "USD":"1.0 USD",
+        "BTC":"1.0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://https://twitter.com/ECO2_Global",
+    "telegram": "https://t.me/ECO2_channel",
+    "github": "",
+    "facebook": "https://www.facebook.com/ECO2.CC/",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
