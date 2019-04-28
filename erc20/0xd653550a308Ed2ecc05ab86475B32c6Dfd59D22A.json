@@ -1,0 +1,28 @@
+{
+  "symbol": "YT",
+  "address": "0xd653550a308Ed2ecc05ab86475B32c6Dfd59D22A",
+  "overview":{
+        "en": "YT is a value circulation tool developed by the blockchain technology team of Fujian Winxin Industrial Co., Ltd. The team members have many years of experience in R&D, operation and maintenance of blockchain technology, and have their own unique insights into blockchain technology.",
+        "zh": "YT通证是福建赢新实业有限公司区块链技术团队研发的价值流通工具，团队成员均拥有多年的区块链技术研发、运营维护经验，对区块链技术有自己独特的见解。"
+  },
+  "email": "admin@ysmember.net",
+  "website": "http://www.ysmember.net",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-03-15",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
