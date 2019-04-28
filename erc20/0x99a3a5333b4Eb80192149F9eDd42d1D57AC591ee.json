@@ -1,24 +1,8 @@
 {
-    "website": "https://celtdao.com/",
-    "published_on": "2019-04-16",
-    "overview": {
-        "en": "CELT provides Liquidity for crypto assets on Singapore based COSS.io Cryptocurrency Exchange.",
-},
-    "symbol": "CELT",
-    "initial_price": {
-        
-    },
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "whitepaper": "http://bit.ly/celtdraft",
-    "address": "0x99a3a5333b4Eb80192149F9eDd42d1D57AC591ee",
-    "email": "team@celtdao.com"
-}
-
-{
   "symbol": "CELT",
   "address": "0x99a3a5333b4Eb80192149F9eDd42d1D57AC591ee",
   "overview":{
-        "en": "CELT provides Liquidity for crypto assets on Singapore based COSS.io Cryptocurrency Exchange.",
+        "en": "CELT provides Liquidity for crypto assets on Singapore based COSS.io Cryptocurrency Exchange."
   },
   "email": "team@celtdao.com",
   "website": "https://celtdao.com/",
