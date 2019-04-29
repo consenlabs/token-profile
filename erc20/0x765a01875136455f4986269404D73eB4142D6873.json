@@ -2,7 +2,7 @@
   "symbol": "WRB",
   "address": "0x765a01875136455f4986269404D73eB4142D6873",
   "overview":{
-    "en": "WRBToken",
+    "en": "WRB Token",
     "zh": "WRB生态"
   },
   "email": "wr@wr.net",
@@ -11,5 +11,6 @@
   "state": "NORMAL",
   "published_on": "2019-02-14"
   "links": {
+
   }
 }
