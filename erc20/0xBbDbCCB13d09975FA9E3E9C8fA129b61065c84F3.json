@@ -15,8 +15,8 @@
         "USD": "0 USD"
     },
     "links": {
-        "twitter": "",
-        "github": "",
-        "facebook": ""
+        "twitter": "https://twitter.com/none_twitter",
+        "github": "https://github.com/dsaglobal/none_opensource.git",
+        "facebook": "https://www.facebook.com/none_facebook"
     }
 }
