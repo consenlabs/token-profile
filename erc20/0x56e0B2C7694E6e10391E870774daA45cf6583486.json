@@ -11,9 +11,9 @@
     "state": "NORMAL",
     "published_on": "2018-04-01",
     "initial_price": {
-        "ETH": "",
-        "USD": "to be listed 2019-04-28",
-        "BTC": "to be listed 2019-04-28"
+        "ETH": "0.001 ETH",
+        "USD": "0.15 USD",
+        "BTC": "0.000028 BTC"
     },
     "links": {
         "blog": "https://medium.com/duo-network",
