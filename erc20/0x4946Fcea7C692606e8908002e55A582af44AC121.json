@@ -1,0 +1,25 @@
+{
+  "symbol": "FOAM",
+  "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "overview":{
+        "en": "The FOAM Token is the native software utility token of the FOAM protocol. The FOAM Token can be used to add and curate Geographic Points of Interest and signal for zone incentivisation on the FOAM Map as well as contribute to potential secure location services as a Zone Anchor or Verifier.",
+        "zh": ""
+  },
+  "email": "info@foam.space",
+  "website": "http://foam.space",
+  "whitepaper": "https://foam.space/publicAssets/FOAM_Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-28",
+  "initial_price":{
+        "USD":"0.05516 USD",
+  },
+  "links": {
+    "blog": "http://blog.foam.space",
+    "twitter": "https://twitter.com/foamspace",
+    "telegram": "https://t.me/foamspace",
+    "github": "https://github.com/f-o-a-m",
+    "facebook": "https://www.facebook.com/foamprotocol",
+    "reddit": "https://www.reddit.com/r/foamprotocol",
+    "discourse": "https://discourse.foam.space"
+  }
+}
