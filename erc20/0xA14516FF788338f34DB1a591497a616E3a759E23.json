@@ -1,0 +1,22 @@
+{
+  "symbol": "EVS",
+  "address": "0xA14516FF788338f34DB1a591497a616E3a759E23",
+  "overview":{
+        "en": "Based on Token Economics,EverySave uses two major technologies - AI and Blockchain - to empower the F&B industry, leading the 'Exquisite Cuisine Alliance' to a new era of value distribution in which everyone puts in their contribution and everyone receives the benefits.",
+        "zh": "大家省，以通证经济为基础，利用人工智能和区块链两大科技赋能餐饮行业，带领“精致美食联盟”走向人人贡献、人人受益的新价值分配时代。"
+  },
+  "email": "xmjin@5idjs.com",
+  "website": "http://www.5idjs.com/",
+  "whitepaper": "http://www.5idjs.com/esw.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-03-26",
+  "initial_price":{
+        "ETH":"0.00086 ETH",
+        "USD":"0.115 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/every_save",
+    "telegram": "https://t.me/Everysaveproject",
+    "github": "https://github.com/evsproject"
+  }
+}
