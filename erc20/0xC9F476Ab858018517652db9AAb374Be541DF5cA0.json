@@ -1,25 +1,25 @@
 ﻿{
-    "symbol": "iFace",
-    "address": "0xC9F476Ab858018517652db9AAb374Be541DF5cA0",
-    "overview":{
+  "symbol": "iFace",
+  "address": "0xC9F476Ab858018517652db9AAb374Be541DF5cA0",
+  "overview":{
         "en": "IFace is a technology based on Face Recognition and Artificial Intelligence, which combines distributed computing and storage. Through Face Key unidirectional feature extraction and private key signature technology, portrait data fragmentation and confusion technology, 3D face recognition and living body detection technology,  depth learning technology, it establishes its own proprietary, concealed, autonomous and controllable digital identity for users. IFace can be widely used as the cornerstone technology of Internet applications, providing privacy protection and digital identity services to achieve the dual effects of digital identity security and convenience in users'Internet applications."
-    },
-    "email": "cooperation@iface.one",
-    "website": "https://www.iface.one/",
-    "whitepaper": "https://docs.google.com/document/d/1aRRa8bVhc9ls_vj-IxWPNfQZm2rJHw0kbk0u3rvziL4/mobilebasic",
-    "state": "NORMAL",
-    "published_on": "2019-05-07",
-    "initial_price":{
+  },
+  "email": "cooperation@iface.one",
+  "website": "https://www.iface.one/",
+  "whitepaper": "https://docs.google.com/document/d/1aRRa8bVhc9ls_vj-IxWPNfQZm2rJHw0kbk0u3rvziL4/mobilebasic",
+  "state": "NORMAL",
+  "published_on": "2019-05-07",
+  "initial_price":{
         "ETH":"0.00044118 ETH",
         "USD":"0.075 USD",
         "BTC":"0.0000125 BTC"
-    },
-    "links": {
-        "twitter": "https://mobile.twitter.com/FacechainI",
-        "telegram": "https://t.me/ifaceEN",
-        "github": "https://github.com/ifacechain",
-        "facebook": "https://www.facebook.com/IFace-832164347135553/",
-        "reddit": "https://www.reddit.com/r/ifacechain/",
-        "slack": "https://ifacechain.slack.com"
-    }
+  },
+  "links": {
+    "twitter": "https://mobile.twitter.com/FacechainI",
+    "telegram": "https://t.me/ifaceEN",
+    "github": "https://github.com/ifacechain",
+    "facebook": "https://www.facebook.com/IFace-832164347135553/",
+    "reddit": "https://www.reddit.com/r/ifacechain/",
+    "slack": "https://ifacechain.slack.com"
+  }
 }
