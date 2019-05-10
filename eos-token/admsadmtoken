@@ -1,0 +1,22 @@
+{
+    "symbol": "ADM",
+    "account_name": "admsadmtoken",
+    "overview": {
+        "en": "ADM DAPP will be a perfect application scenario in EOS.IO, Since it is where business and art collide.",
+        "zh": "ADM将是EOS公链下非常完美的应用埸景，它是商业和艺术碰撞的地方。"
+    },
+    "email": "market@adms.store",
+    "website": "https://www.adms.store",
+    "whitepaper": "https://adms.store/ADM%20White%20paper.pdf",
+    "published_on": "2019-04-15",
+    "initial_price": {
+        "EOS": "0.0000 EOS",
+        "USD": "0.0 USD"
+    },
+    "links": {
+    "facebook": "https://www.facebook.com/admsstore",
+    "telegram": "https://t.me/admsstore1",
+    "twitter": "https://twitter.com/admsstore",
+    "wechat": "admsstore"
+    }
+} 
