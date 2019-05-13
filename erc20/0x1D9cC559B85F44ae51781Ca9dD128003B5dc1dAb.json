@@ -14,38 +14,3 @@
     "whitepaper": "https://www.haocoin.com/wp/HB-whitepaper.pdf",
     "email": "haocoin@163.com"
 }
-
-### 为确保 Token Profile 的顺利通过，务必逐一确保以下检查项并补充项目资料：
-
-**.json 及 .png 文件检查项**
-- [x] logo 尺寸：120*120 px
-- [x] logo 背景：透明
-- [x] 代币有至少一笔成功的转账记录
-- [x] 此项对于 ERC-20 项目方：合约地址有大小写（做 checksum）
-- [x] .json 和 .png 文件名一致（包括大小写）
-
-**项目资料：**
-
-官方公告：[HB erc20 在 imToken 上注册进度](https://www.haocoin.com/aboutUs/detail.htm?id=43)
-项目基本情况：Haocoin Token 是由 Haocoin 发行的代币，简称 HB，是基于以太坊 Ethereum 的去中心化的区块链数字资产。发行总量恒定为100亿个，Haocoin 每个季度将拿出 20% 的利润回购并销毁 HB，直至销毁 10 亿个。HB 作为 Haocoin 生态系统和去中心化交易所燃料，已经应用到多个场景加盟商的合作模式让 HaoCoin 交易所未来源源不断的输送新用户，不用为流量发愁。而我们专心的做好服务和技术，因为 Haocoin 不只是要做一家现货交易所，它的规划是构建区块链金融衍生品服务生态圈，会陆续上线杠杆理财、量化理财、存币宝、期货等区块链金融衍生品服务。所以未来 Haocoin 的发展是不可限量的，同样 HB 的升值空间也是巨大的。
-收录的交易所：[Haocoin][https://www.haocoin.com]
-转账所需 Gas Limit（对 ERC-20 项目方）：（默认为 60000）
-
----
-
-### Please check the following to ensure a successful verification of Token Profile
-
-**.json and .png document checklists**
-- [x] logo dimensions: 120*120 px
-- [x] logo background: Transparent
-- [x] At least one transaction on the token contract
-- [x] For ERC-20 project teams: Upper and lower capitalized alphabets in token address (For checksum purposes)
-- [x] Same document name for both .json and .png (Including capitalization)
-
-**Project background:**
-
-Official announcement: [HB erc20 register progress in imToken](https://www.haocoin.com/aboutUs/detail.htm?id=43)
-Project basic information: 
-Haocoin Token is a token issued by Haocoin, referred to as HB, which is a decentralized blockchain digital asset based on Ethereum. The total amount of issuance is always 10 billion, and Haocoin will repurchase and destroy HB by 20% of profits every quarter until it destroys 1 billion. As a fuel for the Haocoin ecosystem and decentralized exchanges, HB has been applied to a number of franchisees' cooperation models to allow HaoCoin Exchange to continuously deliver new users in the future without worrying about traffic. And we concentrate on service and technology, because Haocoin is not just a spot exchange, its plan is to build a blockchain financial derivatives service ecosystem, which will continue to leverage leveraged wealth management, quantitative wealth management, deposits, futures. Blockchain financial derivatives services. Therefore, the development of Haocoin in the future is limitless, and the room for appreciation of HB is also huge.
-Tradeable exchanges:
-Recommended Gas Limit (For ERC-20 project teams) for transaction: (Default is 60,000)
