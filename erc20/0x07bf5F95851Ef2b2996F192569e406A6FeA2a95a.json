@@ -1,0 +1,18 @@
+{
+  "symbol": "SEAL",
+  "address": "0x07bf5F95851Ef2b2996F192569e406A6FeA2a95a",
+  "overview": {
+    "en": "Sealchain focuses on financial asset transaction by using Blockchain + AI technology, aiming to build the next generation of financial ecosystem – Machine Finance.",
+    "zh": "SEAL链是全球首条专注于区块链金融资产交易的金融公链，打造第四代区块链-智能证券，为实现下一代金融体系“机器金融”搭建生态。"
+  },
+  "email": "support@seal-chain.org",
+  "website": "https://www.sealchain.io/",
+  "whitepaper": "http://download.seal-chain.net/languageEnglish.pdf",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ChainSeal/",
+    "telegram": "https://t.me/SealchainOfficial",
+    "github": "https://github.com/sealchain-project",
+    "facebook": "https://www.facebook.com/SealBlockchain/"
+  }
+}
