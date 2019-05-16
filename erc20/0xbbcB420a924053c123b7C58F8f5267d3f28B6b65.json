@@ -1,22 +1,23 @@
 {
-  "symbol": "Spy Protocol",
-  "address": "0xbbcb420a924053c123b7c58f8f5267d3f28b6b65",
-  "overview":{
-        "en": "Spy Protocol",
-        "zh": "Spy Protocol (简称赛普协议：SPY) 是一种去中心化内容交互协议，其目标在于通过区块链与分布式存储技术，构建一个全球范围内的自由内容交互生态。这意味着基于SPY (赛普) 的用户，可以构建丰富的针对特定场景的价值应用"
-  },
-  "email": "info@spypro.top",
-  "website": "https://spypro.top/",
-  "whitepaper": "https://spypro.top/spy_whitepaper.pdf",
-  "state": "LOCKED",
-  "published_on": "2018-09-30",
-  "initial_price":{
-        "CNY":"0.05 CNY"
-  },
-  "links": {
-    "twitter": "https://twitter.com/SpyProtocol",
-    "telegram": "https://t.me/joinchat/SpyProtocol",
-    "github": "https://github.com/SpyProtocol",
-    "facebook": "https://www.facebook.com/SpyProtocol"
-  }
+    "symbol": "Spy Protocol",
+    "address": "0xbbcb420a924053c123b7c58f8f5267d3f28b6b65",
+    "overview": {
+        "en": "Spy Protocol.",
+        "zh": "Spy Protocol 简称赛普协议，是一种去中心化内容交互协议，其目标在于通过区块链与分布式存储技术，构建一个全球范围内的自由内容交互生态。这意味着基于SPY的用户，可以构建丰富的针对特定场景的价值应用。"
+    },
+    "email": "info@spypro.top",
+    "website": "https://spypro.top/",
+    "whitepaper": "https://spypro.top/spy_whitepaper.pdf",
+    "state": "LOCKED",
+    "published_on": "2019-09-30",
+    "initial_price": {
+        "CNY": "0.05 CNY"
+    },
+    "links": {
+        "blog": "https://weibo.com/gochain",
+        "twitter": "https://twitter.com/SpyProtocol",
+        "telegram": "https://t.me/SpyProtocol",
+        "github": "https://github.com/SpyProtocol",
+        "facebook": "https://www.facebook.com/SpyProtocol"
+    }
 }
