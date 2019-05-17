@@ -10,7 +10,7 @@
    "initial_price":{ 
    "ETH":"0.666 ETH", 
    "USD":"0.666 USD", 
-   "BTC":"0.666 BTC" 
+   "BTC":"0.666 BTC"  
    }, 
 	"symbol": "ICB",
 	"address": "0x8178c73c5e7cd6dad8036d1aae170d07687b3b22",
