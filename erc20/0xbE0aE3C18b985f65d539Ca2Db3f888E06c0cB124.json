@@ -1,0 +1,22 @@
+{
+    "symbol": "KAL",
+    "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+    "overview": {
+        "en": "Kaleido，The next generation high performance blockchain game platform",
+        "zh": "Kaleido，下一代高性能区块链游戏应用平台"
+    },
+    "email": "kaleidochain@yeah.net",
+    "website": "https://kaleidochain.io/",
+    "whitepaper": "https://kaleidochain.io/docs/whitepaper_en.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-05-16",
+    "initial_price": {
+        "ETH": "#",
+        "USD": "#"
+    },
+    "links": {
+        "twitter": "#",
+        "github": "#",
+        "facebook": "#"
+    }
+}
