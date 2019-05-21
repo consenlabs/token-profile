@@ -1,0 +1,17 @@
+{
+  "symbol": "LAR",
+  "address": "0x6226caa1857afbc6dfb6ca66071eb241228031a1",
+  "overview":{
+    "en": "LinkArt aims to build a decentralized platform to track and manage the entire life cycle of the art, and to record the unique value of each piece of art with a record that cannot be tampered with."
+  },
+  "email": "support@linkart.io",
+  "website": "http://www.linkart.io",
+  "state": "NORMAL",
+  "published_on": "2019-04-30",
+  "links": {
+    "twitter": "https://twitter.com/linkartchain",
+    "telegram": "https://t.me/LinkArtEN",
+	"Weibo": "http://weibo.com/LinkArtLAR",
+    "facebook": "https://www.facebook.com/linkartchain"
+  }
+}
