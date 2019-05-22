@@ -1,0 +1,19 @@
+{
+  "symbol": "RBCC",
+  "address": "0x15fccdf6636ab3fc09e443531a984c66935b0e24",
+  "overview": {
+    "zh": "胤福通证RBCC是以通证经济为基础打造的实业智慧城市生态系统，是区块链+城市开发+银行金融的大应用融合体系，利用系统的全产业区块链技术，全球各种行业应用均可加入RBCC智慧生态系统，实现各行各业的全面落地应用。",
+    "en": "RBCC is an industrial smart city ecosystem based on the CIS economy, which is a large application integration system of block-chain + urban development + banking finance. By utilizing the system's whole industry block-chain technology, the RBCC Smart Ecosystem can be applied to various industries worldwide, which realizes comprehensive applications of all walks of life."
+  },
+  "email": "support@RBCC.io",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-05-20",
+  "initial_price": {
+    "ETH": "0.000011764705882 ETH",
+    "USD": "0.00285 USD"
+  },
+  "links": {
+  }
+}
