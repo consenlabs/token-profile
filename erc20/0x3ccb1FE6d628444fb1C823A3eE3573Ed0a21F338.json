@@ -1,0 +1,22 @@
+{
+    "symbol": "BNTE",
+    "address": "0x3ccb1FE6d628444fb1C823A3eE3573Ed0a21F338",
+    "overview": {
+        "en": "BNTE (Bountie Token) Bountie is a platform for gamers in Asia to make a living while playing their favorite games. Our motto, “Get Paid To Play” envisions a world where gamers can earn Bountie Tokens on our platform through participating in tournaments. However, Bountie is not merely a gaming platform. These tokens can then be used to purchase goods and services on the online store, to participate in more tournaments, or simply converted into cash."
+    },
+    "email": "support@bountie.io",
+    "website": "https://www.bountie.io/",
+    "whitepaper": "https://www.bountie.io/tokensale/assets/doc/whitepaper-en.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-05-15",
+    "initial_price": {
+        "ETH": "0.0001538 ETH"
+    },
+    "links": {
+        "blog": "https://www.bountie.io/blog",
+        "twitter": "https://twitter.com/bountiegaming",
+        "telegram": "https://t.me/bountietoken ",
+        "facebook": "https://www.facebook.com/BountieGaming",
+        "medium": "https://medium.com/@BountieGaming"
+    }
+}
