@@ -1,0 +1,28 @@
+﻿{
+  "symbol": "SLTC",
+  "address": "0x7a026354F706cE88360319cD21446c3350018E8f",
+  "overview":{
+        "en": "SLTC is a distributed satellite block chain network platform which integrates information collection, calculation, application and storage",
+        "zh": "SLTC是一个集信息采集、计算、应用、存储为一体的分布式卫星区块链网络平台"
+  },
+  "email": "jiumeifu@163.com",
+  "website": "https://www.tokenbankw.com/",
+  "whitepaper": "https://www.tokenbankw.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-05-20",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"1 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://www.tokenbankw.com",
+    "twitter": "https://www.tokenbankw.com",
+    "telegram": "https://www.tokenbankw.com",
+    "github": "https://www.tokenbankw.com",
+    "facebook": "https://www.tokenbankw.com",
+    "reddit": "https://www.tokenbankw.com",
+    "slack": "https://www.tokenbankw.com",
+    "medium": "https://www.tokenbankw.com"
+  }
+}
