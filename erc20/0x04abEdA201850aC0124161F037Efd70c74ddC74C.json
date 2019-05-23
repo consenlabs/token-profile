@@ -11,7 +11,7 @@
     "state": "NORMAL",
     "published_on": "2018-12-19",
     "initial_price": {
-        "ETH": "0ETH"
+        "ETH": "0 ETH"
     },
     "links": {
         "blog": "https://nestchain.zendesk.com/hc/zh-cn",
