@@ -1,0 +1,20 @@
+{
+    "symbol": "Unus Sed Leo",
+    "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "overview": {
+        "en": "Unus Sed Leo (LEO) is the native platform token of Bitfinex.",
+        "zh": "Unus Sed Leo（LEO）是Bitfinex的原生平台令牌"
+    },
+    "email": "leo@bitfinex.com",
+    "website": "https://www.bitfinex.com/",
+    "state": "NORMAL",
+    "published_on": "2019-05-23",
+    "initial_price": {
+        "USD": "$1.00 USD"
+    },
+    "links": {
+        "blog": "https://blog.bitfinex.com/",
+        "twitter": "https://twitter.com/bitfinex",
+        "github": "https://github.com/bitfinexcom"
+    }
+}
