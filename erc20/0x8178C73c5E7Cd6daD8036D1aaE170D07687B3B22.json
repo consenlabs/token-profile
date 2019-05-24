@@ -1,0 +1,21 @@
+{
+	"symbol": "ICB",
+	"address": "0x8178c73c5e7cd6dad8036d1aae170d07687b3b22",
+	"overview": {
+		"en": "ICB brief introduction: Big Intelligence Chain, abbreviated ICB",
+		"zh": "Big Intelligence Chain，简称ICB，ICB致力于在大数据的基础上，根据个体不同数据源的认证， 通过3D立体图像重建和语音识别技术， 以数字化方式为用户创建一个人工智能虚拟形象— 智能数字孪生体IDT（ Intelligence Digital Twin）， 并将个体数据和IDT上链进行认证、 授权和管理。 智能数字孪生体可以模拟个体在现实和虚拟环境中的行为， 在个体授权和监督下， 智能数字孪生体可以代表个体完成各类数据交互行为。 "
+	},
+	"website": "https://icb.ink/",
+	"whitepaper": "https://icb.ink/",
+	"state": "NORMAL",
+	"published_on": "2019-05-14",
+	"initial_price": {
+		"ETH": "0.666 ETH",
+		"USD": "0.666 USD",
+		"BTC": "0.666 BTC"
+	},
+
+	"links": {
+		"telegram": "https://0.plus/joinchat/Jc8ULRGH-E-zUf57RAVeXQ"
+	}
+}
