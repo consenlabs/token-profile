@@ -1,0 +1,34 @@
+{
+	    "symbol": "MB",
+	    "address": "0xb59cb8c3d1c1feb635f86dfa32174bff3d1bbdf2",
+	    "overview": {
+	        "en": "MB's goal is to use zero-knowledge proof mechanism to build a block chain system integrating payment and commerce. MB was initially issued through ERC20 with a total circulation of 1355555555. POW is used as a consensus mechanism to realize the basic functions of wallet and mall to build a strong internal and external circulation of MB. When the main network is built, zero-knowledge proof will provide a complete de-centralization expenditure. Pay confidentiality, and as a public chain, for the majority of developers to provide a multi-component expandable de-centralized platform.",
+	        "zh": "美宝MB的目标是使用零知识证明机制构建一个集支付与商业一体的区块链系统，MB初期通过ERC20发行，发行总量是1355555555，以POW作为共识机制，实现钱包、商城等基础功能来构建MB强大商业内循环和外循环，主网建成后，它采用的零知识证明将提供完全的去中心化支付保密性，同时作为公链，为广大开发者提供一个多组件可拓展的去中心化平台。"
+	    },
+	    "email": "mb@mbi.im",
+	    "website": "http://www.mbi.im",
+	    "whitepaper": "http://www.mbi.im",
+	    "state": "NORMAL",
+	    "published_on": "2019-04-19",
+	    "initial_price": {
+	        "USD": "0.01685 USD"
+	    },
+	    "links": {
+	        "twitter": "https://twitter.com/mbichain",
+	        "facebook": "https://github.com/mbichain",
+	        "weibo": "https://weibo.com/mbchain"
+	    }
+	}
+ ProTip! Use n and p to navigate between commits in a pull request.
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
