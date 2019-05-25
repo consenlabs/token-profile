@@ -6,11 +6,6 @@
         "zh": "PIZZA-USDE 是一款基于 EOS 的双代币稳定币系统，通过加密货币质押合约发行与美元 1:1 锚定的稳定币 USDE，用超额质押的方式来规避市场波动风险，实现多样金融衍生品场景的质押型稳定币生态。稳定币 USDE 1 : 1锚定美元，是超额质押的去中心化稳定币;治理币 PIZZA 赋予持币者参与生态治理的权利。"
     },
     "website": "https://www.pizza.live/",
-    "whitepaper": "",
-    "initial_price": {
-        "EOS": "",
-        "USD": "1"
-    },
     "links": {
         "github": "https://github.com/PIZZAUSDE/PIZZA"
     }
