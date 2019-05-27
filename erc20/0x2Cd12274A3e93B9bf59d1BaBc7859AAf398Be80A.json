@@ -2,11 +2,12 @@
   "symbol": "BLEC",
   "address": "0x2Cd12274A3e93B9bf59d1BaBc7859AAf398Be80A",
   "overview":{
-        "en": "BlecToken is Focus on social, real-time stocks, multi-function tokens, and let your future come early.",
-        "zh": "Blectoken专注于社交、实时股票、多功能代币，让您的未来早日到来。"
+        "en": "Blec Token Decentralized Game Application, the first intelligent contract application for the Blec Token team. Blec Token Exchange Platform based on block chain technology has the vertical efficiency beyond traditional means, in which business opportunities will attract more and more acceptors to join in order to meet the increasing demand for foreign exchange transactions.",
+        "zh": "Blec Token 去中心化游戏应用，为 Blec Token 团队推出的第一款智能合约应用。以 区块链技术为基础的 Blec Token 外汇平台具有超越传统手段的垂直高效性，其中的商机将 会吸引越来越多的承兑商加入，以满足不断增加的外汇交易需求。"
   },
   "email": "731872572@qq.com",
-  "website": "https://secretim.io/",
+  "website": "http://secretim.io/",
   "state": "NORMAL",
   "published_on": "2019-05-24",
+   "whitepaper": "http://secretim.io/file/whitepaper.pdf"
 }
