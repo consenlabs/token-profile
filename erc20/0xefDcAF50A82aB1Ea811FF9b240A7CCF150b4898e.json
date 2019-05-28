@@ -1,5 +1,5 @@
 {
-  "symbol": "AnyToken",
+  "symbol": "ANY",
   "address": "0xefdcaf50a82ab1ea811ff9b240a7ccf150b4898e",
   "overview":{
         "en": "",
@@ -15,7 +15,6 @@
   },
   "links": {
     "blog": "https://weibo.com/u/7164572965",
-    "twitter": "https://twitter.com/anonymi50778668",
-    "github": "https://github.com/anonymityany/token-profile",
+    "twitter": "https://twitter.com/anonymi50778668"
   }
 }
