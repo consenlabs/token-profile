@@ -1,0 +1,24 @@
+{
+  "symbol": "PLAY",
+  "address": "0x22cca8405084e6f074f50573870d29eea5065c10",
+  "overview":{
+    "en": "PLAYFUN is the first DAPP platform integrating digital betting, digital wealth management and digital trading.The PLAYFUN platform is headquartered in Singapore and has offices in the United States, South Korea, Japan, and the Philippines. The founding members of the platform come from the technical departments of well-known international enterprises such as Qualcomm, Google, IBM, etc. It is an international founding team with strong strength and experience in technology, project experience, commercial and financial investment fields, etc, which wins the favor of international capital markets.",
+    "zh": "PLAYFUN 是首家集数字竞猜、数字理财、数字交易于一体的 DAPP 平台，总部位于新加坡，在美国、韩国、日本、菲律宾等国均设有办事处。平台主创成员来自来美国高通、谷歌、IBM 等知名国际企业机构技术部门，是一支在技术、项目经验、商业金融投资领域等各方面具备较强的实力和经验的国际化创始团队，并获得国际资本市场的青睐。"
+  },
+  "email": "https://medium.com/@cserena13142019",
+  "website": "https://www.playfun.io/",
+  "whitepaper": "https://www.playfun.io/pdf/PLAYFUN_zh.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-04-19",
+  "initial_price":{
+    "ETH":" 0.00064 ETH",
+    "USD":"0.108 USD",
+    "BTC":"0.00002 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/PLAYFUNIO",
+    "telegram": "https://t.me/playfunio",
+    "facebook": "https://www.facebook.com/PLAYFUNIO/",
+    "medium": "https://medium.com/@cserena13142019"
+  }
+}
