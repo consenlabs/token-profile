@@ -1,0 +1,23 @@
+{
+  "symbol": "IWD",
+  "address": "0xceF84820B6B901eE50dE52a1255FaF78aE46aCBf",
+  "overview":{
+        "en": "iWorld is designed to combine a decentralized storage, blockchain, VR/AR/HM, IOT, intelligent hardware, based on the real world of atomic physics, with a unique Layer 4 solution to build a decentralized virtual world. The physical assets and social rules of the atomic physics world will gradually map to the virtual world. All laws of physics will be completely broken and rebuilt in the virtual world, and human limitations will be completely broken. iWorld will become the mainstream lifestyle in the future. We reconstruct a future world for the people of the future. In this virtual world, assets, social rules, physical laws, and personal identities are all redefined by the latecomers themselves. In iWorld, Anyone can be anything.",
+        "zh": "iWorld （简称IWD）旨在结合去中心化存储、区块链、VR/AR/HM、IOT、智能硬件， 基于真实的原子物理世界的，采用独创的 Layer4 解决方案，构建一个去中心化 的虚拟世界。原子物理世界的实物资产、社会规则将会逐步映射到虚拟世界。一 切物理定律将会在虚拟世界里被彻底打破和重建，人类自身的局限将会被彻底突 破,iWorld 会成为未来的主流生活方式。我们为未来的人们重构一个未来的世界， 在这个虚拟世界里，资产、社会规则、物理定律、个人身份都由后来者自己重新 定义。In iWorld，Anyone can be anything."
+  },
+  "email": "hello@iworld.life",
+  "website": "https://hello@iworld.life/",
+  "whitepaper": "https://github.com/iworld-life-official/iWorld_whitepaper",
+  "state": "NORMAL",
+  "published_on": "2019-05-22",
+  "initial_price":{
+        "USD":"0.0028 USD"      
+  },
+  "links": {
+    "twitter": "https://twitter.com/iWorldnew",
+    "telegram": "https://t.me/iWorldgroup",
+    "github": "https://github.com/iworld-life-official",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "medium": "https://medium.com/iworld-official-media"
+  }
+}
