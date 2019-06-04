@@ -1,4 +1,9 @@
 {
     "symbol": "EGG",
-    "address": "0xbbbee98c6f2bd60d3125e1da8b0f6b1059dd686e"
+    "address": "0xbbbee98c6f2bd60d3125e1da8b0f6b1059dd686e",
+	"overview":{
+        "en": "Education & Growth Global (EGG) Eco-International Fund is the world's first international platform based on blockchain technology to realize the application of digital assets and physical business applications. It is committed to creating a point-token ecosystem integrating application organizations and physical business.",
+        "zh": "Education & Growth Global(簡稱：EGG)生態國際基金是全球首家基於區塊鏈技術實現數字資產與實體商業應用落地的國際化平臺,致力於打造應用機構與實體商業相結合的積分通證生態體系。EGG生態是一個綜合和創建大量落地應用的全球化流量共識中心，用區塊鏈技術解決數字資產落地實體消費流通的各種需求。"
+    },
+    "website": "http://www.egg.group/"
 } 
