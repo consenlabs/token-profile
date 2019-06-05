@@ -9,9 +9,9 @@
   "website": "https://www.wbfex.com",
   "whitepaper": "https://www.wbfex.com",
   "state": "NORMAL",
-  "published_on": "2019-6-10",
+  "published_on": "2019-06-10",
   "initial_price":{
-    "USDT":"0.15USDT"
+    "USDT":"0.15 USDT"
   },
   "links": {
     "twitter": "https://mobile.twitter.com/wbfex",
