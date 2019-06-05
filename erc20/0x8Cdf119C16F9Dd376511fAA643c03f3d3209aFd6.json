@@ -8,7 +8,7 @@
   "email": "info@shinhwa.com",
   "website": "http://www.shinhwa.com",
   "whitepaper": "http://www.shinhwa.com/whitepaper.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2019-06-01",
   "initial_price":{
         "ETH":"0.0038 ETH",
