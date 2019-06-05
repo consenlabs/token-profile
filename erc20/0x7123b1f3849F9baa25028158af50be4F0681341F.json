@@ -1,8 +1,8 @@
 {
-  "symbol": "AEF",
-  "address": "0x7123b1f3849f9baa25028158af50be4f0681341",
+  "symbol": "IF",
+  "address": "0x7123b1f3849F9baa25028158af50be4F0681341F",
   "overview":{
-        "en": "FT is a Token system based on blockchain technology. At the same time, it is also the Ethex platform coin, the goal is to create a complete, valuable application system.",
+        "en": "IF is a Token system based on blockchain technology. At the same time, it is also the Ethex platform coin, the goal is to create a complete, valuable application system.",
         "zh": "IFTOKEN 是基于区块链技术开发管理并应用的自治型生态通证系统，致力通过区块链上类似积分的激励机制，促进旗下产品间更高效的协同和价值流转。"
   },
   "email": "admin@ethex.com",
