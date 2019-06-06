@@ -1,0 +1,17 @@
+{
+  "symbol": "CRYTON",
+  "address": "crytonsource",
+  "overview":{
+        "en": "Fast, free, and secure digital currency.",
+        "zh": ""
+  },
+  "website": "https://www.cryton.net/",
+  "state": "NORMAL",
+  "published_on": "2019-06-04",
+  "initial_price":{
+        "USD":"7 USD"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/crytonsource/",
+  }
+}
