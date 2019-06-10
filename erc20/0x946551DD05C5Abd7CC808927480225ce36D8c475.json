@@ -1,0 +1,16 @@
+{
+  "symbol": "ONE",
+  "address": "0x946551DD05C5Abd7CC808927480225ce36D8c475",
+  "overview": {
+      "en": "BigONE Token is a token based on the Ethereum ERC20 contract issued by the BigONE trading platform, referred to as ONE. The total amount is 13,508,522,147.21. The ONE holders have all the rights of BigONE, and we will inherit the blockchain spirit and let all users share the platform benefits.",
+      "zh": "BigONE Token 是由 BigONE 交易平台发行的基于以太坊 ERC20合约的代币，简称 ONE。总量为 13,508,522,147.21 枚，ONE 通证凝聚了 BigONE 交易平台及生态的所有权益，平台将秉承区块链精神，让所有的用户共享平台收益。"
+  },
+  "email": "official@big.one",
+  "website": "https://b1.run/",
+  "published_on": "2018-06-25",
+  "links": {
+      "twitter": "https://twitter.com/BigONEexchange",
+      "telegram": "https://t.me/BigONE_Exchange",
+      "facebook": "https://facebook.com/exBigONE"
+  }
+}
