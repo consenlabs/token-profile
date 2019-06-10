@@ -11,7 +11,6 @@
   "state": "NORMAL",
   "published_on": "2019-06-12",
   "initial_price":{
-        "USDT":"1 USDT",
         "USD":"1 USD"
   },
   "links": {
