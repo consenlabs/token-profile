@@ -1,0 +1,16 @@
+{
+  "symbol": "UT",
+  "address": "0x98be57636bb763d4f8d9687cbd7a1353b4965b44",
+  "overview":{
+    "en": "UT is a settlement-type certificate issued by the U COIN GLOBAL Group of Australia with a total issued amount of 100 billion and a 1:1 rate against the RMB. All UT users can exchange UTs through the exchange currency of the Australian dollar, Renminbi, Hong Kong dollars or US dollars through any trading platform that supports UT. They can also use UT to exchange currency such as Australian dollar, Renminbi, Hong Kong dollar or US dollar."
+  },
+  "website": "https://www.utoken.com.au/",
+  "whitepaper": "https://www.utoken.com.au/UT.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-06-10",
+  "initial_price":{
+    "ETH":"0.000588 ETH",
+    "USD":"0.149 USD",
+    "BTC":"0.00001818 BTC"
+  }
+}
