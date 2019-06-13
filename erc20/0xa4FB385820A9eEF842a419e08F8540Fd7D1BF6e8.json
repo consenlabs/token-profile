@@ -1,0 +1,18 @@
+{
+  "symbol": "BHT",
+  "address": "0xa4fb385820a9eef842a419e08f8540fd7d1bf6e8",
+  "overview":{
+        "en": "BeeStore, the world's largest block-chain application store, empowers developers and users of standard Apple AppStore and Google Play, and focuses on building applications and services related to block chains. In the future, BeeStore is committed to building a decentralized, highly autonomous content distribution ecosystem with application distribution as its core. This is a brand new, revolutionary and super realistic platform. It is a bridge from one side to the other, allowing more users to transit from the traditional world to the new world of block chains. Here, users can not only consume content without paying fees, but also gain benefits. Everyone's privacy can also be respected and protected. A new era of freedom is coming.",
+        "zh": "BeeStore全球最大的区块链应用商店，对标苹果AppStore和GooglePlay，赋能开发者和用户，专注于构建与区块链相关的应用程序和服务，未来致力于建立一个全球范围内的以应用分发为 核心的去中心化、高度自治的内容分发生态。这是一个全新的、革命性、又具有超级现实意义的平台，是此岸到彼岸的桥，让更多的用户从传统世界过渡到区块链的新世界。在这里，用户消费内容不仅不需要支付费用，还能获得收益，每个人的隐私还能收到尊重和保护。一个全新的，自由的时代即将登场。"
+  },
+  "email": “support@beestore.io",
+  "website": "http://beestore.io/",
+  "whitepaper": "http://beestore.io/onepaper",
+  "state": "NORMAL",
+  "initial_price":{
+        "USD":"0.0038 USD",
+  },
+  "links": {
+    "telegram": "https://t.plus/BeeStoreoffial"
+  }
+}
