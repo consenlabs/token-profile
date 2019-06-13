@@ -1,0 +1,24 @@
+{
+    "symbol": "BCD",
+    "address": "0x660b612ec57754d949ac1a09d0c2937a010dee05",
+    "overview": {
+        "en": "Experience the future with BitCAD on superluminal speed using StereoVision.",
+        "zh": "可用于所有业务流程的应用程序。"
+    },
+    "email": "info@bitcad.io",
+    "website": "https://bitcad.io",
+    "whitepaper": "https://bitcad.io/BitCAD.pdf",
+    "state": "NORMAL",
+    "published_on": "2017-05-11",
+    "initial_price": {
+        "ETH": "0.00012222 ETH"
+    },
+    "links": {
+        "blog": "http://blog.bitcad.io/",
+        "twitter": "https://twitter.com/bitcadplatform",
+        "telegram": "https://t.me/bitcad",
+        "github": "https://github.com/BitCADplatform",
+        "facebook": "https://www.facebook.com/bitcadplatform",
+        "slack": "https://bitcad.herokuapp.com/"
+    }
+}
