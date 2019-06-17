@@ -1,0 +1,25 @@
+{
+  "symbol": "VALOR",
+  "address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
+  "overview":{
+        "en": "VALOR is the native cryptocurrency of the SMART VALOR exchange. VALOR creates a circular token economy where the value of the token increases alongside the scaling of the platform",
+        "zh": "VALOR是SMART VALOR交易所的平台币。VALOR创建了一个循环代币的经济体系，其中代币的价值将随着平台的扩张而增加。"
+  },
+  "email": "talk@smartvalor.com",
+  "website": "https://smartvalor.com/en/",
+  "whitepaper": "https://go.smartvalor.com/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2019-03-27",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD"
+  },
+  "links": {
+    "blog": "https://news.smartvalor.com/",
+    "twitter": "https://twitter.com/@smartvalorinc",
+    "telegram": "https://t.me/smartvalor_official",
+    "github": "https://github.com/smartvalor/ValorToken",
+    "facebook": "https://www.facebook.com/smartvalorinc/",
+    "medium": "https://medium.com/smart-valor"
+  }
+}
