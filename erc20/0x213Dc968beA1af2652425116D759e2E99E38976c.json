@@ -1,0 +1,11 @@
+{
+    "symbol": "QUT",
+    "address": "0x213Dc968beA1af2652425116D759e2E99E38976c",
+    "overview": {
+        "en": "Quantify token",
+        "zh": "量化币，英文名稱為Quantify token，它以区块链为基础，讓量化交易可以走进普通人的视野里。通過token的激勵与回馈，让更多人参与到区块链的知识体系中来，做为区块链的布道者和开拓者"
+    },
+    "whitepaper": "https://github.com/ranshushuobi/QUT-whitepaper/blob/master/QUT-whitepaper(No.3).pdf",
+    "email": "1260730794@qq.com",
+    "state": "NORMAL"
+}
