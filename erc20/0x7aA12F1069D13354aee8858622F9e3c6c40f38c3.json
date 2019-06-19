@@ -1,4 +1,4 @@
-﻿{
+{
   "symbol": "BUSD",
   "address": "0x7aA12F1069D13354aee8858622F9e3c6c40f38c3",
   "overview": {
@@ -6,8 +6,8 @@
     "zh": "BUSD是由BeTreasury Asset Management公司基于区块链技术而发行的与美元1:1锚定的稳定币，即在市场流通的每一枚BUSD都有对应的1美金资产存放在银行，以“背书资产总量 >= BUSD总发行量”为铁律，采用独立的第三方会计事务所对资产进行审计并定期将审计结果予以披露。BUSD亦是第一个拥有自己独立客户端APP的稳定币，支持二维码扫码支付，收款，转账等功能，满足客户对收付款、落地商户消费、线上商城购物、线下各大产业消费、跨境支付、各类区块链交易媒介等应用需求，是由区块链驱动的一种新型的支付方式。 目前，BUSD已经和海外商户达成了战略合作关系，积极构建、完善稳定币现存的生态系统，未来将为广大客户提供更多的应用场景，推进区块链支付朝着共识化方向发展。"
   },
   "email": "Hello@betreasury.com",
-  "website": "https://beassets.io/#/",
-  "whitepaper": "https://beassets.io/#/",
+  "website": "https://beassets.io",
+  "whitepaper": "https://beassets.io",
   "state": "NORMAL",
   "published_on": "2019-04-22",
   "links": {
