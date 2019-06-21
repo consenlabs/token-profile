@@ -1,0 +1,22 @@
+﻿{
+	  "symbol": "GNC",
+	  "address": "0xdbb44e9f3487aa776d21a64d22ea8ef730a6a27f",
+	  "overview":{
+	        "en": "GNC is a global general digital asset storage platform. Users can use other encrypted digital assets for transactions. provides a more convenient payment experience.",
+	        "zh": "GNC是全球通用的数字资产存储平台,用户可以使用其他加密的数字资产进行交易,提供更便捷的支付体验."
+	  },
+	  "email": "gnc@globaltoken.info",
+	  "website": "https://globaltoken.info",
+	  "whitepaper": "https://globaltoken.info/gnc.pdf", 
+	  "published_on": "2019-06-15",
+	  "initial_price":{
+	        "ETH":"0.00055 ETH"       
+	  },
+	  "links": {   
+	    "twitter": "https://twitter.com/globaltoken",
+	    "telegram": "https://t.me/globaltoken",   
+	    "facebook": "https://www.facebook.com/token.globaltoken.9"   
+	  }
+}
+
+
