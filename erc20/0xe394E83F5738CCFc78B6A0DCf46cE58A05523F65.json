@@ -5,7 +5,7 @@
         "en": "Suc is based on the ERC-20 standard certificate developed by Ethereum, with \na total amount of 1 billion, and will never be issued.",
         "zh": "Suc 的区块数据采用链式结构进行存储，所有区块都带有上一区块的指针引用，保证数据不被篡改。采用 sha256 函数对数据进行哈希散列，采用 ecc 非对称加密算法进行身份认证，采用 aes 加密算法加密私钥，采用 Merkle 数字验证和存储交易。"
     },
-    "email": "Email",
+    "email": "contact@InterstellarCloud.net",
     "website": "http://www.interstellarcloud.net/",
     "whitepaper": "http://www.interstellarcloud.net/SUC.pdf",
     "state": "NORMAL",
