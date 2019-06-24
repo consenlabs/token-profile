@@ -1,0 +1,20 @@
+{
+    "symbol": "LME",
+    "address": "0x56b4f1c2eb2126ecbfe16e14d85e51f20e0ca3c3",
+    "overview": {
+        "en": "LME is a block chain underlying technology based on IBM HyperLeger Fabric technology, which is combined with artificial intelligence technology and oriented to the ecosystem of user copyright and user rights exchange in the entertainment field. Through this ecosystem, a decentralized risk management and transaction management platform will be built across multiple entertainment fields. In the early stage of its construction, it will provide security analysis, risk prediction, deal making and other services for news, movies, social networking, gambling, short video, literature and other entertainment businesses and entertainment transactions. After business platform and data scale, further business services such as credit record, credit rating and credit index will be provided.",
+        "zh": "LME是基于IBM HyperLeger Fabric技术的区块链底层技术，与人工智能技术相互结合，面向娱乐领域的用户版权，用户权益兑换的生态系统。通过此生态系统，构建跨越多个娱乐领域的去中心化的风险管理，交易管理平台。在其建设初期将为新闻资讯，电影，社交，博彩，短视频，文学等娱乐业务和娱乐交易提供安全分析，风险预测，交易撮合等服务。在业务平台化，数据规模化之后，进一步提供信用 记录，信用评级，信用指数等更进一步的业务服务。"
+    },
+    "email": "tom@lmetoken.com",
+    "website": "https://www.lmetoken.com/",
+    "whitepaper": "https://www.lmetoken.com/imgs/LMEwhitepaper_cn.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-04-28",
+    "links": {
+        "twitter": "https://twitter.com/lmetoken",
+        "telegram": "https://t.me/imTokenGroup",
+        "github": "https://github.com/LMEToken",
+        "blog":"https://weibo.com/u/6960299288?topnav=1&wvr=6&topsug=1"
+        "facebook":"https://www.facebook.com/profile.php?id=100038498138469"
+    }
+}
