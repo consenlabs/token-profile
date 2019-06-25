@@ -11,8 +11,9 @@
     "state": "NORMAL",
     "published_on": "2019-06-18",
     "links": {
-        "instagram": "https://www.instagram.com/Oldtimers.Offer/",
         "twitter": "https://twitter.com/OldtimersOffer/",
-        "telegram": "https://t.me/OldtimerToken/"
+        "telegram": "https://t.me/OldtimerToken/",
+        "blog":"https://medium.com/oldtimers-offer/",
+        "instagram":"https://www.instagram.com/Oldtimers.Offer/"
     }
 }
