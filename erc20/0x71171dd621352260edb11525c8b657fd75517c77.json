@@ -1,0 +1,18 @@
+{
+  "symbol": "GSTT",
+  "address": "0x71171dd621352260edb11525c8b657fd75517c77",
+  "overview":{
+        "en": "GSTT is a global diversified application eco-wallet based on blockchain technology and socially based on the GSTT Foundation. It is currently only distributed by official channels and is inseparable and does not support transactions.",
+        "zh": "GSTT 是 GSTT基金会旗下以区块链技术为基础，以社交为切入点的全球多元化应用生态钱包，目前仅由官方渠道发放，不可分割，不支持交易。"
+  },
+  "email": "gstt@gstt.com",
+  "website": "http://www.gstt.info/",
+  "whitepaper": "http://www.gstt.info/wp.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-06-01",
+  "initial_price":{
+        "USD":"0.3 USD"
+  },
+  "links": {
+  }
+}
