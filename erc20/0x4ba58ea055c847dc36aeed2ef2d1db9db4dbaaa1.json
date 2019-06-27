@@ -1,6 +1,6 @@
 ﻿{
   "symbol": "BDC",
-  "address": "0x4ba58ea055c847dc36aeed2ef2d1db9db4dbaaa1",
+  "address": "0x4BA58EA055c847dC36Aeed2Ef2D1Db9dB4DbaAA1",
   "overview":{
         "en": "Binda Chain is a Fruit and Vegetable Food Material Supply Platform.",
         "zh": "彬达链是一个果蔬食材供应平台。"
@@ -16,6 +16,6 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "wechat": "https://mp.weixin.qq.com/s?timestamp=1561612449&src=3&ver=1&signature=KqrkjFM5Nv-*xWjn1WnsMPTyjVA2ROghSJafLLLwtKbW95Vmf5EtHjfW8bmMTtu8nGPgMD7xDIAetDx2JFk8MxuTLgmcVX6tNjuotFSjRFVfzxpazj2IzGYXAlKib6s6Ujh0VoT1GR0n5dJLkUt2eneMaJ5g5FuMYeGnzRx581A="
+    "twitter": "https://twitter.com/bindatec"
   }
 }
