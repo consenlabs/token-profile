@@ -1,19 +1,20 @@
 ﻿{
-  "symbol": "BDC",
-  "address": "0x4BA58EA055c847dC36Aeed2Ef2D1Db9dB4DbaAA1",
-  "overview":{
+    "symbol": "BDC",
+    "address": "0x4BA58EA055c847dC36Aeed2Ef2D1Db9dB4DbaAA1",
+    "overview": {
         "en": "Binda Chain is a Fruit and Vegetable Food Material Supply Platform.",
-        "zh": "彬达链是一个果蔬食材供应平台。"
-  },
-  "email": "bindatec@126.com",
-  "website": "https://bindatec.cn/",
-  "whitepaper": "https://bindatec.cn/file.pdf",
-  "published_on": "2017-07-26",
-  "initial_price": {
-        "ETH": "0.00166666 ETH",
-        "USD": "0.7 USD"
-  },
-  "links": {
-    "twitter": "https://twitter.com/bindatec"
-  }
+        "zh": "BDC是一个果蔬食材供应平台。"
+    },
+    "email": "bindatec@126.com",
+    "website": "https://bindatec.cn/",
+    "whitepaper": "http://bindatec.cn/file.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-26",
+    "initial_price": {
+        "ETH": "0.000142857 ETH",
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/bindatec"
+    }
 }
