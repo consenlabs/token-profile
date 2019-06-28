@@ -8,11 +8,10 @@
   "email": "bindatec@126.com",
   "website": "https://bindatec.cn/",
   "whitepaper": "https://bindatec.cn/file.pdf",
-  "state": "NORMAL",
   "published_on": "2017-07-26",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD"
+  "initial_price": {
+        "ETH": "0.00166666 ETH",
+        "USD": "0.7 USD"
   },
   "links": {
     "twitter": "https://twitter.com/bindatec"
