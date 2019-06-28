@@ -6,12 +6,11 @@
         "zh": "彬达链是一个果蔬食材供应平台。"
     },
     "email": "bindatec@126.com",
-    "website": "http://www.bitvalue.info",
-    "whitepaper": "http://www.bitvalue.info/wpen/EN.pdf",
+    "website": "http://www.bindatec.cn",
+    "whitepaper": "http://www.bindatec.cn/file.pdf",
     "state": "NORMAL",
-    "published_on": "2018-10-01",
+    "published_on": "2017-7-26",
     "links": {
-        "telegram": "https://t.me/bitvaluegroup",
-        "github": "https://github.com/BitValue-BV/BV"
+        "telegram": "https://t.me/bindachain",
     }
 }
