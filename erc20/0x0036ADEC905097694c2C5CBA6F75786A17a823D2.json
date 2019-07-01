@@ -1,0 +1,22 @@
+{
+    "symbol": "SPA",
+    "address": "0x0036ADEC905097694c2C5CBA6F75786A17a823D2",
+    "overview": {
+        "en": "SuperPlay is built based on block chain technology distributed intelligence game organic ecological world of contracts. Also SuperPlay will build the world's biggest Game player community Super Game Chain Alliance. This is a safe, fair and interesting game world we will launch some early from development for the user experience.",
+        "zh": "SuperPlay是基于区块链技术构建的分布式智能合约的游戏有机生态世界。同时SuperPlay也会构建全球最大的游戏玩家社区Super Game Chain Alliance。这会是一个安全、公平、有趣的游戏世界早期我们将上线一些自研发游戏供用户体验。"
+    },
+    "email": "superplaybd@outlook.com",
+    "website": "https://www.spachain.net/",
+    "whitepaper": "https://www.spachain.net/Application/down/SuperPlay_WhitePaper(CN%201.07).pdf",
+    "state": "LOCKED",
+    "published_on": "2019-7-1",
+    "initial_price": {
+        "ETH": "0.00001 ETH",
+        "USD": "0.01 USD",
+        "BTC": "0.00000112 BTC"
+    },
+    "links": {
+		"telegram": "https://t.me/SPAgroup",
+		"reddit": "https://www.reddit.com/user/SuperPlay_SPA/"
+    }
+}
