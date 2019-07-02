@@ -1,18 +1,15 @@
 {
-	"symbol": "gold",
+	"symbol": "GM",
 	"address": "0x596E1Ca1C0C9C069a3C2Baa0C14629Ef3D144887",
-	"published_on": "2019-06-25",
 	"overview": {
-		"en": "Gold Digital Asset Certificate GOLD MART (GM) is a digital asset project managed and issued by Global Block Chain Technology Trading Center (GLOBAL BLOCK CHAIN TECHNOLOGY TRADING CENTER CO., LIMITED). It is a carrier of value circulation in ecology. Participants can use digital asset certificate as their rights and interests in all ecological platforms and circulation links. Proof.",
-		"zh": "黃金數字資產憑證GOLD MART（簡稱：GM）是全球區塊鏈技術交易中心（GLOBAL BLOCK CHAIN TECHNOLOGY TRADING CENTER CO., LIMITED） 管理發行的数字资产项目，運用區塊鏈技術構建，是生態中的價值流通載體，參與者在各生態平臺、流通環節均可以使用數字資產憑證作為權益證明。"
-	},
-	"initial_price": {
-		"ETH": "1 ETH"
-	},
-	"links": {
-		"goldmark": "http://www.goldmart.vip/"
+		"zh": "Gold mart（简称：GM 中文名：积木）是全球首款由社区驱动，基于区块链技术开发管理并应用的产业性生态通证系统，总量100亿0募资0预发0保留，从社区内普选产生的“管理委员会”是其永久且唯一的管理与决策机构。通证将在社区的监督和“管委会”的执行下，以POS机制一次性产生，致力通过区块链上类似积分的激励机制，促进旗下生态体系更高效的协同和价值流转。积木作为旅游社区权益的证明、建设治理的基石、更是系列生态应用中所需要的唯一燃料，将随着时间的推移、 流通领域会越来越广。社区将全力建设旅游生态战略，未来所有的产品与技术，都将围绕积木展开运营，着力开发出一系列、多元化、高粘度的应用落地，打造一个生机强大的积木闭环，构建基于积木体系的旅游投资全球生态圈，实现区块链时代的产业共赢，共同推进区块链和虚拟资产行业的健康发展。"
 	},
 	"email": "goldmartvip@gmail.com",
 	"website": "http://www.goldmart.vip/",
-	"whitepaper": "https://img1.wsimg.com/blobby/go/b6b25393-f9a2-451c-ac28-257a59fd1391/downloads/GM%E9%BB%84%E9%87%91%E5%B0%8F%E9%95%87%E7%99%BD%E7%9A%AE%E4%B9%A66.3.pdf"
+	"state": "NORMAL",
+	"whitepaper": "https://img1.wsimg.com/blobby/go/b6b25393-f9a2-451c-ac28-257a59fd1391/downloads/GM%E9%BB%84%E9%87%91%E5%B0%8F%E9%95%87%E7%99%BD%E7%9A%AE%E4%B9%A66.3.pdf",
+	"published_on": "2019-06-25",
+	"links": {
+		"goldmark": "http://www.goldmart.vip/"
+	}
 }
