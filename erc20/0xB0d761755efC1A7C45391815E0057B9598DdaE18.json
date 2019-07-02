@@ -1,0 +1,15 @@
+{
+  "symbol": "dogether",
+  "address": "0xB0d761755efC1A7C45391815E0057B9598DdaE18",
+  "overview":{
+        "en": "DOGETHER is an Extensible Block Chain Verification Solution",
+        "zh": "DOGETHER一种可扩展的区块链验证解决方案"
+  },
+  "website": "http://dogether.xyz/",
+  "whitepaper": "https://github.com/DogethereumD/Dogether/blob/master/Dogethereum%20WHITE%20PAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-8-30",
+  "links": {
+    "github": "https://github.com/DogethereumD"
+  }
+}
