@@ -1,14 +1,24 @@
 {
-	  "symbol": "DAOT",
-	  "address": "0xF47F923B91422F47645f41425601C44f6b464300",
-	  "overview":{
-	        "en": "DAOT Is Algorithmic & Blockchain Solutions for Crypto-Trading and Protect your Investments."
-	  },
-	  "email": "info@daot.trade",
-	  "website": "https://daot.trade",
-	  "published_on": "2019-06-18",
-	  "links": {
-	    "telegram": "https://t.me/DAOTGlobal",
-	    "medium": "https://medium.com/@DAOTOfficial"
-	  }
-	}
+  "symbol": "DAOT",
+  "address": "0xF47F923B91422F47645f41425601C44f6b464300",
+  "overview":{
+        "en": "DAOT Is Algorithmic & Blockchain Solutions for Crypto-Trading and Protect your Investments",
+        "zh": "DAOT是用于加密交易和保护您的投资的算法和区块链解决方案"
+  },
+  "email": "info@daot.trade",
+  "website": "https://daot.trade/",
+  "whitepaper": "https://drive.google.com/uc?id=1TkLW89BttjWOaCeMp4CD9RdRLCtGmlk0&export=download",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-06-18",
+  "initial_price":{
+        "ETH":"0.00002000 ETH",
+        "USD":"0.0057218 USD",
+        "BTC":"0.00000055 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/@DAOTOfficial",
+    "twitter": "https://twitter.com/daottrade",
+    "telegram": "https://t.me/DAOTGlobal",
+    "github": "https://github.com/DaotTrade",
+  }
+}
