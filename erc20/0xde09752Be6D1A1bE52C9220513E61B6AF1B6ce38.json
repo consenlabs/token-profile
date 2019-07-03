@@ -1,0 +1,20 @@
+{
+  "symbol": "OKG",
+  "address": "0xde09752be6d1a1be52c9220513e61b6af1b6ce38",
+  "overview":{
+        "en": "World-class All-network and All-currency Digital Asset Value-added System,management, operation platform for global digital investors and hobbyists. ",
+        "zh": "世界一流的全网络全货币数字资产增值系统，为全球数字投资者和爱好者提供管理、运营平台。"
+  },
+  "email": "dev@okg.me",
+  "website": "https://okg.me/",
+  "whitepaper": "https://okg.me/whitepaper_cn",
+  "state": "NORMAL",
+  "published_on": "2019-07-03",
+  "links": {
+    "blog": "https://okg.me/new",
+    "twitter": "https://twitter.com/okgproject",
+    "telegram": "hhttps://t.me/OKGoldChannel",
+    "github": "https://github.com/okgchain",
+    "facebook": "https://www.facebook.com/okgproject"
+  }
+}
