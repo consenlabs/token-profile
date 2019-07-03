@@ -6,8 +6,8 @@
         "zh": "IFCC是无限币社区发行的一种代表贡献的Token，奖励给为无限币及社区做出贡献的人。IFCC可用于投票决策社区的发展方向及无限币的发展方向。"
   },
   "email": "ifcc@ifcc.cc",
-  "website": "https://ifcc.cc/",
-  "whitepaper": "https://ifcc.cc/whitepaper.pdf",
+  "website": "https://bbs.ifc123.net/thread-19472.htm",
+  "whitepaper": "https://bbs.ifc123.net/thread-19472.htm",
   "state": "NORMAL",
   "published_on": "2019-04-24",
   "initial_price":{
@@ -16,7 +16,6 @@
         "BTC":"0.00000002 BTC"
   },
   "links": {
-    "blog": "https://blog.ifcc.cc/",
     "telegram": "https://0.plus/ifcc2019",
     "github":"https://github.com/withu2018/infinitecoin"
   }
