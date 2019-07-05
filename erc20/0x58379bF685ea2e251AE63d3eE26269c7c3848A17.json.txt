@@ -1,0 +1,20 @@
+{
+	  "symbol": "DEC",
+	  "address": "0x58379bF685ea2e251AE63d3eE26269c7c3848A17",
+	  "overview":{
+	        "en": " DEC power is an ecosystem composed of a series of de-centralized energy applications to build a future DEC community. DEC value network integrates its own public chain network with the decentralization system of Mirco-grid and IOT. It regards the rights and interests of ecological participants and the binding of DEC digital wallet as the only digital identity, realizes the digitalization and securitization of industrial assets, uses DEC token as the value medium, realizes the transfer and delivery, and fully stimulates people to participate in the development of renewable energy, creates a new energy industry of 'openness, transparency, fairness, credibility, community autonomy, industry consensus, multi-party cooperation' which is a distributed self-operation community and intelligent digital world.",
+	        "zh": " DEC power是由一系列去中心化能源应用组成的生态系统，用来打造一个适应未来的DEC社区（Distributed Energy Community）。DEC价值网络融合自身公链网络和本地微电网(Mirco-grid）、IOT物联网的去中心化系统，将生态参与者的权益凭证和 DEC 数字钱包绑定作为唯一的数字身份，实现产业资产的数字化和证券化，以 DEC token作为价值媒介，实现流转与交割，全面激发人们参与可再生能源发展的动力，打造一个‘公开透明，公平可信，社区自治、产业共识、多方协作’的新能源产业分布式自运营社区和智能化的数权世界。"
+	  },
+	  "email": "decpower@126.com",
+	  "website": "http://decpower.io",
+	  "whitepaper": " https://docs.wixstatic.com/ugd/6afd37_5e99ef6ac8864d49a47b8b6f236d4de2.pdf",
+	  "state": "NORMAL",
+	  "published_on": "2019-04-17",
+	  "initial_price":{
+	        "ETH":"0.00003 ETH"  
+	  },
+	  "links": {   
+	    "twitter": " https://twitter.com/DecPower2/status/1122785430271750144?s=20",
+	    "telegram": "https://0.plus/bitzoneapp" 
+	  }
+	}
