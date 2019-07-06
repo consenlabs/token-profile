@@ -1,15 +1,8 @@
 {
-  "symbol":"WIAC",
-  "address":"0x3f2B9E1ae008AA43E68b882F8d0440D25432c7e4",
-  "overview":{
-    "en":"WIAC builds a decentralized game ecosystem composed of gamers, software developers, and game operators. This ecosystem includes video games, Internet devices, development components, personal devices and many other nodes. Bracelets use standard token WIAC to transfer data and value between each node.",
-    "zh":"WIAC基于区块链技术构建了一个由游戏玩家、软件开发者、游戏运营商多方角色共同组成的去中心化游戏生态系统。这个生态系统包含了电子游戏、互联网设备、开发组件、个人设备等多个节点。手游链通过使用标准代币WIAC，使每个节点之间都可以进行数据和价值的传输。"
-  },
-  "email":"wiachain@hotmail.com",
+  "symbol": "WIAC",
+  "address": "0x3f2b9e1ae008aa43e68b882f8d0440d25432c7e4",
+  "email": "wiachain@hotmail.com",
   "website":"http://www.wiachain.com/",
   "whitepaper":"http://www.wiachain.com/wiac-white-paper_en.pdf",
-  "published_on":"2018-12-05",
-  "links":{
-    "twitter":"https://twitter.com/WIAC11"
-  }
+  "published_on":"2018-12-05"
 }
