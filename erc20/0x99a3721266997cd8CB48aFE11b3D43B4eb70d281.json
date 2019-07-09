@@ -1,0 +1,24 @@
+{
+  "symbol": "czt",
+  "address": "0x99a3721266997cd8cb48afe11b3d43b4eb70d281",
+  "overview":{
+        "en": "coezal",
+        "zh": "czt是Coezal团队推行的代币coezal Token，简称“czt 币”，发行总量为2亿个，且永不增发。 CZT币是基于以太坊区块链的 ERC 20 标准代币，是Coezal的价值生态载体，体现在消费流转、社区激励、生态共建、权益证明等方面"
+  },
+  "email": "support@coezal.com",
+  "website": "http://coezal.com/",
+  "whitepaper": "http://39.105.148.10/file/white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-07-08",
+  "initial_price":{
+        "USD":"0.145 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Coezal3",
+    "facebook": "https://www.facebook.com/coezalofficial",
+    "telegram": "https://t.me/CoezalCN",
+    "reddit": "https://www.reddit.com/user/Coezal",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/@coezalofficial"
+  }
+}
