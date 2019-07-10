@@ -2,7 +2,7 @@
     "symbol": "NCD",
     "address": "0xae8002175bccea4b9584d21b66f372e9c1072485",
     "overview": {
-        "en": "Token Description.",
+        "en": "NCD is NCD Foundation‘s Token.",
         "zh": "NCD是NCD生态圈的数字通证，可以真实应用到该生态圈各类生态场景中。NCD基金会集合了中国、新加坡、美国、加拿大等国家多年从事区块链技术研发、金融、地产、旅游等领域的高精尖专业人士，致力于打造全球顶级的基于区块链的生活场景生态圈，将NCD数字通证打造成有真实价值托底的区块链领域的稳定数字通证。"
     },
     "email": "NCD@163.com",
@@ -10,5 +10,4 @@
     "whitepaper": "http://www.pai-global.com/NCD.pdf",
     "published_on": "2019-05-12",
 
-    }
 }
