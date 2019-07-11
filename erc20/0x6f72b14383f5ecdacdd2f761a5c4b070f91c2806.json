@@ -1,0 +1,20 @@
+{
+    "symbol": "MELT",
+    "address": "0x6f72b14383f5ecdacdd2f761a5c4b070f91c2806",
+    "overview": {
+        "en": "MELT is a 1% Deflatory token almost entirely airdropped or bountied, The Melt Project is commited to create bots to automate aidrops, bounties, daily POS like"
+    },
+    "email": "dev@meltproject.net",
+    "website": "https://www.meltproject.net",
+    "state": "NORMAL",
+    "published_on": "2019-07-08",
+    "initial_price": {
+        "USD": "1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/project_melt",
+        "telegram": "https://t.me/meltcommunity",
+        "github": "https://github.com/the-melt-project",
+        "reddit": "https://www.reddit.com/user/Meltofficial"
+    }
+}
