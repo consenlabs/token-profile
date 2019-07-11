@@ -2,7 +2,7 @@
     "symbol": "MELT",
     "address": "0x6f72b14383f5ecdacdd2f761a5c4b070f91c2806",
     "overview": {
-        "en": "MELT is a 1% Deflatory token almost entirely airdropped or bountied, The Melt Project is commited to create bots to automate aidrops, bounties, daily POS like"
+        "en": "MELT is a 1% deflatory token, every time MELT is transferred, 1% of sent amount is burned, this embedded functionality increases scarcity over time. MELT is based on original BOMB"
     },
     "email": "dev@meltproject.net",
     "website": "https://www.meltproject.net",
