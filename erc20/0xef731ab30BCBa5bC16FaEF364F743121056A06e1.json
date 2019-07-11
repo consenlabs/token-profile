@@ -1,17 +1,16 @@
 ﻿{
-  "symbol": "KIK",
-  "address": "0xef731ab30BCBa5bC16FaEF364F743121056A06e1",
-  "overview":{
-        "en": "Gambling",
-        "zh": "KIK"
-  },
-  "email": "1192062488@qq.com",
-  "website": "http://kikcoin.co",
-  "state": "NORMAL",
-  "published_on": "2019-06-15",
-  "links": {
-    "github": "https://github.com/aboluoyes/token-profile",
-    "twitter": "https://twitter.com/KIKCOIN",
-    "facebook": "https://www.facebook.com/btc.win.7"
-  }
+	"symbol": "KIK",
+	"address": "0xef731ab30BCBa5bC16FaEF364F743121056A06e1",
+	"overview": {
+		"en": "Gambling",
+		"zh": "KIK"
+	},
+	"email": "1192062488@qq.com",
+	"website": "http://kikcoin.co",
+	"state": "NORMAL",
+	"published_on": "2019-06-15",
+	"links": {
+		"twitter": "https://twitter.com/KIKCOIN",
+		"facebook": "https://www.facebook.com/btc.win.7"
+	}
 }
