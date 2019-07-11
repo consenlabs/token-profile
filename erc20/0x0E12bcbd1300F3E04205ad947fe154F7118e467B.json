@@ -1,0 +1,20 @@
+{
+    "symbol": "HXT",
+    "address": "0x0E12bcbd1300F3E04205ad947fe154F7118e467B",
+    "overview": {
+        "en": "The original intention of Huaxia token is to combine blockchain echnology and work of art, prohibit a series of problems such as false work, unreasonable high price, difficult management, not traceability and so on on the basis of decentralization,blockchain and intelligent protocol.The traceability of blockchain technology supply the solution for the information transparence of work of art and historical relic during the dealing process.",
+        "zh": "华夏链的初衷是将区块链技术与文化艺术品结合，在去中心化思想和区块链、智能合约的基础上，杜绝传统的文化艺术品金融产业存在的假货、价高、管理困难、无法追溯等一系列问题。使用区块链的可溯源特性，解决艺术品和文物在流转过程中，上下游信息不透明的问题。"
+    },
+    "email": "pujinqiao@service.token.luxe",
+    "website": "hxamc.pro",
+    "whitepaper": "hxamc.pro/lsdb.asp",
+    "state": "NORMAL",
+    "published_on": "2018-08-07",
+    "initial_price": {
+        "ETH": "0.0000025 ETH",
+        "USD": "0.00015 USD"
+    },
+    "links": {
+        "telegram": "https://t.me/TokenExCN"
+    }
+}
