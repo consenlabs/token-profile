@@ -1,0 +1,25 @@
++{
+    "symbol": "XGO",
+    "address": "0x0880eb13cc29DB73419f0ec4Cc9420B73F8a8a65",
+    "overview": {
+        "en": "AIGO is rebuilding the payment space with flexibility and ease of use of credit cards for blockchain technology. We are developing a complete payment system that has needs in the business world. Expand and increase your payment options and start following the cryptocurrency today"
+    },
+    "email": "info@aigopay.tech",
+    "website": "https://aigopay.tech",
+    "whitepaper": "https://drive.google.com/file/d/17K2inOew076KJ_iTKL3n4g0tDz8JXUf0/view",
+    "state": "NORMAL",
+    "published_on": "2019-07-14",
+    "initial_price": {
+        "ETH": "0.00037 ETH",
+        "USD": "0.1 USD",
+        "BTC": "0.0000088 BTC"
+    },
+    "links": {
+        "blog": "https://aigopay.tech",
+        "twitter": "https://twitter.com/aigopay",
+        "telegram": "https://t.me/aigo_global",
+        "github": "https://github.com/aigodev",
+        "facebook": "https://www.facebook.com/aigopayment",
+        "medium": "https://medium.com/@aigopayment"
+    }
+}
