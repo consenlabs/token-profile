@@ -1,0 +1,21 @@
+{
+    "symbol": "LAMBS",
+    "address": "0x142aC3BD1C94898Be6e311b020b547A11dC03990",
+    "overview": {
+        "en": "LAMBS is the only digital representation for pledged storage space in the Lambda storage network. In the Lambda storage network, LAMBS can be used for storage mining, storage space trading and other important purposes, and is issued based on LAMB private sale allocations and rewards tokens from miners. Storage miners can use LAMBS in Lambda storage network to participate in storage mining, storage space trading and earn mining rewards. Before Lambda mainnet is online, and in the early stage of pre-mainnet, mining rewards will be 300,000 Lamb per day in total and is shared among all storage miners, according to the proportion of pledged data storage space to the total network data storage space; after pre-mainnet storage function is enabled, users need to have access to storage mining machines and provide storage service, otherwise mining rewards will be zero; after mainnet is launched, miners participate in mining through pledged data storage space and earn block rewards of over 6 billion LAMB in total. The pledged data storage space can be traded between miners through LAMBS. What's more, users who hold LAMBS can exchange LAMB at a 1:1 ratio later when exchange function is enabled. Initial exchange will start one month later, and in each month of the first year, total  amount of LAMB available for exchange is 2,000,000. This figure will increase proportionally in later years. Basically, amount of LAMB available for exchange each time is related to circulation of LAMBS, more details about eligibility, fees and caps will be announced later. ",
+        "zh": "LAMBS 是 Lambda 存储空间质押交易的唯一数字通证，LAMBS在Lambda存储网络中可用于存储质押挖矿、矿工资产交易等多种重要用途，最初系基于LAMB私募份额以及矿工奖励币发行。存储矿工可使用LAMBS参与质押挖矿和进行存储空间交易，并得到Lambda主网出块奖励。预主网初期，存储矿工可按质押容量占全网容量比例瓜分每天300,000LAMB的奖励；在预主网存储功能上线后，存储矿工需要接入存储矿机以提供存储服务，否则无法获得奖励；主网上线后矿工使用质押后的存储空间参与挖矿，获取60亿以上的出块奖励。质押后的存储空间可以在矿工间通过LAMBS进行交易。除此之外，持有LAMBS的用户，可按照1:1的比例，用LAMBS兑换LAMB。首次兑换于1个月后开启，预计第一年每月可兑换量为2,000,000LAMB，后续每年按比例增加，每次可兑换LAMB总数与当前LAMBS流通量相关。详细的兑换规则，包括兑换额度、兑换资格、手续费等以届时细则为准"
+    },
+    "email": "gary@lambda.im",
+    "website": "https://www.lambdastorage.com/",
+    "whitepaper": "https://www.lambdastorage.com/doc/Lambda-WhitePaper-en.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-7-11",
+    "links": {
+        "blog": "https://medium.com/@Lambdaim",
+        "twitter": "https://twitter.com/Lambdaim",
+        "telegram": "https://t.me/HelloLambda",
+        "github": "https://github.com/LambdaIM",
+        "facebook": "https://www.facebook.com/Lambdaim",
+        "medium": "https://medium.com/@Lambdaim"
+    }
+}
