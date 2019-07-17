@@ -11,8 +11,7 @@
   "state": "NORMAL",
   "published_on": "2018-12-08",
   "initial_price":{
-    "USD":"0.0675 USD",
-    "USDT":"0.0675 USDT"
+    "USD":"0.0675 USD"
   },
   "links": {
     "blog": "http://www.eventoken.io",
