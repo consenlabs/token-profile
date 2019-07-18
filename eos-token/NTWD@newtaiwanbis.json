@@ -1,0 +1,23 @@
+{
+    "symbol": "NTWD",
+    "account_name": "newtaiwanbis",
+    "overview": {
+        "en": "The world's first 1:1 anchor to the new Taiwan dollar denomination.",
+        "zh": "全球首个1:1锚定新台币面额的token。"
+    },
+    "email": "sa25h6@126.com",
+    "website": "ntwd.top",
+    "whitepaper": "https://ntwd.top/public//home/NTWD%E5%85%A8%E6%96%B0%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+    "published_on": "2019-07-16",
+    "initial_price": {
+        "EOS": "",
+        "USD": ""
+    },
+    "links": {
+        "steemit": "",
+        "twitter": "",
+        "telegram": "",
+        "github": "",
+        "reddit": ""
+    }
+}
