@@ -10,9 +10,6 @@
   "whitepaper": "https://resource.kanquanbu.com/rrb-wp-en.html",
   "state": "NORMAL",
   "published_on": "2019-07-22",
-  "initial_price": {
-    "USDT": "1 USDT"
-  },
   "links": {
     "telegram": "https://t.me/renrenbit_global",
     "github": "https://github.com/renrenbit"
