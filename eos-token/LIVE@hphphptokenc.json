@@ -1,0 +1,16 @@
+{
+    "symbol": "LIVE",
+    "account_name": "hphphptokenc",
+    "overview": {
+        "en": "LiveDAO is the first decentralized distributed live broadcasting system in the world, aiming at providing safe, free and private sharing of live broadcasts for global fans. In LiveDAO, every mobile phone that watches live broadcasts becomes a push server. Through many features of 5G technology (D2D, Massive MIMO, etc.), LiveDAO achieves live broadcasting experience that traditional network bandwidth can not have, and achieves low cost and high value operation.",
+        "zh": "LiveDAO是全球首个去中心化分布式直播系统，旨在让全球直播爱好者可以安全、自由、私密的进行直播分享。在LiveDAO，每一个观看直播的手机，都成为推流服务器。通过5G技术的众多特性（D2D、Massive MIMO等），LiveDAO达到了传统网络带宽无法具有的直播体验，实现低成本高价值运营。"
+    },
+    "email": "support@livedao.io",
+    "website": "livedao.io",
+    "whitepaper": "http://livedao.io/resource/LiveDAO_white_paper_0.97.pdf",
+    "published_on": "2019.7.19",
+  
+    "links": {
+        "github": "https://github.com/LiveDAO/contract"
+    }
+}
