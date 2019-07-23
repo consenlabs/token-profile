@@ -8,8 +8,10 @@
     "email": "support@livedao.io",
     "website": "livedao.io",
     "whitepaper": "http://livedao.io/resource/LiveDAO_white_paper_0.97.pdf",
-    "published_on": "2019.7.19",
-  
+    "published_on": "2019-7-19",
+    "initial_price": {
+        "USD": "0.1 USD"
+    },
     "links": {
         "github": "https://github.com/LiveDAO/contract"
     }
