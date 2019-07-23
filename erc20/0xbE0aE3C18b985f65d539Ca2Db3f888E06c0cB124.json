@@ -2,8 +2,8 @@
   "symbol": "KAL",
   "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
   "overview":{
-        "en": "Kaleido£¬The next generation high performance blockchain game platform.",
-        "zh": "Kaleido£¬ÏÂÒ»´ú¸ßĞÔÄÜÇø¿éÁ´ÓÎÏ·Ó¦ÓÃÆ½Ì¨¡£"
+    "en": "Kaleidoï¼ŒThe next generation high performance blockchain game platform.",
+    "zh": "Kaleidoï¼Œä¸‹ä¸€ä»£é«˜æ€§èƒ½åŒºå—é“¾æ¸¸æˆåº”ç”¨å¹³å°ã€‚"
   },
   "email": "kaleidochain@yeah.net",
   "website": "https://kaleidochain.io/",
@@ -11,7 +11,7 @@
   "state": "NORMAL",
   "published_on": "2019-07-22",
   "initial_price":{
-        "USD":"0.03 USD"
+  "USD":"0.03 USD"
   },
   "links": {
     "medium": "https://www.jinse.com/blockchain/371638.html"
