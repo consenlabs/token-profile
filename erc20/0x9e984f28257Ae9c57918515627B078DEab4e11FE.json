@@ -1,28 +1,26 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
-  "overview":{
-        "en": "Token Description.",
-        "zh": ""
-  },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
-  },
-  "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
-  }
+ "symbol": "AVX",
+ "address": "0x9e984f28257ae9c57918515627b078deab4e11fe",
+ "overview":{
+       "en": "AVXChange Token (AVX) will be the currency of the commerce on the network. AVX will be used to facilitate quick and seamless cross border, global internet based transactions. The current ERC20 AVX Token will be swapped out 1-1 once our Native Token is ready.",
+       "zh": "AVXChange Token（AVX）将成为网络上商业的货币。 AVX将用于促进快速无缝的跨境，全球互联网交易。我们的原生令牌准备就绪后，当前的ERC20 AVX令牌将被换出1-1。"
+ },
+ "email": "avxchange.io@gmail.com",
+ "website": "https://avxchange.io/",
+ "whitepaper": "https://avxchange.io/wp-content/uploads/2019/04/AVXChange-White-Paper-v0.65.pdf",
+ "state": "LOCKED | NORMAL",
+ "published_on": "2019-03-05",
+ "initial_price":{
+       "ETH":"",
+ },
+ "links": {
+   "blog": "https://avxchange.io/blog/",
+   "twitter": "https://twitter.com/avxchange",
+   "telegram": "https://t.me/AVXCHANGEOFFICIAL",
+   "github": "https://github.com/your-awesome-project",
+   "facebook": "https://www.facebook.com/AVXChange.io",
+   "reddit": "https://reddit.com/r/avx",
+   "slack": "https://avxchange.slack.com",
+   "medium": "https://medium.com/@avxchange"
+ }
 }
