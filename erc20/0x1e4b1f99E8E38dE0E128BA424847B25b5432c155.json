@@ -6,11 +6,10 @@
         "zh": "V91是基于区块链底层技术而为实体经济落地应用所发行的数字资产，旨在建立数字资产流通生态圈，全方位塑造区块链新商业支付体系。将区块链特有的去中心化、易信任、安全便捷、透明开放性等特点在实体经济领域的应用迅速铺开，并结合人工智能等前沿技术创新性运用于实体行业经济领域，构建智能支付价值链"
   },
   "email": "v91v91@yeah.net",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "published_on": "2019-07-22",
+  "website": "http://www.v91v91.cn",
+  "whitepaper": "http://www.v91v91.cn/book.html",
+  "published_on": "2019-07-23",
   "links": {
-    "twitter": "https://twitter.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project"
+    "blog": "https://zhuanlan.zhihu.com/p/71188505"
   }
 }
