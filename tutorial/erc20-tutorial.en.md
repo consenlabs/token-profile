@@ -46,7 +46,7 @@ This number is the key to verify yourself as the rightful editor of the informat
 
 2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
 ```
-git clone git@github.com:xxxxxxxx/token-profile.git
+git clone git@github.com:7E/token-profile.git
 cd token-profile/
 ```
 
@@ -54,14 +54,14 @@ cd token-profile/
 3. Create a new branch (file) and switch to a new branch named by your token symbol
   For example:
 ```
-git branch xxx-token
-git checkout xxx-token
+git branch 7E-token
+git checkout 7E-token
 ```
 
 
 4. Add a new json file to the erc20 directory, named by your token contract address. Please note the contract address should be done with capitalization with [checksum](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md) 
   For example:
-  *0xf90f1648926005A8bb3ed8ec883164De7F768743.json* [Checksum tool](https://ethsum.netlify.com/)
+  *0xf4e97ca1231f05ce139a47014a9208a3dc912ab2.json* [Checksum tool](https://ethsum.netlify.com/)
 
 
 5. Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete token information: [$template.json](../erc20/$template.json)
