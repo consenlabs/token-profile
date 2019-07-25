@@ -1,0 +1,21 @@
+{
+  "symbol": "QOB",
+  "address": "0xbd1e7f594600dcaf7f483af55deacec0159a064e",
+  "overview":{
+    "en": "Qobit is an all-in-one cryptocurrency investment ecosystem with a strong focus on user experience, social trading and knowledge sharing. The Qobit platform is built with simplicity, functionality, and security in mind. It is an invaluable tool - well suited for both seasoned and beginner investors. Qobit allows beginner investors to enter the highly lucrative crypto assets market with reduced risk and let seasoned traders offer value-added services to their follower base and be rewarded with tokens from their followers.",
+    "zh": "Qobit is an all-in-one cryptocurrency investment ecosystem with a strong focus on user experience, social trading and knowledge sharing. The Qobit platform is built with simplicity, functionality, and security in mind. It is an invaluable tool - well suited for both seasoned and beginner investors. Qobit allows beginner investors to enter the highly lucrative crypto assets market with reduced risk and let seasoned traders offer value-added services to their follower base and be rewarded with tokens from their followers."
+  },
+  "email": "joe.thong@twinova.com",
+  "website": "https://www.qobit.com/",
+  "whitepaper": "https://www.qobit.com/wp-content/themes/qobit/img/Qobit-Whitepaper-en-1.1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-11-29",
+  "initial_price":{
+    "USDT":"0.02 USDT"
+  },
+  "links": {
+    "twitter": "https://twitter.com/QobitCom",
+    "youtube": "http://985.so/aBQV",
+    "reddit": "https://www.reddit.com/r/Qobit/"
+  }
+}
