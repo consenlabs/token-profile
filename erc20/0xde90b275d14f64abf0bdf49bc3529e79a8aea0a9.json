@@ -1,0 +1,28 @@
+{
+  "symbol": "LINC",
+  "address": "0xde90b275d14f64abf0bdf49bc3529e79a8aea0a9",
+  "overview":{
+        "en": "Liquidation COIN",
+        "zh": ""
+  },
+  "email": "service@uteex.io",
+  "website": "https://www.uteex.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-07-29",
+  "initial_price":{
+        "ETH":"0.00234741 ETH",
+        "USD":"0.5 USD",
+        "BTC":"0.00005189 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
