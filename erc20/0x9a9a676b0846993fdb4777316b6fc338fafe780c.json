@@ -1,0 +1,22 @@
+{
+  "symbol": "AGC",
+  "address": "0x9a9a676b0846993fdb4777316b6fc338fafe780c",
+  "overview":{
+   "en": "In Singapore, agc digital currency tokens based on ethereum erc20 technology are issued by the agc chain foundation.",
+   "zh": "新加坡,阿甘链基金会旗下发行基于以太坊erc20技术的agc数字货币代币。"
+  },
+ "email": "service@agamchain.com",
+ "website": "https://www.agamchain.com/",
+ "whitepaper": "https://www.agamchain.com/static/pdf/qudaka_2019.pdf",
+ "state": "NORMAL",
+   "initial_price":{
+        
+  },
+"links": {
+"twitter": "",
+ "telegram": "",
+ "github": "",
+ "facebook": "",
+ "medium": ""
+  }
+}
