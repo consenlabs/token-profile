@@ -1,0 +1,23 @@
+{
+    "symbol": "BNP",
+    "address": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+    "overview": {
+        "en": "Tokenized ad platform on the blockchain for smartphone users",
+        "ko": "전세계 전화사용자를 위한 블록체인기반 보상광고플랫폼",
+        "zh": "面向全球电话用户基于区块链奖励广告平台"
+    },
+    "email": "sean@benepit.com",
+    "website": "https://www.benepit.io",
+    "whitepaper": "https://www.benepit.io/pdf/BenePit_whitepaper_eng.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-10-06",
+    "initial_price":{
+        "USDT":"0.17 USDT"
+    },
+    "links": {
+        "facebook": "https://www.facebook.com/BenePit.io",
+        "twitter": "https://twitter.com/BenepitOfficial",
+        "telegram": "https://t.me/BenePit_china",
+        "talk": "https://open.kakao.com/o/gOD1tgbb"
+    }
+}
