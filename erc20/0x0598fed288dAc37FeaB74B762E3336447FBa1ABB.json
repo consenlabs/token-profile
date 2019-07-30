@@ -9,8 +9,7 @@
  "website": "https://www.agamchain.com/",
  "whitepaper": "https://www.agamchain.com/static/pdf/qudaka_2019.pdf",
  "state": "NORMAL",
-   "initial_price":{
-        
+   "initial_price":{ 
   },
 "links": {}
 }
