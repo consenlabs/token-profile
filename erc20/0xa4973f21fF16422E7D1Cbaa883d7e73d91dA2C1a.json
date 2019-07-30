@@ -1,0 +1,28 @@
+{
+  "symbol": "MAT",
+  "address": "0xa4973f21fF16422E7D1Cbaa883d7e73d91dA2C1a",
+  "overview":{
+        "en": "MatchingToken is an ERC-20 based flexible-utility token planned to be transferable with other tokens among our various projects starting with RUBY",
+        "zh": ""
+  },
+  "email": "cbd@matchingbest.org",
+  "website": "http://trimaxprime.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-07-25",
+  "initial_price":{
+        "ETH":"0.00 ETH",
+        "USD":"0. USD",
+        "BTC":"0.00 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
