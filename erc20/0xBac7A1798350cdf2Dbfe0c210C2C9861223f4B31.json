@@ -1,0 +1,22 @@
+{
+  "symbol": "MNC",
+  "address": 0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31",
+  "overview":{
+        "en": "Blockchain-based Incentive Social Network Service."
+  },
+  "email": "moneynet@moneynet.co.kr",
+  "website": "https://moneynet.co.kr/",
+  "whitepaper": "https://icosbull.com/eng/ico/moneynet/whitepaper",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-09-13",
+  "initial_price":{
+        "ETH":"0.00002083 ETH",
+        "USD":"0.00034 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/gotmoneynet",
+    "github": "https://github.com/gotmoneynet",
+    "facebook": "https://www.facebook.com/mncio",
+    "medium": "https://medium.com/@moneynet"
+  }
+}
