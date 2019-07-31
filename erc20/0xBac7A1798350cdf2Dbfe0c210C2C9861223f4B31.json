@@ -1,19 +1,19 @@
 ﻿{
-  "symbol": "KAL",
-  "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+  "symbol": "MNC",
+  "address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
   "overview":{
-    "en": "Kaleido，The next generation high performance blockchain game platform.",
-    "zh": "Kaleido，下一代高性能区块链游戏应用平台。"
+    "en": "Moneynet is the Blockchain-based Incentive Social Network Service.",
+    "zh": "Moneynet is the Blockchain-based Incentive Social Network Service."
   },
-  "email": "kaleidochain@yeah.net",
-  "website": "https://kaleidochain.io/",
-  "whitepaper": "https://kaleidochain.io/docs/whitepaper_en.pdf",
+  "email": "moneynet@moneynet.co.kr",
+  "website": "https://www.moneynet.co.kr/",
+  "whitepaper": "https://www.moneynet.co.kr/MNC_whitepaper(EN).pdf",
   "state": "NORMAL",
-  "published_on": "2019-07-22",
+  "published_on": "2018-07-22",
   "initial_price":{
-  "USD":"0.03 USD"
+  "USD":"0.00034 USD"
   },
   "links": {
-    "medium": "https://www.jinse.com/blockchain/371638.html"
+    "medium": "https://www.jinse.com/blockchain/@moneynet"
   }
 }
