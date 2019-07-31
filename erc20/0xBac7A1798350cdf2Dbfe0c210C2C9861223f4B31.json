@@ -1,18 +1,21 @@
-﻿"symbol": "MNC",
-"address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
-"overview": {
-  "en": "Moneynet  is the Blockchain-based Incentive Social Network Service."
-},
-"website": "https://www.moneynet.co.kr",
-"whitepaper": "https://www.moneynet.co.kr/MNC_Whitepaper(EN).pdf",
-"state": "NORMAL",
-"published_on": "2018-08-01",
-"initial_price": {
-  "USD": "0.00034 USD"
-},
-"links": {
-  "twitter": "https://twitter.com/gotmoneynet",
-  "github": "https://github.com/gotmoneynet",
-  "medium": "https://medium.com/@moneynet",
-  "facebook": "https://www.facebook.com/mncio/"
+﻿{
+  "symbol": "MNC",
+  "address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+  "overview": {
+    "en": "Moneynet is the Blockchain-based Incentive Social Network Service..",
+    "zh": ""
+  },
+  "email": "moneynet@moneynet.co.kr",
+  "website": "https://www.moneynet.co.kr/",
+  "whitepaper": "https://www.moneynet.co.kr/MNC_whitepaper(EN).pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-08-01",
+  "initial_price": {
+    "USD": "0.00034 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/gotmoneynet",
+    "facebook": "https://www.facebook.com/mncio",
+    "medium": "https://medium.com/@moneynet"
+  }
 }
