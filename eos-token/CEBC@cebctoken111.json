@@ -6,17 +6,10 @@
         "zh": "CEBC 致力于开发一套将区块链 3.0 技术与线上购物相结合的区块链生态系统。CEBC 团队拥有互联网电商及金融科技双重背景，在对电商发展具备深刻认识和详细调研之后，决意采用区块链技术解决其中的痛点"
     },
     "email": "dmz040@163.com",
-    "website": "",
     "whitepaper": "https://www.xinbi.co/static/uploads/CEBC-whitepaper.pdf",
     "published_on": "2019-07-30",
     "initial_price": {
         "USD": "0.01 USD"
-    },
-    "links": {
-        "steemit": "",
-        "twitter": "",
-        "telegram": "",
-        "github": "",
-        "reddit": ""
     }
+    
 } 
