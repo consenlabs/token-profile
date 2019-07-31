@@ -1,28 +1,19 @@
 ﻿{
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "KAL",
+  "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
+    "en": "Kaleido，The next generation high performance blockchain game platform.",
+    "zh": "Kaleido，下一代高性能区块链游戏应用平台。"
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "email": "kaleidochain@yeah.net",
+  "website": "https://kaleidochain.io/",
+  "whitepaper": "https://kaleidochain.io/docs/whitepaper_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-07-22",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+  "USD":"0.03 USD"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "medium": "https://www.jinse.com/blockchain/371638.html"
   }
 }
