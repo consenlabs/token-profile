@@ -1,6 +1,11 @@
 {
     "symbol": "GN",
     "address": "0x364b810aCBad792b8eEac401c7d4E5E001B92b67",
+	"overview": {
+        "en": "Galaxy core network, on the one hand, acts as a block chain to provide open and unalterable accounting capability; on the other hand, as an AI data platform, dynamically perceives the changes of user needs and network status, and carries out global resource scheduling to meet the best experience and the lowest cost of the whole network.",
+        "zh": "Galaxy核心网络一方面作为区块链,提供公开不可篡改的记账能力;另一方面作为AI数据平台,动态感知用户需求及网络状态的变化,进行全局资源调度,满足全网体验最优,成本最低"
+    },
     "email": "galaxynetwork@126.com",
+	"website": "http://www.gnchain.com",
     "published_on": "2019-07-23"
 }
