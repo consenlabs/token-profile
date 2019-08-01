@@ -1,0 +1,19 @@
+{
+    "symbol": "MNC",
+    "address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+    "overview": {
+        "en": "Moneynet is the Blockchain-based Incentive Social Network Service."
+    },
+    "email": "moneynet@moneynet.co.kr",
+    "website": "https://www.moneynet.co.kr/",
+    "whitepaper": "http://www.moneynet.co.kr/MNC_Whitepaper(EN).pdf",
+    "state": "NORMAL",
+    "published_on": "2018-07-22",
+    "initial_price": {
+        "USD": "0.00034 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/gotmoneynet",
+        "medium": "https://medium.com/@moneynet"
+    }
+}
