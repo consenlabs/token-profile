@@ -1,11 +1,6 @@
 {
   "symbol": "MSV",
   "address": "0x1A04cfe90Fb72Ed884977DBB8F77B59D95fEDBb3",
-  "overview":{
-        "en": "",
-        "zh": ""
-  },
-  "email": "",
   "website": "http://www.kstg.co/views/cn.html",
   "whitepaper": "http://www.kstg.co/documents/MSV-Chain(7)中文白皮书.pdf",
   "state": "NORMAL",
@@ -18,11 +13,6 @@
   "links": {
     "blog": "https://weibo.com/u/7227986217",
     "twitter": "https://twitter.com/MSV23397260",
-    "telegram": "",
-    "github": "https://github.com/wanfq199112/token-profile.git",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+    "github": "https://github.com/wanfq199112/token-profile.git"
   }
 }
