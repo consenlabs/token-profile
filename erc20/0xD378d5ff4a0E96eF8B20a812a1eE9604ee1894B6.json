@@ -1,0 +1,13 @@
+{
+  "symbol": "BDZ",
+  "address": "0xD378d5ff4a0E96eF8B20a812a1eE9604ee1894B6",
+  "overview": {
+      "en": "BDZ is a Bit Debt Chain, and the sub-chain belonging to SMA is applied in artificial intelligence token, which is used for trading and converting other currency sources in the platform. Its core use and value foundation are all derived from the entire cryptocurrency investment ecology shaped by the artificial intelligence chain.",
+      "zh": "SMMC是证券链，属于SMA的子链运用于人工智能代币，在平台中用于交易，转换其他币源，其核心用途和价值根基，都是源自于人工智能链塑造的整个加密货币投资生态。"
+  },
+  "email": "smachain@163.com",
+  "website": "http://smachain.org",
+  "whitepaper": "http://smachain.org/document/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%93%BESMA%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-01"
+}
