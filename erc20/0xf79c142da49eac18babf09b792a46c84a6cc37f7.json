@@ -1,0 +1,25 @@
+{
+  "symbol": "AGC",
+  "address": "0xf79c142da49eac18babf09b792a46c84a6cc37f7",
+  "overview":{
+        "en": "AONE GOLD COIN",
+        "zh": "AONE GOLD COIN"
+  },
+  "email": "admin@agcoin.com",
+  "website": "https://agcoin.com/",
+  "whitepaper": "https://agcoin.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-02",
+  "initial_price":{
+        "USD":"0.1 USD",
+  },
+  "links": {
+    "blog": "https://agcoin.com/blog",
+    "twitter": "https://twitter.com/agcoin",
+    "telegram": "https://t.me/joinchat/agcoin",
+    "github": "https://github.com/agcoin",
+    "facebook": "https://www.facebook.com/agcoin",
+    "reddit": "https://www.reddit.com/r/agcoin/",
+    "medium": "https://medium.com/agcoin"
+  }
+}
