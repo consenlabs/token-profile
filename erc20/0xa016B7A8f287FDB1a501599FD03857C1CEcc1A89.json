@@ -1,0 +1,20 @@
+{
+  "symbol": "JALA",
+  "address": "0xa016B7A8f287FDB1a501599FD03857C1CEcc1A89",
+  "overview":{
+      "en": "JalaChain is a blockchain application platform developed by JADEHUB for high-quality consumer industries including jewelries, artworks, collections and luxury goods.\nBy adopting the latest IOT traceability technology and AI image recognition technology and with the public account of the blockchain, the JalaChain is going to build a trust consensus for new peer-to-peer transactions, design a decentralized price voting mechanism, promote pricing marketization and implement dynamic market pricing by getting pricing algorithm involved in the smart contract. Moreover, the JalaChain is going to make a financial design for market dynamics of products to improve circulation efficiency.\nTo realize: Digitization of physical products; marketization of digital products; financialization of market products; circulation of financial products.\nTo finally realize: Minimize the fraud risk and transaction cost with fair and accurate commodity information and transparent price; completely subvert the market format of artificial monopoly, re-establish pricing rules and interest distribution of the industry; establish a fair and efficient new industry ecosystem.",
+      "zh": "JalaChain是面向珠宝、艺术品、收藏品、奢侈品等高端消费行业和收藏行业的区块链应用平台。\nJalaChain采用新一代物联网溯源技术和人工智能图像识别技术，以区块链的公共帐本，建立点对点陌生交易的信任共识，设计去中心化的价格投票机制，推动定价市场化，并将定价算法纳入智能合约，执行动态的市场定价;进而对产品的市场动态波动做金融化设计，提升流通效率。\n以此实现:实物产品数字化;数字产品市场化;市场产品金融化;金融产品流通化。\n最终实现:商品信息公正准确，价格公开透明，最大化降低欺诈风险和交易成本;彻底颠覆有史以来人为化垄断的市场业态，重新改写行业定价规则和利益分配;进而建立公平、高效的行业新生态。"
+  },
+  "email": "jala@jala.one",
+  "website": "http://jala.one/",
+  "whitepaper": "http://jala.one/web/JALA%20Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-07-18",
+  "initial_price":{
+        "ETH":"0.00060000 ETH"
+  },
+  "links": {  
+    "twitter": "https://twitter.com/JalaChain",
+    "weibo": "https://www.weibo.com/u/6546779436"
+  }
+}
