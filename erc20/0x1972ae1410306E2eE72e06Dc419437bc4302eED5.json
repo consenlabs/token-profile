@@ -1,0 +1,18 @@
+{
+  "symbol": "OCR",
+  "address": "0x1972ae1410306E2eE72e06Dc419437bc4302eED5",
+  "overview":{
+        "en": "OCR is a game side chain based on Ethernet public chain, which has complete Ethernet bottom technology, distributed accounting, intelligent contract and consensus mechanism. Develop the DAPP game application on the side chain, create the game ecology, construct the own application scene. Both ETH and OCR pass can be run in OCR block chain network.OCR opens up a relatively fragmented payment system between different games, allowing players to use OCR pass to exchange virtual goods for any game in the ecosystem. This provides an interconnected payment method and virtual property storage means for the game world, thus breaking the isolated island phenomenon in the traditional game economy system. For players, in the OCR public chain, players can not only clearly know the value they create in the course of the game, but also can more advanced virtual commodity circulation mechanism to enjoy the value exchange experience across games. In addition, OCR will also use blockchain to build pan-entertainment ecology, OCR pass will open up games, entertainment and life. Between the consumption channels, so that players in the game and entertainment to create wealth.",
+        "zh": "Oscar（OCR）通证打通不同游戏间相对割裂的支付体系，玩家可以使用Oscar（OCR）通证兑换生态内任何游戏的虚拟商品。对玩家而言， 在Oscar（OCR）公链中，玩家不仅可以清晰地知道自己在游戏过程中创造的价值，还可以更先进地虚拟商品流通机制，享受跨游戏的价 值兑换体验，此外Oscar（OCR）还将利用区块链构建泛娱乐生态，Oscar（OCR）通证将打通游戏、娱乐和生活之间消费通道，让玩家在游戏与 娱乐之中创造财富。"
+  },
+  "email": "admin@oscarchain.org",
+  "website": "https://www.oscarchain.org/",
+  "whitepaper": "hhttps://share.weiyun.com/5nciQqg",
+  "state": "NORMAL",
+  "published_on": "2019-06-26",
+  "initial_price":{
+        "USD":"0.1 USD"
+  },
+  "links": {
+  }
+}
