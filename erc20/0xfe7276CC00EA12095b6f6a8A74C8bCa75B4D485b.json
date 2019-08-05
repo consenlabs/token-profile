@@ -1,0 +1,28 @@
+{
+  "symbol": "RUBY",
+  "address": "0xfe7276CC00EA12095b6f6a8A74C8bCa75B4D485b",
+  "overview":{
+        "en": "RUBYtoken is an ERC-20 based stable token for our project sharingbox",
+        "zh": ""
+  },
+  "email": "cbd@matchingbest.org",
+  "website": "http://trimaxprime.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-07-25",
+  "initial_price":{
+        "ETH":"0.00 ETH",
+        "USD":"0. USD",
+        "BTC":"0.00 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
