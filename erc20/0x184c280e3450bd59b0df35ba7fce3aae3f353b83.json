@@ -1,0 +1,19 @@
+{
+    "symbol": "nsc",
+    "address": "0x184c280e3450bd59b0df35ba7fce3aae3f353b83",
+    "overview": {
+        "en": "Beidou cross chain protocol adopts asynchronous elastic algorithm to ensure the transmission of different blocks through the technical idea of distributed relay super operation node, as the starting point of cross chain transaction and cross chain payment.",
+        "zh": "北斗交叉链协议采用异步弹性算法，通过分布式中继超级运营节点的技术思想，确保不同块的传输，作为交叉链交易和交叉链支付的起点。"
+    },
+    "email": "nscchain555@gmail.com",
+    "website": "http://www.nschain.me/",
+    "whitepaper": "http://www.nschain.me/NSC_white_paper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-05-05",
+    "initial_price": {
+        "USD": "$0.1 USD"
+    },
+    "links": {
+        "blog": "http://news.zhujiangw.cn/guoneixinwen/1563628748.html",
+    }
+}
