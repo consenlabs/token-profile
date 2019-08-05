@@ -1,8 +1,8 @@
 {
-  "symbol": "RUBY",
-  "address": "0xfe7276CC00EA12095b6f6a8A74C8bCa75B4D485b",
+  "symbol": "MAT",
+  "address": "0xa4973f21fF16422E7D1Cbaa883d7e73d91dA2C1a",
   "overview":{
-        "en": "RUBYtoken is an ERC-20 based stable token for our project sharingbox",
+        "en": "MatchingToken is an ERC-20 based flexible-utility token planned to be transferable with other tokens among our various projects starting with RUBY",
         "zh": ""
   },
   "email": "cbd@matchingbest.org",
