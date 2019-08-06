@@ -1,5 +1,5 @@
 {
-    "symbol": "nsc",
+    "symbol": "NSC",
     "address": "0x184c280e3450bd59b0df35ba7fce3aae3f353b83",
     "overview": {
         "en": "Beidou cross chain protocol adopts asynchronous elastic algorithm to ensure the transmission of different blocks through the technical idea of distributed relay super operation node, as the starting point of cross chain transaction and cross chain payment.",
