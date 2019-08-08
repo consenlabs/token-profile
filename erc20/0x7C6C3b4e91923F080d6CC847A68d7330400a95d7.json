@@ -1,0 +1,17 @@
+{
+  "symbol": "UNDT",
+  "address": "0x7c6c3b4e91923f080d6cc847a68d7330400a95d7",
+  "overview":{
+        "en": "A transparent, sustainable financial system that provides secure, stable, mortgage and decentralized governance mechanisms.",
+        "zh": "一个透明、可持续的金融体系，提供安全、稳定、抵押和分散的治理机制。"
+  },
+  "email": "foundation@uniondao.com",
+  "website": "https://uniondao.com/",
+  "published_on": "2019-08-02",
+  "initial_price":{
+        "USD":"1 USD"    
+  },
+  "links": {   
+    "github": "https://github.com/uniondao",  
+  }
+}
