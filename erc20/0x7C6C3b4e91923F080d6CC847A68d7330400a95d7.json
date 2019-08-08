@@ -9,9 +9,9 @@
   "website": "https://uniondao.com/",
   "published_on": "2019-08-02",
   "initial_price":{
-        "USD":"1 USD"    
+       	"USD": "1 USD"
   },
   "links": {   
-    "github": "https://github.com/uniondao",  
+   	"github": "https://github.com/uniondao"
   }
 }
