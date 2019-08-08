@@ -1,17 +1,17 @@
 {
-  "symbol": "UDAO",
-  "address": "0x4A32E09c60af50f0A5869BF5C622f4E5d57c3b37",
-  "overview":{
-        "en": "A transparent, sustainable financial system that provides secure, stable, mortgage and decentralized governance mechanisms.",
-        "zh": "一个透明、可持续的金融体系，提供安全、稳定、抵押和分散的治理机制。"
-  },
-  "email": "foundation@uniondao.com",
-  "website": "https://uniondao.com/",
-  "published_on": "2019-08-02",
-  "initial_price":{
-        "USD":"1 USD"    
-  },
-  "links": {   
-    "github": "https://github.com/uniondao",  
-  }
+	"symbol": "UDAO",
+	"address": "0x4A32E09c60af50f0A5869BF5C622f4E5d57c3b37",
+	"overview": {
+		"en": "A transparent, sustainable financial system that provides secure, stable, mortgage and decentralized governance mechanisms.",
+		"zh": "一个透明、可持续的金融体系，提供安全、稳定、抵押和分散的治理机制。"
+	},
+	"email": "foundation@uniondao.com",
+	"website": "https://uniondao.com/",
+	"published_on": "2019-08-02",
+	"initial_price": {
+		"USD": "1 USD"
+	},
+	"links": {
+		"github": "https://github.com/uniondao"
+	}
 }
