@@ -9,9 +9,6 @@
   "whitepaper": "http://www.hgood.xyz/doc_cn.pdf",
   "state": "NORMAL",
   "published_on": "2019-07-25",
-  "initial_price":{
-    "ETH":"0.15 USDT"
-  },
   "links": {
         "website": "http://www.hgood.xyz"
   }
