@@ -1,0 +1,28 @@
+{
+  "symbol": "BLC",
+  "address": "0xa97ab0dd4542e4d5a4c92a39a63c7ec474043d1d",
+  "overview":{
+        "en": "Bole Token (BLC) belongs to Versailles, a famous French high-tech enterprise. It is an eco-platform of token mechanism designed for commodity trading based on point-to-point network technology of block chains and distributed books. The platform uses block chain technology to create smart App, which integrates consumption, games, pets and foreign exchange hedging. It realizes the circulation and docking of Bole tokens with mainstream currencies and provides users with trading services including currency trading, currency trading and other derivatives based on tokens.",
+        "zh": "Bole Token（BLC）隶属于凡尔赛，法国着名的高科技企业。它是一种基于块链和分布式书籍的点对点网络技术的商品交易设计的令牌机制生态平台。该平台使用区块链技术创建智能应用程序，集成了消费，游戏，宠物和外汇对冲。它实现了博乐代币与主流货币的流通和对接，并为用户提供交易服务，包括货币交易，货币交易和其他基于代币的衍生品."
+  },
+  "email": "boletoken.net@gmail.com",
+  "website": "https://bolecoin.net//",
+  "whitepaper": "https://bolecoin.net/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-10",
+  "initial_price":{
+        "ETH":"0.00045 ETH",
+        "USD":"0.05 USD",
+        "BTC":"0.000037 BTC"
+  },
+  "links": {
+    "blog": "https://bolecoin.net/blog",
+    "twitter": "https://twitter.com/boletoken",
+    "telegram": "https://t.me/joinchat/boletoken",
+    "github": "https://github.com/boletoken",
+    "facebook": "https://www.facebook.com/103146351046122/",
+    "reddit": "https://www.reddit.com/r/boletoken/",
+    "slack": "https://boletoken.slack.com",
+    "medium": "https://medium.com/boletoken.net"
+  }
+}
