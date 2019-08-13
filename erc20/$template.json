@@ -1,5 +1,5 @@
 {
-  "symbol": "",
+  "symbol": "Token symbol",
   "address": "Contract Address",
   "overview":{
         "en": "Token Description.",
