@@ -1,6 +1,6 @@
 {
   "symbol": "SCB",
-  "address": "0x7b221b0f1de5A199c5aE448f150758B6C0c92e48.json",
+  "address": "0x7b221b0f1de5A199c5aE448f150758B6C0c92e48",
   "overview":{
         "en": "SCB is committed to creating a public chain platform to protect
 the rights and interests of consumers and drive car enterprises to
@@ -16,7 +16,7 @@ enterprises, and let inferior cars have no place to hide.",
   "website": "https://scbchain.cn/",
   "whitepaper": "http://scbchain.cn/SCB.pdf",
   "state": "NORMAL",
-  "published_on": "2019-07-15",
+  "published_on": "2019-08-02",
   "initial_price":{
         "USD":"0.03 USD"
   },
