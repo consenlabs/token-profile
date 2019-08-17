@@ -1,0 +1,18 @@
+{
+  "symbol": "MT",
+  "address": "0x287fda15f8f002e5df9f536f10bbfc0816960f36",
+  "overview":{
+      "en": "Meshx is a decentralized IoE ecosystem, in which numerous mesh-based network access points cooperate and coordinate with each other. It features with high-speed bandwidth, dynamic self-organizing, self-configuring, self-maintenance,and etc, as well as has other characteristics such as rapid deployment、easily deployment、easily installment 、non-line-of -sight(NLOS) transmission,etc.",
+      "zh": "打造去中心化万物互联生态的区块链"
+  },
+  "email": "meshxcorporate@gmail.com",
+  "website": "http://meshxchain.io",
+  "whitepaper": "http://meshxchain.io/docs/Meshx_whitepaper_EN_v2.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-08",
+  "links": {
+      "facebook":"https://www.facebook.com/Meshx.Meshx.7",
+      "twitter":"https://twitter.com/Meshx_corporate",
+      "instagram":"https://www.instagram.com/Meshxcorporate"
+  }
+}
