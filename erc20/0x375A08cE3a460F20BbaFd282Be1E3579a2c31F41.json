@@ -9,10 +9,10 @@
   "whitepaper": "https://www.thalertoken.com/white-paper",
   "state": "NORMAL",
   "published_on": "2019-07-03",
-  "initial_price": "N/A",
   "links": {
     "twitter": "https://twitter.com/TokenThaler",
     "telegram": "https://t.me/ThalerOfficial",
-    "facebook": "https://www.facebook.com/thalertokenfollow/"
+    "facebook": "https://www.facebook.com/thalertokenfollow/",
+    "medium": "https://medium.com/@thalertoken"
   }
 }
