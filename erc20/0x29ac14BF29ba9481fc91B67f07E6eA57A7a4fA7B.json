@@ -2,8 +2,8 @@
   "symbol": "EEC",
   "address": "0x29ac14BF29ba9481fc91B67f07E6eA57A7a4fA7B",
   "overview":{
-        "en": "EEC uses the traceability feature of the blockchain as an endorsement of credit by implanting a recognition chip into the product and registering it on the blockchain to have a digital identity, preventing duplicate manufacturing and ensuring identity uniqueness. Tradeable on the zbg trading platform.",
-        "zh": "EEC使用区块链的可追溯特征作为信用的背书，通过给产品植入识别芯片，并注册到区块链上，使其拥有一个数字身份，防止复制造假，确保身份标识唯一性。已上线zbg交易平台。"
+        "en": "EEC uses the traceability feature of the blockchain as an endorsement of credit by implanting a recognition chip into the product and registering it on the blockchain to have a digital identity, preventing duplicate manufacturing and ensuring identity uniqueness. ",
+        "zh": "EEC使用区块链的可追溯特征作为信用的背书，通过给产品植入识别芯片，并注册到区块链上，使其拥有一个数字身份，防止复制造假，确保身份标识唯一性。"
   },
   "email": "Email",
   "website": "https://eeccloud.com/",
