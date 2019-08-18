@@ -1,0 +1,25 @@
+{
+    "symbol":"BIEER",
+    "address":"0x959264c25c6f290836708a42346383cb0092C40E",
+    "overview":{
+        "en":"BIEER Money Innovation Trading Platform (BIEER) was established by the middle management of the former Firecoin Group and HT holders of the Firecoin Partner Community. Based on the official ecosystem of HT, BIEER has developed the most innovative trading mode of the online development of the currency circle, and is committed to becoming the first unofficial ecosystem of HT. The first round of round-robin trade will be launched in late August.",
+        "zh":"BIEER币尔创新交易致力于开发币圈最创新的交易模式，依托于火币HT生态，首发第一弹轮回交易将在8月下旬上线。目前安卓版/IOS版内侧完毕，预计8月下旬上线"
+    },
+    "email":"bieer.pro@gmail.com",
+    "website":"http://www.bieer.pro/",
+    "whitepaper":"http://www.bieer.pro/index/service/baipishu.html",
+    "state":"NORMAL",
+    "published_on":"2019-08-25",
+    "initial_price":{
+        "ETH":"0.0007615 ETH",
+        "USD":"0.141 USD",
+        "BTC":"0.00001396 BTC"
+    },
+    "links":{
+        "twitter":"https://twitter.com/BIEER6",
+        "telegram":"https://0.plus/bieerpro"
+    }
+}
+
+
+
