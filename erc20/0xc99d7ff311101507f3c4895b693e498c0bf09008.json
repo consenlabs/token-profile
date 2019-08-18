@@ -1,0 +1,22 @@
+{
+    "symbol": "WYC",
+    "address": "0xc99d7ff311101507f3c4895b693e498c0bf09008",
+    "overview": {
+        "en": "Wanyochain Chain is the global leading brand of game blockchain. It reshapes the game industry architecture with the concept of decentralization and builds a global decentralized game ecosystem.",
+        "zh": "万游链是游戏区块链全球领军品牌，以去中心化的理念重塑游戏行业体系结构，打造全球去中心化游戏生态圈。"
+    },
+    "email": "hxl12344321@gmail.com",
+    "website": "www.baihuihzp.com",
+    "whitepaper": "https://github.com/wanyochain/white-paper/blob/master/wanyochain.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-09-01",
+    "initial_price": {
+        "ETH": "0.000142857 ETH",
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/wanyochain",
+        "github": "https://github.com/wanyochain/Wanyochain",
+        "facebook": "https://www.facebook.com/wyc.wanyochain.1"
+    }
+}
