@@ -11,6 +11,18 @@
   "state": "NORMAL",
   "published_on": "2019-08-21",
   "initial_price":{
+        "ETH":"0.666 ETH",
         "USD":"1.9 USD",
+		"BTC":"0.666 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "reddit": "",
+    "github": "https://github.com/btde",
+    "facebook": "",
+    "slack": "",
+    "medium": ""
   }
 }
