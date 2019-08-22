@@ -2,8 +2,8 @@
   "symbol": "Token symbol",
   "address": "Contract Address",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
+    "en": "Token Description.",
+    "zh": ""
   },
   "email": "Email",
   "website": "https://your-awesome-project.com/",
@@ -11,9 +11,9 @@
   "state": "LOCKED | NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+    "ETH":"0.00166666 ETH",
+    "USD":"0.7 USD",
+    "BTC":"0.00004137 BTC"
   },
   "links": {
     "blog": "https://your-awesome-project.com/blog",
