@@ -8,7 +8,7 @@
   "email": "mohdfady11@gmail.com",
   "website": "https://your-awesome-project.com/",
   "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.00166666 ETH",
