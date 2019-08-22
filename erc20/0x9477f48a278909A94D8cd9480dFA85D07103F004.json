@@ -2,18 +2,16 @@
   "symbol": "USDT",
   "address": "0x9477f48a278909A94D8cd9480dFA85D07103F004",
   "overview":{
-        "en": "Tether us",
+        "en": "erc20.",
         "zh": ""
   },
   "email": "mohdfady11@gmail.com",
-  "website": "https://your-awesome-project.com/",
+  "website": "https://tether.to",
   "whitepaper": "https://your-awesome-project.com/file.pdf",
   "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"1 USD",
-        "BTC":"0.00004137 BTC"
+        "USD":"1 USD"
   },
   "links": {
     "blog": "https://your-awesome-project.com/blog",
