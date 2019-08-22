@@ -1,22 +1,16 @@
-@ -0,0 +1,28 @@
 {
-  "symbol": "MHT",
-  "address": "0x007c4A45CB0b665F77F4080A70BF9921e136E094",
-  "overview": {
-    "en": "MHT is China National Source (Liaoning) Health Science and Technology Co., Ltd. with 130 billion plants of Chinese herb ～ wild ginseng over 15 years to make 130 billion assets for 1.3 billion certificates of digital rights and interests of the herb.",
-    "zh": "MHT 是 中体国源（辽宁）健康科技有限公司 以15年以上的中华仙草～野山参1.3亿株做1300亿资产对标仙草数字权益凭证13亿个。"
-  },
-  "email": "btde@hotmail.com",
-  "website": "https://btde.org/",
-  "whitepaper": "https://btde.org/",
-  "state": "NORMAL",
-  "published_on": "2019-08-21",
-  "initial_price":{
-        "ETH":"0.666 ETH",
-        "USD":"1.9 USD",
-        "BTC":"0.666 BTC"
-  },
-  "links": {
-    "github": "https://github.com/btde"
-  }
-}
+    "symbol": "MHT",
+    "address": "0x007c4A45CB0b665F77F4080A70BF9921e136E094",
+    "overview": {
+        "en": "MHT is China National Source (Liaoning) Health Science and Technology Co Ltd. with 130 billion plants of Chinese herb over 15 years wild ginseng to make 130 billion assets for 1.3 billion certificates of digital rights and interests of the herb.",
+        "zh": "MHT是中体国源（辽宁）健康科技有限公司 以15年以上的中华仙草～野山参1.3亿株做1300亿资产对标仙草数字权益凭证13亿个。"
+    },
+    "email": "btde@hotmail.com",
+    "website": "https://btde.org/",
+    "whitepaper": "https://btde.org/",
+    "state": "NORMAL",
+    "published_on": "2019-08-21",
+    "links": {
+        "github": "https://github.com/btde"
+    }
+} 
