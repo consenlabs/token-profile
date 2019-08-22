@@ -1,0 +1,26 @@
+{
+  "symbol": "USDT",
+  "address": "0x9477f48a278909A94D8cd9480dFA85D07103F004",
+  "overview":{
+        "en": "erc20.",
+        "zh": ""
+  },
+  "email": "mohdfady11@gmail.com",
+  "website": "https://tether.to",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "USD":"1 USD"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
