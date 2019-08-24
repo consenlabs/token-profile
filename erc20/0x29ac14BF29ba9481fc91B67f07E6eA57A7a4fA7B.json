@@ -11,9 +11,9 @@
     "state": "NORMAL",
     "published_on": "2019-05-21",
     "initial_price":{
-          "USDT":"0.1 USDT",
+          "USDT":"0.1 USDT"
     },
     "links": {
-      "github": "https://github.com/steven-mem",
+      "github": "https://github.com/steven-mem"
     }
   } 
