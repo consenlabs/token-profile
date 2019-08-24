@@ -11,7 +11,9 @@
     "state": "NORMAL",
     "published_on": "2019-05-21",
     "initial_price":{
-          "USDT":"0.1 USDT"
+          "ETH":"0.00054 ETH",
+          "USD":"0.1 USD",
+          "BTC":"0.0000097 BTC"
     },
     "links": {
       "github": "https://github.com/steven-mem"
