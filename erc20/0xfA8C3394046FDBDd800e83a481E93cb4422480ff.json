@@ -1,0 +1,9 @@
+{
+  "symbol": "GEOS",
+  "address": "0xfa8c3394046fdbdd800e83a481e93cb4422480ff",
+  "overview":{
+        "en":"GEOS is an ecosystem of blockchains that can scale and interoperate with each other.After GEOS, blockchains were no longer siloed and unable to communicate with each other. GEOS allows arbitrary data—not just tokens—to be transferred across blockchains."
+  },
+  "website": "https://www.blockgeos.network/",
+  "whitepaper": "http://www.blockgeos.network/whitepaper(en).pdf"
+}
