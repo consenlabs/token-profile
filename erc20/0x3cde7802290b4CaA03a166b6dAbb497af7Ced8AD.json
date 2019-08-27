@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "symbol": "AT",
   "address": "0x3cde7802290b4CaA03a166b6dAbb497af7Ced8AD",
   "overview":{
@@ -7,15 +6,6 @@
         "zh": "AIOT Trusted (简称AT), 基于DAG和图数据库开发并支持边缘架构的高可用分布式账本，致力于构建一个可信的物联网协作以及交易执行环境。"
   },
   "email": "attoken@outlook.com",
-=======
-  "symbol": "AIOT Trusted",
-  "address": "0x3cde7802290b4CaA03a166b6dAbb497af7Ced8AD",
-  "overview":{
-        "en": "Token Description.",
-        "zh": ""
-  },
-  "email": "Email",
->>>>>>> 2ad71ce... update
   "website": "https://at.supplies",
   "whitepaper": "https://at.supplies/AT-white-paper-zh.pdf",
   "state": "NORMAL",
@@ -24,17 +14,6 @@
         "USD":"0.2 USD"
   },
   "links": {
-<<<<<<< HEAD
     "telegram": "https://t.me/joinchat/At_Shequ"
-=======
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
->>>>>>> 2ad71ce... update
   }
 }
