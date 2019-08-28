@@ -11,9 +11,9 @@
     "state": "NORMAL", 
     "published_on": "2018-01-10", 
     "initial_price": {
-        "ETH": "0.00ETH", 
-        "USD": "0.00USD", 
-        "BTC": "0.00BTC"
+        "ETH": "0.00 ETH", 
+        "USD": "0.00 USD", 
+        "BTC": "0.00 BTC"
     }, 
     "links": {
         "twitter": "https://twitter.com/ECO2_Global", 
