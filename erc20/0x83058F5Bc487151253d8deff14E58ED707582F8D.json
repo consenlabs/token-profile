@@ -16,13 +16,8 @@
         "BTC": "0.00BTC"
     }, 
     "links": {
-        "blog": "", 
         "twitter": "https://twitter.com/ECO2_Global", 
         "telegram": "https://t.me/ECO2_channel", 
-        "github": "", 
-        "facebook": "https://www.facebook.com/ECO2.CC", 
-        "reddit": "", 
-        "slack": "", 
-        "medium": ""
+        "facebook": "https://www.facebook.com/ECO2.CC"
     }
 }
