@@ -1,0 +1,24 @@
+{
+  "symbol": "0xzx",
+  "address": "0xe984ADE4D5daFA623180460759F4073b6a470656",
+  "overview":{
+        "en": "0xzx is a content-based incentive platform based on the decentralized economy that continually motivates new news content.",
+        "zh": "0xzx是一个基于以太坊区块链的全球化内容激励平台，基于分散经济，不断激励新的新闻内容。"
+  },
+  "email": "info@0xzx.com",
+  "website": "https://token.0xzx.com/",
+  "whitepaper": "",
+  "state": "LOCKED",
+  "published_on": "2019-08-10",
+  "initial_price":{
+        "ETH":"0.0000166667 ETH",
+        "USD":"0.003 USD",
+        "BTC":"0.00000003128 BTC"
+  },
+  "links": {
+    "blog": "https://0xzx.com",
+    "twitter": "https://twitter.com/0xzxcom",
+    "telegram": "https://t.me/chat0x",
+    "facebook": "https://www.facebook.com/0xzxcom",
+  }
+}
