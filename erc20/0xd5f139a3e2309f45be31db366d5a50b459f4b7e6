@@ -1,0 +1,17 @@
+    "en": "EBC(Ether Business) is theTicket tokens in the game are currently only generated in the game and do not support trading",
+    "zh": "EBC 是 Ether Business 游戏中的门票代币，目前仅由游戏中产生，不支持交易。"
+  },
+  "email": "lb15373560733@126.com",
+  "website": "https://ethbc.github.io/r3game/",
+  "whitepaper": "https://ethbc.github.io/r3game/",
+  "state": "NORMAL",
+  "published_on": "2019-08-31",
+  "initial_price":{
+        "ETH":"0.0001 ETH",
+        "USD":"0.006 USD",
+        "BTC":"0.00001 BTC"
+  },
+  "links": {
+    "github": "https://ethbc.github.io/r3game/",
+  }
+}
