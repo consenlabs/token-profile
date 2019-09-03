@@ -1,0 +1,21 @@
+{
+    "symbol": "FUZE",
+    "address": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+    "overview": {
+        "en": "What is FUZE? FUZE Token is a fully community-driven social experiment and the world’s first self-deflationary currency with a supply of 1000 tokens and a 5% burn rate. Why FUZE? A difference between FUZE and most other deflationary projects is that there is no dev holding/allocation — every token was distributed fairly by airdrops. This distinguishes FUZE as a token created entirely for its community. What’s the purpose of the FUZE project? Our main goal is to build a community that decides in which direction the FUZE Token should go. Future functions or use-cases can be built by any member of the community. Of course, the main function right now is the deflationary token model — this means the total supply decreases with each transaction. Why a deflationary token? We like the concept of this kind of token model because it exemplifies the hodler mentality. Let’s say you buy FUZE Tokens for 1 ETH — you are incentivized to hold your FUZE because each time you send it to another address, 5% will be burned. This naturally encourages hodling, rather than sending. This token burn will naturally drive token appreciation through driving an increase in scarcity vs demand.",
+        "zh": " 什么是FUZE？ FUZE Token是一个完全由社区驱动的社会实验，是世界上第一个自我通货紧缩的货币，供应1000个令牌，燃烧率为5％。"
+    },
+    "email": "support@fuzetoken.net , fuzetoken@gmx.net",
+    "website": "http://fuzetoken.net",
+    "whitepaper": "https://www.docdroid.net/whZspxx/fuze-token-whitepaper-v-1.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-06-24",
+    "initial_price": {
+        "ETH": "0.125 ETH",
+        "USD": "22 USD",
+        "BTC": "0,0021 BTC"
+    },
+    "links": {
+        "twitter": "https://twitter.com/TokenFuze"
+    }
+}
