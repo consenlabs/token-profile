@@ -1,0 +1,22 @@
+{
+  "symbol": "VIDY",
+  "address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
+  "overview":{
+    "zh":" Vidy发明了世界上第一个用于网页关键字的隐形嵌入层，基于以太坊区块链运行。只需一键长按关键字，用户即可在网络上任何页面的文本中观看与文本相关联的微型小视频，从而毫不费力的感受全新阅读体验。所有视频广告都使用由矿工驱动的NLP共识协议。每次用户观看视频广告时，都将会以VidyCoin的形式获得奖励，并在以下场景中使用：在Vidy生态系统上兑换/购买商品和服务购买/加入广告活动持有更多VidyCoin以获取更高级别的广告或发行商功能",
+    "en":"Vidy is one of the few crypto companies in the world that is actually live in production and presently working with the largest and most prestigious companies of the world. Vidy is revenue positive with tier 1 advertisers buying the Vidy ad unit, and has over 3 billion monthly pageviews on major publishers around the globe. Vidy plans to harness this massive userbase to facilitate major adoption of VidyCoin as a means for ad rewards and purchases on every page. Vidy has invented the world's first single-page invisible embed layer for video that is completely decentralized. With just a hold, users reveal tiny hyper-relevant videos embedded in the text of any page on the web that supplement their reading experience effortlessly. All video ads are placed with an NLP consensus protocol driven by miners. Each time a user unveils a video ad, he earns rewards in the form of VidyCoin that can then be used in the various forms: Redeem / Purchase goods and services on the Vidy Ecosystem. Purchase advertising campaigns. Staking VidyCoin to get access to premium advertising and/or publisher feature."
+  },
+  "email": "info@vidy.com",
+  "website": "https://vidy.com",
+  "whitepaper": "https://www.vidycoin.org/static/whitepaper.pdf",
+  "published_on": "2019-08",
+  "initial_price":{
+    "ETH":"0.00000891 ETH",
+    "USD":"0.001 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/VidyCoin/4795",
+    "github": "https://github.com/VIDY",
+    "facebook": "https://www.facebook.com/VidyCoin/8297",
+    "reddit": "https://www.reddit.com/r/Vidy/7500",
+  }
+}
