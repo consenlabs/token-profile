@@ -6,15 +6,12 @@
           "zh": "BCU 以推动区块链应用的普及为己任，致力于解决各平台间支付效率低、应用深度不足等问题，打造区块链联盟，实现支付互通、技术统一、流量共享，应用场景为各区块链平台，建立区块链联盟;"
     },
     "email": "1607115722@qq.com",
-    "website": "http://gw.ethereumgeekpay.com ",
-    "whitepaper": "http://gw.ethereumgeekpay.com/Upload/1565597942.pdf",
+    "website": "gw.ethereumgeekpay.com ",
+    "whitepaper": "gw.ethereumgeekpay.com/Upload/1565597942.pdf",
     "published_on": "2019-08-08",
     "initial_price":{
          
           "USD":"0.3 USD"
         
-    },
-    "links": {
-        "telegram": "http://gw.ethereumgeekpay.com"
     }
   }
