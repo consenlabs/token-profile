@@ -2,22 +2,22 @@
   "symbol": "ETP",
   "address": "0xbF813Efe79748136d6B8Cedc4EfE4e6Ef054f11C",
   "overview":{
-        "en": "ETP (elephant token pro) is a token of public welfare issued by Hutsadin elephant Foundation, which aims to appeal people to provide more public welfare protection activities for elephant rescue through block chain.",
-        "zh": "ETP（elephant token pro）是由哈撒丁大象基金会（Hutsadin Elephant Foundation）发行的一款具有公益性质的token, 目的是为了通过区块链呼吁人们为大象的救援提供更多的公益性保护活动."
+        "en": "ETP is a token of public welfare issued by Hutsadin elephant Foundation, which aims to appeal people to provide more public welfare protection activities for elephant rescue through block chain.",
+        "zh": "ETP是由哈撒丁大象基金会Hutsadin Elephant Foundation发行的一款具有公益性质的token, 目的是为了通过区块链呼吁人们为大象的救援提供更多的公益性保护活动"
   },
   "email": "etpro2019@gmail.com",
-  "website": "https://gz19468862.icoc.vc/",
+  "website": "https://your-awesome-project.com/",
   "whitepaper": "http://20359508.s21d-20.faiusrd.com/0/ABUIABA9GAAgr7Lf6wUo5OnvgwY?f=elephant+token+pro.pdf&v=1568135471",
   "state": "NORMAL",
-  "published_on": "2019-09-01",
+  "published_on": "2019-09-10",
   "initial_price":{
         "ETH":"0.00079365 ETH",
         "USD":"0.1428 USD",
         "BTC":"0.00001379 BTC"
   },
   "links": {
-    "twitter": " https://twitter.com/token_pro/status/1171509197927641090?s=20",
-    "facebook": "https://www.facebook.com/elephanttoken.pro.1/posts/108869790499488",
-    "reddit": "https://www.reddit.com/r/imToken/comments/d2dex1/官方公告/?utm_source=share&utm_medium=web2x/",
+    "twitter": "https://twitter.com/token_pro",
+    "facebook": "https://www.facebook.com/elephanttoken.pro.1",
+    "reddit": "https://www.reddit.com/r/imToken/comments/d2dex1/官方公告/?utm_source=share&utm_medium=web2x",
   }
 }
