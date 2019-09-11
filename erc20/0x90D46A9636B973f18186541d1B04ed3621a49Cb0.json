@@ -2,11 +2,7 @@
   "symbol": "NAT",
   "address": "0x90D46A9636B973f18186541d1B04ed3621a49Cb0",
   "overview": {
-    "en": "Natmin Pure Escrow is a decentralized application that provides pure Escrow Services built on Blockchain Technology. We aim to revolutionize the Escrow industry by utilizing Blockchain Technology to facilitate Escrow transactions for a fraction of the price of conventional Escrow services.
-
-Natmin is a self-regulating system that provides secure transactions between the buyer and seller with extremely low fees. Natmin utilizes smart contract technology to implement and regulate Escrow transactions. This removes the need for a middleman, thus reducing transaction costs and the possibility of fraud.
-
-The Natmin Token (NAT) ensures utmost security and peace of mind between the buyer and seller. It is built on the widely used and accepted ERC223 standard using the Ethereum Blockchain.",
+    "en": "Natmin Pure Escrow is a decentralized application that provides pure Escrow Services built on Blockchain Technology. We aim to revolutionize the Escrow industry by utilizing Blockchain Technology to facilitate Escrow transactions for a fraction of the price of conventional Escrow services. Natmin is a self-regulating system that provides secure transactions between the buyer and seller with extremely low fees. Natmin utilizes smart contract technology to implement and regulate Escrow transactions. This removes the need for a middleman, thus reducing transaction costs and the possibility of fraud. The Natmin Token (NAT) ensures utmost security and peace of mind between the buyer and seller. It is built on the widely used and accepted ERC223 standard using the Ethereum Blockchain.",
     "zh": "Natmin Pure Escrow是一个分散的应用程序，提供基于Blockchain技术的纯Escrow服务。 我们的目标是通过利用区块链技术促进托管交易，以低于传统托管服务的一小部分价格，彻底改变托管行业。"
   },
   "email": "support@natmin.io",
