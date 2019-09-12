@@ -1,0 +1,13 @@
+{
+  "symbol": "OSG",
+  "address": "0xd5c5abae79237815d0df2beb230e024b2cf7b231",
+  "overview": {
+        "en": "OSG (iOscar Gold) is the investor certificate of the blockchain brand “iOscar” of Oscar Resources Australia. It is currently only issued by official channels. OSG is a kind of gold coin linked to physical investment, and each issued OSG is distributed. Linked to one ounce of physical investment gold, the corresponding total investment amount is stored in the Western Australian Mint (ie an OSG coin is one ounce of gold). imToken supports multi-chain wallet, support bitcoin, EOS and other main chains Digital asset management, while users can easily convert coins through Tokenlon. At present, DApp's attempts and explorations have also developed DApps including ENS Pro, Candy Bar, StakeVote, News, etc., and continue to strengthen the consensus with third parties based on the Ethereum ecosystem.",
+        "zh": "OSG(iOscar Gold) 是 澳洲奥斯卡资源公司 旗下区块链品牌「iOscar」的投资者通证，目前仅由官方渠道发放。OSG是一种实物投资黄金挂钩的数字货币，每一个发行流通的OSG都与一盎司实物投资金一比一挂钩，相对应的投资金总量存储在西澳大利亚铸币厂（即一个OSG币为一盎司金）。imToken 支持多链钱包，支持比特币、EOS 等主链上的数字资产管理，同时用户通过 Tokenlon 可轻松实现币币兑换。目前在其 DApp 的尝试及探索中，也已开发包括 ENS Pro、Candy Bar、StakeVote、News 等 DApp，并继续加强与第三方基于以太坊生态的连接共识。"
+  },
+  "email": "",
+  "website": "https://www.ioscar.io/",
+  "whitepaper": "https://www.ioscar.io/testphp/public/static/oscar/ioscar_english.1.0.2.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-09-12"
+} 
