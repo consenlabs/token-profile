@@ -1,0 +1,19 @@
+{
+  "symbol": "USDM",
+  "address": "0x26e8Bcf9c18c6aE5f3CdF7331E84803AEEf086eb",
+  "overview": {
+    "en": " USDM is a platform stable currency for exchange with USDT 1:1 for use on IMOEX trading platform and IMO wallet.",
+    "zh": " USDM为在IMOEX交易平台和IMO钱包使用的，与USDT 1:1进行兑换的平台稳定币。"
+  },
+  "email": "contact@imoex.top",
+  "website": "https://www.imoex.top/",
+  "state": "NORMAL",
+  "published_on": "2019-08-16",
+  "initial_price": {
+    "ETH": "0.0056 ETH",
+    "USD": "1 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/imoexchange"
+  }
+}
