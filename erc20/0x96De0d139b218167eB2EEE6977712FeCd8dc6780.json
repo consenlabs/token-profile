@@ -1,0 +1,17 @@
+{
+    "symbol": "SPL",
+    "address": "0x96De0d139b218167eB2EEE6977712FeCd8dc6780",
+    "overview":{
+          "zh":"超级大陆是一家基于区块链的智能化房产中介平台，通过超级大陆房源中介或者业主可以把房产信息直接上传到平台发布并在成交后获得相应SPL（token）收益，买房者或租赁者及其代理可以在平台发布相关需求并在成交后获得相应SPL（token）奖励。另外超级大陆将尝试对接受我们平台规则的部分房产进行上链，将有效房产按面积生成对应份数的电子产权SPL（token），将电子产权记在区块链对应的资产（SPL）上，以提高不动产的流动性。"
+    },
+    "email": "service.SuperLand@gamli.com",
+    "website": "http://www.superland.pro",
+    "whitepaper": "http://www.superland.pro/wp-content/uploads/2019/08/Super-Land-whitepaper-V1.7.pdf",
+    "state": "LOCKED",
+    "published_on": "2019-09-01",
+    "initial_price":{
+    },
+    "links": {
+    }
+  }
+  
