@@ -11,9 +11,6 @@
     "state": "NORMAL",
     "published_on": "2018-04-15",
     "initial_price": {
-        "ETH": "0.0000791 ETH",
-        "USD": "0.014 USD",
-        "BTC": "0.00000139 BTC"
     },
     "links": {}
 }
