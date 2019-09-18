@@ -1,0 +1,19 @@
+{
+  "symbol": "HTC",
+  "address": "0x090210a4916737e691a6a87aa8d4c835b85a0103",
+  "overview":{
+    "en": "HTChain Positioning Service Blockchain + Game Vertical Scenes A main chain + multi-side chain new public chain to build a distributed game ecosystem by providing open basic capabilities and protocols to connect game developers, gamers and other ecological participants . Supporting more complex games in terms of performance, bringing new gaming experiences and gameplay beyond the past to blockchain game users. And provide a comprehensive game development toolset to provide blockchain game developers with the convenience and perfection of the development process, developers only need to focus on the core content of the game and logic development. The ultimate goal of HTChain is to form a new game distribution model based on blockchain, create a new gameplay, and return to the essence to create a new game ecosystem.",
+    "zh": "HTChain定位服务于区块链+游戏垂直场景的一主链+多侧链的全新公链通过提供开放的基础能力和协议连接游戏开发者、游戏玩家以及生态其他参与者共同构建分布式游戏生态网络。在性能上支持更为复杂的游戏，为区块链游戏用户带来全新的游戏体验和超越以往的游戏形态。并提供完善的游戏开发工具集为区块链游戏开发者提供开发过程中的便利性和完善性，开发者只需专注于游戏核心内容及逻辑开发。HTChain的最终目标是形成一个基于区块链的全新游戏分发模式、打造全新的游戏玩法、回归本质开创全新的游戏生态。"
+  },
+  "website": "http://www.htcc.io/",
+  "whitepaper": "http://www.htcc.io/style/white_paper/HTChain-white-paper-v1.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-13",
+  "initial_price":{
+    "ETH":"0.0042 ETH",
+    "USD":"0.04 USD" 
+  },
+  "links": {
+    "github": "https://github.com/HTC-Chain"
+  }
+}
