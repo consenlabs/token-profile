@@ -11,7 +11,9 @@
     "state": "NORMAL",
   "published_on": "2019-21-09",
   "initial_price":{
-    "USD":"0.1 USD"
+        "ETH":"0.00056497 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00000992 BTC"
   },
     "links": {
       "twitter": "https://twitter.com/Littradex",
