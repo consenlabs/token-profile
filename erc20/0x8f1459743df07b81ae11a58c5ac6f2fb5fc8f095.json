@@ -9,6 +9,10 @@
     "website": "http://littradex.com/",
     "whitepaper": "https://littradex.com/whitepaper",
     "state": "NORMAL",
+  "published_on": "2019-21-09",
+  "initial_price":{
+    "USD":"0.1 USD"
+  },
     "links": {
       "twitter": "https://twitter.com/Littradex",
       "telegram": "https://t.me/Littradex",
