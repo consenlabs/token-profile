@@ -1,0 +1,16 @@
+{
+    "symbol": "HAMB",
+    "address": "0xc6b6f2d963eaf8c5719afbda8626f87cfd450be5",
+    "overview":{
+          "zh":"超级专网（HAMB）由华为元老团队创建，致力于超级专网基础运营设施和产品的开发，打造全新的价值专网生态。奉行区块链重构利益分配理念，基于AI+智慧超级专网运营架构，团队在现有传输网络之上，为企业、学校及个体用户提供一个完全自主、可管可控的、电信级别的虚拟传输网。未来，HAMB将在全球范围内布局HAMB节点，推动产业链、价值链、创新链等各环节的协调协作，创建智慧型超级专网生态。"
+    },
+    "email": "hamb_pro@163.com",
+    "website": "https://www.hamb.pro",
+    "whitepaper": "https://www.hamb.pro",
+    "state": "NORMAL",
+    "published_on": "2019-09-20",
+    "initial_price":{
+		"USD":"0.015  USD",
+    },
+    "links": {}
+  }	
