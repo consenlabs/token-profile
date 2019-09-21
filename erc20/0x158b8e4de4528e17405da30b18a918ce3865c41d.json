@@ -1,0 +1,21 @@
+{
+    "symbol": "IDD",
+    "address": "0x158b8e4de4528e17405da30b18a918ce3865c41d",
+    "overview": {
+        "en": "IDD's brand is positioned in the commission and profit distribution system for the sale of financial products and physical products. It was initiated by the Emma Foundation, a non-profit foundation registered in Wales, UK. Cardiff. Committed to using new technologies to promote the balance and free development of global economic and trade, IDD takes the blockchain consensus mechanism as the core, and creates a digital economy certificate for payment, circulation, and distribution of rights. IDD represents the rights and interests of customers, and customers can purchase corresponding Insurance financial products, trading platforms and other forms of IDD digital assets. IDD platform management assets exceed tens of billions of yuan, serving millions of users, is a global safe and reliable digital assets。",
+    		"zh": "IDD的品牌定位于金融产品及实体产品销售的佣金及利润分配系统，是由英国爱玛基金会（Emma Foundation）发起的，Emma基金会是一家非盈利性的基金会，注册地在英国威尔士的加迪夫。致力于用新技术推动全球经贸的平衡与自由发展，IDD以区块链共识机制为核心，打造支付、流通、分配权益的数字经济通证。IDD代表的是客户的权益，客户可通过购买相应保险类金融产品、交易平台等形式获得IDD数字资产。IDD平台管理资产规模超过数百亿人民币，服务数百万用户，是全球安全可信赖的数字资产。"
+  	},
+    "email": "support@iddtoken.com",
+    "website": "https://www.iddtoken.com/",
+    "whitepaper": "https://www.iddtoken.com/download/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-08-19",
+    "initial_price": {
+        "ETH": "0.00166666 ETH",
+        "USD": "0.7 USD",
+        "BTC": "0.00004137 BTC"
+    },
+    "links": {
+         "telegram": "https://t.me/iddoffcial"
+    }
+}
