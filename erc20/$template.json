@@ -1,28 +1,20 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "FIN",
+  "address": "0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec",
   "overview":{
-        "en": "Token Description.",
+        "en": "Fenniecoin (FIN) is poised to take the cryptocurrency industry to the next level and beyond.",
         "zh": ""
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "email": "fenniecoin@gmail.com",
+  "website": "https://fenniecoin-blockchain.com",
+  "whitepaper": "https://drive.google.com/file/d/1fQMAqCq8NViqmzVMvqBsvHyyj1Fi9Gyr/view?usp=sharing",
   "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+  "published_on": "2019-09-20",
+ 
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "twitter": "https://twitter.com/fenniecoin",
+    "telegram": "https://t.me/Fenniecoin",
+    "facebook": "https://web.facebook.com/fenniecoin.blockchain.5",
   }
 }
