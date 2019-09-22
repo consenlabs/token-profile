@@ -1,0 +1,15 @@
+{ 
+ "symbol": "WWD", 
+ "address": "0x1e188Cfea3EA8FB4f5DAa71ce90899cbe3806E6d", 
+ "overview":{ 
+ 			 "en":"Multi-chain DAPP application value ecological platform.", 
+ 			 "zh":"多链DAPP应用价值生态平台。" 
+ }, 
+ "links": { 
+ "facebook": "https://www.facebook.com/WisdomWorldOfficial2019" 
+ }, 
+ "email": "wwd@wwdhub.com", 
+ "website": "http://www.wwdhub.com", 
+ "whitepaper": http://www.wwdhub.com/static/whitepaper/wwd_whitepaper_CN.pdf", 
+ "published_on": "2019-09-15" 
+}
