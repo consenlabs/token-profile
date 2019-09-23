@@ -1,15 +1,15 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "EBC",
+  "address": "0xd5f139a3e2309f45be31db366d5a50b459f4b7e6",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
+        "en": "Ether Business coin.",
+        "zh": "头号链商游戏门票通证"
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "email": "lb15373560733@126.com",
+  "website": "https://ethbc.github.io/r3game/",
+  "whitepaper": "https://ethbc.github.io/r3game/",
   "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "published_on": "2019-08-31",
   "initial_price":{
         "ETH":"0.00166666 ETH",
         "USD":"0.7 USD",
