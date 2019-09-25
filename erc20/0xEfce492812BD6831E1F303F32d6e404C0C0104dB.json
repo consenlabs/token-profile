@@ -1,23 +1,22 @@
 ﻿{
-  symbol CHGB,
-  address 0xefce492812bd6831e1f303f32d6e404c0c0104db,
-  overview{
-        en In order to maintain the ecological operation of global art and culture tourism, Global Art Culture Tourism plans to issue Chonghua GuiBao Token (CHGB) based on the asset chain of art and culture tourism. The Token adopts a stable guarantee mechanism to simulate the elasticity of the central bank to regulate Token supply through intelligent contracts. CHGB is not only an asset certificate, but also a medium of value circulation. It can be circulated in the digital currency exchange market. It can also be used to complete the registration, transaction, handling fees, art quality pledge, Museum entry, auction entry, entertainment consumption, tourism services, accommodation, travel, cultural shopping, tourism shopping and other scenarios.,
-        zh &#x4E3A;&#xF9BA;&#x7EF4;&#x6301;&#x5168;&#x7403;&#x827A;&#x672F;&#x2F42;&#x5316;&#x65C5;&#x6E38;&#x7684;&#x751F;&#x6001;&#x8FD0;&#x8425;&#xFF0C;&#x5168;&#x7403;&#x827A;&#x672F;&#x6587;&#x5316;&#x65C5;&#x6E38;(Global Art Culture Tourism)&#x8BA1;&#x5212;&#x53D1;&#xFA08;&#x57FA;&#x4E8E;&#x827A;&#x672F;&#x2F42;&#x5316;&#x65C5;&#x6E38;&#x8D44;&#x4EA7;&#x4E0A;&#x94FE;&#x7684; Token(ChongHua GuiBao Token&#xFF0C;&#x7B80;&#x79F0;CHGB)&#xFF0C;&#x8BE5;Token &#x91C7;&#x53D6;&#x7A33;&#x5B9A;&#x62C5;&#x4FDD;&#x673A;&#x5236;&#xFF0C;&#x901A;&#x8FC7;&#x667A;&#x80FD;&#x5408;&#x7EA6;&#x6A21;&#x62DF;&#x4E2D;&#x592E;&#x94F6;&#xFA08;&#x5F39;&#x6027;&#x8C03;&#x8282;Token&#x4F9B;&#x5E94;&#x91CF;&#x3002;CHGB&#x662F;&#x8D44;&#x4EA7;&#x8BC1;&#x660E;&#xFF0C;&#x4E5F;&#x662F;&#x4EF7;&#x503C;&#x6D41;&#x901A;&#x5A92;&#x4ECB;&#xFF0C;&#x5176;&#x53EF;&#x4EE5;&#x5728;&#x6570;&#x5B57;&#x8D27;&#x5E01;&#x4EA4;&#xF9E0;&#x6240;&#x5E02;&#x573A;&#x8FDB;&#xFA08;&#x6D41;&#x901A;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x7528;&#x4E8E;&#x5B8C;&#x6210;&#x5168;&#x7403;&#x827A;&#x672F;&#x6587;&#x5316;&#x65C5;&#x6E38;&#x7684;&#x767B;&#x8BB0;&#x3001;&#x4EA4;&#xF9E0;&#x3001;&#x2F3F;&#x7EED;&#x8D39;&#x3001;&#x827A;&#x672F;&#x54C1;&#x8D28;&#x62BC;&#x3001;&#x535A;&#x7269;&#x9986;&#x8FDB;&#x5165;&#x3001;&#x62CD;&#x5356;&#x4F1A;&#x8FDB;&#x2F0A;&#x3001;&#x5A31;&#x4E50;&#x6D88;&#x8D39;&#x3001;&#x65C5;&#x6E38;&#x670D;&#x52A1;&#x3001;&#x4F4F;&#x5BBF;&#x3001;&#x51FA;&#xFA08;&#x3001;&#x6587;&#x5316;&#x8D2D;&#x7269;&#x3001;&#x65C5;&#x6E38;&#x8D2D;&#x7269;&#x7B49;&#x573A;&#x666F;&#x3002;
+  "symbol": "CHGB",
+  "address": "0xefce492812bd6831e1f303f32d6e404c0c0104db",
+  "overview":{
+        "en": "In order to maintain the ecological operation of global art and culture tourism, Global Art Culture Tourism plans to issue Chonghua GuiBao Token (CHGB) based on the asset chain of art and culture tourism. The Token adopts a stable guarantee mechanism to simulate the elasticity of the central bank to regulate Token supply through intelligent contracts. CHGB is not only an asset certificate, but also a medium of value circulation. It can be circulated in the digital currency exchange market. It can also be used to complete the registration, transaction, handling fees, art quality pledge, Museum entry, auction entry, entertainment consumption, tourism services, accommodation, travel, cultural shopping, tourism shopping and other scenarios.",
+        "zh": "为了维持全球艺术⽂化旅游的生态运营，全球艺术文化旅游(Global Art Culture Tourism)计划发行基于艺术⽂化旅游资产上链的 Token(ChongHua GuiBao Token，简称CHGB)，该Token 采取稳定担保机制，通过智能合约模拟中央银行弹性调节Token供应量。CHGB是资产证明，也是价值流通媒介，其可以在数字货币交易所市场进行流通，也可以用于完成全球艺术文化旅游的登记、交易、⼿续费、艺术品质押、博物馆进入、拍卖会进⼊、娱乐消费、旅游服务、住宿、出行、文化购物、旅游购物等场景。" },
+  "email": "1035049566@qq.com",
+  "website": "http://www.chgb888.com/",
+  "whitepaper": "http://www.chgb888.com/static/whitepaper.pdf",
+  "state": "LOCKED",
+  "published_on": "2019-09-21",
+  "initial_price":{
+        "ETH":"0.000741289844329 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.000026055237103 BTC"
   },
-  email 1035049566@qq.com,
-  website httpwww.chgb888.com,
-  whitepaper httpwww.chgb888.comstaticwhitepaper.pdf,
-  state LOCKED,
-  published_on 2019-09-21,
-  initial_price{
-        ETH0.000741289844329 ETH,
-        USD0.1 USD,
-        BTC0.000026055237103 BTC
-  },
-  links {
-	toutiaohttpswww.toutiao.comi6637759949407519245,
-	toutiaohttpswww.toutiao.comi6638478623881822728,
-	tencenthttpsnew.qq.comomn20181222A1A0W500
+  "links": {
+	"toutiao":"https://www.toutiao.com/i6637759949407519245",
+	"toutiao":"https://www.toutiao.com/i6638478623881822728",
+	"tencent":"https://new.qq.com/omn/20181222A1A0W500"
   }
 }
