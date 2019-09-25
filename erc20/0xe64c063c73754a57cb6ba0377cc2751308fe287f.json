@@ -1,0 +1,24 @@
+{
+  "symbol": "AIC",
+  "address": "0xe64c063c73754a57cb6ba0377cc2751308fe287f",
+  "overview":{
+        "en": "Block Chain Platform Designed by AIC for the Development of Service Application of AI Technology
+AI Chain is an intelligent AI service tool and platform, which helps every AI developer or team to organize and accumulate knowledge and data, including AI related industries such as intelligent park, medical education, intelligent transportation, robots, etc., to form a complete technological ecosystem, which will be provided by AIC in the future. Decentralized economic platform directly links AI services with users, forms aggregation effect, and serves intelligent economy through intelligent technology. The underlying technical logic of AI is the combination of data and algorithm, which forms a program model supporting thinking, perception and action, so as to better serve human beings in the application of AI technology involving ethics and morality, and to encrypt and protect sensitive data, so as to improve user data security. It is necessary to audit whether the decision made by AI algorithm model has data credibility and whether there is artificial fraud before application. The decision of AI chain project is recorded on block chain in the way of data point to point, which can track and monitor AI decision well and gain public trust.",
+        "zh": "AIC为人工智能技术开发服务应用而设计的区块链平台
+AI链是一个智能化的AI服务工具与平台，帮助每个人工智能的开发者或团队组织，并让知识和数据得以沉淀和 积累，包括智慧园区、医疗教育、智慧交通、机器人等AI相关产业，形成完整的技术生态体系，未来将通过AIC提供一个去中心化的经济平台，直接将AI服务与用户产生 联系，形成聚合效应，通过智能技术来服务智能经济。人工智能的底层技术逻辑是数据+算法的结合，形成支持思维、感知与行动的程序模型，来更好的为人类服务在AI技术涉及 到伦理道德方面的应用，对敏感数据进行加密保护，从而提高用户数据安全性。AI算法模型所形成的决策是否具有数据公信力，是否存在人为欺诈性，在应用前进行审计是十 分必要的，AI链项目決策是按数据点对点的方式在区块链上记录下来的，可以对AI决策进行很好的跟踪监测，获得公众信任。"
+  },
+  "email": "info@aichainos.com",
+  "website": "http://www.aichainos.com",
+  "whitepaper": "http://www.aichainos.com/AICWhitepaper1.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-09-20",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ArtificialChain",
+    "facebook": "https://www.facebook.com/artificialintelligence.chain",
+  }
+}
