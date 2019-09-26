@@ -3,14 +3,13 @@
     "address": "0x8f1459743df07b81ae11a58c5ac6f2fb5fc8f095",
     "overview":{
         "en": "Littrade is the native security token of the Littradex Exchange. LTE Token holders can qualify for discounted trading fees.",
-        "zh": ""
+        "zh": "Littrade是Littradex交易所的本机安全令牌。代币持有者有资格获得以比特币支付的折扣交易费和利润分成！"
     },
     "email": "support@littradex.com",
     "website": "http://littradex.com/",
-    "whitepaper": "https://littradex.com/whitepaper",
     "state": "NORMAL",
-  "published_on": "2019-25-09",
-  "initial_price":{
+    "published_on": "2019-10-10",
+    "initial_price":{
         "ETH":"0.00035000 ETH",
         "USD":"0.1 USD",
         "BTC":"0.00000840 BTC"
