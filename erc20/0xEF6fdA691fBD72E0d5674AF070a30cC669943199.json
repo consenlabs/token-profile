@@ -1,0 +1,24 @@
+{
+  "symbol": "Token symbol",
+  "address": "0x974a6CF19669a78bbCa00D024dCA65791Ba7B6b4",
+  "overview":{
+        "en": "Token Description.",
+        "zh": "YOS是YOOSourcing平台发行的数字通证，是基于区块链的全球贸易企业间沟通和采购协作平台，YOS应用于YOOSourcing平台的所有支付，YOOSourcing平台付费企业会员为YOS提供价值支撑。"
+  },
+  "website": "https://yos.mobi/",
+  "whitepaper": "https://yos.mobi/YOOSourcingWhitePaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-09-26",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"2.81 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "http://blog.yst.global/",
+    "twitter": "https://twitter.com/yoosourcing",
+    "telegram": "https://t.me/YOOSourcing",
+    "facebook": "https://www.facebook.com/yoosourcing/",
+    "Youtube": "https://m.youtube.com/channel/UCjcpatjyWj3_yH1rkSLLchg"
+  }
+}
