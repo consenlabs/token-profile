@@ -1,0 +1,19 @@
+{
+  "symbol": "GPC",
+  "address": "0x0b4a48418b4197d88626b19c8aa188d76327d2fa",
+  "overview":{
+        "en": "GPC is a token based on ETF ERC20 standard, which is developed by "POW + POS + POA" technology. It is the most innovative third generation digital asset product in the field of block chain technology.",
+        "zh": "GPC是一种基于以太坊ERC20标准的代币，采用“POW+POS+POA”技术研发而成，是区块链技术领域之中，最具创新性的第三代数字资产产品。"
+  },
+  "email": "globalgpe@163.com",
+  "website": "http://web.gpepay.com/",
+  "whitepaper": "http://web.gpepay.com/",
+  "state": "NORMAL",
+  "published_on": "2019-09-28",
+  "initial_price":{
+        "USD":"0.03 USD"
+  },
+  "links": {
+
+  }
+}
