@@ -11,11 +11,5 @@
   "published_on": "2019-09-28",
   "initial_price": {
         "USD": "0.1 USD"
-    },
-  "links": {
-    "twitter": "https://twitter.com/Littradex",
-    "telegram": "https://t.me/Littradex",
-    "facebook": "https://m.facebook.com/Littradex",
-    "reddit": "https://www.reddit.com/r/Littradex",
-  }
+    }
 }
