@@ -1,0 +1,26 @@
+{
+    "symbol": "LVN",
+    "address": "0xc8Cac7672f4669685817cF332a33Eb249F085475",
+    "overview": {
+        "en": "A mobile payment and loyalty platform for lifestyle services providers where people are rewarded with crypto for their everyday economic activity.",
+        "zh": "手机支付和客户忠诚计划平台，用户可通过日常支付赚取加密货币奖励。"
+    },
+    "email": "support@livenpay.io",
+    "website": "https://livenpay.io/",
+    "whitepaper": "https://s3-ap-southeast-2.amazonaws.com/livenpay.io/LIVEN-WhitePaper(EN).pdf",
+    "state": "NORMAL",
+    "published_on": "2018-11-01",
+    "initial_price": {
+        "USD": "0.015 USD"
+    },
+    "links": {
+        "blog": "https://blog.livenpay.io/",
+        "twitter": "https://twitter.com/livenpay",
+        "telegram": "https://t.me/livenpay",
+        "github": "https://github.com/livenpay",
+        "youtube": "https://www.youtube.com/user/livenaustralia",
+        "instagram": "https://www.instagram.com/livenpay",
+        "reddit": "https://www.reddit.com/r/LivenPay",
+        "facebook": "https://www.facebook.com/livenpay"
+    }
+}
