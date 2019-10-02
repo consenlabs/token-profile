@@ -1,0 +1,25 @@
+{
+	"symbol": "FIN",
+	"address": "0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec",
+	"overview": {
+		"en": "Fenniecoin (FIN) is poised to take the cryptocurrency industry to the next level and beyond.",
+		"zh": "Fenniecoin（FIN）准备将加密货币行业带入一个新的高度。。"
+	},
+	"email": "fenniecoin@gmail.com",
+	"website": "https://fenniecoin-blockchain.com",
+	"whitepaper": "http://bit.ly/WhitepaperFenniecoin",
+	"state": "NORMAL",
+	"published_on": "2019-09-20",
+	"initial_price": {
+		"USD": "0.1996 USD",
+    "ETH": "0.001143 ETH"
+	},
+	"links": {
+		"blog": "https://medium.com/@fenniecoin",
+		"twitter": "https://twitter.com/fenniecoin",
+		"telegram": "https://t.me/FenniecoinOfficiall",
+		"github": "https://github.com/fenniecoin",
+		"facebook": "https://www.facebook.com/FIN-Community-102866404451851/",
+		"medium": "https://medium.com/@fenniecoin"
+	}
+}
