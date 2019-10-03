@@ -1,0 +1,26 @@
+{
+  "symbol": "HBB",
+  "address": "0x66e8966cc27f02640467d21289174132732f8d74",
+  "overview":{
+        "en": "",
+        "zh": "红包币(HBB)是红包皕(bì)积分100:1映射的加密数字资产，基于ERC20协议发行，总量恒定0.88亿枚。红包皕积分是社群唯一价值载体，可进行消费、打赏、贺礼、发红包、转账、交易、投资等全场景应用，能共享社群整体价值和巨大成长。"
+  },
+  "email": "2545224666@qq.com",
+  "website": "https://www.hbb8888.com/",
+  "whitepaper": "https://www.hbb8888.com/media/HBB_whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-10-03",
+  "initial_price":{
+        "ETH":"0.0000786 ETH",
+        "USD":"0.01397 USD",
+        "BTC":"0.000001689 BTC"
+  },
+  "links": {
+    "blog": "https://www.weibo.com/hbb8888",
+    "twitter": "",
+    "telegram": "",
+    "github": "https://github.com/HBB",
+    "facebook": "",
+    "reddit": "",
+  }
+}
