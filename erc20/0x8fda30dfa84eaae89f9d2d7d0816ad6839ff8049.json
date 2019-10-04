@@ -1,0 +1,20 @@
+﻿
+{
+  "symbol": "GMCC",
+  "address": "0x8fda30dfa84eaae89f9d2d7d0816ad6839ff8049",
+  "overview":{
+        "en": "Global payment platform.",
+        "zh": ""
+  },
+  "email": "munhongggg@naver.com",
+  "website": "http://gmccworld.com/",
+  "whitepaper": "https://drive.google.com/file/d/1vGuYDUmtBP-SuIp1SwJlqtTZ7YsKau9E/view",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-03-01",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "band": "https://band.us/band/70749643"
+  }
+}
