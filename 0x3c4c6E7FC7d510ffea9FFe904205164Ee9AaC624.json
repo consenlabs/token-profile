@@ -1,0 +1,16 @@
+﻿{
+    "symbol": "CLB",
+    "address": "0x3c4c6E7FC7d510ffea9FFe904205164Ee9AaC624",
+    "overview":{
+        "en": "CoinLab",
+        "zh": "CoinLab"
+    },
+    "email": "940189487@qq.com",
+    
+    "state": "NORMAL",
+    "published_on": "2019-09-24",
+    "initial_price":{
+		"USD":"0.1  USD"
+    },
+    "links": {}
+}
