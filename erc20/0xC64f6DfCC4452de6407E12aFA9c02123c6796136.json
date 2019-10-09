@@ -1,0 +1,17 @@
+{
+    "symbol": "MFS",
+    "address": "0xC64f6DfCC4452de6407E12aFA9c02123c6796136",
+    "overview": {
+        "en": "MFS is based on the SEAL platform stablecoin payment system, deployed through multiple DApps and online and offline ecosystems, and positioned to promote the economic development of a stablecoin payment system issued by the “Belt and Road” related countries.",
+        "zh": "MFS是基于SEAL平台稳定币支付体系，通过多场景应用及线上、线下的生态部署，定位为促进一带一路相关国家经济发展而发行的一款稳定币支付体系生态通证。"
+    },
+    "email": "support@mfschain.com",
+    "website": "https://mfschain.com/",
+    "whitepaper": "https://mfschain.com/pdf/whitepaper.pdf",
+    "state": "NORMAL",
+    "links": {
+        "twitter": "https://twitter.com/MFSChain",
+        "telegram": "https://t.me/MFSOfficial_EN",
+        "facebook": "https://www.facebook.com/MFSChain/"
+    }
+}
