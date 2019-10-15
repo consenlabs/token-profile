@@ -1,0 +1,22 @@
+{
+  "symbol": "Suter",
+  "address": "0xba8c0244fbdeb10f19f6738750daeedf7a5081eb",
+  "overview":{
+        "en": "Suterusu: A blockchain agnostic privacy-persevering platform.",
+        "zh": "支持多链的隐私保护平台"
+  },
+  "email": "contact@suterusu.io",
+  "website": "https://www.suterusu.io",
+  "whitepaper": "https://www.suterusu.io",
+  "state": "NORMAL",
+  "published_on": "2019-10-15",
+  "initial_price":{
+        "USD":"0.012 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/suterusu_io",
+    "telegram": "https://t.me/suterusu_en",
+    "github": "https://github.com/privategenocomputation/suterusu",
+    "medium": "https://medium.com/@suterusu"
+  }
+}
