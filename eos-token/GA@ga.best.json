@@ -1,0 +1,21 @@
+{
+  "symbol": "GA",
+  "account_name": "ga.best",
+  "overview": {
+    "en": "GA is the rising and falling currency, the unit of the basic circulation unit in the spinach ecosystem, and the only medium of business and financial transmission.",
+    "zh": "GA是涨跌币，是spinach生態系統內基本流通單位的單位，也是其唯一的商業與金融傳遞介質。"
+  },
+  "email": "Chestnut0@protonmail.com",
+  "website": "https://dappspinach.com/dapp/index.html",
+  "whitepaper": "https://dappspinach.blob.core.windows.net/download/DappSpinach.pdf",
+  "published_on": "2019-10-20",
+  "initial_price": {
+    "EOS": "0.0460 EOS",
+    "USD": "0.14 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Gabest10",
+    "telegram": "https://t.me/joinchat/NiZsOxWXLN8o7liUzGtJrg",
+    "github": "https://github.com/spinach-dapp"
+  }
+}
