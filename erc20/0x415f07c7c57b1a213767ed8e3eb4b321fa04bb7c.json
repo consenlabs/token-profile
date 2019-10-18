@@ -1,0 +1,20 @@
+{
+	"symbol": "GHC",
+	"address": "0x415f07c7c57b1a213767ed8e3eb4b321fa04bb7c",
+	"overview":{
+				"en": "Gamehub develops global gaming platform with blockchain technology, offering high quality developing environment to game developers with Wallet, Core Module, Crowd-funding module and Inspiration Mechanisms. Building a new Steam on blockchain.",
+				"zh": "Gamehub将基于区块链公式开发全球游戏排行平台，平台结合钱包、中枢模块和众筹模块为游戏开发者提供优质的开发环境和条件，同时采用激励制！打造区块链的Steam。"
+	},
+	"email": "gamehub@hotmail.com",
+	"website": "https://gamehub.network/",
+	"whitepaper": "https://gamehub.network/whitepapercn",
+	"state": "NORMAL",
+	"published_on": "2019-09-16",
+	"initial_price":{
+				"ETH":"0.000014 ETH",
+				"USD":"0.0024 USD"
+	},
+	"links": {
+		"telegram": "https://t.me/joinchat/GUzUNBRzoUYHPzuRRysv0w"
+	}
+}
