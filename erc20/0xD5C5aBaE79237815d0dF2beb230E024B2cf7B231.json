@@ -11,12 +11,12 @@
   "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
-        "USD":"1,525.00 USD"
+        "USD":"1525.00 USD"
   },
   "links": {
     "blog": "https://weibo.com/u/6671385809",
     "twitter": "https://twitter.com/iOscar_DG",
     "telegram": "https://t.me/ioscar_digitalgold_cn",
-    "facebook": "https://facebook.com/mt.oscar.399",
+    "facebook": "https://facebook.com/mt.oscar.399"
   }
 }
