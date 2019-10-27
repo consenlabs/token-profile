@@ -1,0 +1,14 @@
+{
+  "symbol": "GBC",
+  "address": "0xEeeEC016697ad315B7FE57410cc8eeB0C2C57BdA",
+  "overview":{
+        "zh": "概帮，一座城的思想者。"
+  },
+  "state": "NORMAL",
+  "published_on": "2019-11-01",
+  "initial_price":{
+        "BTC":"1 BTC"
+  },
+  "links": {
+  }
+} 
