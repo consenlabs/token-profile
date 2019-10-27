@@ -2,10 +2,9 @@
     "symbol": "YEST",
     "address": "0x51e60a9EAbA215CE6451D29b01356Eea7acE4f2d",
     "overview": {
-        "en": "YEST is the ecosystem token of Yesex platform that is a very competitive Global Cryptocurrency Exchange.",
-        "zh": "YEST是Yesex交易所生态平台币，Yesex是一个极具竞争力的数字货币交易平台。"
+        "en": "YEST is the ecosystem token of Yesex platform that is a very competitive Global Blockchain Assets Exchange.",
+        "zh": "YEST是Yesex交易所生态令牌，Yesex是一个极具竞争力的全球区块链资产交易平台。"
     },
     "email": "support@yesex.io",
-    "website": "http://www.yesex.io",
-    "state": "NORMAL",
+    "website": "http://www.yesex.io"
 }
