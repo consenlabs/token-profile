@@ -1,12 +1,12 @@
 {
   "symbol": "WT",
-  "address": "0x09115c388Da7e23C7884a8625A6A4DAFac9b8706",
+  "address": "0x2b81f9668f4a5fdeba51b53a759de46fb59a5c91",
   "overview":{
     "en": "WT is the platform token of WBF Exchange. WT is a decentralized blockchain digital asset based on Ethereum, with a constant total supply of 300 million.",
     "zh": "WT是WBF数字资产交易所的平台通证，中文名称：瓦特币，是基于Ethereum的去中心化的区块链数字资产，发行总量恒定为3亿枚。"
   },
   "email": "support@wbfex.com",
-  "website": "https://www.wbfex.com",
+  "website": "https://www.wbf.io",
   "whitepaper": "https://www.wbfex.com",
   "state": "NORMAL",
   "published_on": "2019-06-10",
