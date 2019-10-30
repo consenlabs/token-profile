@@ -1,0 +1,17 @@
+{
+    "symbol": "INT",
+    "address": "0x48F3726C787Bdc36Bb00c978E701879cEEd185A4",
+    "overview": {
+        "en": "Loctite assets is a digital currency developed based on Ethereum smart contract erc20, which is used to build a blockchain project of encrypted asset transaction application ecology",
+        "zh": "Loctite Assets，是基于以太坊智能合约 ERC20 开发的数字货币，用于构建加密资产交易应用生态的区块链项目。"
+    },
+    "email": "LoctiteAssets@Outlook.com",
+    "website": "www.ltassets.info",
+    "whitepaper": "https://www.ltassets.info/images/letai.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-06-18",
+    "initial_price": {
+         "USD": "0.1 USD"
+    },
+    
+}
