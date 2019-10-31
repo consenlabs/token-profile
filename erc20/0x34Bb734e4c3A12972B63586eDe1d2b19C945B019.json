@@ -1,0 +1,20 @@
+{
+    "symbol": "SUC",
+    "address": "0x34bb734e4c3a12972b63586ede1d2b19c945b019",
+    "overview": {
+        "en": "SUC is committed to building a value discovery platform for connected trading platform, blockchain enterprises and investors.Committed to building the world's leading block chain digital media.",
+        "zh": "SUC致力于打造连接交易平台、区块链企业、投资者的价值发现平台。致力于打造全球领先的区块链数字媒体。"
+    },
+    "email": "1984847090@qq.com",
+    "website": "",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2019-10-31",
+	"initial_price":{
+        "USD":"0.077 USD",
+	},
+    "links": {
+        "telegram": "https://t.me/bitvaluegroup",
+        "github": "https://github.com/BitValue-BV/BV"
+    }
+}
