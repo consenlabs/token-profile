@@ -1,0 +1,16 @@
+{
+    "symbol": "NBT",
+    "address": "0xB6B37DFb26E849Ec99458897A18edB96e6FDc80D",
+    "overview":{
+          "en": "The goal of NBT is to build a fully anonymous 5g application public chain initiated by the 5g global alliance of industrial applications, build a global 5g + blockchain data authentication application ecosystem, build a general-purpose, supporting function perfect, high performance, rich application scenarios, easy to use, user experience good public chain system and related infrastructure, and build a 5g combined with data authentication application blockchain ecosystem.",
+          "zh": "NBT的目标是由5G工业应用全球联盟发起的一款完全匿名5G应用公链，打造全球5G+区块链数据确权应用生态体系，构建一个通用、支撑功能完善、性能高、应用场景丰富、易于使用、用户体验好公链体系及相关的基础设施，打造5G结合数据确权应用的区块链生态系统。"
+    },
+    "email": "nbtofficial@163.com",
+    "website": "nbgnbt.com",
+    "whitepaper": "https://github.com/btcdw/generationchain",
+    "state": "NORMAL",
+    "published_on": "2019-10-28",
+    "links": {
+        "blog": "https://weibo.com/NBTNBG"
+      }
+}
