@@ -11,9 +11,11 @@
     "state": "NORMAL",
     "published_on": "2019-10-29",
     "initial_price": {
+        "USDT": "0.14 USDT",
         "ETH": "0.0007 ETH"
     },
     "links": {
-        "blog": "https://m.zhibi.com/news/9b501b37d5b04062bdd54b4f122ac174"
+        "blog": "https://m.zhibi.com/news/9b501b37d5b04062bdd54b4f122ac174",
+        "github": "https://m.zhibi.com/news/9b501b37d5b04062bdd54b4f122ac174"
     }
 }
