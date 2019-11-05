@@ -9,5 +9,9 @@
   "website": "https://www.allpassgo.com/",
   "whitepaper": "https://www.allpassgo.com/doc/whitepaper.pdf",
   "state": "NORMAL",
-  "published_on": "2018-06-06"
+  "published_on": "2018-06-06",
+  "initial_price":{
+        "USD":"0.33 USD",
+  },
+  "links": {}
 }
