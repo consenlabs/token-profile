@@ -1,0 +1,16 @@
+{
+  "symbol": "MOS",
+  "address": "0x1beA3d7496742D0E26B0D9D7C177794e326e85D9",
+  "overview": {
+    "en": "Every consensus is a drving force, The world's first decentralized community autonomy(DAO) issuing digital currency.",
+    "zh": "每一份共识都是一份力量，全球首个DAO去中心化社区自治发行数字货币。"
+  },
+  "email": "mosuser@protonmail.com",
+  "website": "http://mosdao.io",
+  "whitepaper": "http://mosdao.io/mos_white_paper/",
+  "state": "NORMAL",
+  "published_on": "2019-11-01",
+  "links": {
+    "telegram": "https://t.me/mosglobal"
+  }
+}
