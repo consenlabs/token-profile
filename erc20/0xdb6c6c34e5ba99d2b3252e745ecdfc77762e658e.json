@@ -1,0 +1,15 @@
+{
+    "symbol": "FB",
+    "address": "0xdb6c6c34e5ba99d2b3252e745ecdfc77762e658e",
+    "overview":{
+          "en": "FB is a functional digital token which plays an essential role of the extension of platform functions, FB can be applied on Fly-Ex platform and the realization of various rights and returns of ecological value.",
+          "zh": "FB是是在飞币数字资产交易平台上通行的功能性Token，是平台功能的拓展、多项权益的实现和生态价值回报的重要组成部分。"
+    },
+    "email": "flyex_help@163.com",
+    "website": "http://flyex.io/",
+    "state": "NORMAL",
+    "published_on": "2019-10-28",
+    "links": {
+        "blog": "https://flyex.zendesk.com/hc/zh-cn"
+      }
+}
