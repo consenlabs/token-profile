@@ -1,0 +1,19 @@
+﻿{
+    "symbol": "CHGB",
+    "address": "0xEfce492812BD6831E1F303F32d6e404C0C0104dB",
+    "overview": {
+        "en": "China treasure (CHGB) is a value sharing ecological platform based on the cultural industry. It adheres to the principle of taking users as the center, combining blockchain technology with Tong Zheng economic theory, to build a multi role social interaction trading ecosystem, and realize a win-win business model of technical supporters, professional service providers, product providers and consumers. The important significance of the establishment of the Chinese treasure project is to realize the goal of the smooth return of national treasure and the great rejuvenation of Chinese culture through the bottom of the blockchain and the efforts of all.",
+        "zh": "中华瑰宝(CHGB)是一个基于文化产业的价值共享生态平台，秉承以用户为中心,以区块链技术与通证经济理论相结合，打造多角色社交互动的交易生态系统,实现技术支持者、专业服务者、产品提供者、消费者多方共赢的商业模式。中华瑰宝项目成立的重要意义，是希望通过区块链底层,聚合众人之力，实现国宝顺利回国的目标，实现中华文化的伟大复兴。"
+    },
+    "email": "940189487@qq.com",
+    "website": "http://chgb.online/",
+    "whitepaper": "http://chgb.online/CHGBWP.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-9-21",
+    "initial_price": {
+        "ETH": "0.0002 ETH"
+    },
+    "links": {
+        "blog": " http://www.qingtingcj.com/fnews/85631.html"
+    }
+}
