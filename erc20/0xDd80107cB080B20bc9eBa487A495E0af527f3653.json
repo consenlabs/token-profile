@@ -1,14 +1,7 @@
 {
   "symbol": "FCB",
   "address": "0xDd80107cB080B20bc9eBa487A495E0af527f3653",
-  "overview":{
-        "en": "FCB mainly cooperates with ETH to issue advance currency to lock members. The currency is named FCB, namely Facebook. In the future, after the approval of Libra regulatory documents, FCB will exchange 1:1 with FCB."
-  },
-  "website": "https://www.facebook.com/",
-  "state": "NORMAL",
   "initial_price":{
-        "ETH":"0.00572702577 ETH",
         "USD":"1 USD",
-        "BTC":"0.00012512517 BTC"
   }
 }
