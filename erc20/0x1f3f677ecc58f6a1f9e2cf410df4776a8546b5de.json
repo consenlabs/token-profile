@@ -1,0 +1,22 @@
+{
+  "symbol": "VNDC",
+  "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+  "overview":{
+        "en": "VNDC is a stable coin developed by VNDC Alliance and is created for Vietnamese Trader community only",
+  },
+  "email": "tech@vndc.io",
+  "website": "https://vndc.io/",
+  "whitepaper": "https://dashboard.vndc.io/documents/VNDC-Whitepaper-Vietnamese-v2.0.pdf",
+  "published_on": "2018-07-31",
+  "initial_price":{
+        "USD":"0.00004299 USD"
+  },
+  "links": {
+    "blog": "https://vndc.io/posts",
+    "twitter": "https://twitter.com/vndcstable",
+    "telegram": "https://t.me/vndcstablecoin",
+    "github": "https://github.com/yndc",
+    "facebook": "https://www.facebook.com/vndc.io",
+    "medium": "https://medium.com/vndc-ltd"
+  }
+}
