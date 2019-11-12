@@ -1,0 +1,28 @@
+{
+  "symbol": "CT",
+  "address": "0x3Fa7807FF5a1C70699C912b66413f358AaDeaA75",
+  "overview":{
+        "en": "cell chain",
+        "zh": "医链宝"
+  },
+  "email": "Email",
+  "website": "http://ct.bitshock.io/",
+  "whitepaper": "http://ct.bitshock.io/article.html",
+  "state": "NORMAL",
+  "published_on": "2010-11-04",
+  "initial_price":{
+        "ETH":"0.00539374 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00001145 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/consenlabs",
+    "twitter": "https://twitter.com/ConsenLabs",
+    "telegram": "https://t.me/Cell_Chain",
+    "github": "https://github.com/consenlabs",
+    "facebook": "https://www.facebook.com/imToken.consenlabs",
+    "reddit": "https://www.reddit.com/r/imToken/",
+    "slack": "https://imtoken.slack.com",
+    "medium": "https://medium.com/imtoken"
+  }
+}
