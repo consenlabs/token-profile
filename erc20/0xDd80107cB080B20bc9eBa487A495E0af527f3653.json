@@ -1,0 +1,15 @@
+{
+  "symbol": "FCB",
+  "address": "0xDd80107cB080B20bc9eBa487A495E0af527f3653",
+  "overview":{
+        "en": "Anchor currency"
+  },
+  "email": "Email",
+  "state": "NORMAL",
+  "initial_price":{
+        "USD":"1 USD"
+  },
+  "links": {
+    "facebook": "facebook"
+  }
+} 
