@@ -2,23 +2,20 @@
    "symbol":"MEOW",
    "address":"0x4ed4ddd7981e347b673f697dc821965a3eb64b9c",
    "overview":{
-      "en":"Mr. Whiskers intends to use the World Domination MEOW Token and its software ecosystem to introduce a number of technologies and platforms each using his Proof of MEOW™ consensus mechanism, redefining and elegantly resolving the older and lesser known Egyptian Pharaoh Kitty Problem."
+      "en":"Mr. Whiskers intends to use the World Domination MEOW Token and its software ecosystem to introduce a number of technologies and platforms each using his Proof of MEOW consensus mechanism, redefining and elegantly resolving the older and lesser known Egyptian Pharaoh Kitty Problem.",
+      "zh":"Whiskers先生打算使用World Domination MEOW令牌及其软件生态系统，通过他的MEOW证明共识机制引入各种技术和平台，重新定义和优雅地解决较早和鲜为人知的埃及法老王小猫问题。, 威威先生打算用统治世界喵令牌和软件生态系统，引进了一批各用他喵的共识机制证明的技术和平台，重新定义和优雅的解决老年人和不太知名的埃及法老Kitty的问题。"
    },
-   "email":"mrwhiskers at compuglobalhypermegacorp dot com",
+   "email":"mrwhiskers@compuglobalhypermegacorp.com",
    "website":"https://compuglobalhypermegacorp.com/",
-   "whitepaper":"https://compuglobalhypermegacorp.com/wp-content/uploads/2019/09/Compu%E2%84%A2Global%E2%84%A2Hyper%E2%84%A2Mega%E2%84%A2Corp%E2%84%A2-Mr.-Whiskers-Proof-of-MEOW%E2%84%A2.pdf",
    "state":"NORMAL",
    "published_on":"2019-08-08",
    "initial_price":{
-      "ETH":"0.666 ETH",
-      "USD":"0.666 USD",
-      "BTC":"0.666 BTC"
+      "USD":"$0.66 USD"
    },
    "links":{
       "blog":"https://www.compuglobalhypermegacorp.com/about/",
       "twitter":"https://twitter.com/MrWhiskersTM",
-      "linkedin":"https://linkedin.com/in/lordwhiskers/",
-      "instagram":"https://www.instagram.com/compuglobalhypermegacorp/",
-      "github":"https://github.com/compuglobalhypermegacorp"
+      "github":"https://github.com/compuglobalhypermegacorp",
+      "instagram":"https://www.instagram.com/compuglobalhypermegacorp/"
    }
 }
