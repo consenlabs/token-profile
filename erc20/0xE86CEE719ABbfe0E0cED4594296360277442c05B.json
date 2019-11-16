@@ -1,0 +1,21 @@
+{
+  "symbol": "CLNC",
+  "address": "0xE86CEE719ABbfe0E0cED4594296360277442c05B",
+  "overview":{
+        "en": "Cullinan Coin aims to promote diamonds as a more popular new asset by offering a transparent and open online two-sided marketplace that matches buyers and sellers, making diamond trading as easy and convenient as buying and selling other traditional assets such as gold, currencies or stocks.",
+        "zh": "Cullinan Coin以推动钻石成为更普及的新型资产为目标，提供透明开放的网上双边市场，配对买家和卖家，让钻石交易像买卖黄金、货币或股票等其他传统资产一样轻松、方便。"
+  },
+  "email": "johnwillion78@gmail.com",
+  "website": "http://www.clgkt.cn",
+  "whitepaper": "http://www.clgkt.cn/custom2469404.html",
+  "state": "NORMAL",
+  "published_on": "2019-11-16",
+  "initial_price":{
+        "ETH":"0.005 ETH",
+        "USD":"0.93235 USD",
+        "BTC":"0.00010659 BTC"
+  },
+  "links": {
+    "weibo": "https://weibo.com/u/5512857880",
+  }
+}
