@@ -4,7 +4,7 @@
   "overview":{
         "en": "Libra is a computing coin issued by Weitao capital. It is a distributed asset interaction network supported by distributed bitcoin mine computing power. Libra directly anchors BTC computing power and enjoys the BTC daily dividend mechanism of holding money is mining for a long time.",
         "zh": "LIBRA是伟涛资本发行的算力币，是以分布式比特币矿场算力为底层资产支撑的分布式资产交互网络。LIBRA直接锚定BTC算力，长期享“持币即挖矿”的BTC每日分红机制。"
-  },
+			},
   "email": "philip@mypalmtech.cn",
   "website": "https://www.mypalmcloud.com/",
   "state": "NORMAL",
