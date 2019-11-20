@@ -1,0 +1,18 @@
+{
+  "symbol": "AMC",
+  "address": "0x9e5A64943f9F48463f07cC0578bBF9E2e67F0F61",
+  "overview": {
+    "en": "AMC aims to build an efficient, stable and anonymous digital asset blockchain.",
+    "zh": "AMC旨在建立一个高效，稳定和匿名的数字资产区块链。"
+  },
+  "email": "andy.wz.zhang@gmail.com",
+  "website": "http://www.amcoin.ltd",
+  "whitepaper": "http://www.amcoin.ltd",
+  "state": "NORMAL",
+  "published_on": "2019-10-23",
+  "links": {
+    "blog":"https://medium.com/@rogerzaxby",
+    "twitter":"https://twitter.com/am_coin",
+    "facebook":"https://www.facebook.com/AMC-102639214522955"
+  }
+}
