@@ -1,0 +1,25 @@
+{
+  "symbol": "WON",
+  "address": "0xbe68b4645ab798ed4db88192a444898ff4fda5ae",
+  "overview":{
+        "en": "To be use as Payment, as far as the currency is concerned.",
+        "zh": ""
+  },
+  "email": "info@wonproject.co",
+  "website": "https://wonproject.co/",
+  "whitepaper": "https://wonproject.co/wp-content/uploads/2019/10/Whitepaper_WON-PROJECT.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-10-20",
+  "initial_price":{
+        "ETH":"0.00022 ETH",
+        "USD":"0.04 USD",
+        "BTC":"0.0000048 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/@woncoinproject",
+    "twitter": "https://twitter.com/wonprojectPH",
+    "telegram": "https://t.me/joinchat/Pu7mGRbwbLBmvmOgKpkEzw",
+    "github": "https://github.com/WONProject",
+    "facebook": "https://www.facebook.com/wonprojectofficial/"
+  }
+}
