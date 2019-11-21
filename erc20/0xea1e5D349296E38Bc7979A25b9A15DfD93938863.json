@@ -1,0 +1,17 @@
+{
+  "symbol": "XDC",
+  "address": "0xea1e5D349296E38Bc7979A25b9A15DfD93938863",
+  "overview":{
+        "en": "Bit-shield is a community driven project focusing on the global cryptocurrency secondary market. The core business includes: crypto social trading, quantitative funds investment, and finance. In addition to its core business functions, Bit-Shield also provides real-time price, news, trading data, rating, ranking, trading strategies, and more.The platform integrates the crypto funds and trading team resources ,ensuring the authenticity and the trasprency of transaction data，providing users with a better investment strategy .Bit-shield is committed to creating a recreational social trading platform in the crypto space, on the premise of ensuring the security and convenience of follow trading, it integrates games, sports, live show,social platforms Which aims to make it easier and funnier making money on the platform.XDC is a decentralized cryptocurrency issued by Bit-Shield based on ERC-20 public chain, XDC is regarded as the negotiable certificate of the Bit-Shield platform and it is the cornerstone of our community governance. It adopts the "behavior is mining" mechanism to allocate most XDCs to platform contributors while at the same time, XDC holders share various rights to community governance. The total supply of XDC is permanently set at 1 billion XDC. ",
+        "zh": "雪道跟单是个为全球加密货币投资者提供实时行情、新闻资讯、实盘数据、评级排行、交易策略、跟单交易以及量化基金投融资等服务的社区。雪道社区集合了加密基金、操盘手和投资者三方力量，可实现资源的快速、高效匹配，并通过基金和操盘手的实盘交易，保证交易数据的真实性和透明性，方便投资者做投资判断。雪道致力于打造数字货币领域的泛娱乐社交交易平台，在保障跟发单交易安全便利的前提下，融入游戏、竞技、社交、直播等泛娱乐手段，让用户在社交中交易，在交易中社交，在挣钱中游戏，在游戏中挣钱，真正让挣钱这件事情变得轻松又好玩。XDC（XueDaoCoin，简称“XDC”）是雪道基于以太坊公链发行的去中心化的区块链数字资产，是雪道平台可流通的加密数字权益证明和社区治理的基石，采用贡献证明的共识 机制，将大部分XDC分配给平台贡献者。同时，XDC持有者共同享有社区治理的权利，如参与决策权、选举和监督权、使用权等。XDC发行总量为10亿，总量恒定，不可更改。"
+
+  },
+  "email": "bit-shield@xuedaowang.com",
+  "website": "https://www.xuedaowang.com/home",
+  "whitepaper": "https://xuedaowang.oss-cn-shenzhen.aliyuncs.com/materials/xd_white_paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-05-25",
+  "links": {
+    "blog": "https://weibo.com/p/1006067209475040/home?from=page_100606&mod=TAB&is_all=1#place"
+  }
+}
