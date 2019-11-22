@@ -1,0 +1,18 @@
+{
+  "symbol": "DANT",
+  "address": "0x6a39d7E18CBCd49E7D2De8CeEf392C3757427607",
+  "overview":{
+        "en": "DNAT is a new cryptocurrency based on POC (proof of capacity). Its main feature is to use hard disk as a consensus participant, reduce the consumption of encrypted currency on power resources, reduce the threshold of participation, make its production mode more decentralized, and more secure and reliable, so that everyone can participate in the exploitation of encrypted currency, and generate credit and value through mathematical algorithm and distributed exploitation.",
+        "zh": "DNAT是基于POC（Proof Of Capacity）的新型加密货币。其主要的特点是使用硬盘作为共识的参与者，降低加密货币对电力资源的消耗，降低参与门槛，让其生产方式更趋向去中心化方式，并更加安全可信，让人人都能参与到加密货币的开采，通过数学算法以及分布式开采产生信用和价值."
+  },
+  "website": "http://www.dnat.io/",
+  "whitepaper": "http://www.dnat.io/pdf/dnat_white_paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-09-20",
+  "initial_price":{
+        "ETH":"0.00018 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/dnat2019"
+  }
+}
