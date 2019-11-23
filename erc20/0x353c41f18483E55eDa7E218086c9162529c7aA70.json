@@ -1,0 +1,17 @@
+{
+    "symbol": "LOT",
+    "address": "0x353c41f18483E55eDa7E218086c9162529c7aA70",
+    "overview":{
+          "en": "Lotty chain is a state-level low-level lottery system platform developed by the top team in the industry based on the block chain framework. It is also the world's first online and offline blockchain lottery platform. With outstanding blockchain technology and leading industry resources, the team innovates the lottery industry with decentralized thinking, aiming to develop Lotty chain lottery system into the standard of the bottom system of the world lottery. The vision of the team is to adapt to the development of The Times and become the world's leading provider of lottery solutions in the era of blockchain.",
+          "zh": "Lotty洛蒂链是由行业顶尖团队基于区块链构架研发的国家级底层福彩系统平台，也是全球首家线上线下结合的区块链福彩平台。团队凭借卓越的区块链技术及领先的行业资源，用去中心化的思维革新福彩行业，旨在将Lotty洛蒂链福彩系统发展成为世界福彩底层系统的标准。团队的愿景是顺应时代发展，成为区块链时代全球领先的福彩解决方案提供商。"
+    },
+    "email": "postmaster@lottychain.com",
+    "website": "http://www.lottychain.com",
+    "whitepaper": "http://www.lottychain.com/templet/qukuai/img/lotwhitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-11-23",
+    "links": {
+        "blog": "https://weibo.com/LOTOfficialGroup",
+        "telegram": "https://t.me/LOTOfficialGroup"
+      }
+}
