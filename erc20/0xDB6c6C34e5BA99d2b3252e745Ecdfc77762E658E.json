@@ -1,0 +1,19 @@
+{
+  "symbol": "FB",
+  "address": "0xdb6c6c34e5ba99d2b3252e745ecdfc77762e658e",
+  "overview": {
+    "en": "FB is a functional token commonly used on the digital asset trading platform of flying coin, which is an important part of the expansion of platform functions, the realization of multiple rights and interests and the return of ecological value.",
+    "zh": "FB是在飞币数字资产交易平台上通行的功能性Token，是平台功能的拓展、多项权益的实现和生态价值回报的重要组成部分."
+  },
+  "email": "flyex_help@163.com",
+  "website": "http://www.flyex.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-10-28",
+  "initial_price":{
+        "USD":"0.005 USD"
+  },
+  "links": {
+    "telegram": "https://0.plus/flyex88"
+  }
+}
