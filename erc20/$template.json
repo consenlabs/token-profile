@@ -1,28 +1,19 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
-  "overview":{
-        "en": "Token Description.",
-        "zh": ""
+  "symbol": "FB",
+  "address": "0xdb6c6c34e5ba99d2b3252e745ecdfc77762e658e",
+  "overview": {
+    "en": "FB is a functional token commonly used on the digital asset trading platform of flying coin, which is an important part of the expansion of platform functions, the realization of multiple rights and interests and the return of ecological value.",
+    "zh": "FB是在飞币数字资产交易平台上通行的功能性Token，是平台功能的拓展、多项权益的实现和生态价值回报的重要组成部分."
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "email": "flyex_help@163.com",
+  "website": "http://www.flyex.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-10-28",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "USD":"0.005 USD"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "telegram": "https://0.plus/flyex88"
   }
 }
