@@ -1,0 +1,28 @@
+{
+	"symbol": "BEFX",
+	"address": "0xb91c2a2b953d72f3ef890490669a0a41b0add5f7",
+	"overview": {
+		"en": 	"Belifex Blockchain Solutions would build its own ecosystem. Unlike other blockchains that have one focus of mass adoption. Belifex will commit itself to be a
+			revolutionary blockchain and create its own ecosystem. This involves a social media
+			blockchain based platform with social interaction that will use a rewarding system. Advertisements are for most consumers in today’s ecosystem faced with dozens of
+			options for any given purchase. All these choices make it hard for consumers to make
+			a decision; it often comes down to who can make the biggest, most memorable
+			impression. As a result, advertisements are a huge cost for big firms or the common
+			man. Belifex will introduce a low-cost advertisement on its ecosystem. Ecosystems of
+			course can’t be without a trading platform, marketplaces, payment gateways for
+			merchants around the globe."
+		
+	},
+	"email": "jimbolo1983@belifex.com",
+	"website": "https://belifex.com",
+	"state": "NORMAL",
+	"published_on": "2019-06-12",
+	"whitepaper": "https://belifex.com/assets/Belifex%20official%20whitepaper%20BEFX.pdf",
+	"initial_price": {
+		"BTC": "0.00000018BTC"
+		"ETH": "0.00001000ETH"
+	},
+	"links": {
+		"website": "https://belifex.com"
+	}
+}
