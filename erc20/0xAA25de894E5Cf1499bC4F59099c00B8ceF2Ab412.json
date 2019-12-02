@@ -5,24 +5,11 @@
         "en": "Next generation blockchain underlying infrastructure.",
         "zh": "下一代区块链底层基础设施。"
   },
-  "email": "",
   "website": "http://wojunetwork.com/",
   "whitepaper": "http://wojunetwork.com/%E6%B2%83%E8%81%9A%E7%BD%91%E7%BB%9C%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "LOCKED",
   "published_on": "2019-11-16",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"1 USD",
-        "BTC":"0.00004137 BTC"
-  },
-  "links": {
-    "blog": "",
-    "twitter": "",
-    "telegram": "",
-    "github": "",
-    "facebook": "",
-    "reddit": "",
-    "slack": "",
-    "medium": ""
+        "USD":"1 USD"
   }
 }
