@@ -1,0 +1,23 @@
+{
+  "symbol": "SPT",
+  "address": "0x437CB37E003F42aE46499f99C8339140556578C5",
+  "overview":{
+        "en": "",
+        "zh": "一款供应链结算体系,是一条为去中心化应用 服务的服务链。以SPT钱包为载体，它将重点解决 DAPP 应 用开发的门槛、性能和安全问题。Super Player Token 即超 级玩家通证,简称SPT,SPT是SPT钱包原生通证，完成用户体 系和UGC机制，吸引更多的内容贡献者加入到整个生态体系 中来，帮助整个社区生态贡献和完善具有高价值的内容和信息。"
+  },
+  "email": "support@sptoken.in",
+  "website": "https://sptoken.in/",
+  "whitepaper": "http://sptoken.in/SPT.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-12-02",
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
