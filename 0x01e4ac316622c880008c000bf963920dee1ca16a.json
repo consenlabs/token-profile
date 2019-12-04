@@ -1,0 +1,19 @@
+{
+    "symbol": "BTN",
+    "address": "0x01e4ac316622c880008c000bf963920dee1ca16a",
+    "overview": {
+        "en": "BitNews Symbol",
+        "zh": "比特快讯生态代币"
+    },
+    "email": "support@bitnews.top",
+    "website": "https://www.bitnews.top",
+    "state": "NORMAL",
+    "published_on": "2019-12-01",
+    "initial_price": {
+        "USD": "$0.0015 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/BitNews",
+        "github": "https://github.com/bitnews/token",
+    }
+}
