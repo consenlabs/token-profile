@@ -1,0 +1,17 @@
+{
+   {"en": "WMT, is a digital asset issued by Singapore WFA FOUNDATION LTD. Based on blockchain technology and de-centralized social value concept, it aims to build a secure and trustworthy peer-to-peer communication and interactive tokenized intelligent community. Finally, the consumption rewards token is used to finally realize consumption. Data sovereignty returns to the new state of the social economy of consumers' social + e-commerce.",
+    "zh": "WMT, 是由新加坡WFA FOUNDATION LTD 发⾏的通证型数字资产。基于区块链技术以及去中⼼化社交价值理念，旨在建⽴⼀个安全可信任的点对点沟通和互动的通证化智能社群，透过消费奖励通证的⽅式，最终实现让消费数据主权回归消费者的社交+电商的社群经济新⽣态。"
+  },
+  "email": "jeffrey.zhou@me.com",
+  "website": "http://www.wfa.one",
+  "whitepaper": "http://www.wfa.one",
+  "state": "NORMAL",
+  "published_on": "2019-11-30",
+  "initial_price":{
+        "ETH":"0.0000475 ETH",
+        "USD":"0.007 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/WMT14604967",
+  }
+}
