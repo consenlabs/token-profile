@@ -1,0 +1,22 @@
+{
+    "symbol": "BCASH",
+    "account_name": "bcashonecoin",
+    "overview": {
+        "en": "Bcash is a bet game built on the EOS chain, aiming to create a widely available online bet platform.",
+        "zh": "Bcash是建立EOS公链上的竞猜类游戏项目，旨在打造一个可以广泛参与的在线竞猜平台。"
+    },
+    "email": "billingcash2019@gmail.com",
+    "website": "http://www.bcash.one/",
+    "whitepaper": "http://www.bcash.one/Bcash_White_en.pdf",
+    "published_on": "2019-12-01",
+    "initial_price": {
+        
+    },
+    "links": {
+        "steemit": "",
+        "twitter": "",
+        "telegram": "",
+        "github": "",
+        "reddit": ""
+    }
+}
