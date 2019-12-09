@@ -1,0 +1,26 @@
+{
+  "symbol": "FTH",
+  "address": "0xb414f8ec2d14c64f37.jsonb1559cbe43746284514596",
+  "overview":{
+        "en": "FITCASH FTH is the crypto currency of the sports industry. We'll implement common payment methods, such as buying supplements, sports equipment, academic fees where the capital goes with much more volume, the big club executive finance sector, with Fitcash as the currency for athletes' sponsorship deals.",
+        "zh": "FITCASH FTH 是体育行业的加密货币。我们将采用常见的付款方式，例如购买补充品，运动器材，资本大量使用的学费，大型俱乐部的行政财务部门，以及Fitcash作为运动员赞助交易的货币。"
+  },
+  "email": "fitcash.suport@gmail.com",
+  "website": "https://www.fitcash.co/",
+  "whitepaper": "https://9863a55f-d222-4a65-a43d-d2a1b86ef5dc.filesusr.com/ugd/1d848a_4e40e7d770c74fcf9f440d3529ecf1a4.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-03-10",
+  "initial_price":{
+        "ETH":"0,00004823 ETH",
+        "USD":"0,03 USD",
+        "BTC":"0,00000414 BTC"
+  },
+  "links": {
+    "blog": "https://www.fitcash.co/blog",
+    "twitter": "https://twitter.com/FITCASHOFICIAL",
+    "telegram": "https://t.me/joinchat/MXRX1RCUTVLNprSPwnakww",
+    "github": "https://github.com/FITCASH/FITCASH",
+    "facebook": "https://web.facebook.com/fit.cash.71",
+    "https://www.reddit.com/user/FITCASH/"
+  }
+}
