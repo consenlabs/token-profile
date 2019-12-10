@@ -1,0 +1,15 @@
+﻿{
+    "symbol": "DOTAEC",
+    "address": "0xea84f0bccecc47828e540a263a4d45680a0a36fb",
+    "overview": {
+        "en": "DOTA Element is a global e-sports ecosystem. Based on blockchain technologies, DOTA EC is now in the way of integrating e-sports resources all around the world, overturning the e-sports history and re-building a governance-shared events-centralized e-sports ecosystem.DOTA protocol is a public chain in DOTA Element ecosystem, providing rights guarantee and protection to the e-sport games, event organizers, executors, clubs, players and brands in the ecosystem, with high-level trustworthy, safety, concurrency, extensibility and reliability.",
+        "zh": "DOTA Element 是一个基于区块链技术的全球电竞生态体系，能够整合全球电竞资源，颠覆历史，重新构建一个以赛事共治为核心的电竞生态体系。DOTA 协议是 DOTAChain 生态体系中的一条公链，它具有可行、安全、高并发、高扩展、高可靠性的特点，为生态体系中的电竞游戏、赛事方、执行方、俱乐部、选手、观众、品牌等提供权益保障。"
+    },
+    "website": "http://DOTAElement.vip",
+    "whitepaper": "http://DOTAElement.vip/static/pdf/DOTAElement_Whitepaper_V1.pdf",
+    "published_on": "2019-07-03",
+    "links": {
+        "twitter": "https://twitter.com/DOTAElement",
+        "telegram": "https://t.me/joinchat/FU6caxKB6EvCjSE2I0hCXQ"
+    }
+}
