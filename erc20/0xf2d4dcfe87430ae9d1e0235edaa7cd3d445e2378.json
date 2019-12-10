@@ -1,0 +1,20 @@
+{
+  "symbol": "OPC",
+  "address": "0xf2d4dcfe87430ae9d1e0235edaa7cd3d445e2378",
+  "overview":{
+        "en": "OPC The oil convention chain takes the block chain as the underlying technology, establishes the bridge currency, and realizes the diversion of commodities. Finally, it achieves refined manufacturing, i.e. C2B type planned production (different from "planned economy"), realizes that consumers decide the production of energy and chemical plants, and reduces resource waste.",
+        "zh": "OPC石油公约链以区块链为底层技术，建立桥梁货币，实现商品的导流。最终达到精细化的制造，即C2B型的计划性生产（区别于“计划经济”），实现由消费者来决定能源、化工厂的生产，减少资源浪费。"
+  },
+  "email": "service@opchain.org",
+  "website": "http://www.opchain.org/",
+  "whitepaper": "http://www.opchain.org/files/OPC%20Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-10-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+  }
+}
