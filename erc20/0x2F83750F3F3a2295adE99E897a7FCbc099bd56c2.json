@@ -1,0 +1,21 @@
+{
+    "symbol": "AICT",
+    "address": "0x2F83750F3F3a2295adE99E897a7FCbc099bd56c2",
+    "overview": {
+			"en": "AIC is an open, Shared and efficient blockchain platform that serves the ai industry. It is committed to sharing artificial intelligence and connecting different artificial intelligence services through blockchain, as well as how to build a bridge between the blockchain intelligent world and the artificial intelligence world, so as to benefit users.",
+			"zh": "AIC专门服务于人工智能产业，是一个开放、共享、高效的区块链平台。致力于共享人工智能及通过区块链让不同人工智能服务连接到一起，以及如何搭建区块链智能合世界和人工智能世界之间的桥梁，让用户获益。"
+		},
+    "email": "info@aict.one",
+    "website": "https://www.aict.one/",
+    "whitepaper": "https://www.aict.one/aic-whitepaper-zh.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-07-08",
+    "initial_price": {
+			"ETH": "0.00083333 ETH"
+		},
+    "links": {
+			"blog": "https://weibo.com/aictone",
+			"telegram": "https://telegram.me/aic_official",
+			"twitter": "https://twitter.com/Aict_one"
+    }
+}
