@@ -1,0 +1,20 @@
+﻿{
+    "symbol": "DOTAEC",
+    "address": "0xeA84f0bCCecc47828E540A263a4D45680A0a36FB",
+    "overview": {
+        "en": "Dota element coin is the first cryptocurrency with real purpose for online players. Can earn and trade dota2 accessories online at the most popular collection lottery community website."
+        "zh": "DOTA ELEMENT COIN是在线玩家第一个具有真正目的的加密货币。能在最受欢迎的珍藏抽奖社区网站在线赚取和交易DOTA2饰品。"
+    },
+    "email": "bane097@163.com",
+    "website": "https://DOTAelement.vip",
+    "whitepaper": "https://DOTAelement.vip/DOTA ELEMENT CN.pdf",
+    "published_on": "2019-06-01",
+    "initial_price": {
+        "ETH": "0.000025 ETH",
+        "BTC": "0.000002 BTC"
+    },
+    "links": {
+        "telegram": "https://t.me/DOTAElement",
+        "facebook": "https://www.facebook.com/DOTAEC"
+    }
+}
