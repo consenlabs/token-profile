@@ -1,0 +1,28 @@
+{
+  "symbol": "Token GD",
+  "address": "0x72112ee2f2cfb1f8494e78e0c3166a77fb6a2d24",
+  "overview":{
+    "en": "Galalink is a new open and decentralized network driven by blockchain technology.GD is the token of Galalink, it has 210000000. GD is POW.  Galalink advocates users to share network resources, encourages everyone to build a peer-to-peer network for everyone. Galalink try to setup the DEFI application for cryptocurrency and gold, stocks.",
+    "zh": "Galalink是一个新型的开放的基于区块链技术的网络，GD是Galalink的代币，其总量210000000。GD共识机制是POW。Galalink鼓励用户共享网络资源，从而建立一个点对点的网络。同时,Galalink致力于建立一个DEFI聚合应用平台，使GD等加密货币可以与黄金股票等转换。"
+  },
+  "email": "Email",
+  "website": "https://galalink.org/",
+  "whitepaper": "https://galalink.org/download/galalink.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-09-15",
+  "initial_price":{
+    "ETH":"0.005 ETH",
+    "USD":"1 USD",
+    "BTC":"0.00013948 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
