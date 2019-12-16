@@ -1,0 +1,21 @@
+{
+  "symbol": "BSX",
+  "address": "0x7Ce00DB61654271C3cE45099b654508a65d16945",
+  "overview":{
+        "en": "BSX is a commercial team composed by MWF foundation in 2014 and integrated with operation and technology. The BSX team has been committed to the layout and investment of the block chain industry, and will launch the entertainment and sports ecological digital asset BSX (bo sheng hui xin) for the global market in 2019 to solve the problems of transmission speed, security and public trust in the ecosystem.",
+        "zh": "BSX是由mwf基金会于2014年组件的及运营与技术一体的商业团队，BSX团队一直致力于区块链产业的布局以及投资，并2019年推出用于全球市场的娱乐竞技生态数字资产bsx(bo sheng hui xin)，解决生态系统内传输速度、安全公信等问题。"
+  },
+  "email": "2010104726@qq.com",
+  "website": "http://www.boshenghx.com",
+  "whitepaper": "http://www.boshenghx.com/nd.jsp?id=4#_np=106_557",
+  "state": "NORMAL",
+  "published_on": "2019-12-12",
+  "initial_price":{
+        "ETH":"0.0007 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.000014 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/blockchain?s=20"
+  }
+}
