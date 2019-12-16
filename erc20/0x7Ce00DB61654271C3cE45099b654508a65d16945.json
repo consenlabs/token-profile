@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2019-12-12",
   "initial_price":{
-        "ETH":"0.0007 ETH",
-        "USD":"0.1 USD",
-        "BTC":"0.000014 BTC"
+        "ETH":"0.001 ETH",
+        "USD":"0.14 USD",
+        "BTC":"0.00002 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/blockchain?s=20"
