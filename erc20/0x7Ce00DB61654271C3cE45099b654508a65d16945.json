@@ -1,0 +1,21 @@
+{
+  "symbol": "BSX",
+  "address": "0x7Ce00DB61654271C3cE45099b654508a65d16945",
+  "overview":{
+        "en": "BSX（BO SHENG HUI XIN） All the development projects are undertaken by BSX Gaming team. BSX mainly aims at building a borderless e-sports service platform. BSX Token will build e-sports identity authentication system, information service system, payment and trading system, credit guarantee system, points system and other platform services and dealmaking services. The current esports market is very chaotic, and we hope to use the features of the block chain to perfectly integrate the BSX platform, which will create a new entertainment competition ecosystem.",
+        "zh": "BSX项目全称BO SHENG HUI XIN，由BSX Gaming 团队承接所有开发工程，BSX主要为打造无国界电子竞技服务平台，通过运用区块链的技术特性，发行BSX Token，并平台本身服务相结合。BSX Token 将打造电子竞技身份认证系统、信息服务系统、支付与交易系统、 信用担保系统、积分系统等平台服务和交易撮合服务。目前的电竞市场非常混乱，我们希望利用区块链的特性将BSX平台完美融入，将创造一个新的娱乐竞技生态系统。"
+  },
+  "email": "2010104726@qq.com",
+  "website": "http://www.boshenghx.com",
+  "whitepaper": "http://www.boshenghx.com/nd.jsp?id=11#_np=104_542",
+  "state": "NORMAL",
+  "published_on": "2019-12-12",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.14 USD",
+        "BTC":"0.00002 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/blockchain?s=20"
+  }
+}
