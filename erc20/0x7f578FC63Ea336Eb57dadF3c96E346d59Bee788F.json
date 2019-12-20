@@ -1,0 +1,25 @@
+{
+  "symbol": " CFC",
+  "address": "0x7f578FC63Ea336Eb57dadF3c96E346d59Bee788F",
+  "overview": {
+	  "en": "ChainFarm.",
+	  "zh": ""
+},
+  "email": "leyinian0@gmail.com",
+  "website": "https://www.chainfarm.org/",
+  "whitepaper": "http://www.chainfarm.org/bps/ChainFarm-Whitepaper-v1.0.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-11-23",
+  "initial_price": {
+	  "UDST": "0.02 USDT",
+	  "ETH": "0.00014184 ETH"
+},
+"links": {
+	"telegram": "https://t.me/ChainFarm888",
+	"github": "https://github.com/leyinian/token-profile",
+	"blog": "http://weibo.com/chainfarm",
+	"twitter": "https://twitter.com/chainfarm"
+  }
+}
+
+
