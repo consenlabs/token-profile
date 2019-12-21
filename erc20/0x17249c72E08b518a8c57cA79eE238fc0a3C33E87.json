@@ -1,0 +1,13 @@
+{
+  "symbol": "MT",
+  "address": "0x17249c72E08b518a8c57cA79eE238fc0a3C33E87",
+  "overview": {
+        "en": "Based on the blockchain technology, MOS builds a new IoT data ecological platform that realizes soft-hard interconnection, multi-chain network integration, data sharing, cross-domain query verification and value transfer.",
+        "zh": "MOS以区块链技术为基础，搭建一个实现软硬互联、多链网融合、数据分享、跨域查询验证和价值传递的崭新一代物联网数据生态平台为使命。"
+  },
+  "email": "moscoin@gmail.com",
+  "website": "http://mos.wiki/",
+  "whitepaper": "https://mos.wiki/MOS%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-12-16"
+} 
