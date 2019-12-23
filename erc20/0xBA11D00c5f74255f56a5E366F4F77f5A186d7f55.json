@@ -1,0 +1,23 @@
+{
+  "symbol": "BAND",
+  "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+  "overview": {
+    "en": "Band Protocol offers a decentralized data oracle by making data readily available to be queried on-chain, using delegated proof of stake (dPoS) to ensure data integrity. It aims to be the go-to data infrastructure layer for Web 3.0 applications by providing decentralized, curated off-chain data to smart contracts through oracles managed by its dPoS consensus mechanism."
+  },
+  "email": "connect@bandprotocol.com",
+  "website": "https://bandprotocol.com/",
+  "whitepaper": "https://bandprotocol.com/whitepaper-3.0.1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09-17",
+  "initial_price": {
+    "USD": "0.47 USD"
+  },
+  "links": {
+    "blog": "https://medium.com/bandprotocol",
+    "medium": "https://medium.com/bandprotocol",
+    "twitter": "https://twitter.com/bandprotocol",
+    "telegram": "https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ",
+    "github": "https://github.com/bandprotocol",
+    "reddit": "https://www.reddit.com/r/bandprotocol"
+  }
+}
