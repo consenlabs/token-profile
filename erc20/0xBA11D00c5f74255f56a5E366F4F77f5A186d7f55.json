@@ -2,7 +2,9 @@
   "symbol": "BAND",
   "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
   "overview": {
-    "en": "Band Protocol offers a decentralized data oracle by making data readily available to be queried on-chain, using delegated proof of stake (dPoS) to ensure data integrity. It aims to be the go-to data infrastructure layer for Web 3.0 applications by providing decentralized, curated off-chain data to smart contracts through oracles managed by its dPoS consensus mechanism."
+    "en": "Band Protocol offers a decentralized data oracle by making data readily available to be queried on-chain, using delegated proof of stake (dPoS) to ensure data integrity. It aims to be the go-to data infrastructure layer for Web 3.0 applications by providing decentralized, curated off-chain data to smart contracts through oracles managed by its dPoS consensus mechanism.",
+    "zh": "Band Protocol是一个用于Web3.0应用程序的去中心化预言机框架。Band Protocol将可信的链下信息同智能合约互联，这些链下信息由经社区管理的预言机数据提供商所提供。经由dPoS经济激励措施来确保数据的安全，只需要一次简单的函数调用，区块链便可以向任何web API进行连接。使用Band Protocol的开发人员，将能简单轻松地构建并管理链下预言机、信誉评分，以及身份管理系统等等。",
+    "kr": "밴드 프로토콜은 탈 중앙화 오라클 서비스이며 데이터 고버넌스 프로토콜 입니다. 밴드는 탈 중앙화 어플리케이션들을 위한 데이터들을 관리하는데 있어서 필요한 틀을 제공합니다. 밴드는 스마트 컨트랙트로 하여금 믿을 수 있는 오프체인 데이터들(가격정보, 이벤트 피드, 신원, API등)에 접근할 수 있도록 해 줌으로써 디앱들에게 포괄적인 유즈 케이스를 만들 수 있게 해줍니다. 밴드 프로토콜은 신원 관리 시스템, 평판 관리, 토큰 발행과 같은 오프체인 오라클들을 위해서 개발된 인프라들을 개선함으로써 안전하고 효과적인 Web 3.0 어플리케이션을 위한 탄탄한 기반을 마련해줍니다."
   },
   "email": "connect@bandprotocol.com",
   "website": "https://bandprotocol.com/",
