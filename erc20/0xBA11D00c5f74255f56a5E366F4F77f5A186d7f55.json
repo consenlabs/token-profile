@@ -6,7 +6,7 @@
   },
   "email": "connect@bandprotocol.com",
   "website": "https://bandprotocol.com/",
-  "whitepaper": "https://bandprotocol.com/whitepaper-3.0.1.pdf",
+  "whitepaper": "https://bandprotocol.com/whitepaper-latest.pdf",
   "state": "NORMAL",
   "published_on": "2018-09-17",
   "initial_price": {
@@ -17,7 +17,6 @@
     "medium": "https://medium.com/bandprotocol",
     "twitter": "https://twitter.com/bandprotocol",
     "telegram": "https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ",
-    "github": "https://github.com/bandprotocol",
-    "reddit": "https://www.reddit.com/r/bandprotocol"
+    "github": "https://github.com/bandprotocol"
   }
 }
