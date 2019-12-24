@@ -1,0 +1,19 @@
+{
+    "symbol": "BPT",
+    "address": "0x2b8Fe63f798D9eA13f0DcC9043407b37C1Af8621",
+    "overview": {
+        "zh": "BlockPlus Incubation Platform是基于区块链技术的创新孵化平台，旨在为传统企业和区块链项目提供低门槛的开发者平台、共享的广告流量入口、轻量级区块链应用接口、分布式数据存储、项目众筹等基础服务。"
+    },
+    "email": "official@blockplus.cc",
+    "website": "http://www.blockplus.cc/",
+    "whitepaper": "http://www.blockplus.cc/qfy-content/uploads/2019/12/99019a011af022d60bdfa43b4304c7c8.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-12-17",
+    "initial_price": {
+        "USDT": "0.1 USDT"
+    }
+    "links": {
+        "chinaweekly": "http://www.chinaweekly.cn/35268.html",
+        "cnii": "http://www.cnii.com.cn/internetnews/2019-12/17/content_2197972.htm"
+    }
+}
