@@ -1,0 +1,15 @@
+{
+  "symbol": "FCO",
+  "address": "freecoinsone",
+  "overview":{
+    "en": "FCO is developed on the EOS public chain and combined with bitcoin deflation economic model.The airdrop will start at 8 o 'clock Beijing time on January 1, 2020, with a total supply of 10 billion, all of which will be mined by users. Initially, the output will be 100FCO per second, and the output rate will be halved for every 1 billion produced.After the start of airdrop, users can participate in mining only through the airdrop collection tool provided by the official website.The team will take FCO as the center to build an ecosystem that integrates games, shopping and trading, and map FCO to the pulbic chain in the future development of the chain.",
+    "zh": "FCO基于EOS公链开发，结合比特币通货紧缩经济模型。将于北京时间2020年1月1日8点开启空投，总量100亿，全部由用户挖矿产出，初始每秒产出100FCO，每产出10亿，产出速度将减半。空投开启后，用户只需要通过官网提供的空投领取工具即可参与挖矿。团队将以FCO为中心，打造集游戏、购物、交易于一体的生态系统，并在未来公链开发中，将FCO映射到公链中。"
+  },
+  "email": "fcbcteam@gmail.com",
+  "website": "https://freecoinsone.com/",
+  "published_on": "2019-12-26",
+  "links": {
+    "twitter": "https://twitter.com/freecoinone?s=09",
+    "telegram": "https://t.me/freecoinone",
+  }
+}
