@@ -1,0 +1,25 @@
+{
+  "symbol": "YAT",
+  "address": "0x5ceb8c7f189e694b326310694ac6df98e5ced66e",
+  "overview":{
+        "en": "Yattaqi or commonly known as YAT is a decentralized currency, this currency uses blockchain technology where users are free to trade with very affordable fees, and of course, safely.",
+  },
+  "email": "contact@yattaqi.com",
+  "website": "https://www.yattaqi.com/",
+  "whitepaper": "https://drive.google.com/file/d/1e9P5MVxBwX6XWpcPgyVZEo4TabmdyXxY/view",
+  "state": "NORMAL",
+  "published_on": "2019-12-27",
+  "initial_price":{
+        "USD":"1 USD",
+  },
+  "links": {
+    "blog": "https://www.yattaqi.com/2019/10/current-price-at-october-8th-2019-0.html",
+    "twitter": "https://twitter.com/yattaqiofficial",
+    "telegram": "https://t.me/yattaqigroup",
+    "github": "https://github.com/YattaqiOfficial",
+    "facebook": "https://www.facebook.com/Yattaqi",
+    "reddit": "https://www.reddit.com/u/yattaqi/",
+    "slack": "https://yattaqi.slack.com",
+    "medium": "https://link.medium.com/J8m7IMxq61"
+  }
+}
