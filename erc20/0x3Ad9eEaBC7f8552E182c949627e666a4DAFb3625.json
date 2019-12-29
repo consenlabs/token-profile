@@ -1,0 +1,12 @@
+﻿{
+    "symbol": "SEC",
+    "address": "0x3Ad9eEaBC7f8552E182c949627e666a4DAFb3625",
+    "overview": {
+        "en": "MATH is a platform currency for Star Exchange",
+        "zh": "MATH是Star交易所的平台币"
+    },
+    "website": "https://www.starex.ceo",
+    "initial_price": {
+        "USD": "0.01 USD"
+    }
+}
