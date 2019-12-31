@@ -1,0 +1,21 @@
+{
+    "symbol": "HLX",
+    "address": "0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
+    "overview": {
+        "en": "HELEX (HLX) Exclusive services for crypto investors worldwide, connecting blockchain to the real world.",
+        "zh": "HELEX（HLX）為全球加密貨幣投資者提供的獨家服務，將區塊鏈連接到現實世界。"
+    },
+    "email": "contact@helex.world",
+    "website": "https://www.helex.world",
+    "state": "NORMAL",
+    "published_on": "2019-03-27",
+    "initial_price": {
+        "USD": "$1 USD"
+    },
+    "links": {
+		"twitter": "https://twitter.com/helexcorp",
+		"telegram": "https://t.me/helexcorp",
+		"linkedin": "https://www.linkedin.com/company/helex-corporation-ltd",
+		"facebook": "https://www.facebook.com/helexcorp",
+    }
+}
