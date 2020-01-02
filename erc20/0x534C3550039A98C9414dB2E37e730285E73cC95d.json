@@ -1,0 +1,17 @@
+{
+  "symbol": "CAS",
+  "address": "0x534C3550039A98C9414dB2E37e730285E73cC95d",
+  "overview":{
+    "en": "CAS is a decentralized blockchain digital asset based on Ethereum, with a constant total supply of 5000 million.",
+    "zh": "CAS是基于Ethereum的去中心化的区块链数字资产，发行总量恒定为50亿枚。"
+  },
+  "email": "info01.callisto@gmail.com",
+  "state": "NORMAL",
+  "published_on": "2020-01-01",
+  "initial_price":{
+    "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://mobile.twitter.com/callist55548707",
+  }
+}
