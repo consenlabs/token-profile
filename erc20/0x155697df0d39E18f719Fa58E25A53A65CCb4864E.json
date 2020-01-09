@@ -1,0 +1,20 @@
+{
+  "symbol": "HMIO",
+  "address": "0x155697df0d39e18f719fa58e25a53a65ccb4864e",
+  "overview":{
+    "en": "MIO World is the world's leading digital asset ecosystem, providing users with decentralized wallet services for digital assets and application-level services.",
+    "zh": "MIO Word是全球领先的数字资产生态平台，为用户提供数字资产去中心化的钱包服务、更低投资门槛的理财服务及应用级的其他各项服务。"
+  },
+  "email": "hmiochain@gmail.com",
+  "website": "https://www.mioworld.io/",
+  "whitepaper": "https://www.mioworld.io/file/MIO_WhitePaper_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-01-09",
+  "initial_price":{
+    "USD":"0.2 USD"
+  },
+  "links": {
+    "github": "https://github.com/Hmiochain/hmio"
+
+  }
+}
