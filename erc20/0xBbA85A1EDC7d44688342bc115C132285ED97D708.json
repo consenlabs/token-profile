@@ -1,0 +1,25 @@
+{
+  "symbol": "UNO",
+  "address": "0xBbA85A1EDC7d44688342bc115C132285ED97D708",
+  "overview":{
+        "en": "UNO is a digital asset in [UNIWORLD]. It is initiated and operated by the Singapore entity UNI Capital. It can be used for mortgage, trading, leasing, etc. through mining output. The total number of UNOs is 21 million, and the daily output is 1.4W. The output of each quarter in the first 3 years has been reduced by 10%, and the output has remained unchanged after 3 years. A total of 21 years can be dug.
+In terms of finance, UNO has received a strategic investment of US $ 5 million from the rising stars of Korea Changli Capital and Singapore Capital, helping to promote the implementation of cross-chain mining and UNIWORLD ecological applications worldwide.
+In fact, UNO is committed to exploring a new cross-chain mining method to solve the waste of existing computing resources and low output efficiency value.",
+        "zh": "UNO是【UNIWORLD】 中的数字资产，由新加坡主体 UNI Capital 发起并运营，经游戏挖矿产出，可用于抵押、交易、租赁等。UNO总量2100万枚，每日产出1.4W枚，前3年内每季度产量减少10%，3年后产量维持不变，总共可挖21年。
+在金融方面，UNO已获得由韩国长理资本、新加坡斯特资本等后起之秀的500万美金战略投资，帮助推进全球范围内跨链挖矿及UNIWORLD生态应用落地。
+其实UNO是致力于探索一种全新的跨链挖矿方式，解决现有算力资源的浪费，产出效率价值低等问题。"
+  },
+  "email": "mail@unicorn.cm",
+  "website": "https://uniworld.im/,
+  "whitepaper": "https://uniworld.im/whitepaper/uno.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-11-14",
+  "initial_price":{
+        "ETH":"0.002 ETH",
+        "USD":"0.3 USD",
+        "BTC":"0.00004 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/unicorn_unx",
+  }
+}
