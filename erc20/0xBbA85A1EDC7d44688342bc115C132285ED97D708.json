@@ -2,15 +2,11 @@
   "symbol": "UNO",
   "address": "0xBbA85A1EDC7d44688342bc115C132285ED97D708",
   "overview":{
-        "en": "UNO is a digital asset in [UNIWORLD]. It is initiated and operated by the Singapore entity UNI Capital. It can be used for mortgage, trading, leasing, etc. through mining output. The total number of UNOs is 21 million, and the daily output is 1.4W. The output of each quarter in the first 3 years has been reduced by 10%, and the output has remained unchanged after 3 years. A total of 21 years can be dug.
-In terms of finance, UNO has received a strategic investment of US $ 5 million from the rising stars of Korea Changli Capital and Singapore Capital, helping to promote the implementation of cross-chain mining and UNIWORLD ecological applications worldwide.
-In fact, UNO is committed to exploring a new cross-chain mining method to solve the waste of existing computing resources and low output efficiency value.",
-        "zh": "UNOÊÇ¡¾UNIWORLD¡¿ ÖĞµÄÊı×Ö×Ê²ú£¬ÓÉĞÂ¼ÓÆÂÖ÷Ìå UNI Capital ·¢Æğ²¢ÔËÓª£¬¾­ÓÎÏ·ÍÚ¿ó²ú³ö£¬¿ÉÓÃÓÚµÖÑº¡¢½»Ò×¡¢×âÁŞµÈ¡£UNO×ÜÁ¿2100ÍòÃ¶£¬Ã¿ÈÕ²ú³ö1.4WÃ¶£¬Ç°3ÄêÄÚÃ¿¼¾¶È²úÁ¿¼õÉÙ10%£¬3Äêºó²úÁ¿Î¬³Ö²»±ä£¬×Ü¹²¿ÉÍÚ21Äê¡£
-ÔÚ½ğÈÚ·½Ãæ£¬UNOÒÑ»ñµÃÓÉº«¹ú³¤Àí×Ê±¾¡¢ĞÂ¼ÓÆÂË¹ÌØ×Ê±¾µÈºóÆğÖ®ĞãµÄ500ÍòÃÀ½ğÕ½ÂÔÍ¶×Ê£¬°ïÖúÍÆ½øÈ«Çò·¶Î§ÄÚ¿çÁ´ÍÚ¿ó¼°UNIWORLDÉúÌ¬Ó¦ÓÃÂäµØ¡£
-ÆäÊµUNOÊÇÖÂÁ¦ÓÚÌ½Ë÷Ò»ÖÖÈ«ĞÂµÄ¿çÁ´ÍÚ¿ó·½Ê½£¬½â¾öÏÖÓĞËãÁ¦×ÊÔ´µÄÀË·Ñ£¬²ú³öĞ§ÂÊ¼ÛÖµµÍµÈÎÊÌâ¡£"
+        "en": "UNO is a digital asset in [UNIWORLD]. It is initiated and operated by the Singapore entity UNI Capital. It can be used for mortgage, trading, leasing, etc. through mining output. The total number of UNOs is 21 million, and the daily output is 1.4W. The output of each quarter in the first 3 years has been reduced by 10%, and the output remains unchanged after 3 years. A total of 21 years can be dug",
+        "zh": "UNOæ˜¯ã€UNIWORLDã€‘ ä¸­çš„æ•°å­—èµ„äº§ï¼Œç”±æ–°åŠ å¡ä¸»ä½“ UNI Capital å‘èµ·å¹¶è¿è¥ï¼Œç»æ¸¸æˆæŒ–çŸ¿äº§å‡ºï¼Œå¯ç”¨äºæŠµæŠ¼ã€äº¤æ˜“ã€ç§Ÿèµç­‰ã€‚UNOæ€»é‡2100ä¸‡æšï¼Œæ¯æ—¥äº§å‡º1.4Wæšï¼Œå‰3å¹´å†…æ¯å­£åº¦äº§é‡å‡å°‘10%ï¼Œ3å¹´åäº§é‡ç»´æŒä¸å˜ï¼Œæ€»å…±å¯æŒ–21å¹´"
   },
   "email": "mail@unicorn.cm",
-  "website": "https://uniworld.im/,
+  "website": "https://uniworld.im/",
   "whitepaper": "https://uniworld.im/whitepaper/uno.pdf",
   "state": "NORMAL",
   "published_on": "2019-11-14",
