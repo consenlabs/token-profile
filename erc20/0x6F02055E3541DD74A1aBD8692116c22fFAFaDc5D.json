@@ -1,0 +1,25 @@
+{
+  "symbol": "TMT",
+  "address": "0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D",
+  "overview":{
+        "en": "TBC Mart Token is a token used for shopping on The Billion Coin Mart and to provide liquidity to The Billion Coin community",
+        "zh": ""
+  },
+  "email": "info@tbcmartoken.store",
+  "website": "https://tbcmartoken.store",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-11-09",
+  "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://Twitter/MartTbc",
+    "telegram": "https://t.me/tbcmartoken",
+    "github": "https://GitHub.com/tbcmartoken",
+    "facebook": "https://facebook.com/tbcmartoken/"
+  }
+}
