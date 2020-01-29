@@ -1,0 +1,18 @@
+{
+  "symbol": "EVT",
+  "address": "0x5aaa2182459377b6ca18b10712f9f602140764af",
+  "overview":{
+    "en": "EVT is the official cryptocurrency of Elevation Platform, it can be used to shop online, pay tuition fees and pay for adverts",
+      },
+  "email": "info@theelevationplatform.com",
+  "website": "https://theelevationico.com",
+  "whitepaper": "https://theelevationico.com/ico/files/white-paper-1_2.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-05-20",
+  "initial_price":{
+    ""
+  },
+  "links": {
+"Etherscan": "https://cn.etherscan.com/token/0x5aaa2182459377b6ca18b10712f9f602140764af    
+  }
+}
