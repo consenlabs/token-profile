@@ -1,0 +1,27 @@
+{
+    "symbol": "PLAAS",
+    "address": "0x60571e95e12c78cba5223042692908f0649435a5",
+    "overview": {
+        "en": "An LPOE commodity verification Platform, for farmers data storage, tracking and validation with Price discovery via SMS alerts and Market discovery via futures contracts.",
+        "zh": "LPOE商品验证平台，用于农民数据存储，跟踪和验证，包括通过SMS警报的价格发现和通过期货合约的市场发现。"
+    },
+    "email": "info@plaas.io",
+    "website": "http://www.bitvalue.info",
+    "whitepaper": "https://your-awesome-project.com/file.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-10-01",
+    "initial_price":{
+        "ETH":"0.0019 ETH",
+        "USD":"0.35 USD",
+        "BTC":"0.000037 BTC"
+    },
+    "links": {
+    "blog": "https://plaas.io/themes/plaas/templates/blog.html",
+    "twitter": "https://twitter.com/plaasio",
+    "telegram": "https://t.me/Plaas2018",
+    "github": "https://github.com/plaasio",
+    "facebook": "https://www.facebook.com/plaas.io",
+    "reddit": "https://www.reddit.com/r/altcoin/comments/99usxe/plaas_using_blockchain_to_improve_farm_management/",
+    "medium": "https://medium.com/@plaas/plaas-to-undertake-a-token-giveaway-instead-of-an-ico-49f91bed285b"
+    }
+}
