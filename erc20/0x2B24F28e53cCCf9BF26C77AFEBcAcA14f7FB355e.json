@@ -1,0 +1,15 @@
+{
+  "symbol": "USDTB",
+  "address": "0x2B24F28e53cCCf9BF26C77AFEBcAcA14f7FB355e",
+  "overview":{
+        "zh": "USDTB是由亚太数字银行（APDB）发布的美元1：1锚定稳定币，100%由APDB的100亿美金储备支持。USDTB应用了最新的区块链3.0的技术，保证整个货币系统的安全、稳定，从而确保用户权益，可以打通不同国家和地区间的货币限制，直接美元锚定，减少兑换损耗及流程，打破加密货币与传统货币次元壁，资金流通更自由方便。"
+  },
+  "email": "usdtbcc@163.com",
+  "website": "http://usdtb.cc/",
+  "whitepaper": "http://usdtb.cc/doc_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-02-02",
+  "links": {
+        "website": "http://usdtb.cc"
+  }
+}
