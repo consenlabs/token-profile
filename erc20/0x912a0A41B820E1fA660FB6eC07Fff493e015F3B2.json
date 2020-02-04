@@ -1,0 +1,14 @@
+{
+  "symbol": "VIDC",
+  "address": "0x912a0A41B820E1fA660FB6eC07Fff493e015F3B2",
+  "overview": {
+    "zh": "Vidc构建新一代的视频广告体验，自行开发了一个用于网页关键字的隐形嵌入层，基于以太坊开发分布式的系统，同时结合视频呈现技术，带来新一代的视频广告体验。只需一键长按关键字，用户现即可在网络上任何页面的文本中看到与文本相关联的微型小视频，从而毫不费力的感受全新阅读体验。所有视频广告都使用由矿工驱动的NLP共识协议。凭借Vidc经验丰富的工程师团队，与业界领先的顾问团，以及诸多世界级品牌合作伙伴团。Vidc正在重新定义数字广告模式，电子商务以及视频娱乐，首次将加密货币应用程序真正的为大众提供有价值的服务，并无需任何转换成本。"
+  },
+  "email": "videcoin@gmail.com",
+  "website": "http://www.videcoin.org",
+  "whitepaper": "http://www.videcoin.org/whitepaper.pdf",
+  "published_on": "2019-07-01",
+  "links": {
+    "github": "https://github.com/vide-coin/"
+  }
+}
