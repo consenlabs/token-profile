@@ -1,0 +1,21 @@
+{
+    "symbol": "NAMTT",
+    "address": "0x9025f9A59694dd939739e05beB2502a567e8326f",
+    "overview": {
+        "en": "NAMTT token is an Ethereum ERC20 token. It's loyalty token.",
+        "zh": "NAMTT Token."
+    },
+    "email": "support@namtancoin.cash",
+    "website": "https://namtancoin.cash",
+    "whitepaper": "https://namtancoin.cash/WhitePaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-08-01",
+    "initial_price": {
+        "USD": "0.03 USD"
+    },
+    "links": {
+        "telegram": "https://t.me/Namtt",
+        "twitter" : "https://twitter.com/NamttSawitree",
+        "facebook" : "https://www.facebook.com/profile.php?id=100043772206838"
+    }
+}
