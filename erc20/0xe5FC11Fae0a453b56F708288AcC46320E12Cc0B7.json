@@ -1,0 +1,20 @@
+{
+  "symbol": "TBOS",
+  "address": "0xe5FC11Fae0a453b56F708288AcC46320E12Cc0B7",
+  "overview":{
+        "en": "TBOS tokens is the token of Treasure Blockchain Operating System with a total amount of 8.4 billion, which will never be additionally issued; in TBOS platform, users to make the whole ecology healthier and have more development motivation. TBOS strives to promote the popularity of blockchain applications.We hope our efforts open a new window for the world, and become a social practice of great significance.We use a better user experience and incentives to ensure the growth and sustainability of TBOS.",
+        "zh": "TBOS通证是宝藏区块链操作系统的代币，总量为84亿，将永远不会额外发行； 在TBOS平台上，用户可以使整个生态系统更加健康，并具有更大的发展动力。 TBOS致力于促进区块链应用的普及，希望我们的努力为世界打开一个新的窗口，并成为具有重要意义的社会实践。我们使用更好的用户体验和激励机制，以确保TBOS的增长和可持续性。"
+  },
+  "email": "support@tbos.io",
+  "website": "https://www.tbos.io",
+  "whitepaper": "https://www.tbos.io/TBOS_Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-23",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/tbosio",
+    "github": "https://github.com/tbosio"
+  }
+}
