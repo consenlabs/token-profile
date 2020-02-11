@@ -1,0 +1,23 @@
+{
+  "symbol": "LGC",
+  "address": "0x3b3A5557F119106270017A7662488C1FF6312A6b",
+  "overview":{
+        "en": "LOGISTICS (LGC) is a project that applies 4th generation blockchain technology to the traditional LOGISTICS industry, using a series of sophisticated algorithms, LGC's smart contracts will accurately record and Real-time updates of information.",
+        "zh": "LOGISTICS（LGC）是一个将第四代区块链技术应用于传统LOGISTICS行业的项目，它使用一系列复杂的算法，LGC的智能合约将准确记录和实时更新信息。"
+  },
+  "email": "support@logistics.us.com/",
+  "website": "https://logistics.us.com/",
+  "whitepaper": "https://logistics.us.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-02-09",
+  "initial_price":{
+        "ETH":"0.002281 ETH",
+        "USD":"0.5 USD",
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/GN7bwE_ARJu_CdIfgXCNKw",
+    "reddit": "https://www.reddit.com/user/logisticsuscom",
+    "slack": "https://app.slack.com/client/TTS82UATX/DTS82UJ85",
+    "medium": "https://medium.com/@logisticsuscom"
+  }
+}
