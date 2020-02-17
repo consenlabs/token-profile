@@ -1,0 +1,18 @@
+{
+  "symbol": "BTD",
+  "address": "0xb478a0fb1033f8147c1dd4bde8cb3eb80a2bb0b9",
+  "overview":{
+        "en": "BTD can set up a set of digital currency payment system matching traditional Internet payment scenarios",
+        "zh": "BTD能建立起一套匹配传统互联网支付场景的数字货币支付体系"
+  },
+  "email": "zflbtd888@163.com",
+  "website": "https://www.btd.one/",
+  "whitepaper": "https://www.btd.one/pdf/btd.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-02-13",
+  "initial_price":{
+        "ETH":"0.00012 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.000002157 BTC"
+  }
+}
