@@ -1,0 +1,21 @@
+{
+  "symbol": "Token Noah s ark",
+  "address": ""0x224ee8c5e2c43e6bd4611060511d035da6bcf878,
+  "overview":{
+        "en": "NARK",
+        "zh": ""
+  },
+  "email": "vip16880729@163.com",
+  "website": "http://www.narkchain.com/",
+  "whitepaper": "http://www.narkchain.com/whitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-12-06",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.5 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "etherscan": "https://etherscan.io/token/0x224ee8c5e2c43e6bd4611060511d035da6bcf878"
+  }
+}
