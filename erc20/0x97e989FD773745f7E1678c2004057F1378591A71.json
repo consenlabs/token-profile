@@ -1,0 +1,15 @@
+{
+  "symbol": "ECOST",
+  "address": "0x97e989FD773745f7E1678c2004057F1378591A71",
+  "overview":{
+	"en": "Nexus Link International Limited introduces the first security token backed by shares of the most promising corporations globally. Our mission is to open the door to investments in shares of the world's most auspicious, important and interesting digital assets exchange (unicorns & high-profile companies), prior to their liquidity event. The platform enables shareholders of the private company to sell their shares prior to a liquidity event and for investors to invest in such shares through dedicated partnerships represented by a Digital Token, ECOST. By tokenizing equity rights of the most promising private companies around the globe, we make it liquid at all times."
+  },
+  "email": "info@nexuslinkint.com",
+  "website": "https://www.nexuslinkint.com/ecost",
+  "whitepaper": "https://b9791243-fe99-4d32-8990-26641c8cf2ba.filesusr.com/ugd/d24243_d7872ae52d1d4122a137b87ec4637a43.pdf?index=true",
+  "state": "NORMAL",
+  "published_on": "2020-01-16",
+    "initial_price": {
+        "USD": "0.1 USD"
+    }
+}
