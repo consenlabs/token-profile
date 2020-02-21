@@ -1,0 +1,19 @@
+{
+    "symbol": "GC",
+    "address": "0x5623F1A4950e7dDa2357BC02d86EBcBceA6699Ad",
+    "overview": {
+        "en": "GC is the platform currency of the Bewin global exchange. In exchanges, malls, mobile payments have a wide range of uses.",
+        "zh": "GC是Bewin global交易所的平台幣。在交易所，商城，移動支付有著廣泛的使用前景。"
+    },
+    "email": "globalchain@gmx.com",
+    "website": "http://www.global-chain.cc/",
+    "whitepaper": "http://www.global-chain.cc/static/gc-white-cn.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-11-01",
+    "initial_price": {
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "github": "https://github.com/RBSC-2019"
+    }
+} 
