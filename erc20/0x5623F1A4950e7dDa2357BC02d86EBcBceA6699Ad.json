@@ -9,11 +9,11 @@
     "website": "http://www.global-chain.cc/",
     "whitepaper": "http://www.global-chain.cc/static/gc-white-cn.pdf",
     "state": "NORMAL",
-    "published_on": "2019-11-01",
+    "published_on": "2020-1-13",
     "initial_price": {
-        "USD": "0.1 USD"
+        "USD": "1 USD"
     },
     "links": {
-        "github": "https://github.com/RBSC-2019"
+        "github": "https://github.com/bewin-global"
     }
 } 
