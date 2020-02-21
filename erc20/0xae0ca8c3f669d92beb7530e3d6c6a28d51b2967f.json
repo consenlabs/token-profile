@@ -1,0 +1,22 @@
+{
+  "symbol": "FGC",
+  "address": "0xae0ca8c3f669d92beb7530e3d6c6a28d51b2967f",
+  "overview": {
+    "en": "FGChain is the FG communication application chain, a star project that FG Holdings Group has built, and the world's first blockchain value circulation network based on the trend of economic integration.",
+    "zh": "FGChain即FG通讯应用链，FG控股集团全力打造的明星项目，全球首个基于经济一体化趋势构建的区块链价值流通网络。"
+  },
+  "website": "http://www.fgchain.net/cn/",
+  "email": "fgchain@126.com",
+  "whitepaper": "http://www.fgchain.net/cn/",
+  "state": "NORMAL",
+  "published_on": "2020-02-21",
+  "initial_price": {
+    "ETH": "0.666 ETH",
+    "USD": "0.666 USD",
+    "BTC": "0.666 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/AAAAA3lyxkTtHeE_7lmWg",
+    "github": "https://github.com/FGChain"
+  }
+}
