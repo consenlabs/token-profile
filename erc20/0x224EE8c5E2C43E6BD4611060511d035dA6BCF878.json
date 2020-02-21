@@ -1,6 +1,6 @@
 {
   "symbol": "Token Noah s ark",
-  "address": ""0x224ee8c5e2c43e6bd4611060511d035da6bcf878,
+  "address": "0x224ee8c5e2c43e6bd4611060511d035da6bcf878",
   "overview":{
         "en": "NARK",
         "zh": ""
@@ -19,3 +19,4 @@
     "etherscan": "https://etherscan.io/token/0x224ee8c5e2c43e6bd4611060511d035da6bcf878"
   }
 }
+
