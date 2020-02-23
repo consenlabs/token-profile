@@ -1,0 +1,28 @@
+{
+  "symbol": "FVC",
+  "address": "0xf8a0a5b3fcd05c8f52614d61d4377771c54ddcb8",
+  "overview":{
+        "en": "FUTURE VALUE CHAIN",
+        "zh": "未来价值链"
+  },
+  "email": "fvex@global.com",
+  "website": "http://fvex.global",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-02-22",
+  "initial_price":{
+        "ETH":"0.00375 ETH",
+        "USD":"1 USD",
+        "BTC":"0.0001 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
