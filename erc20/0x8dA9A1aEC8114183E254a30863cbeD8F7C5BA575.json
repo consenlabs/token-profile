@@ -1,0 +1,19 @@
+﻿{
+    "symbol": "DO",
+    "address": "0x8dA9A1aEC8114183E254a30863cbeD8F7C5BA575",
+    "overview": {
+        "en": "Do token (do) is a decentralized digital asset based on Ethereum developed by the blockchain game platform, 6shouyou.com. It is committed to building a distributed game value network with blockchain technology and becoming the value connector of the game world. At the same time, do is also the proof of the rights and interests of the users of the gamer game platform. The holders have the rights and interests of voting on the game business, recharging the game, and preferentially participating in the platform activities",
+        "zh": "DO TOKEN （DO）是区块链游戏平台乐手游（6shouyou.com）基于以太坊（Ethereum ）开发的去中心化数字资产，致力于运用区块链技术打造分布式游戏价值网络，成为游戏世界的价值连接器。同时DO也是乐手游平台用户的权益证明，持有者拥有游戏业务投票、游戏充值、平台活动优先参与等权益"
+    },
+    "email": "zww@chinasv.com",
+    "website": "http://www.6shouyou.com/",
+    "whitepaper": "https://pan.baidu.com/s/1Mz3EgBv8kKsg2Nt_4JN56w",
+    "state": "NORMAL",
+    "published_on": "2020-02-28",
+    "initial_price": {
+        "ETH": "0.00005376 ETH",
+        "USD": "0.014 USD",
+        "BTC": "0.00000139 BTC"
+    },
+    "links": {}
+} 
