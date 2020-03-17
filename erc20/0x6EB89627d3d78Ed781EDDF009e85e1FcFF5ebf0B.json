@@ -1,0 +1,19 @@
+{
+  "symbol": "Smurf",
+  "address": "0x6EB89627d3d78Ed781EDDF009e85e1FcFF5ebf0B",
+  "overview":{
+        "en": "Smurf Coin (SFC) is the running fuel circulating in the Smurf game system. It is also a new generation of high performance privacy chain.",
+        "zh": "Smurf Coin（简称SFC）是流通于Smurf游戏系统的运行燃料，也是新一代的高性能隐私公链，所有交易匿名，支持智能合约，可以发行匿名币和匿名资产。"
+  },
+  "email": "smurfoffice@163.com",
+  "website": "https://smurfvip.github.io",
+
+  "state": "NORMAL",
+  "published_on": "2020-03-17",
+  "links": {
+
+    "telegram": "https://0.plus/Smurfoffice",
+    "github": "https://github.com/smurfvip",
+
+  }
+}
