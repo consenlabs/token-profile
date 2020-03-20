@@ -1,0 +1,21 @@
+{
+  "symbol": "VEZL",
+  "address": "0x4Dd21001101832bc1955d892d14543C197bc4126",
+  "overview":{
+        "en": "Vezel Chain",
+        "zh": "Ω‰÷∏¡¥"
+  },
+  "email": "Email",
+  "website": "http://www.vezel-chain.com/",
+  "whitepaper": "http://www.vezel-chain.com/images/Vezel.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-03-20",
+  "initial_price":{
+        "ETH":"0.00 ETH",
+        "USD":"0.00 USD",
+        "BTC":"0.00 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/VEZL7",
+  }
+}
