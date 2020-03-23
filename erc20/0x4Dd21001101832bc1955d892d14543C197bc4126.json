@@ -2,19 +2,14 @@
   "symbol": "VEZL",
   "address": "0x4Dd21001101832bc1955d892d14543C197bc4126",
   "overview":{
-        "en": "Vezel Chain",
-        "zh": "戒指链"
+        "en": "Vezl aims to build the world's first blockchain diamond trading platform, build a decentralized trading network, link users, collectors, diamond producers, suppliers, designers and other interactive scenarios, and realize an efficient, transparent, convenient, fair and trusted trading ecosystem in the whole industrial chain of the diamond industry.",
+        "zh": "戒指链结合区块链技术，旨在打造全球首个区块链钻石交易平台，构建去中心化的交易网络，链接用户、收藏者、钻石生产商、供应商、设计师等交互场景，实现钻石行业全产业链高效、透明、便捷、公平、信任的交易生态。"
   },
-  "email": "Email",
+  "email": "a106uyjknh@outlook.com",
   "website": "http://www.vezel-chain.com/",
   "whitepaper": "http://www.vezel-chain.com/images/Vezel.pdf",
   "state": "NORMAL",
   "published_on": "2020-03-20",
-  "initial_price":{
-        "ETH":"0.00 ETH",
-        "USD":"0.00 USD",
-        "BTC":"0.00 BTC"
-  },
   "links": {
     "twitter": "https://twitter.com/VEZL7",
   }
