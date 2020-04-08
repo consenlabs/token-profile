@@ -1,0 +1,19 @@
+{
+  "symbol": "ID",
+  "address": "0x1Fc06369c45CeCab19C4E802C596E01ec953695c",
+  "overview":{
+        "en": "",
+        "zh": "ID Token是IDEX交易平台发行的平台币，是交易平台所有者权益的代表，发行总量恒定为10000枚，且永不增发。ID Token持有者享有IDEX交易平台50%的收益，IDEX所有优质的区块链项目，ID Token持有者，均有机会获得精果空投.以及IDEX的早质孵化阶段项目投资权。目前还在尝试并继续探索ID Token的应用场景落地和生态体系建设，加强与IDEX交易所生态的链接共识。IDEX平台愿景:重新定义交易所，让用户做平台的主人,是IDEX的愿景初衷，让每位社区成员分享平台的盈利;并通过专业的技术全方位的运营以打造安全、稳定、高效的新型交易平台，不懈提升用户服务与体验让每位用户都能够公平地参与数字资产投资，让数字资产成为一种新的资产配置方式，同时促进优质区块链项目的应用落地,为区块链行业发展作出社会贡献是我们追求的使命。"
+  },
+  "email": "idxex@idxex.com",
+  "website": "http://www.idxex.com/",
+  "whitepaper": "http://www.idxex.com/whitePaper.pdf",
+  "published_on": "2020-03-18",
+  "initial_price":{
+        "USDT":"1 USDT"
+  },
+  "links": {
+    "weibo": "https://weibo.com/",
+    "telegram": "https://t.me/"
+  }
+}
