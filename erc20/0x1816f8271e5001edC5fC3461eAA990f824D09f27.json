@@ -1,0 +1,24 @@
+{
+  "symbol": "USCE",
+  "address": "0x1816f8271e5001edC5fC3461eAA990f824D09f27",
+  "overview":{
+        "en": "USCE is a stable digital currency based on the Token issued by ERC20 and anchored at a ratio of USD 1: 0.01. As a stable currency, USCE has numerous consumer payment scenarios. USCE can be used for digital asset exchange, digital asset transaction, film and television investment, cakes, scenic spot ticket purchases, etc. And has its own physical encryption card and digital asset POS machine. In addition, USCE itself has financial management properties, with an annualized income of 20%.",
+        "zh": "USCE是基于ERC20发行的Token, 并且与美元 1:0.01 比例锚定的稳定数字货币。USCE作为一款稳定货币，拥有众多的消费支付场景。USCE可用于数字资产兑换、数字资产交易、影视投资、蛋糕、景点门票购买等。并拥有自己的实体加密卡与数字资产POS机。除此以外，USCE本身具备理财属性，拥有年化20%的收益。"
+  },
+  "email": "uscegroup@gmail.com",
+  "website": "http://www.usce.top",
+  "whitepaper": "http://www.usce.top/USCE-WhitePaper-zh-CN.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-3-29",
+  "initial_price":{
+        "USD":"0.01 USD"
+   },
+  "links": {
+    "twitter": "https://twitter.com/USCE8",
+    "github": "https://github.com/uscegroup",
+    "facebook": "https://www.facebook.com/token.usce.9",
+    "reddit": "https://www.reddit.com/user/uscegroup",
+    "slack": "https://uscegroup.slack.com",
+    "medium": "https://medium.com/@uscegroup"
+  }
+}
