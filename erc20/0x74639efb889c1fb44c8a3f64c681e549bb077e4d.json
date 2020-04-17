@@ -1,0 +1,29 @@
+{
+  "symbol": "VIE",
+  "address": "0x74639efb889c1fb44c8a3f64c681e549bb077e4d",
+  "overview":{
+        "en": "Vie is positioned as the most powerful intelligent data search and analysis engine in the blockchain technology industry, with the flow computing side
+In this way, large-scale flow data can be analyzed in real time in the process of changing motion, and the，It can provide useful information and send the results to the next computing node's basic attributes as the starting point; it uses blockchain Technology
+The technology decentralized data storage forms a series of blocks for security assurance, and each block references the previous block to form
+An interconnected chain; using smart contracts as the operation mode, bookkeeping is classified in chronological order and distributed in
+Multiple nodes, each of which holds a complete copy, and the vie automatically synchronizes and validates the Transactions..",
+        "zh": "vie 定位于区块链技术行业里最强的智能数据搜索和分析引擎，以流计算方
+式特有的对大规模流动数据在不断变化的运动过程中实时地进行分析，捕捉到可
+能有用的信息，并把结果发送到下一计算节点的基本属性为切入点；以区块链技
+术去中心化数据存储为安全保障形成一系列区块，每个区块引用前面的块以形成
+一个互连的链条；以智能合约为运营方式，按时间顺序进行分类式记账并分布在
+多个节点，每个节点都保存一个完整的副本，vie 自动同步和验证所有节点上的
+事务。"
+  },
+  "email": "abceovip@foxmail.com",
+  "website": "http://www.vivie.in/",
+  "whitepaper": "http://www.vivie.in/vie-w-p.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-05-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+      },
+  "links": {
+    "weibo": "https://weibo.com/u/7459391085",
+  }
+}
