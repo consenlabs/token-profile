@@ -1,0 +1,17 @@
+{
+    "symbol": "UB",
+    "address": "0xaA3893d2D6B7AE7cAc1FCE7dc8d917eF138E38A6",
+    "overview":{
+          "en": "UB payment chain is a digital currency aggregation payment system and financial tool based on blockchain technology, which can help users to freely exchange global currencies and make large-scale cross-border remittance payments quickly and at low cost.",
+          "zh": "UB支付链是一款基于区块链技术的数字货币聚合支付系统和金融工具，可以帮助用户快捷、低成本的进行全球货币的自由兑换、以及大额跨境汇款支付。"
+    },
+    "email": "server@vipub-token.com",
+    "website": "https://www.vipub-token.com/",
+    "whitepaper": "https://www.vipub-token.com/ubtoken.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-04-17",
+    "links": {
+        "telegram": "https://t.me/VIPUBToken",
+        "twitter": "https://twitter.com/UBtoken"
+      }
+}
