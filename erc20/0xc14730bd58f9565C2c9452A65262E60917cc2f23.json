@@ -1,0 +1,12 @@
+{
+    "symbol": "GEM",
+    "address": "0xc14730bd58f9565C2c9452A65262E60917cc2f23",
+    "overview": {
+        "zh": "GEM珠宝链是通过区块链技术打造新一代珠宝供应链，实现商品资讯的流转追踪并保障消费者透明消费，以节点串联的方式与网络中进行信息传输，每个节点参与者都可以时时查看商品资讯，通过独有的金融与数位印章管理用户许可证，结合共识机制从而保障账本资讯的安全及准确性。"
+    },
+    "email": "Gemserver@gmail.com",
+    "website": "http://www.nw295.cn",
+    "whitepaper": "http://www.nw295.cn/bps.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-04-28"
+}
