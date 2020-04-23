@@ -1,0 +1,13 @@
+{
+    "symbol": "GEM",
+    "address": "0xc14730bd58f9565C2c9452A65262E60917cc2f23",
+    "overview": {
+        "en": "GEMCHAIN (GEM) makes use of the unique characteristics of the blockchain that can't be tampered with in the distributed ledger record to build a jewelry traceability platform, to solve the problems of information traceability, anti-counterfeiting verification and mobile marketing in the process of commodity production, circulation, distribution and terminal consumption. Solve `trustworthy` problems for brand enterprises and consumers. And build a brand-new blockchain ecosystem as an optional Internet value transmission protocol in the future world, and advance the practicability and ease of use of the whole blockchain industry.",
+        "zh": "GEMCHAIN（GEM珠宝链）利用区块链独特的不可篡改的分布式账本记录特性，构建珠宝溯源平台，解决企业在商品生产、流转、分销、终端消费过程中的信息溯源，防伪验真，移动营销难题。为品牌企业和消费者解决“可信任”难题。并由此构建一个全新的区块链生态系统，作为未来世界可选的互联网价值传输协议，并把整个区块链行业的实用性、易用性向前推进一步。"
+    },
+    "email": "Gemserver@gmail.com",
+    "website": "https://www.gemchains.com",
+    "whitepaper": "https://www.gemchains.com/doc_en.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-04-28"
+}
