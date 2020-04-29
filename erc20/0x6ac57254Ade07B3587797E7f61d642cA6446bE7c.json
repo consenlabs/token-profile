@@ -1,0 +1,20 @@
+{
+  "symbol": "GGT",
+  "address": "0x6ac57254ade07b3587797e7f61d642ca6446be7c",
+  "overview":{
+        "en": "guiguToken is the token of guiguliangshi online platform.",
+        "zh": ""
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-04-29",
+  "initial_price":{
+        "USD":"0.1 USD",
+  },
+  "links": {
+    "yuque": "https://www.yuque.com/guigumentor",
+    "bilibilili": "https://space.bilibili.com/400647031",
+  }
+}
