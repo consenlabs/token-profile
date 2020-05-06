@@ -1,15 +1,15 @@
 {
-    "symbol": "TAI",
-    "address": "0xbc13fa2e3db94e0b3099ca22cad4f23f0fa05c9e",
-    "overview": {
-        "en": "Turing Chain is the world's first put forward the concept of ABI,Using blockchain technology to solve artificial intelligence knowledge graph construction and verification,And open third-party interface to facilitate other developers to quickly build their own industry AI applications and hardware equipment public chain.",
-        "zh": "图灵链（Turing Chain）是全球首个提出ABI理念、用区块链技术解决人工智能知识图谱搭建和校验，并开放第三方接口方便其他开发者迅速搭建自己行业的AI应用及硬件设备的公链。"
-    },
-    "email": "contact@turingchain.ai",
-    "website": "https://www.turingchain.ai",
-    "links": {
-        "twitter": "https://twitter.com/TuringChain/",
-        "telegram": "https://t.me/turingchain_official/",
-        "facebook": "https://www.facebook.com/TuringChain/"
-    }
+  "symbol": "CAR",
+  "address": "0xbc13fa2e3db94e0b3099ca22cad4f23f0fa05c9e",
+  "overview": {
+    "en": "CAR CHAIN is an ecological chain that connects the services of various industries in the automotive aftermarket.Based on the vehicle OBD interface data, the car chain standardizes and chains the basic information, vehicle condition data, driving data and maintenance, insurance records, etc., and uses the distributed ledger + intelligent contract technology of block chain technology to realize the value conversion of the data, creating the value of 'driving one kilometer, reward one integral, value ten cents' for the car owner. Create additional value-added services for automotive network operators and automotive aftermarket service providers. Block chain + artificial intelligence and big data technology will provide traffic condition prediction and intelligent city management for traffic management departments.",
+    "zh": "汽车链是连接汽车后市场各行业服务的生态链。汽车链以车辆OBD接口数据为依托，将车辆的基础信息、车况数据、行驶数据和维修保养、保险记录等标准化并打包上链，利用区块链技术的分布式账本+智能合约技术实现数据上链后的价值转换，为车主创造“行驶1公里、奖励1积分、价值1>毛钱”的价值；为车联网运营和汽车后市场服务商商创造额外的增值服务。区块链+人工智能和大数据技术将为交通管理部门提供交通状况预测和智能城市管理。"
+  },  
+  "email": "penbinx@outlook.com",
+  "website": "http://www.91car.io",
+  "links": {
+    "twitter": "https://twitter.com/blockchain_car ",
+    "telegram": "https://t.me/turingchain_official/",
+    "facebook": "https://www.facebook.com/blockchain.car/ "
+  }
 }
