@@ -1,0 +1,21 @@
+{
+    "symbol": "ECOST",
+    "address": "0x97e989FD773745f7E1678c2004057F1378591A71",
+    "overview": {
+        "en": "ECOST is backed by asset-portfolio including the stocks of [Globe Strategy Information Company Limited], which engage on providing professional digital asset trading platform marketing promotion consulting service businesses. ",
+        "zh": "ECOST（ECO_STO）全球数字资产平台营销推广社区，ECOST是采用ETH作为核心技术链的通证。"
+    },
+    "email": "info@nexuslinkint.com",
+    "website": "http://webmail.nexuslinkint.com/",
+    "whitepaper": "https://b9791243-fe99-4d32-8990-26641c8cf2ba.filesusr.com/ugd/d24243_d7872ae52d1d4122a137b87ec4637a43.pdf?index=true",
+    "state": "NORMAL",
+    "published_on": "2020-03-01",
+    "initial_price": {
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "twitter": "",
+        "github": "",
+        "facebook": ""
+    }
+}
