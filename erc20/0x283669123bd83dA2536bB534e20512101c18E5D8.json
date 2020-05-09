@@ -1,0 +1,25 @@
+{
+    "symbol": "BPT",
+    "address": "0x283669123bd83dA2536bB534e20512101c18E5D8",
+    "overview":{
+          "en": "Bitpayer is a decentralized exchange where you can trade various digital assets Peer to Peer",
+          "zh": "Bitpayer是一個去中心化交易所，您可以在此交易各種數字資產"
+    },
+    "email": "support@bitpayer.io",
+    "website": "https://bitpayer.io/",
+    "whitepaper": "https://bitpayer.io/Whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-09-26",
+    "initial_price":{
+          "ETH":"0.00000005 ETH",
+          "USD": "0.00001004 USD"
+    },
+    "links": {  
+      "twitter": "https://twitter.com/bitpayerdex",
+      "telegram": "https://t.me/bitpayerdex",
+      "github": "https://github.com/XMaxPlatform",
+      "reddit": "https://www.reddit.com/user/BitpayerDex",
+      "coingecko": "https://www.coingecko.com/en/coins/bitplayer-token/",
+      "linkedin": "https://www.linkedin.com/company/bitpayerdex/"
+    }
+  } 
