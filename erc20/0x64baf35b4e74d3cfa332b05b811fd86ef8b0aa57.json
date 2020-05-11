@@ -1,0 +1,16 @@
+{
+  "symbol": "MFA",
+  "address": "0x64baf35b4e74d3cfa332b05b811fd86ef8b0aa57",
+  "overview":{
+        "en": "MFA is a decentralized film industry chain, by Dr Zheng Ming tower and Dr Jian-rong zheng founded in Singapore, MFA film industry and chain has a large capacity of transmission speed, trading, resistance to attack the distinctive features of quantum, block chain and chain is the third generation leaders.",
+        "zh": "MFA是一条去中心化的电影行业公链，由郑座明博士和郑建荣博士在新加坡创立，MFA电影行业公链具有传输速度快、交易容量大、抗量子攻击的显著特点，是第三代区块链公链的领导者。"
+  },
+  "email": "mast@mfa.land",
+  "website": "https://www.mfa.land",
+  "whitepaper": "https://www.mfa.land/MFA-Book-SG.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-11-18",
+  "initial_price":{
+        "USD":"$0.143 USD"
+  }
+}
