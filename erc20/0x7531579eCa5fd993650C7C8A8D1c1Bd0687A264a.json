@@ -1,0 +1,19 @@
+{
+  "symbol": "USDB",
+  "address": "0x7531579eCa5fd993650C7C8A8D1c1Bd0687A264a",
+  "overview":{
+        "en": "USDB is BIYA GLOBAL's compliant and transparent ecological stable currency, anchored with us dollar 1:1",
+        "zh": "USDB是BIYA GLOBAL的合规透明的生态型稳定币，与美元1:1锚定"
+  },
+  "email": "info@biya.club",
+  "website": "https://www.biyagl.com/",
+  "whitepaper": "https://usd.biya.in/pdf/USDB_CN.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-04-29",
+  "initial_price":{
+        "USD":"1 USD"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/BIYAGLOBALOFFICAL/about/"
+  }
+}
