@@ -1,0 +1,28 @@
+{
+  "symbol": "HDP",
+  "address": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+  "overview":{
+        "en": "The Future Banking Solution",
+        "zh": ""
+  },
+  "email": "info@hedpay.com",
+  "website": "https://hedpay.com/",
+  "whitepaper": "https://www.hedpay.com/wp-content/uploads/2018/11/HdP_white_paper-v4.111118.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-08",
+  "initial_price":{
+        "ETH":"0.0126666 ETH",
+        "USD":"2.37 USD",
+        "BTC":"0.00034137 BTC"
+  },
+  "links": {
+    "blog": "https://hedpay.com/blog",
+    "twitter": "https://twitter.com/myhedpay",
+    "telegram": "https://t.me/HEdpAY",
+    "github": "https://github.com/Hedpay",
+    "facebook": "https://www.facebook.com/HedpayLtd",
+    "reddit": "https://www.reddit.com/r/HEdpAY/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/HEdpAY"
+  }
+}
