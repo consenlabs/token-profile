@@ -1,0 +1,11 @@
+{
+    "symbol": "ETCC",
+    "address": "0x66fC95813A3A84Ce56d6fA49b94423fE73B0e3cd",
+    "overview": {
+        "zh": "ETCC是一个基于区块链技术打造的去中心化汽车生态服务平台",
+        "en": "ETCC is a decentralized vehicle ecological service platform based on blockchain Technology."
+    },
+    "whitepaper": "https://came.oss-cn-hongkong.aliyuncs.com/etcc/public/file/ETCC.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-05-12"
+}
