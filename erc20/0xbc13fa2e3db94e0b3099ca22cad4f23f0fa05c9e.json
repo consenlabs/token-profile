@@ -7,9 +7,15 @@
   },  
   "email": "penbinx@outlook.com",
   "website": "http://www.91car.io",
+  "whitepaper": "https://img1.wsimg.com/blobby/go/fa7f5941-f0df-4c8b-b7f0-069733524eb7/downloads/CAR%20CHAIN%20WHITEPAPER.pdf?ver=1575456456402",
+  "state": "NORMAL",
+  "published_on": "2019-07-01",
+  "initial_price":{
+    "USD":"0.015 USD"
+  },
   "links": {
-    "twitter": "https://twitter.com/blockchain_car ",
+    "twitter": "https://twitter.com/blockchain_car",
     "telegram": "https://t.me/turingchain_official/",
-    "facebook": "https://www.facebook.com/blockchain.car/ "
+    "facebook": "https://www.facebook.com/blockchain.car/"
   }
 }
