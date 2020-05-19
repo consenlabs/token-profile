@@ -2,11 +2,11 @@
   "symbol": "SETL",
   "address": "0x623f92797cccc3f22d5765e82eef023b78cc0509",
   "overview":{
-        "en": "Token Description.",
+        "en": "SETL Token",
         "zh": ""
   },
   "email": "Email",
-  "website": "http://www.ljshn.com	",
+  "website": "http://www.ljshn.com",
   "whitepaper": "https://ff.dhclab.cn/file.pdf",
   "state": "LOCKED | NORMAL",
   "published_on": "2018-01-01",
@@ -16,7 +16,6 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
     "twitter": "https://twitter.com/your-awesome-project",
     "telegram": "https://t.me/SETLCOINFORUSER",
     "github": "https://github.com/your-awesome-project",
