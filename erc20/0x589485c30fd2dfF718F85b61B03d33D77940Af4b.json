@@ -1,0 +1,15 @@
+{
+  "symbol": "GTCT",
+  "address": "0x589485c30fd2dfF718F85b61B03d33D77940Af4b",
+  "overview":{
+    "en": "Global Travel Club Token",
+    "zh": "环球旅行俱乐部通证"
+  },
+  "email": "globaltravelclub@sina.com",
+  "website": "http://www.numberclubs.com/",
+  "state": "NORMAL",
+  "published_on": "2020-03-20",
+  "initial_price":{
+    "USD":"0.14 USD"
+  }
+}
