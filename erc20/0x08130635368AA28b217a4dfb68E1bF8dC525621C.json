@@ -1,0 +1,26 @@
+{
+  "symbol": "AfroX",
+  "address": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+  "overview":{
+    "en": "AfroDex Token (AfroX) is the primary native token of Africa's biggest decentralized exchange; AfroDex Labs. AfroX is Proof of Stake erc20 & can be staked to participate in minting or used for listing and more.",
+    "zh": "AfroDex令牌（AfroX）是非洲最大的去中心化交易所的主要本地令牌； AfroDex實驗室。 AfroX是權益證明erc20，可以放心參與鑄造或用於上市等等。"
+  },
+  "email": "hello@afrodexlabs.com",
+  "website": "http://afrodexlabs.com/",
+  "whitepaper": "http://afrodexlabs.com/native-token.html",
+  "state": "NORMAL",
+  "published_on": "2019-11-20",
+  "initial_price":{
+    "ETH":"0.00000000 ETH",
+    "USD":"0.00000013  USD"
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/DexAfro",
+    "telegram": "https://t.me/AfroDex",
+    "github": "https://github.com/AfroDex/",
+    "facebook": "https://fb.me/AfroDex1",
+    "coingecko": "https://www.coingecko.com/en/coins/afrodex/",
+    "medium": "https://medium.com/@AfroDex1"
+  }
+}
