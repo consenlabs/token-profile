@@ -1,0 +1,22 @@
+{
+    "symbol": "SETL",
+    "address": "0x623f92797cccc3f22d5765e82eef023b78cc0509",
+    "overview": {
+        "en": "The setl token team is committed to value-added digital assets and peripheral services, including but not limited to digital currency quantitative trading software, digital asset operations, blockchain media information and other products.",
+        "zh": "setl token致力数字资产增值与周边服务，包括但不限于数字货币量化交易软件、数字资产运营、区块链媒体资讯等产品。"
+    },
+    "email": "313405555@qq.com/",
+    "website": "http://www.ljshn.com",
+    "whitepaper": "https://ff.dhclab.cn/file.pdf",
+    "state": "NORMAL",
+    "published_on": "2016-10-01",
+    "initial_price": {
+        "ETH": "0.000142857 ETH",
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/TadpoleChain",
+        "github": "https://github.com/WdQMQ/token-profile",
+        "facebook": "https://t.me/SETLCOINFORUSER"
+    }
+}
