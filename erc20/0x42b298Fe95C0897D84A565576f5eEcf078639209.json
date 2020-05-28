@@ -1,0 +1,22 @@
+{
+  "symbol": "AIN",
+  "address": "https://cn.etherscan.com/address/0x42b298Fe95C0897D84A565576f5eEcf078639209",
+  "overview":{
+        "en": "The platform coin of Ainance.io",
+        "zh": "Ainance.io平台币"
+  },
+  "email": "robert@ainance.org",
+  "website": "https://ainance.io/",
+  "whitepaper": "https://www.ainance.io/wp/Ainance_WP_CN.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-05-28",
+  "initial_price":{
+        "USD":"0.03832 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/AinanceI",
+    "telegram": "https://t.me/ainance",
+    "github": "https://github.com/ainanceio",
+    "facebook": "https://www.facebook.com/ainance.io"
+  }
+}
