@@ -1,0 +1,21 @@
+{
+  "symbol": "CNT",
+  "address": "0xa3b69e77840ea3e655EbA3822539d498bea72156",
+  "overview":{
+        "en": "CNT is a stable, transparent, and secure digital asset issued globally based on CNH. As a stable currency system relying on Ethereum, CNT can be compatible with all ETH wallets, supported by sufficient cash assets to help people integrate into the digital world quickly and conveniently.",
+        "zh": "CNT是基于离岸人民币，面向全球发行的稳定、透明、安全的数字资产。CNT作为依托以太坊的稳定币系统，能兼容所有的ETH钱包，通过足额的现金类资产为支撑，帮助人们快速、便捷的融入数字世界。"
+  },
+  "email": "haypay852@gmail.com",
+  "website": "http://cnt.money/",
+  "whitepaper": "https://caitex.zendesk.com/hc/zh-cn/article_attachments/900001620766/CNT-WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-5-15",
+  "initial_price":{
+      "ETH":"0.000573 ETH",
+      "USD":"0.1422 USD",
+      "BTC":"0.00001470 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/AAAAAEgaIRBkGphq3zEFdQ"
+  }
+}
