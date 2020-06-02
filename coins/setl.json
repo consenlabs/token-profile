@@ -1,0 +1,23 @@
+{
+    "website": "http://www.ljshn.com",
+    "published_on": "2016-10-01",
+    "links": {
+        "telegram": "https://t.me/SETLCOINFORUSER",
+        "twitter": "https://t.me/SETLCOINFORUSER",
+        "github": "https://github.com/setlqmq",
+    },
+    "overview": {
+        "en": "为数字资产和区块链领域发展增添新动力",
+        "zh": "SETL 致力数字资产增值与周边服务，包括但不限于数字货币量化交易软件、数字资产运营、区块链媒体资讯等产品"
+    },
+    "symbol": "SETL",
+    "state": "FLOAT",
+    "initial_price": {
+        "ETH": "0.00327 ETH",
+        "USD": "0.99 USD",
+        "BTC": "0.00036526 BTC"
+    },
+    "whitepaper": "https://ff.dhclab.cn/file.pdf",
+    "address": "SETL",
+    "email": "setltoken@protonmail.com"
+}

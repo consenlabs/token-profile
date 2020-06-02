@@ -1,28 +1,21 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "SETL Token",
+  "address": "0x623f92797cccc3f22d5765e82eef023b78cc0509",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
+        "en": "The setl token team is committed to value-added digital assets and peripheral services, including but not limited to digital currency quantitative trading software, digital asset operations, blockchain media information and other products.",
+        "zh": "setl token致力数字资产增值与周边服务，包括但不限于数字货币量化交易软件、数字资产运营、区块链媒体资讯等产品"
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "email": "setltoken@protonmail.com",
+  "website": "http://www.ljshn.com",
+  "whitepaper": "https://ff.dhclab.cn/file.pdf",
   "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "published_on": "2016-10-01",
   "initial_price":{
         "ETH":"0.00166666 ETH",
         "USD":"0.7 USD",
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "facebook": "https://t.me/SETLCOINFORUSER",
   }
 }
