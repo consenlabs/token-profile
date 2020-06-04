@@ -1,0 +1,15 @@
+{
+  "symbol": "SERO",
+  "address": "0x29256BE754F2dfDC06af05671FFa67E21f16a8d5",
+  "overview":{
+    "en": "SERO",
+    "zh": "超零协议"
+  },
+  "email": "nanshennvshenwall@foxmail.com",
+  "website": "https://sero.cash/",
+  "state": "NORMAL",
+  "published_on": "2019-03-01",
+  "initial_price":{
+    "USD":"0.14 USD"
+  }
+}
