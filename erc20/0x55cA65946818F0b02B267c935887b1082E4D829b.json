@@ -1,0 +1,17 @@
+  
+{
+    "symbol": "JinZu",
+    "address": "0x55ca65946818f0b02b267c935887b1082e4d829b",
+    "overview":{
+          "en": "JinZu",
+          "zh": "JinZu"
+    },
+    "email": "wy56880@163.com",
+    "website": "http://www.jinzu.shop/",
+    "whitepaper": "https://github.com/btcdw/jinzu",
+    "state": "LOCKED | NORMAL",
+    "published_on": "2020-06-01",
+    "links": {
+      "NEWS": "https://www.jinse.com/blockchain/709464.html"
+    }
+  }
