@@ -1,0 +1,21 @@
+{
+    "symbol": "HOP",
+    "address": "0x1999ac2b141e6d5c4e27579b30f842078bc620b3",
+    "overview": {
+        "en": "Hyper Orchid Protocol (HOP) The entire protocol is built on Ethereum main network and has micropayments, P2P data encryption and mining functions, so far hop is the only protocol that combines the above functions and is officially used. ",
+        "zh": "Hyper Orchid Protocol(HOP)超级兰花协议是一个分布式去中心化点对点加密流量共识协议，它的诞生可以为网络提供安全访问终端节点，也可以为5G网络提供可通用的流量结算技术方案。作为一款通过第三方应用，存储流量共识、HOP 去中心化矿池、智能合约平台构建而成一个的区块链生态综合体。"
+    },
+    "email": "hyperorchidprotocol@gmail.com",
+    "website": "https://www.hyperorchid.org/",
+    "state": "NORMAL",
+    "published_on": "2019-10-07",
+    "initial_price": {
+        "USD": "$0.63 USD"
+    },
+    "links": {
+        "blog": "https://www.hyperorchid.org/",
+        "twitter": "https://twitter.com/hyperorchid",
+        "github": "https://github.com/hyperorchidlab",
+        "medium": ""
+    }
+}
