@@ -3,7 +3,11 @@
   "address": "0x820fdda87a6fae864d3da0c2d9819b9e50a87fc9",
   "overview":{
         "en": "",
+<<<<<<< HEAD
+        "zh": "是100sunex 阳光壹佰数字资产交易平台发行的平台通证，承载着平台价值、应用、分红、投票等多项权益及功能"
+=======
         "zh": "100sunex 阳光壹佰数字资产交易平台发行的平台通证，承载着平台价值、应用、分红、投票等多项权益及功能"
+>>>>>>> 2533e3602a3f1650b202d5e33f9542bc6dd96481
   },
   "email": "sunex-bd@hotmail.com",
   "website": "https://100sunex.com/",
