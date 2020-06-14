@@ -1,0 +1,17 @@
+{
+    "symbol": "HHT",
+    "address": "0xf1e296b2777517c36F7b0a4098Ad75330DBB1C26",
+    "overview": {
+        "en": "The torch plan aims to solve the thorny problems such as high concurrency, difficult application and hidden payment of future blocks. At present, the blockchain industry is undergoing a change, and only after a wave of sand is there a real consensus currency. The HHT issued by the torch team will create the fourth largest hidden currency after zcash, and the torch plan launched will be passed to every corner of the world like the torch spirit, so that the torch plan can not be extinguished like the Greek flame. At the same time, the low threshold of intervention makes it easy for everyone to get started. In addition, the destruction mechanism can quickly promote the price growth.",
+        "zh": "火炬计划，致力解决未来区块高并发、应用难，支付隐 秘性等棘手问题，当下区块链行业正在进行一次变革，大浪淘沙之后才是真正有 共识的币种。火炬团队发行的 HHT 将打造继 Zcash 之后的第四大隐秘货币，所 发起的火炬计划将和火炬精神一样传递至世界每一个角落，让火炬计划像希腊火 种一样用不熄灭。同时低门槛的介入，让每个人都能轻松入门，外加销毁机制， 快速推动价格增长。"
+    },
+    "email": "hhtservice@hhtsite.com",
+    "website": "http://www.hhtsite.com",
+    "whitepaper": "http://www.hhtsite.com/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-06-14",
+    "links": {
+        "telegram": "https://t.me/hhtservicegroup",
+        "github": "https://github.com/HHTSERVICE/HHT"
+    }
+}
