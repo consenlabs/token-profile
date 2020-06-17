@@ -2,8 +2,8 @@
     "symbol": "SLM",
     "address": "0x478B95c1a32a8b8123Baf59436F403FcC994DcE2",
     "overview": {
-        "en": "SLM was co-founded by the Solomon Foundation founded by Israeli blockchain expert Daniel Peled and entrepreneur and investor Eyal Hertzog. It means the integration of digital technology and finance. We believe that digital technology will have long-term development in the future. In the near future, blockchain assets will become the mainstream of finance. Together, we will create a blockchain trading platform that seeks fairness, openness, and regularity.",
-        "zh": "SLM由以色列区块链专家Daniel peled和企业家、投资人Eyal Hertzog等组建的所罗门基金会联合创立。意为数字科技与金融的融合。我们相信数字科技将在未来有着长远的发展。在不远的未来区块链资产将成为金融主流。我们将一起创建一个最求公平，开放，而有规则的区块链交易平台。"
+        "zh": "所罗门集团推行的代币为Solomon coin，简称：SLM，为所罗门官方唯一发行数字货币，SLM应用到所罗门集团全球业务与全球生态体系的各类应用中，成为所罗门集团生态体系支撑的重要枢纽。发行量恒定为2亿个。SLM是基于以太坊Ethrernm发行的去中心化的区块链数字资产，它是基于以太坊区块链的ERC20标准代币，未来会转移到自研公链。所罗门集团下属的SLM基金会在以色列行业内有丰富的资源和众多的合作伙伴，已经和多家投资基金达成共识，为SLM导入流量提供保证。",
+        "en": "The token promoted by Solomon Group is Solomon coin, abbreviated as: SLM, which is the only official digital currency issued by Solomon. SLM is applied to various applications of Solomon Group’s global business and global ecosystem, and has become an important hub for the support of Solomon Group’s ecosystem. The circulation is constant at 200 million. SLM is a decentralized blockchain digital asset based on Ethereum Ethrernm. It is an ERC20 standard token based on the Ethereum blockchain and will be transferred to a self-developed public chain in the future.The SLM Foundation, a subsidiary of the Solomon Group, has rich resources and numerous partners in the Israeli industry, and has reached consensus with multiple investment funds to provide guarantees for SLM import traffic."
     },
     "email": "admin@slmdapp.com",
     "website": "http://www.slmdapp.com",
@@ -14,8 +14,8 @@
         "USD": "1 USD"
     },
     "links": {
-        "github": "https://github.com/solomon20200529/token-profile",
+        "github": "https://github.com/consenlabs/token-profile/pull/5863",
         "facebook": "https://www.facebook.com/slmdapp/posts/104630211280039",
-        "telegram": "t.me/slmdig"
+        "telegram": "https://t.me/slmdig"
     }
 }
