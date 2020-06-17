@@ -1,0 +1,22 @@
+{
+  "symbol": "Token symbol",
+  "address": "0xf7ec11db22bd76f9e1f9485ed42f4118836d35bd",
+  "overview":{
+        "en": "",
+        "zh": "USDE项目资料：EXcoin是一家根据伯利兹国家相关法律在伯利兹国家注册成立的公司，该公司是一个专门供用户进行数字期权交易和提供相关服务的平台。EXcoin是全球首家推出数字期权交易的区块链衍生品交易所。EXcoin向全球用户提供各种创新型区块链资产衍生品，由EXcoin Limited.负责运营。EXcoin公司研发了证券、期货、国际金融衍生品的交易系统、结算清算系统、风控系统、行情系统、量化交易系统、用户CRM系统、社交系统等完整的交易生态系统。其开发的平台承载国际金融衍生品成交额就达数千亿美元。EXcoin公司具备近十年的衍生品交易平台技术实力和运营能力，能够让交易所快速稳定增长，EXcoin团队将致力于成为全球最专业的数字期权衍生品交易所，为庞大的传统金融衍生品投资者提供更为熟悉的数字期权衍生品交易服务，给予所有客户最优质的一站式全方位金融理财教育与投资平台。EXcoin数字期权衍生品交易平台是合法持有牌照的专业交易平台-虚拟货币电子钱包、加密对加密交易、法币对加密货币的双向交易、法币对法币交易、外汇交易、欧元/美元、英镑/日元等。"
+  },
+  "email": "info@excoin.io",
+  "website": "https://excoin.io/",
+  "whitepaper": "http://excoin.io/download/whitepaper_cn.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-03-01",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ExcoinF",
+    "facebook": "https://www.facebook.com/EXcoinF/"
+  }
+}
