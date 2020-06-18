@@ -1,0 +1,20 @@
+{
+"symbol": "DT",
+"address": "0x0ce1F67f36bAb7001B43f7160543a48f9F12CE15",
+"overview": {
+   "en": "DT is the DeFi Era Intelligent contract system's game token + equity pass + fuel consumption.",
+   "zh": "DT是DeFi Era智能合约系统的游戏令牌+权益的通证+消耗燃料。"
+},
+"email": "defiera@protonmail.com",
+"website": "defiera.github.io",
+"whitepaper": "defiera.github.io",
+"state": "NORMAL",
+"published_on": "2020-6-01",
+"initial_price":{
+      "USDT":"20 USD"
+},
+"links": {
+"telegram": "https://0.plus/DeFi_Era",
+"github": "https://github.com/defiera"
+}
+}
