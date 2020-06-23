@@ -1,6 +1,6 @@
 {
     "symbol": "BPT",
-    "address": "0xBC52a198619553fc1A0F925bB5B2E6EfaA9e45F1",
+    "address": "0x6b5eC3590bda2297bc14a14b623Ac36C2EFa261f",
     "overview":{
           "en": "BPassword is a blockchain and cryptography based user/password management, identity verification tool. It's client directly interacts with blockchain and has no backend server. So it's immune to hacker attack and can be proved safe.",
           "zh": "BPassword(密码宝)是一款通过区块链和加密技术,为用户提供用户名/密码管理以及身份验证的数字身份管理产品。它的特点是使用客户端直接和区块链交互,没有后端服务器的存在,免于数据泄漏和黑客攻击,并且BPassword的安全性是可被数学证明的。"
