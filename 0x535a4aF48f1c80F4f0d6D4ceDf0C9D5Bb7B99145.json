@@ -1,0 +1,17 @@
+{
+  "symbol": "DIP",
+  "address": "0x535a4aF48f1c80F4f0d6D4ceDf0C9D5Bb7B99145",
+  "overview":{
+        "en": "Dipper Network is an open financial blockchain based on BPOS and cross-chain ecology.",
+        "zh": "Dipper Network是一条基于BPOS共识机制和跨链生态的开放金融公链。"
+  },
+  "website": "https://www.dippernetwork.com",
+  "whitepaper": "https://github.com/Dipper-Labs/resources/blob/master/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-7",
+  "links": {
+    "twitter": "https://twitter.com/DipperNetwork",
+    "telegram": "https://t.me/DipperNetworkOfficial",
+    "github": "https://github.com/Dipper-Labs"
+  }
+}
