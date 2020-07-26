@@ -1,28 +1,14 @@
 {
-    "symbol": "YES",
-    "address": "0x0824eb290B57fD3ae491F960423bD08bce6BA2E7",
+    "symbol": "TDC",
+    "address": "0x827B317893b2767Bc71E42D2dEed91c538576A15",
     "overview": {
-        "en": "Yes chain is one of Boca ecological builders, focusing on cross chain transactions of assets, especially virtual assets such as game props. Boca does the infrastructure layer, and other businesses are delivered to the community. Yeschain is positioned as a cross chain hub of digital assets. One of the goals is to make yesbank, a truly decentralized exchange based on Boca, to realize centralized exchange by using real cross chain. It is not like BTS with centralized gateway, not like Ethereum or EOS, It can only trade tokens based on eth platform or EOS platform, and can achieve a block time of 1-2s and a final deterministic delay within 10s.Yeschain uses multi chain architecture to solve the congestion problem. The transaction is confirmed in one second to meet the high performance and low delay required by the game. At the same time, it uses the method of mapping other public chain data and making secondary confirmation to realize safe cross chain interaction, which can support the game docking of various public chains.",
-        "zh": "YesChain是波卡生态建设者之一,专注资产跨链特别是游戏道具等虚拟资产的跨链交易。波卡做的是基础架构层，其他业务就是交由社区实现，而YesChain的定位是成为数字资产的跨链枢纽，其中一个目标是基于波卡做真正的去中心化交易所YesBank，利用真正的跨链去实现中心化交易所，不是像BTS拥有中心化网关，不是像以太坊或者EOS上的去中心化交易，只能交易基于ETH平台或者基于EOS平台的代币，而且能做到1-2s 的出块时间，10s 以内的最终确定性延迟。YesChain采用多链架构解决拥堵问题， 交易一秒确认， 满足游戏所需的高性能低延迟， 同时采用映射其他公链数据并作二次确认的方式实现安全的跨链交互， 可支持各类公链的游戏对接。 "
+        "en": "TDC is the only value certificate of transdata chain transportation data platform, which will be transferred, value incentive and consumption certification in the transdata chain data ecosystem. In order to solve the problem of low data application rate and data redundancy caused by data island and low data analysis and processing ability in the field of traffic data, TDC traffic big data platform plans to intelligently collect traffic data by configuring front-end vehicle hardware equipment, intelligently analyze the collected data by using advanced artificial intelligence algorithm model, and use blockchain technology to data It encrypts distributed storage, builds a new economic system based on dapow consensus mechanism, and realizes the application value and scenario of traffic data, so as to promote the rapid application of traffic data in the Internet of things, road safety, road transportation, driverless and other scenarios.",
+        "zh": "TDC是TransData Chain交通数据平台唯一价值凭证，将在TransData Chain数据生态圈中进行流转，价值激励及消费认证。为解决目前交通数据领域所面临的数据孤岛及数据分析处理能力低下而造成数据应用率低，数据冗余现象，TDC交通大数据平台拟通过配置前端车载硬件设备对交通数据进行智能化采集，利用先进的人工智能算法模型对采集数据进行智能解析，采用区块链技术对数据进行加密分布式存储，并基于DaPow共识机制构建全新的经济体制，实现交通数据应用价值化与场景化，从而推动交通数据在物联网、公路安全、道路运输、无人驾驶等场景的较快应用落地。"
     },
-    "email": "yeschaindao@gmail.com",
-    "website": "yeschain.io",
-    "whitepaper": "http://yeschain.io/white_paper.pdf",
+    "email": "olalalalal@sina.com",
+    "website": "http://www.tdcio.com/",
+    "whitepaper": "http://www.tdcio.com/tdcpdf.pdf",
     "state": "NORMAL",
-    "published_on": "2020-07-14",
-    "initial_price": {
-        "ETH": "0.01785714 ETH",
-        "USD": "5 USD",
-        "BTC": "0.00052776 BTC"
-    },
-    "links": {
-        "blog": "https://twitter.com/YeschainF",
-        "twitter": "https://twitter.com/YeschainF",
-        "telegram": "https://t.me/joinchat/your-awesome-project",
-        "github": "https://github.com/YesChain",
-        "facebook": "fb.me/mobiusdao",
-        "reddit": "https://www.reddit.com/user/mobiusdao",
-        "slack": "https://join.slack.com/t/mobiusfoundation/shared_invite/zt-flkx1o4y-eblYjtSJlqj08jU0gAyKxA",
-        "medium": "https://link.medium.com/eN9BNkHgQ7"
-    }
+    "published_on": "2020-01-16",
+    "links": {}
 }
