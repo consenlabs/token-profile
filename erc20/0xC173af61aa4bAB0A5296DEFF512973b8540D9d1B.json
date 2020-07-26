@@ -1,0 +1,24 @@
+{
+  "symbol": "CPT",
+  "address": "0xC173af61aa4bAB0A5296DEFF512973b8540D9d1B",
+  "overview":{
+        "en": "CPT is a new type of cryptocurrency based on Cloud Proof Of Capacity. Using hard disks as a consensus participant reduces the consumption of power resources and participation thresholds of cryptocurrencies, and makes their production methods more decentralized, safe and reliable, so that everyone can participate in the mining of cryptocurrencies through mathematical algorithms. And distributed mining generates credit and value.",
+        "zh": "CPT云矿币是基于Cloud Proof Of Capacity 的新型加密货币。使用硬盘作为共识的参与者，降低加密货币对电力资源的消耗、参与门槛，让其生产方式更趋向去中心化方式、安全可信，让人人都能参与到加密货币的开采，通过数学算法以及分布式开采产生信用和价值。"
+  },
+  "email": "info@cptstaking.com",
+  "website": "http://cptstaking.com/",
+  "whitepaper": "https://yunkuanapp.oss-cn-hongkong.aliyuncs.com/CPTWhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-06-28",
+  "initial_price":{
+	"USD":"0.5 USD"
+  },
+  "links": {
+    "twitter": "",
+    "telegram": "https://t.me/CPTStaking",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "medium": ""
+  }
+}
