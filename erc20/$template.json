@@ -1,28 +1,24 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "RVS",
+  "address": "0x9E7EDA7D5F87b6210004142FC48e41122eaB7202",
   "overview":{
-        "en": "Token Description.",
+        "en": "RVS (Revisor) Token is utility token for decentralized Financial Auditing",
         "zh": ""
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "email": "support@revisor.link",
+  "website": "https://revisor.link/",
+  "whitepaper": "https://revisor.link/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-08-01",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "ETH":"0.00033 ETH",
+ 
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "blog": "https://revisor.link",
+    "twitter": "https://twitter.com/RevisorNetwork",
+    "telegram": "https://t.me/joinchat/RevisorOfficial",
+    "github": "https://github.com/revisortoken",
+
   }
 }
