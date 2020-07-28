@@ -1,0 +1,24 @@
+{
+  "symbol": "RVS",
+  "address": "0x9E7EDA7D5F87b6210004142FC48e41122eaB7202",
+  "overview":{
+        "en": "RVS (Revisor) Token is utility token for decentralized Financial Auditing",
+        "zh": ""
+  },
+  "email": "support@revisor.link",
+  "website": "https://revisor.link/",
+  "whitepaper": "https://revisor.link/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-08-01",
+  "initial_price":{
+        "ETH":"0.00033 ETH",
+ 
+  },
+  "links": {
+    "blog": "https://revisor.link",
+    "twitter": "https://twitter.com/RevisorNetwork",
+    "telegram": "https://t.me/joinchat/RevisorOfficial",
+    "github": "https://github.com/revisortoken",
+
+  }
+}
