@@ -1,0 +1,24 @@
+{
+  "symbol": "DLAF",
+  "address": "0x1a1612BF4551f6B49109a37Ef412FD2D08ac1160",
+  "overview":{
+        "en": "Decentralized Loan of Finance - Leverage your assets with DLAF cross-chain platform solve problems without problems!",
+        "zh": ""
+  },
+  "email": "dev@dlaf.io",
+  "website": "https://dlaf.io/",
+  "whitepaper": "https://dlaf.io/lightpaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-08-08",
+  "initial_price":{
+        "ETH":"0.00133333 ETH"
+ 
+  },
+  "links": {
+    "blog": "https://dlaf.io/",
+    "twitter": "https://twitter.com/dlaftoken",
+    "telegram": "https://t.me/DLAFannchannel",
+    "github": "https://github.com/dlaf-io",
+    "medium": "https://medium.com/@dlafinance"
+  }
+}
