@@ -1,0 +1,22 @@
+{
+  "symbol": "MAP",
+  "address": "0x49229C3902d49BE6443E01C0251b02780397ab1A",
+  "overview":{
+        "en": "First Protocol that Provides the Infrastructure for Direct Interoperate in the Heterogeneous Blockchain Ecosystem.MarcoPolo Protocol is an open, fully decentralized, chain-to-chain interoperation protocol that enables the interoperability of multiple independently verifiable consensus blockchains without a relay chain. MarcoPolo Protocol expects to construct a future inter-chain-net, which is interoperable and chain-to-chain based. The ecosystem built on MarcoPolo Protocol can provide a solid infrastructure for finance, AI, IoT, traceability, and governance filed by cross-chain communication, privacy computation, shared storage, etc.",
+        "zh": ""
+  },
+  "email": "cooperation@MarcoPolo.link",
+  "website": "https://www.marcopolo.link",
+  "whitepaper": "https://files.marcopolo.link/pdf/marcopolo_whitepaper_en.pdf",
+  "state": "NORMAL",
+  "initial_price":{
+        "USD":"0.015 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/marcopologlobal",
+    "telegram": "https://t.me/MarcoPoloMAP",
+    "github": "https://github.com/marcopoloprotocol",
+    "reddit": "https://www.reddit.com/r/MarcoPoloProtocol",
+    "medium": "https://medium.com/marcopolo-protocol"
+  }
+}
