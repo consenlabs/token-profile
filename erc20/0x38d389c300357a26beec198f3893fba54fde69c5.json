@@ -1,0 +1,24 @@
+{
+  "symbol": "PUSD",
+  "address": "0x38d389c300357a26beec198f3893fba54fde69c5",
+  "overview":{
+        "en": "PAYUSD is an innovative payment network and a new kind of money. PAYUSD is an Open Source ERC20 Token (PUSD) that empowers the internet transaction ecosystem. As the native coin of Thecoinyard.com, PUSD can be used for multiple use cases.",
+        "zh": ""
+  },
+  "email": "info@payusd.io",
+  "website": "https://payusd.io",
+  "whitepaper": "https://payusd.io/payusdwhitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-01-01",
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/thecoinyard",
+    "telegram": "https://t.me/payusdtoken",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@payusd"
+  }
+}
