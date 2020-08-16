@@ -1,0 +1,17 @@
+{
+    "symbol": "YBC",
+    "address": "0xF88ecFD30d26a28418581089a1bDaB90d0A7bFB9",
+    "overview":{
+          "en": "YBC is a distributed financial system based on blockchain. The core goal is to promote the development and improvement of the distributed financial ecosystem. Based on the three major businesses of traditional financial fields, namely banking, securities and insurance, the modern financial troika will be introduced into the block In the field of chain, build on-chain finance, and then build an efficient distributed financial ecological infrastructure.",
+          "zh": "YBC是基于区块链的分布式金融系统，核心目标是推动分布式金融生态的发展和完善，基于传统金融领域银行、证券和保险三大业务的基础上，将现代金融三驾马车引入区块链领域，打造链上金融，进而搭建高效运行的分布式金融生态基础设施。"
+    },
+    "email": "ybcoinservice@gmail.com",
+    "website": "http://www.yuanbaocoin.com/",
+    "whitepaper": "http://www.yuanbaocoin.com/user/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-08-06",
+    "links": {
+        "telegram": "https://t.me/yuanbaocoin",
+        "twitter": "https://twitter.com/yuanbaocoin"
+      }
+}
