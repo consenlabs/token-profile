@@ -1,0 +1,25 @@
+{
+    "symbol": "DEP",
+    "address": "0xe7Db1D1Bfa25be2A16393Fd1E2328dEd58367a27",
+    "overview": {
+        "en": "DEPCO(DEP) named Decentralized Probability Consortium was founded by a group of builders, encryption enthusiasts, financiers and mathematicians who yearn for financial freedom. They are committed to creating an equal, free and altruistic open financial system with blockchain and other innovative technologies.Based on the advantages in technology, finance, algorithm and many more, DEPCO has created an automatic arbitrage system of interest rate spread across DeFi platforms named Explorer and liquidator robot arbitrage system named Keeper. We hope to lead you to explore opportunities of the financial freedom in this immature infrastructure and early financial market of DeFi, and witness the arrival of a new paradigm of the world at the same time.",
+        "zh": "DEPCO（DEP）全名分布概率联合体，它由一群向往金融自由的极客建设者、加密爱好者，金融家和数学家发起建立。他们致力于用区块链等创新技术创建一个平等,自由且利他的无国界开放金融系统。基于在技术、金融、算法等方面的优势，DEPCO经过对DeFi金融市场的深入研究和实践，创造了利率差跨DeFi平台自动套利系统：探索者和清算机器人套利系统：守望者。期望在这基础设施不成熟且处于早期的DeFi金融市场中，带领大家一起去探索创造财富自由的机会，同时守望着这个世界新范式的到来。"
+    },
+    "email": "depco@depco.io",
+    "website": "https://www.depco.io",
+    "whitepaper": "https://depco.io/static/DEP_introduction-fd4c11f19eb0489e7ecef7d46b42f4d4.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-07-25",
+    "initial_price": {
+        "ETH": "0.0005 ETH",
+        "USD": "0.2 USD"
+    },
+    "links": {
+        "blog": "https://medium.com/@Depco",
+        "twitter": "https://twitter.com/DEPCO_Academy",
+        "telegram": "https://t.me/DepcoAcademy",
+        "reddit": "https://www.reddit.com/user/DEPCO101",
+        "medium": "hhttps://medium.com/@Depco",
+        "youtube": "https://www.youtube.com/channel/UCsaeYMfY7tqXIjTWVVaQs0g"
+    }
+}
