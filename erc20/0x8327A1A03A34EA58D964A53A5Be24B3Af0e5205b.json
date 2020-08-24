@@ -1,0 +1,16 @@
+{
+    "symbol": "TE",
+    "address": "0x8327A1A03A34EA58D964A53A5Be24B3Af0e5205b",
+    "overview": {
+        "en": "The tourism ecological chain expects to build a complete digital asset trading system through blockchain technology, and introduce it into the physical tourism industry, realize the digitization of tourism assets and the tourism industry, and build a future tourism era with long-term competitiveness. In the world of the tourism ecological chain, from travel to accommodation, from eating and drinking to having fun, from food to shopping, it brings a brand new revolution to all travel participants, whether it is Business or Customer.",
+        "zh": "旅游生态链期望通过区块链技术构建一套完善的数字化资产交易体系，并将其引入实体旅游 行业，实现旅游资产数字化、旅游行业的数字化，建造一个具有长远竞争力的未来旅游时代。 在旅游生态链的世界里，从出行到住宿，从吃喝到玩乐，从美食到购物，给所有的旅行参与 者， 无论是 Business 还是 Customer，都带来一场全新的革命。"
+    },
+    "email": "chain@traveleco.net",
+    "website": "http://traveleco.net",
+    "whitepaper": "http://lifechain.net/pdf/te.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-8-10",
+    "initial_price": {
+        "USD": "0.2 USD"
+    }
+}
