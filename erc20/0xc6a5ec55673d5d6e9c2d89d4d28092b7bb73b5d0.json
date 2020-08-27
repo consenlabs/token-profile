@@ -1,0 +1,25 @@
+{
+  "website": "https://artemi.finance/",
+  "published_on": "2020-08-22",
+  "links": {
+    "telegram": "https://t.me/artemisfinanceofficial",
+    "medium": "https://medium.com/@ArsArtemis",
+    "twitter": "https://twitter.com/ArtemisFinance",
+    "reddit": "https://www.reddit.com/user/ArsArtemis",
+    "discord": "https://discord.com/invite/Rx5AHe9"
+  },
+  "overview": {
+    "en": "ArtemisFinance is dedicated to building the next generation of decentralized financial platforms that provide better liquidity and collapse compatibility for crypto assets. Allowing users to conduct P2C (Peer-to- Contract), Artemis empowers financial derivatives and crypto assets with a one-stop solution that provides all the support needed for the DeFi ecosystem.",
+    "zh": "Artemis 致力于建设下一代分布式的金融平台，为加密资产提供更好的流动性和垮链兼容性。Artemis 允许用户进行P2C（对等合约），通过对分布式金融业务流程的抽象和封装，用一站式解决方案赋能金融衍生品与加密资产，为Defi应用生态提供一切需要的底层支持。"
+  },
+  "state": "NORMAL",
+  "symbol": "ARS",
+  "initial_price": {
+    "ETH": "0.0005 ETH",
+    "USD": "0.2 USD",
+    "BTC": "0.00001695 BTC"
+  },
+  "address": "0xc6a5ec55673d5d6e9c2d89d4d28092b7bb73b5d0",
+  "whitepaper": "https://bit.ly/316fPMj",
+  "email": "ars.artemis@protonmail.com"
+}
