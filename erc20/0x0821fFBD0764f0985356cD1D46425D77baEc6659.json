@@ -1,0 +1,18 @@
+{
+  "symbol": "YT",
+  "address": "0x0821fFBD0764f0985356cD1D46425D77baEc6659",
+  "overview":{
+        "en": "YT",
+        "zh": "永通"
+  },
+  "email": "Email",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-08-25",
+  "initial_price":{
+        "ETH":"0.000333332 ETH",
+        "USD":"0.14 USD",
+        "BTC":"0.000008274 BTC"
+  }
+}
