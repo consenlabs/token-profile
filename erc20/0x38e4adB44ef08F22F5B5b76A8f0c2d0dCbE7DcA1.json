@@ -1,0 +1,23 @@
+{
+  "symbol": "CVP",
+  "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+  "overview":{
+    "en": "The PowerPool is a protocol for pooling governance tokens (GTs), such as COMP, BAL, LEND, YFI, BZRX, AKRO, and many others. Now the minority token holders can extract minimal utility from such tokens for two reasons\n\n(1) they cannot influence the votes (2) the significant share of such tokens don't provide any income As a result, the fundamental value of such tokens for the minority holder is close to zero, and protocols face voters' apathy problem.\n\nPowerPool allows the token holders to lend, pool, borrow governance tokens, get income from it, and accumulate governance power in protocols based on Ethereum. The Power Pool's mission is to expand the utility of governance tokens to the end-users and provide new coordination for decision making in the Defi ecosystem.",
+    "zh": ""
+  },
+  "email": "info@powerpool.finance",
+  "website": "https://powerpool.finance/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-08-20",
+  "initial_price":{
+    "ETH":"0.00055466 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/powerpoolcvp",
+    "telegram": "https://t.me/powerpoolcvp",
+    "github": "https://github.com/powerpool-finance",
+    "medium": "https://link.medium.com/bWcPgVnpN8",
+    "discord": "https://discord.gg/hYJXUBQ"
+  }
+}
