@@ -1,0 +1,24 @@
+{
+  "symbol": "ASK",
+  "address": "permission",
+  "overview":{
+    "en": "Permission.io is the leading provider of permission advertising for eCommerce.",
+    "zh": "Permission.io 是电子商务许可广告的领先提供商。"
+  },
+  "website": "https://permission.io/",
+  "whitepaper": " https://cdn.permission.io/about/Permission-Foundation-Technical-Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-01",
+  "email": "info@permission.io",
+  "initial_price": {
+    "USD": "0.03 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/permissionIO",
+    "facebook": "https://www.facebook.com/PermissionIO",
+    "medium": "https://medium.com/permissionio",
+    "gitlab": " https://permission.gitlab.io/",
+    "crunchbase": "https://www.crunchbase.com/organization/permission-io",
+    "reddit": "https://www.reddit.com/r/PermissionIO"
+  }
+}
