@@ -1,0 +1,28 @@
+{
+  "symbol": "GON",
+  "address": "0x4375ccb8A9dfc1B2D129c533eaB29daEdA00b4bD",
+  "overview": {
+    "en": "Polygon is the world’s first multi-dimensional DeFi underlying infrastructure, capable of fully decentralized cross-chain transactions, and very efficiently and accurately provide users with executable transaction prices. It will also include decentralized stable digital currencies. Centralized oracle decentralized insurance, liquidity mining, smart mining, etc., to create the most comprehensive decentralized financial platform. ",
+    "zh": "Polygon是全球首个多维度的DeFi底层基础设施，能够进行完全去中心化的跨链交易，并非常高效准确地给用户提供可执行交易的价格，同时还会包含去中心化稳定数字货币，去中心化预言机去中心化保险、流动性挖矿、智能挖矿等等协议，进而打造最全面的去中心化金融平台."
+  },
+  "email": "polygondefi@hotmail.com",
+  "website": "http://polygon.finance/",
+  "whitepaper": "http://polygon.finance/",
+  "state": "NORMAL",
+  "published_on": "2020-09-03",
+  "initial_price": {
+    "ETH": "0.00002",
+    "USD": "0.01",
+    "BTC": "none"
+  },
+  "links": {
+    "blog": "none",
+    "twitter": "https://twitter.com/PolygonDefi",
+    "telegram": "https://t.me/polygondefi",
+    "reddit": "none",
+    "github": "none",
+    "facebook": "none",
+    "slack": "none",
+    "medium": "none"
+  }
+}
