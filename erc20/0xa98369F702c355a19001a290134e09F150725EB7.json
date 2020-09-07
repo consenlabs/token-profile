@@ -1,0 +1,16 @@
+{
+  "symbol": "SEC",
+  "address": "0xa98369F702c355a19001a290134e09F150725EB7",
+  "overview":{
+        "en": "",
+        "zh": "SEC是 SkyEcoChain 整个大生态的通证证明，目前是在erc20的标准下的智能合约TOKEN，它的应用场景在于支持在SEC钱包、云城大亨、SEC交易中心等场景的流通。同时用户通过 SEC资产交易中心实现币币兑换。目前SEC公链处于研发阶段，后期SEC公链会和更多的区块链Dapp共同打造一个可流通的体系生态。"
+  },
+  "website": "http://www.skyecochain.com",
+  "whitepaper": "http://www.skyecochain.com/pdf/web/viewer.html?file=../../images/SkyEcoChain.pdf",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://weibo.com/u/6177204408",
+    "twitter": "https://twitter.com/SkyEcoChain1",
+    "telegram": "https://t.me/joinchat/QfQbmBgiB8ahVke1dl_pHA"
+  }
+}
