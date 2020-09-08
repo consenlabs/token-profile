@@ -1,0 +1,19 @@
+{
+    "symbol": "ETRD",
+    "address": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "overview": {
+        "en": "EUSD Token is a utility token. It isthe native token for ETrading Stablechain to pay for tx/gas fee and Liquidity Mining. ETrading Stablechain is a POS blockchain that is compatible with EVM. EUSD seeks to provide price stability with elastic supply monetary model, governable treasury.",
+        "zh": "EUSD代幣是一種功能型代幣。它是ETrading穩定鏈的母鏈代幣，同時能夠參與流動性挖礦。ETrading穩定鏈是一條和以太坊虛擬機兼容的POS的區塊鏈。EUSD希望能夠通過彈性的供給模型，可治理的儲備來實現價值的穩定。"
+    },
+    "email": "admin@e.trading",
+    "website": "https://e.trading",
+    "whitepaper": "https://forum.poa.network/uploads/short-url/r5IY70tfTPezuvXzUQRNTaQsNbU.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-09-07",
+    "initial_price": {
+        "USD": "$1.00"
+    },
+    "links": {
+        "github": "https://github.com/ElectronicTrading"
+    }
+}
