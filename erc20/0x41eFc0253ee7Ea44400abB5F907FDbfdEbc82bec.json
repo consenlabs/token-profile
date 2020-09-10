@@ -1,0 +1,24 @@
+{
+  "symbol": "$AAPL",
+  "address": "0x41eFc0253ee7Ea44400abB5F907FDbfdEbc82bec",
+  "overview":{
+        "en": "Applescash = YFI + Ampleforth, $AAPL is going to be the No.1 elastic stable coin. Just enjoy the dual benefits of yield farming and elastic tokens. The AAPL Protocol is a DeFi invention designing for the Crazy Ones.",
+        "zh": "Applescash = YFI + Ampleforth，$AAPL要成为世界第一的弹性稳定币，你可以享受农场挖矿和弹性代币的双重收益。AAPL Protocol是一个为疯狂的人设计的DeFi发明。"
+  },
+  "email": "dao@applescash.com",
+  "website": "https://www.applescash.com/",
+  "whitepaper": "https://www.applescash.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-09-02",
+  "initial_price":{ 
+        "USD":"1 USD" 
+  },
+  "links": {
+    "blog": "https://medium.com/@applescashdefi",
+    "twitter": "https://twitter.com/ApplescashC",
+    "telegram": "https://t.me/applescash", 
+    "facebook": "https://www.facebook.com/applescash/",
+    "reddit": "https://www.reddit.com/user/applescash", 
+    "medium": "https://medium.com/@applescashdefi"
+  }
+}
