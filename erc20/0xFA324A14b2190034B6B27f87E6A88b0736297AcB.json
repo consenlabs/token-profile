@@ -2,8 +2,8 @@
   "symbol": "CCR",
   "address": "0xFA324A14b2190034B6B27f87E6A88b0736297AcB",
   "overview": {
-    "en": "TFT(TokenFans Token) is the membership badge for TokenFans Club, a user-based community managed by ConsenLabs. It is non-divisible, not tradeable and issued only through official channels.",
-    "zh": "TFT ÊÇ ConsenLabs ÆìÏÂÓÃ»§ÉçÈºÆ·ÅÆ¡¸TokenFans Í¨·Û¾ãÀÖ²¿¡¹µÄ»áÔ±Ñ«ÕÂ£¬Ä¿Ç°½öÓÉ¹Ù·½ÇşµÀ·¢·Å£¬²»¿É·Ö¸î£¬²»Ö§³Ö½»Ò×¡£"
+    "en": "CCR is a token created by the BigBoard digital financial community to solve financial problems. It is an exclusive pass and symbol belonging to the community. At present, it is only officially issued and has no other access channels.",
+    "zh": "CCRï¼Œæ˜¯BigBoardæ•°å­—é‡‘èç¤¾åŒºä¸ºäº†è§£å†³é‡‘èé—®é¢˜æ‰€åˆ›é€ çš„ä»£å¸ï¼Œæ˜¯å±äºç¤¾åŒºçš„ä¸“å±é€šè¯å’Œè±¡å¾ï¼Œç›®å‰ä»…æœ‰å®˜æ–¹æŒ‡å®šå‘æ”¾ï¼Œæ— å…¶å®ƒè·å–æ¸ é“ã€‚"
   },
   "email": "lccf911@protonmail.com",
   "website": "",
@@ -11,9 +11,9 @@
   "state": "NORMAL",
   "published_on": "2020-09-04",
   "initial_price":{
-        "ETH":"0.666 ETH",
-        "USD":"0.666 USD",
-        "BTC":"0.666 BTC"
+        "ETH":"1 ETH",
+        "USD":"380 USD",
+        "BTC":"0.035 BTC"
   },
   "links": {
     "blog": "",
@@ -21,7 +21,7 @@
     "telegram": "",
     "reddit": "",
     "github": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/permalink.php?story_fbid=108585964326453&id=100055251496577&__tn__=%2CdH-R-R&eid=ARDGxyDRd1WLPWXtPMMvosZSNsunAJEZUQb9J2NtfdzSmNCNECyB5giVN9sSu0sBIuPoX9GrUl68e86R",
     "slack": "",
     "medium": ""
   }
