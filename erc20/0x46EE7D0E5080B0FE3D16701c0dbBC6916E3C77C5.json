@@ -10,14 +10,14 @@
     "website2":"https://www.coinwaygroups.com",
     "whitepaper":https://drive.google.com/file/d/1C8-b41_mqPfFIFsjIMLM-NVN_rswDIXc/view?usp=drivesdk",
     "state": "NORMAL",
-    "published_on": "2020-09-13",
-    "initial_price": {
-        "USD": "$0.03USD"
+    "published_on":"2020-09-13",
+    "initial_price":{
+        "USD":"$0.03USD"
     },
-    "links": {
+    "links":{
         "Telegram":"t.me/CANOFFICIALGROUP",
-        "twitter": "https://twitter.com/TrustToken",
+        "twitter": "https://twitter.com/COINWAYCAN",
         "github": "https://github.com/coinwaycan",
-       "Instagram": "https://www.instagram.com/invites/contact/?i=19dya2mqmax7u&utm_content=j8ljekm"
+       "Instagram": "https://www.instagram.com/coinwaycan"
     }
 }
