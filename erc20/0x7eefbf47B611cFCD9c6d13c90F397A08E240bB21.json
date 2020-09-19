@@ -1,0 +1,19 @@
+{
+  "symbol": "LIBRA",
+  "address": "0x7eefbf47B611cFCD9c6d13c90F397A08E240bB21",
+  "overview":{
+        "en": "Libra is a truly decentralized value stable currency, with financial attributes and functions such as saving value, wealth management and generating currency, acceptance and dividends.",
+        "zh": "Libra是真正去中心化的价值稳定币，具有储蓄保值、理财生币、承兑分红等金融属性及功用"
+  },
+  "email": "libraasia@outlook.com",
+  "website": "https://libraasia.cc/",
+  "whitepaper": "https://libraasia.cc/public/downloads/LibraWhitePaper_zh_CN-1.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-09-09",
+  "initial_price":{
+        "USD":"4.15 USD"
+  },
+  "links": {
+    "blog": "https://libraasia.cc/news.html"
+  }
+}

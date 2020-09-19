@@ -1,0 +1,19 @@
+{
+  "symbol": "LIP",
+  "address": "0xee89114a2fD0320C184Af0AFEF0e3cf4CD237d2B",
+  "overview":{
+        "en": "LIP is payment currency and equity currency of Libra payment system.",
+        "zh": "LIP是Libra支付平台的手续费用支付币和权益币"
+  },
+  "email": "libraasia@outlook.com",
+  "website": "http://www.libraasia.cc/",
+  "whitepaper": "https://libraasia.cc/public/downloads/LibraWhitePaper_zh_CN-1.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-09-09",
+  "initial_price":{
+        "USD":"4.15 USD"
+  },
+  "links": {
+    "blog": "https://libraasia.cc/news.html"
+  }
+}
