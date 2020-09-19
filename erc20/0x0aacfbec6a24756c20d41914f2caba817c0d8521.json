@@ -1,0 +1,24 @@
+{
+  "symbol": "YAM",
+  "address": "0x0aacfbec6a24756c20d41914f2caba817c0d8521",
+  "overview":{
+        "en": "Yamv3 version, return to the essence of Yam",
+        "zh": "YAMv3版本,回归YAM的本质"
+  },
+  "email": "",
+  "website": "https://yam.finance",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-09-18",
+  "initial_price":{
+        "ETH":"0ETH",
+        "USD":"0USD",
+        "BTC":"0BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/YamFinance",
+    "discord": "https://discord.gg/t2r9CW",
+    "github": "https://github.com/yam-finance",
+    "medium": "https://medium.com/@yamfinance"
+  }
+}
