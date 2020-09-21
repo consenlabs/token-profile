@@ -1,10 +1,11 @@
-# Token Profile Guideline
+﻿# Token Profile
+ Guideline
 
 *Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md).*
 
 This repository (repo) provides the details about self-submitting **Token** information to imToken via GitHub.
 
-## What is Token Profile?
+## What is Token  Profile?
 
 Token Profile is the detailed information of the token issued by the project party. imToken 2.0 provides a dedicated display page for the Token Profile, to give users a more complete overview of tokens.
 The page is located at:
