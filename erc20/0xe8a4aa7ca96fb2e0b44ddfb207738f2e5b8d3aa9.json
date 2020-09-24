@@ -1,0 +1,21 @@
+{
+  "symbol": "YFC",
+  "address": "0xe8a4aa7ca96fb2e0b44ddfb207738f2e5b8d3aa9 ",
+  "overview": {
+    "en": " YFC is a DeFi financial project led by the community, with the people in charge and serving the people. YFC adopts the strategies of some famous financial tokens such as YFI and ZZZ, and its decisions and actions will be determined by its members and the community to ensure fairness and justice. YFC adopts the ZZZ governance system form. The value of YFC is determined by the contribution and innovation of the entire community.",
+    "zh": " YFC是由社区主导的DeFi金融项目，由人民做主，为人民服务。YFC采用YFI、ZZZ等一些著名金融代币的策略，其决策和行动将由其成员和社区决定，以保证公平公正。YFC采用ZZZ的治理体系形式。YFC的价值是由整个社区的贡献和创新决定的。"
+  },
+  "email": " 931005164@qq.com",
+  "website": "https://www.yearnchange.com",
+  "state": "NORMAL",
+  "published_on": "2020-09-16",
+  "initial_price":{
+        "ETH":"0.008 ETH",
+        "USD":"2.5 USD",
+        "BTC":"0.000253 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/yearnchangecom",
+    "telegram": "https://t.me/yearnchange",
+    "github": "https://github.com/yfc20201688",
+   }
