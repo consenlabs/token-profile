@@ -1,0 +1,21 @@
+{
+    "symbol": "SAKE",
+    "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+    "overview":{
+          "zh": "SakeSwap （清酒）支持滑点捕捉的高激励效率AMM协议，具有以下特点：1）SAKE代币引入通缩模型；2）交易滑点捕捉，50%的滑点收益将分配给流动性提供方；3）交易挖矿，不仅仅对流动性提供者奖励，也对交易行为本身奖励"
+    },
+    "email": "sakeswap@protonmail.com",
+    "website": "https://sakeswap.finance",
+    "whitepaper": "https://sakeswap.finance",
+    "state": "NORMAL",
+    "published_on": "2020-09-08",
+    "initial_price":{
+          "USD":"1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/SakeSwap",
+        "telegram": "https://t.me/SakeSwap_Official",
+        "github": "https://github.com/Sakeswap/sakeswap-protocol",
+        "medium": "https://medium.com/@sakeswap"
+    }
+  } 
