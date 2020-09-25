@@ -1,0 +1,28 @@
+{
+  "symbol": "ALA",
+  "address": "0x564F45b6bb68ADEd8b660a0d8a0A948DD6d6e4E8",
+  "overview":{
+        "en": "We make it possible for any business to raise capital for their projects globally at a small cost, with low barriers and support investors around the world who can invest in potential projects more easily, manage their assets and provide them with great trading tools",
+        "zh": ""
+  },
+  "email": "support@aladiex.com",
+  "website": "https://aladiex.com/",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-01-01",
+  "initial_price":{
+        "ETH":"",
+        "USD":"0.4 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/Aladiexchange",
+    "telegram": "https://t.me/AladiEx",
+    "github": "",
+    "facebook": "https://www.facebook.com/AladiEx",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/aladiex"
+  }
+}
