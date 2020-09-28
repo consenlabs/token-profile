@@ -5,5 +5,17 @@
         "en":"Based on the core concept of blockchain, FCH will help users rationally manage funds and venture capital.",
         "zh":"基于区块链的核心理念， FCH将帮助用户合理管理资金和风投控制。"
   },
+  "email": "jinyufch@yopmail.com",
+  "website": "http://www.filecash.club/",
+  "whitepaper": "http://www.filecash.club/file.pdf",
+  "state": "LOCKED | NORMAL",
   "published_on": "2020-09-21"
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "http://www.filecash.club/blog"
+  }
 }
