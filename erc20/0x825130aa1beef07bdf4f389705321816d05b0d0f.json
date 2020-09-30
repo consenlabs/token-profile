@@ -1,0 +1,18 @@
+{
+    "symbol": "UNII",
+    "address": "0x825130aa1beef07bdf4f389705321816d05b0d0f",
+    "overview":{
+          "en": "UNII (UNI Innamorare) is a community owned token, being the tool for community to vote in Uniswap’s governance",
+          "zh": "UNII 是社区打造的治理代币，用于社区成员参与Uniswap的治理投票"
+    },
+    "email": "unimonkey@unii.finance",
+    "website": "http://unii.finance",
+    "whitepaper": "https://medium.com/@FinanceUnii/the-unii-uni-innamorare-unii-finance-governance-union-initiative-5c9512a7a787",
+    "state": "NORMAL",
+    "published_on": "2020-09-20",
+    "links": {
+        "telegram": "https://t.me/uniifinance",
+        "twitter": "https://twitter.com/FinanceUnii",
+        "medium": "https://medium.com/@FinanceUnii"
+      }
+}
