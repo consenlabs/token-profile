@@ -1,0 +1,27 @@
+{
+  "symbol": "CPX",
+  "address": "0x79ddbbcc9d7fbdc77b02a960dabd2577144fdd6e",
+  "overview":{
+        "en": "PX as a utility token to be used for payment of trading commissions on crypxie.com",
+        "zh": ""
+  },
+  "email": "admin@crypxie.com",
+  "website": "https://crypxie.com/",
+  "whitepaper": "https://crypxie.com/cpxcoin",
+  "state": "NORMAL",
+  "published_on": "2020-10-01",
+  "initial_price":{
+        "ETH":"0.00139000 ETH",
+        "USDT":"0.50000000 USDT",
+        "BTC":"0.00004650 BTC",
+        "DOGE":"190.53 DOGE"
+  },
+  "links": {
+    "telegram": "https://t.me/crypxie",
+    "twitter": "https://twitter.com/crypxie",
+    "facebook": "https://www.facebook.com/crypxie",
+    "linkedin": "https://www.linkedin.com/company/crypxie-exchange",
+    "instagram": "https://www.instagram.com/crypxie",
+    "github": "https://github.com/crypxie"
+  }
+}
