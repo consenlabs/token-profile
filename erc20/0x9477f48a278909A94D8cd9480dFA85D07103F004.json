@@ -1,18 +1,18 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "Usdt",
+  "address": "0x9477f48a278909A94D8cd9480dFA85D07103F004",
   "overview":{
         "en": "Token Description.",
         "zh": ""
   },
-  "email": "Email",
+  "email": "moontontora@gmail.com",
   "website": "https://your-awesome-project.com/",
   "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2018-01-01",
   "initial_price":{
         "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
+        "USD":"1 USD",
         "BTC":"0.00004137 BTC"
   },
   "links": {
