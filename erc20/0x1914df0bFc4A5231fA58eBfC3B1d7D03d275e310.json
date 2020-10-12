@@ -1,0 +1,28 @@
+{
+  "symbol": "HPC",
+  "address": "0x1914df0bFc4A5231fA58eBfC3B1d7D03d275e310",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "admin.ax@gmail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-10-12",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
