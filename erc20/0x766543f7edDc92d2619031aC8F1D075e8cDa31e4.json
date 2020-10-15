@@ -1,0 +1,17 @@
+﻿{
+  "symbol": "PZAC",
+  "address": "0x766543f7edDc92d2619031aC8F1D075e8cDa31e4",
+  "overview": {
+    "en": "Pzac is a token issued on Ethereum. Users can find it through Ethereum and trade through Ethereum",
+    "zh": "PZAC是一个发行在以太坊上的一种代币，用户可以通过以太坊上找到它，可以通过以太坊进行交易"
+  },
+  "email": "",
+  "website": "",
+  "state": "NORMAL",
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": ""
+  }
+}
