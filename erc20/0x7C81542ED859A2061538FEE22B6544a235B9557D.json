@@ -1,0 +1,28 @@
+{
+  "symbol": "Token symbol",
+  "address": "0x7C81542ED859A2061538FEE22B6544a235B9557D",
+  "overview":{
+        "en": "Combo (COMB) is an aggregation protocol for DeFi derivatives developed based on the  Kuchain public chain, which includes an aggregation platform for various protocols such as liquidity mining, synthetic asset issuance, collateral mining protocols and oracle machines, etc. The COMBO project serves to provide a bottom layer of DeFi development, which enables traditional financial assets including legal tender, bulk commodities and stocks to seamlessly chain assets through blockchain technology. Combo is completely decentralized and admission-free, for the purpose of making it easy for all users to participate, and provides a solution channel that leverages traditional financial assets and more diverse and complex transaction strategies.",
+        "zh": "Combo作为KuChain第一个Defi生态项目，为行业提供了一个包含流动性挖矿协议、合成资产发行协议、质押挖矿、预言机四项协议的去中心化金融开发底层平台，可以实现多个区块链资产间的价值流转。"
+  },
+  "email": "stanislav@comboos.com",
+  "website": "http://www.comboos.com/",
+  "whitepaper": "http://www.comboos.com/uploads/file/200925-0603.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-09-06",
+  "initial_price":{
+        "ETH":"0.00007894 ETH",
+        "USD":"0.03 USD",
+        "BTC":"0.00000789 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://www.twitter.com/deficombo",
+    "telegram": "https://t.me/combo6688",
+    "github": "",
+    "facebook": "https://www.facebook.com/DeFiComboGlobal",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
