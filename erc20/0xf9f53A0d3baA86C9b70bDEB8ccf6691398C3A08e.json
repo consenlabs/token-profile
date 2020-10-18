@@ -1,0 +1,28 @@
+{
+  "symbol": "POT",
+  "address": "0xf9f53A0d3baA86C9b70bDEB8ccf6691398C3A08e",
+  "overview":{
+        "en": "PolkaOracle is a flexible, self-evolving oracle network built on Polkadot, providing applications or smart contracts with customized real-time on-chain data feeding services",
+        "zh": "PolkaOracle是基于Substrate技术架构在波卡网络上开发的具有弹性机制以及自我升级机制的预言机网络，同时支持可拓展性及互操作性。PolkaOracle致力于向用户提供可定制的、实时链上数据及喂价服务。"
+  },
+  "email": "official@polkaoracle.com",
+  "website": "https://polkaoracle.com/",
+  "whitepaper": "https://polkaoracle-1.gitbook.io/polkaoracle-wiki/",
+  "state": "NORMAL",
+  "published_on": "2020-10-16",
+  "initial_price":{
+        "ETH":"0.00108 ETH",
+        "USD":"0.4 USD",
+        "BTC":"0.0000355 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/PolkaOracle",
+    "telegram": "https://t.me/polkaoracle",
+    "github": "https://github.com/PolkaOracle",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
