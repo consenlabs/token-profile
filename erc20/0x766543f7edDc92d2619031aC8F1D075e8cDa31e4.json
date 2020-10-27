@@ -2,16 +2,16 @@
   "symbol": "PZAC",
   "address": "0x766543f7edDc92d2619031aC8F1D075e8cDa31e4",
   "overview": {
-    "en": "Pzac is a token issued on Ethereum. Users can find it through Ethereum and trade through Ethereum",
-    "zh": "PZAC是一个发行在以太坊上的一种代币，用户可以通过以太坊上找到它，可以通过以太坊进行交易"
+    "en": "",
+    "zh": "pizza classic是区块链数字科技社区系统，主要系统化解决区块链融投的信任问题，pizza classic主要链接全球优质区块链项目，为项目赋能，共同打造项目价值，为用户输出价值项目，用户可以在平台一件兑换有价值的数字资产，并参与社区的推广与搭建。PZAC致力系统化打造最具价值的区块链数字社区系统，助力区块链行业的繁荣发展。"
   },
   "email": "",
   "website": "",
   "state": "NORMAL",
   "links": {
     "blog": "",
-    "twitter": "",
-    "telegram": "",
+    "twitter": "https://twitter.com/pizzaclassic1/status/1320537835749793792?s=21",
+    "telegram": "https://t.me/joinchat/P60CTRzHNtttkiWkZFZPxg",
     "github": ""
   }
 }
