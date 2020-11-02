@@ -1,0 +1,23 @@
+{
+  "symbol": "YFIS",
+  "address": "0x564f7cc8a72712818c04f0999342fea216d65f28",
+  "overview":{
+        "en": "YFIS is an independent branch of YFI technology, which is a decentralized mobile application of YFI. YFIS practices Dao community autonomy spirit, is a complete community autonomy project, without reservation, pre excavation, and can not be issued. We have upgraded the function of YFI, tried to avoid the risk of currency price falling and volatile loss in mining with the new system, and will launch the YFIS liquidity mining incentive scheme. The platform will aggregate a variety of agreements. When users deposit, the platform will automatically allocate the user's funds to the current agreement with the best income, and will give the user a certificate of rights and interests called YFIS token. The user can take out his original deposited token and corresponding income by holding the YFIS token.",
+        "zh": "YFIS是YFI技术独立分叉而来，是YFI非中心化的移动应用。YFIS践行DAO社区自治精神，是完全的社区化自治项目，无预留、预挖，并且不可增发。我们升级了YFI的功能，以新的系统试图避免挖矿时可能产生的币价下跌风险及无常损失，并将推出YFIS流动性挖矿奖励计划。平台将聚合多种协议，用户存款时，平台会将用户资金自动分配至目前收益最优的协议下，会给用户一个称为YFIS Token的权益证明，用户可以通过持有YFIS Token取出自己原来存入的代币及相应的收益。"
+  },
+  "email": "YFIS_Labs@protonmail.com",
+  "website": "https://YFI-S.CLUB",
+  "whitepaper": "https://YFI-S.CLUB",
+  "state": "NORMAL",
+  "published_on": "2020-11-03",
+  "initial_price":{
+        "ETH":"0.01 ETH",
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/YFIS_CLUB",
+    "telegram": "https://t.me/YFISofficial",
+    "github": "https://github.com/YFIS",
+
+  }
+}
