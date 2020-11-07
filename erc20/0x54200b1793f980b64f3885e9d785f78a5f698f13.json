@@ -1,0 +1,29 @@
+{
+  "symbol": "godpaper",
+  "address": "0x54200B1793f980b64f3885e9D785F78A5F698f13",
+  "overview":{
+        "en": "godpaperToken.",
+        "zh": "godpaper.cn"
+  },
+  "email": "z@smartkit.club",
+  "website": "https://godpaper.cn/",
+  "whitepaper": "https://godpaper.cn/whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-11-01",
+  "initial_price":{
+        "ETH":"0.001
+ ETH",
+        "USD":"0.0001 USD",
+        "BTC":"0.000001 BTC"
+  },
+  "links": {
+    "blog": "https://godpaper.cn/blog",
+    "twitter": "https://twitter.com/smartkit",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/godpaper",
+    "facebook": "https://www.facebook.com/godpaper",
+    "reddit": "https://www.reddit.com/r/godpaper/",
+    "slack": "https://godpaper.slack.com",
+    "medium": "https://medium.com/godpaper"
+  }
+}
