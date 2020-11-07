@@ -1,0 +1,17 @@
+{
+    "symbol": "YFIB",
+    "address": "0x16ec36d8BEFa3D3D7ea60E91ebA314EeCBaC2019",
+    "overview":{
+          "en": "YFIB is a cluster interactive intelligent aggregator. The platform aggregates multiple protocols to realize the interaction of assets on different decentralized liquidity platforms.",
+          "zh": "YFIB是一种集群交互式智能聚合器，平台聚合多种协议，以实现不同去中心化流动性平台资产的交互。"
+    },
+    "email": "service@yfib.me",
+    "website": "https://www.yfib.me/",
+    "whitepaper": "https://www.yfib.me/",
+    "state": "NORMAL",
+    "published_on": "2020-11-05",
+    "links": {
+        "telegram": "https://t.me/YFIBCOIN",
+        "twitter": "https://twitter.com/YFIBCOIN"
+      }
+}
