@@ -1,0 +1,21 @@
+{
+    "symbol": "DXTZ",
+    "account_name": "Short line Token",
+    "overview": {
+        "en": "DXTZ是全网第一个纯奖励制度认购的一个比赛通证，将为短线交易产业痛点, 提供强有力的技术支持，将建立DXTZ短线交易公链，为促进行业发展，用短线交易得奖金来为行业进行人才引进，增加奖项，为提升大众交易方式构建基础设施。",
+        "zh": ""
+    },
+    "email": "941042402@qq.com",
+    "website": "http://www.aioneself.cn/index.html",
+    "whitepaper": "http://www.aioneself.cn/DXTZ.pdf",
+    "published_on": "2020-11-10",
+    "initial_price": {
+        "EOS": "0.0016 EOS",
+        "USD": "0.7 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/DXTZ7",
+        "telegram": "https://t.me/dxtztoken",
+        
+    }
+}
