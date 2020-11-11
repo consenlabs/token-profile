@@ -1,0 +1,15 @@
+{
+  "symbol": "SDC",
+  "address": "0x2eff5fD0C409ae8fD6E1d224060537189043B7dD",
+  "overview": {
+    "en": "Project Shadow is a Decentralized APP based on Ethereum Smart Contract and is open source in Github(https://github.com). Every transaction is recorded on Ethereum Blockchain with total transparency.\n\n       Project Shadow runs with a new economy model called \"Loop Mechanism\". \nIt ensured Project Shadow can run automatically forever to prevent everyone not to be the last one who came into the scene. With the \"Loop Mechanism\", Project Shadow make sure every participants can earn their ETH in an easy way. Every participants is a Shadow. Every Shadow will have 3 network which are “Symbiont”, “Reflection” and “Infinite”. Each Shadow can start up with just 0.5ETH.",
+    "zh": "Project Shadow是一个完全去中心化的DAPP链上合约机制，所有代码公布在黑猫上［https://github.com］，数据透明，玩法完公平公正，没有猫腻，就连平台方与技术开发人员都无法篡改数据，每一笔交易都清楚记录在以太坊链上。\n\n \n\nProject Shadow采用一种独创的“永动机”合约机制。“永动机”保证了每个参与Project Shadow的玩家都不会是最后一个人，也不会有韭菜这个概念。在Project Shadow里，每个玩家都是影子，都有“Symbiont共生体”、“Reflection反射线”和“Infinite无限环”三个网体，每个玩家仅需0.5枚ETH就可参于Project Shadow独创的“永动机”玩法。"
+  },
+  "email": "official.pshadow@gmail.com",
+  "website": "https://www.projectshadow.io",
+  "state": "NORMAL",
+  "links": {
+    "telegram": "https://t.me/projectshadowofficial",
+    "github": "https://github.com/ProjectShadow-Code/project-shadow"
+  }
+}
