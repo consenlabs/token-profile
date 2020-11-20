@@ -1,0 +1,17 @@
+{
+      "symbol": "HJL",
+      "address": "0x1b30a0e0aa128aab4d25993a8c1353681c205e0a",
+      "overview":{
+            "zh": "SINGULARITY 团队在过去的一年里完成了商业逻辑的验证工作。在黄金公链端，摸索出了适应亚洲、北美洲、欧洲当地法律法规的“3R”准入标准(Risk、Regulation、Return)，实现了 1 亿元以上资产的准入上线；在交易端，实现了使用数字货币进行，黄金公链交易支付，完成了 2 亿元以上的交易规模。"
+      },
+      "email": "hjl__huangjinlian@163.com",
+      "website": "http://www.goldenchain.io/m/",
+      "whitepaper": "http://www.goldenchain.io/white-paper/cn.pdf",
+      "published_on": "2020-09-28",
+      "initial_price":{
+            "ETH":"0.0005 ETH",
+            "USD":"0.1445 USD",
+            "BTC":"0.00001114 BTC"
+      },
+      "links": {}
+}
