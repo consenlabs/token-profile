@@ -16,9 +16,9 @@
         "BTC":"0.00004137 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
     "twitter": "https://twitter.com/DXTZ7",
-    "telegram": "https://t.me/dxtztoken",
+	"telegram": "https://t.me/dxtztoken",
+    "blog": "https://your-awesome-project.com/blog",
     "github": "https://github.com/your-awesome-project",
     "facebook": "https://www.facebook.com/your-awesome-project",
     "reddit": "https://www.reddit.com/r/your-awesome-project/",
