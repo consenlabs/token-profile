@@ -1,0 +1,13 @@
+{
+    "symbol": "AUR",
+    "account_name": "Aurora Protocol",
+    "overview": {
+    "en": "A suite of DeFi products to bring your familiar mobile banking into crypto with just one-click.",
+    },
+
+
+
+  "links": {
+    "twitter": "https://twitter.com/Aurora_Protocol"
+  }
+}
