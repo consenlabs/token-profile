@@ -1,0 +1,18 @@
+{
+  "symbol": "AUR",
+  "address": "0x870AEc4d57B5354d6f25E3EBc09A13F9b129e22d",
+  "overview":{
+        "en": "A suite of DeFi products to bring your familiar mobile banking into crypto with just one-click.",
+        "zh": ""
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-11-19",
+  "initial_price":{
+  },
+  "links": {
+    "twitter": "https://twitter.com/Aurora_Protocol",
+  }
+}
