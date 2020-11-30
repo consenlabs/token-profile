@@ -1,0 +1,21 @@
+{
+symbol: "1X1X",
+account_name: "1x1x-io",
+overview: {
+en: "This is 1x1x Token",
+zh: "一叉一叉Token"
+},
+email: "xiaojietoken@gmail.com",
+website: "https://www.1x1x.io",
+whitepaper: "https://1x1x.io/thread-51578.htm",
+published_on: "2020-05-01",
+initial_price: {
+ETH: "0.00000768477 ETH",
+USD: "0.005 USD"
+},
+links: {
+steemit: "https://steemit.com/@www1x1xio/",
+discord: "https://discord.gg/zvr7PPtGvm",
+github: "https://github.com/1x1x-io"
+}
+}
