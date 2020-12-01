@@ -1,0 +1,28 @@
+{
+  "symbol": "USDT",
+  "address": "0x69e72aEb109Ce68E16052Edd63694c52b593022C",
+  "overview":{
+    "en": "onebt platform stable coin",
+    "zh": "onebt平台稳定币"
+  },
+  "email": "",
+  "website": "https://www.onebt.com",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-11-28",
+  "initial_price":{
+    "ETH":"0.00165 ETH",
+    "USD":"1 USD",
+    "BTC":"0.00005141 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "onebt",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
