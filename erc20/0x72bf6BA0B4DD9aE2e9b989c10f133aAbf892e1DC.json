@@ -1,0 +1,22 @@
+{
+  "symbol": "TIK",
+  "address": "0x72bf6BA0B4DD9aE2e9b989c10f133aAbf892e1DC",
+  "overview":{
+        "en": "Turing private fund raising exclusive token. AI assisted quantitative trading fund. Low risk and robust strategy, expected annualized income of more than 100%. Limited sales, only Tik fundraising. 80% of the fund income is used to buy back Tik and distribute dividends to fund investors.\n\n",
+        "zh": "图灵私募基金募资专属Token。AI辅助的量化交易基金。低风险稳健策略，预期年化收益100%以上。限量发售，仅使用TIK募资。基金收益的80%用于回购TIK并分红给基金投资人。"
+  },
+  "email": "geekchu@qq.com",
+  "website": "https://niupai.one",
+  "whitepaper": "https://niupai.one/cnwhitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-12-01",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"190 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "twitter.com/geekchu",
+    "github": "github.com/geekchu"
+  }
+}
