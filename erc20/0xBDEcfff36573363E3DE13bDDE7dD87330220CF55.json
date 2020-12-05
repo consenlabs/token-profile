@@ -1,0 +1,24 @@
+{
+  "symbol": "Sakura",
+  "address": "0xBDEcfff36573363E3DE13bDDE7dD87330220CF55",
+  "overview":{
+        "en": "SakuraSwap is a high-return farming platform with real business support. The platform provides the industry's first one-click farming function to free users from tedious operations and save about 30% of gas fees. Users can get high APY through providing LP. As of today, it conducts 3 types of business. ",
+        "zh": "SakuraSwap是一个具有实体支持的高回报挖矿平台。Sakura代币是其治理代币。该平台提供业界首创一键式挖矿功能将用户从繁琐的操作从解脱并且能为客户节省约30%手续费。用户通过提供流动性，可获得高APY的回报。目前该实体已开展了3项业务。"
+  },
+  "email": "info@sakuraswap.org",
+  "website": "https://about.sakuraswap.org/en",
+  "whitepaper": "https://about.sakuraswap.org/en",
+  "state": "NORMAL",
+  "published_on": "2020-11-15",
+  "initial_price":{
+        "ETH":"0.00460692 Sakura",
+        "USD":"2 Sakura",
+        "BTC":"38000 Sakura"
+  },
+  "links": {
+    "twitter": "https://twitter.com/SakuraSwap",
+    "telegram": "https://t.me/joinchat/Hd1W_xqO4qBcn1ATI8vQKg",
+	"line": "https://line.me/ti/g2/EplCR_qdDJFZTHU6uJ8saA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+    "discord": "https://discord.gg/rpkEsuWzZ9"
+  }
+}
