@@ -1,0 +1,22 @@
+{
+    "symbol": "SSC",
+    "address": "0x74e6D72BbdCd5c7f74a3c52DD70623f35b2228A1",
+    "overview": {
+      "en": "Defi meets Sunshie, Sunshine combined with SSC is used to change those who are confused.",
+      "zh": "Defi遇见Sunshie - Sunshine结合SSC用来改变那些迷茫的人。"
+    },
+    "email": "duoxia66@gmail.com",
+    "website": "https://coinssc.com/",
+    "whitepaper": "https://coinssc.com/assets/img/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-11-23",
+    "initial_price": {
+      "ETH": "0.0017 ETH",
+      "USD": "1 USD"
+    },
+    "links": {
+      "homepage": "https://coinssc.com",
+      "twitter": "https://twitter.com/sunshin77175615",
+      "github": "https://github.com/CoinSSC"
+    }
+  }
