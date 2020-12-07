@@ -1,0 +1,17 @@
+{
+	"symbol": "HOE",
+	"address": "0xA56Ed2632E443Db5f93e73C89df399a081408Cc4",
+	"overview": {
+		"en": "Hoe is hoe mined, NFT synthesis, Hoeswap decentralized exchange, decentralized governance token.",
+		"cn": "hoe是hoe挖矿，nft合成，hoeswap去中心化交易所，去中心化治理代币。"
+	},
+	"website": "https://goldhoe.finance/",
+	"whitepaper": "https://goldhoe.finance/#/about",
+	"state": "NORMAL",
+	"published_on": "2020-06-29",
+	"initial_price": {
+		"ETH": "0.00009837 ETH",
+		"USD": "0.044702 USDT",
+		"BTC": "0.00000275 BTC"
+	}
+}
