@@ -1,0 +1,16 @@
+{
+	"symbol": "BIM",
+	"address": "0x329319eBE02Eac3DE77a9aa379d620bA653B2136",
+	"overview": {
+		"en":"BIM - Token is based on the Ethernet fang ERC20 issuing negotiable agreement encryption digital currency around the world, the only value created by members of the BitMessage ecological tong card, connect the BIM ecological system, is the foundation of community governance, supporting important hub of ecological system, ecological system applied in BitMessage payment scenarios, financial services, project incubation, DAPP game development, advertising and so on all consumption;BIM holders enjoy the corresponding rights and interests of the whole BitMessage ecosystem, so that every user can participate in the construction and development of the platform, jointly build the BitMessage ecosystem, and realize a new intelligent ecosystem with the purpose of implementing blockchain applications",
+        "cn":"BIM-Token是基于以太坊 ERC20 协议发行可流通全球的加密数字货币，由BitMessage生态成员共同创造的唯一价值通证，连接 BIM生态体系，是社区治理的基石，支撑生态体系的重要枢纽，应用于BitMessage生态体系的支付场景、金融服务、DAPP游戏、项目孵化开发、广告业务等所有消费；BIM持有者享受BitMessage全生态的相应权益，让每一位用户参与平台的建设和发展，共建BitMessage生态系统，实现区块链应用落地为目的的全新智能生态圈"
+	},
+	"website": "https://im.bitmessage.vip/index.php/Index/index.html",
+	"state": "NORMAL",
+    "whitepaper":"https://im.bitmessage.vip/index.php/docs/white_paper_cn.html",
+	"links": {
+		"twitter": "",
+		"telegram": "",
+		"github": ""
+	}
+}
