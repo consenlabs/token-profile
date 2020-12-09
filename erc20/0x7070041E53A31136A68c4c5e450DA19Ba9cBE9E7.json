@@ -1,0 +1,11 @@
+{
+    "symbol": "OXY",
+    "address": "0x7070041E53A31136A68c4c5e450DA19Ba9cBE9E7",
+    "overview": {
+        "en": "OXY Token is a token for OxySwap DEX. It is also a token based on DAO. It build DApps with community consensus. And the OxySwap is the first Dapp in OxyDAO.",
+        "zh": "OXY是去中心化交易所OxySwap的通证，也是以建立DAO(Decentralized Autonomous Organizations)为基础的生态代币，通过构建完备的社区共识，基于社区构建生态交互与应用，Oxyswap是DAO生态的第一个去中心化Defi应用。"
+    },
+    "website": "https://oxyswap.com",
+    "state": "NORMAL",
+    "published_on": "2020-10-10"
+}
