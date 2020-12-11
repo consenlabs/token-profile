@@ -1,0 +1,17 @@
+{
+        "symbol": "Ue", 
+        "address": "0x270f2A49011A63252d6ea4262Eb37D3c03dAb730", 
+        "overview": {
+                "en": "Universal exchange is a decentralized autonomous organization structured on top of Aragon DAO. Our team is made up of like-minded individuals who are motivated to leverage blockchain technology to improve the existing workflows of traditional financial services.",
+				"zh": "Ue 是一个由志同道合的技术和金融极客组成的，构建在Aragon 上的去中心化开发组织。我们聚焦开发区块链金融的基础设施项目，旨在利用区块链技术改善传统金融服务的流程。"
+        }, 
+        "email": "Ue@Ue.com", 
+        "website": "", 
+        "state": "NORMAL", 
+        "links": {
+                "blog": "", 
+                "twitter": "", 
+                "telegram": "", 
+                "github": ""
+        }
+}
