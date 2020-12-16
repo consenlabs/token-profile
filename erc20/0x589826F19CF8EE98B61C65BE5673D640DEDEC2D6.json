@@ -5,7 +5,7 @@
         "en": "Shard of ownership to an Eth 2.0 mining pool",
         "zh": ""
   },
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2020-12-03",
   "initial_price":{
         "ETH":"1.00000000 ETH"
