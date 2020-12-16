@@ -1,0 +1,20 @@
+{
+  "symbol": "BIS",
+  "address": "0xCDf66Cce6eC4CfBD25c9a4Dbc79575D9071868F1",
+  "overview":{
+        "en": "BIS is a stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD.",      
+  },
+  "email": "info@bisshare.net",
+  "website": "https://bisshare.net/",
+  "whitepaper": "https://bisshare.net/white_paper",
+  "state": "NORMAL",
+  "published_on": "2020-11-20",
+  "initial_price":{        
+        "USD":"0.1 USD"        
+  },
+  "links": {
+    "twitter": "https://twitter.com/BisSingapore?s=09",
+    "telegram": "https://t.me/joinchat/AAAAAFcf2unPJ8VLITzn8w",
+    "github": "https://github.com/bisshare"    
+  }
+}
