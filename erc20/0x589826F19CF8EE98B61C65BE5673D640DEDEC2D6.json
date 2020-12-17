@@ -5,6 +5,8 @@
         "en": "Shard of ownership to an Eth 2.0 mining pool",
         "zh": ""
   },
+  "website": "https://www.cryton.net/miner-shard",
+  "Official announcement": "https://www.cryton.net/miner-shard",
   "state": "NORMAL",
   "published_on": "2020-12-03",
   "initial_price":{
