@@ -14,7 +14,7 @@
         "ETH":"0.002 ETH",
   },
   "links": {
-	"Twitter"：https://twitter.com/DotcDapp,
-	"Telegram"：https://t.me/DOTCpro
+    "twitter": "https://twitter.com/DotcDapp",
+    "telegram": "https://t.me/DOTCpro"
   }
 }
