@@ -1,6 +1,6 @@
 {
     "symbol": "CZJR",
-    "address": "0x6d3a81e6260648098467bc8ddf027c672f968e10",
+    "address": "0x6D3A81E6260648098467Bc8ddf027c672f968E10",
     "overview": {
         "en": "CZJR (CZJR) is the first independently-verified digital asset fully collateralized by US Dollars. The ERC20 stablecoin uses multiple escrow accounts to reduce counterparty risk, provide transparent attestations, and legal protections against fraud. CZJR users enjoy the lowest gas costs of any stablecoin thanks to GasBoost; easy wallet alias creation through Autosweep; and direct-to-bank CZJR transactions through unique, easy-to-remember Redemption Addresses.",
         "zh": "CZJR(CZJR)是主要应用于去中心化古玩交易市场，致力于古玩行业的去中心化交易流程记录兑换。"
