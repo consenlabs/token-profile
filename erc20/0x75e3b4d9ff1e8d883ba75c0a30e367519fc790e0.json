@@ -1,0 +1,18 @@
+{
+    "symbol": "GDMT",
+    "address": "0x75e3b4d9ff1e8d883ba75c0a30e367519fc790e0",
+    "overview":{
+          "en": "",
+          "zh": ""
+    },
+    "email": "",
+    "website": "http://www.goldmt.co/",
+    "whitepaper": "http://www.goldmt.co/download/AUFINTECH.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-12-23",
+    "initial_price":{
+          "USD":"1 USD"
+    },
+    "links": {
+    }
+  }
