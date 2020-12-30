@@ -1,0 +1,16 @@
+{
+    "symbol": "VS",
+    "address": "0x80000151D9e7D098E47C6eD5FDA232a7cfAf48f0",
+    "overview": {
+        "zh": "Veis（维斯）将打造全球首个完备去中心化金融生态系统，集DEX、借贷、预言机、资管、衍生品、保险等去中心化金融服务为一体，和当前主流公链（如以太坊、波卡等）进行结合，从而让用户在不同区块链系统上能够调用Veis的协议实现DeFi功能应用，全方位地服务使用Veis金融系统的用户。Veis能够进行完全去中心化的无准入跨链借贷、交易，并非常高效精准地给用户提供可执行交易的价格，为用户提供安全的资产管理和空投，让用户能够感受NFT结合游戏金融带来的魅力，还有安全、无门槛的去中心保险服务。Veis（维斯）即将点燃下一波去中心化金融的财富热潮。"
+    },
+    "email": "veisdefi@gmail.com",
+    "website": "http://www.veis.io",
+    "state": "NORMAL",
+    "links": {
+    "twitter": "https://twitter.com/veisdefi",
+    "telegram": "https://t.me/veisfinance",
+    "github": "https://github.com/Veisfinance",
+    "medium": "https://medium.com/@veisdefi"
+    }
+}
