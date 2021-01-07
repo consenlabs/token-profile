@@ -1,0 +1,22 @@
+{
+    "symbol": "HMT",
+    "address": "0x0402CC19646f942F5D5Cb262C497CdA2923C9009",
+    "overview":{
+          "en": "HMT Token, as the bottom token of HMT pledge mining, serves all theecological users of digital wallet in HMT, and establishes the consensusmechanism of payment service through \"mortgage mining\" mechanism. With the continuous development of blockchain technology and digital money market, HMT miners APP digital wallets, based on the characteristics of blockchain encryption, decentralization and internet freedom, try to create a free world of digital asset trading, which will provide support for more new projects and help the management and circulation of their blockchain assets. Contribute to ecological efficiency and market prosperity.",
+          "zh": "HMT通证作为HMT质押挖矿的底层通证，服务于HMT所有的数字钱包生态用户，通过“抵押挖矿”机制建立支付服务共识机制。随着区块链技术和数字货币市场的持续发展，HMT矿工APP数字钱包基于区块链加密、去中心化、网际自由特点，力图打造一个更加自由的数字资产交易世界，将为更多新项目提供支持，帮助其区块链资产的管理和流通，为提升生态效率和促进市场繁荣贡献一份力量。"
+    },
+    "email": "nihaopayarion@gmail.com",
+    "website": "https://ariongroupcorp.com/",
+    "whitepaper": "http://uploads.eaglemalls.com/app/hmt-white-paper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-12-12",
+    "initial_price":{
+          "ETH":"0.00153626 ETH",
+          "USD":"1.0 USD",
+          "BTC":"0.00004360 BTC"
+    },
+    "links": {
+      "twitter": "https://twitter.com/Arion33178872/status/1340492622427684864?s=20",
+      "facebook": "https://www.facebook.com/100059901379053/posts/104799338193445/?d=n"
+    }
+  }
