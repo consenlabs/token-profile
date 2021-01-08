@@ -1,0 +1,20 @@
+{
+  "symbol": "DOS",
+  "address": "0x9aCbcA1B2F4EcFAe110B14bace23bAE23A39fdc6",
+  "overview":{
+    "en": "DosanCoin (DOS) is a community token whose purpose is to develop the economy of  the prefecture of Hokkaido, Japan and increase the name value of it. It is also a cryptographic asset created for the purpose of creating and supplying stable value as a currency and contributing to the economic development of the prefecture of Hokkaido, Japan and other Asian countries through crypto currency, in other words, spreading the attractiveness of Hokkaido, Japan to the world."
+  },
+  "email": "info@dosancoin.com",
+  "website": "https://dosancoin.com/",
+  "state": "NORMAL",
+  "published_on": "2018-06-22",
+  "initial_price":{
+    "ETH":"0.00000001 ETH"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/Dosancoin/",
+    "discord": "https://discord.gg/6ZkeV8D",
+    "twitter": "https://twitter.com/DOSANCOIN1",
+    "telegram": "https://t.me/dosancoin"
+  }
+} 
