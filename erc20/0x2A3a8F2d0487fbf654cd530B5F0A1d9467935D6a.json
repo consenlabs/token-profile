@@ -1,0 +1,22 @@
+{
+  "symbol": "DCX",
+  "address": "0x2A3a8F2d0487fbf654cd530B5F0A1d9467935D6a",
+  "overview":{
+        "en": "DeCEX is an innovative platform that seamlessly integrates together the universes of DeFi and NFTs, bringing together NFT gaming, NFTswap and NFT vault all in one ecosystem.",
+        "zh": ""
+  },
+  "email": "admin@decex.finance",
+  "website": "https://decex.finance/",
+  "whitepaper": "https://drive.google.com/file/d/1YVWkbCoFJo-jvC1imMVDxCEtzIrNnLpN/view",
+  "state": "NORMAL",
+  "published_on": "2021-01-08",
+  "initial_price":{
+        "ETH":"0.0025 ETH",
+  },
+  "links": {
+    "twitter": "https://twitter.com/decexfinance",
+    "telegram": "https://t.me/DeCEXofficial",
+    "github": "https://github.com/DecexFinanace",
+    "medium": "https://medium.com/@decexfinance"
+  }
+}
