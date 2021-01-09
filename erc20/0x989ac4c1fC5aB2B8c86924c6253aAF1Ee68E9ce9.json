@@ -1,0 +1,23 @@
+{
+  "symbol": "PFI",
+  "address": "0x989ac4c1fC5aB2B8c86924c6253aAF1Ee68E9ce9",
+  "overview":{
+        "en": "To be a leading Blockchain-based technology company which supports people's economic growth through cooperatives, MSMEs and hospitals"},
+  "email": "business@primefinance.io",
+  "website": "https://primefinance.io/",
+  "whitepaper": "https://drive.google.com/file/d/1w2JvGpYrzATQau6n7QE7wunz2d51GWSi/view",
+  "state": "NORMAL",
+  "published_on": "....-..-..",
+  "initial_price":{
+        "ETH":".... ETH",
+        "USD":"... USD",
+        "BTC":"0.000.... BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/hasanahetc",
+    "telegram": "https://t.me/hasanah_Global",
+    "github": "https://github.com/Hasanah-creator",
+    "facebook": "https://www.facebook.com/HasanahEtc/",
+    "medium": "https://medium.com/@hasanahetc"
+  }
+}
