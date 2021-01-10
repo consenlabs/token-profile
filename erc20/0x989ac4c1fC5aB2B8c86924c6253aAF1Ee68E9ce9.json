@@ -7,11 +7,11 @@
   "website": "https://primefinance.io/",
   "whitepaper": "https://drive.google.com/file/d/1w2JvGpYrzATQau6n7QE7wunz2d51GWSi/view",
   "state": "NORMAL",
-  "published_on": "....-..-..",
+  "published_on": "2021-01-05",
   "initial_price":{
-        "ETH":".... ETH",
-        "USD":"... USD",
-        "BTC":"0.000.... BTC"
+        "ETH":"0.03 ETH",
+        "USD":"42 USD",
+        "BTC":"0.00101984 BTC"
   },
   "links": {
     "twitter": "https://twitter.com/hasanahetc",
