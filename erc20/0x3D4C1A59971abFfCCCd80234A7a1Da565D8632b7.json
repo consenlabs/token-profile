@@ -9,5 +9,8 @@
   "website": "https://i2i.link/#strategic",
   "whitepaper": "https://i2i.link/site/assets/files/1/golddawn_rin_1_0.pdf",
   "state": "NORMAL",
-  "published_on": "2020-12-22"
+  "published_on": "2020-12-22",
+  "links": {
+    "twitter": "https://twitter.com/Rhine_Global"
+  }
 }
