@@ -1,0 +1,19 @@
+{
+  "symbol": "JPYT",
+  "address": "0xeC6e9FEA90A5f4a7f772096c3A978E29F1465878",
+  "overview":{
+    "en": "JPYT is a digital stable coin minted with a 1:1 mortgage of JPY. The full name of JPY is Japanese Yen, which is a circulating coin in Japan. The partner bank for the JPYT fund certificate is the Royal Bank of the United Arab Emirates.",
+    "zh": "JPYT是由Libra Xs Foundation发行的去中心化稳定数字货币，其价值与日元1：1锚定。基于区块链技术和智能合约技术发行，保证了透明度，让审计能够高效便捷"
+  },
+  "email": "support@libraxs.com",
+  "website": "https://www.libraxs.com",
+  "state": "NORMAL",
+  "published_on":"2020-06-02",
+  "gas_limit":60000,
+  "initial_price":{
+    "JPY":"1 JPY"
+  },
+  "links": {
+    "bluesea360": "http://www.bluesea360.com/important/1349540908403523584"
+  }
+}
