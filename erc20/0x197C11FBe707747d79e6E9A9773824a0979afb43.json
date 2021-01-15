@@ -1,0 +1,23 @@
+{
+  "symbol": "MIMO",
+  "address": "0x197C11FBe707747d79e6E9A9773824a0979afb43",
+  "overview":{
+        "en": "Mimosa has a permanent deflation protocol running on the Ethereum blockchain. The team is made up of Japanese economic researchers, aiming to counter inflation caused by liquidity mining, or MIMO for short."
+  },
+  "email": "service@mimosa.finance",
+  "website": "http://mimosa.finance/",
+  "whitepaper": "http://mimosa.finance/static/file/MimosaWhitePaperEN.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-12-15",
+  "initial_price":{
+        "USDT":"1 USDT",
+        "USDC":"1 USDC",
+  },
+  "links": {
+    "twitter": "https://twitter.com/MimosaOfficial",
+    "telegram": "https://t.me/MimosaOfficial",
+    "weibo": "https://weibo.com/7532422780",
+    "WeChat": "MimosaOfficial",
+    "medium": "https://medium.com/@mimosaofficial"
+  }
+}
