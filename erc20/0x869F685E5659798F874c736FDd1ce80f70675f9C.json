@@ -1,0 +1,23 @@
+{
+  "symbol": "DDGM",
+  "address": "0x869F685E5659798F874c736FDd1ce80f70675f9C",
+  "overview":{
+        "en": "DDGM Block Chain Platform for Game and Enterprises (DDGM or Platform) is a distributed game and decentralized application ecological platform based on graphene blockchain technology. Through precise and rigorous product design, the platform will provide millions of TPS blockchain architecture, super nodes, intelligent contracts, cross-chain interoperability and IPFS distributed game file storage functions, and finally build a decentralized consensus society.",
+        "zh": "DDGM blockchain platform for game and enterprises（简称“DDGM”或“平台”）是基于石墨烯区块链技术构建的分布式游戏和去中心化应用生态平台，通过精确严谨的产品设计, 平台将提供百万 TPS 区块链架构, 超级节点, 智能合约, 跨链互通, IPFS分布式游戏文件存储功能, 最终打造去中心化共识社会全生态游戏货币网络。"
+  },
+  "email": "artytrix1@gmail.com",
+  "website": "http://www.qqbcipfs.com/",
+  "whitepaper": "http://www.qqbcipfs.com/DDGM_Whitepaper_CN-DDGM.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-12-24",
+  "initial_price":{
+      "USD":"0.0015 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/qqbc8888/status/1350278044846415872?s=21",
+    "telegram": "https://t.me/qqbc888",
+    "github": "https://github.com/DDGMIO/",
+    "facebook": "https://www.facebook.com/DDGM-blockchain-platform-for-game-and-enterprises-102831278465563",
+    "reddit": "https://www.reddit.com/user/QQBC8888/comments/kybb3w/wwwqqbcipfscom/"
+  }
+}
