@@ -1,0 +1,19 @@
+{
+  "symbol":"AUDT",
+  "address":"0x97C6b3A30b8C0A76A03696967A4EDC23FB568b27",
+  "overview":{
+    "en":"AUDT is a decentralized stable digital currency issued by Libra Xs Foundation, and its value is pegged with AUD at a ratio of 1:1. Issuance based on blockchain technology and smart contract technology ensures transparency and allows audits to be efficient and convenient",
+    "zh":"AUDT是由Libra Xs Foundation发行的去中心化稳定数字货币，其价值与澳元1：1锚定。基于区块链技术和智能合约技术发行，保证了透明度，让审计能够高效便捷"
+  },
+  "email":"support@libraxs.com",
+  "website":"https://www.libraxs.com",
+  "state":"NORMAL",
+  "published_on":"2020-11-28",
+  "gas_limit":60000,
+  "initial_price":{
+    "AED":"1 AED"
+  },
+  "links":{
+    "bluesea360": "http://www.bluesea360.com/important/1349540908403523584"
+  }
+}
