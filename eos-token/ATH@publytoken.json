@@ -1,0 +1,29 @@
+  
+{
+  "symbol": "anthatch",
+  "address": "0x9660F60238ef267E5162fd2358F73920877C6573",
+  "overview":{
+        "en": "anthatch",
+        "zh": ""
+  },
+  "email": "ath@anthatch.com",
+  "website": "https://anthatch.com",
+  "whitepaper": "https://anthatch.com/",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2021-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https : //github.com/anthatch/anthatch/blob/main/ATH",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
