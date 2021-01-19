@@ -1,0 +1,21 @@
+{
+  "symbol": "YFHI",
+  "address": "0x0557704bed11d317a3e6ec5eeacc78537212c864",
+  "overview":{
+        "en": "Yfhi is a decentralized Finance (defi) platform, which refers to the formation of cluster interactive intelligent aggregator based on the aggregation flow pool, which automatically completes the liquidity mining. Through the comprehensive data of defi, the contract generates the highest income in the transaction interaction, which will give users a proof of rights and interests called yfhi token.",
+        "zh": ""
+  },
+  "email": "888888gghz@gmail.com",
+  "website": "https://yfhi.online/",
+  "whitepaper": "https://yfhi.online/",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-12-30",
+  "initial_price":{
+        "ETH":"0.025 ETH",
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/YFHIonline",
+    "github": "https://github.com/yfhionline/YFHI",
+  }
+}
