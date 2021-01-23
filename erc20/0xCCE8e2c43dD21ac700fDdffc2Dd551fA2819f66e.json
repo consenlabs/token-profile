@@ -1,0 +1,18 @@
+{
+  "symbol": "GPB",
+  "address": "0xCCE8e2c43dD21ac700fDdffc2Dd551fA2819f66e",
+  "overview":{
+        "en": "Golden Polar Bear",
+        "zh": "金熊币"
+  },
+  "email": "info@americomall.com",
+  "website": "https://goldenbearinvestment.com",
+  "whitepaper": "https://goldenbearinvestment.com",
+  "state": "NORMAL",
+  "published_on": "2020-12-29",
+  "initial_price":{
+        "ETH":"0",
+        "USD":"0.01 USD",
+        "BTC":"0"
+  }
+}
