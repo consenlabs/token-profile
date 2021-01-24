@@ -1,0 +1,25 @@
+{
+    "symbol": "ECH Symbol",
+    "account_name": "hodaiswaplp1",
+    "overview": {
+        "en": "HodaiSwap is supported by the payment token ECH for exchange. ECH is a general asset issued on the EOS public blockchain and benchmarked against the fiat cash status of modern finance, and is an important financial asset that supports EOS ecological transfers, payments, exchange, and chain crossing. HodaiSwap chooses ECH as the exchange currency and automated market maker (AMM), and holders who lock ECH into liquidity pools receive a share of the exchange commission. The total issue of ECH is 99,000, with no pre-mining, private placement or additional issue, while investing and using ECH on HodaiSwap will bring significant benefits under the deflationary mechanism.",
+        "zh": "HodaiSwap由支付令牌ECH支持，用于交换。ECH是在EOS公共区块链上发行的通用资产，以现代金融的法定现金状态为基准，是支持EOS生态转移、支付、交换、链穿越的重要金融资产。HodaiSwap选择ECH作为交易所货
+币和自动做市商（AMM），将ECH锁定为流动性池的持有人可以获得交易所佣金的一部分。ECH总发行量99000只，无预采、定增或增发，而在HodaiSwap上投资使用ECH将在通缩机制下带来显著收益。"
+    },
+    "email": "hodaiswap@gmail.com",
+    "website": "hodaiswap.org",
+    "whitepaper": "https://github.com/hodaiswap/M-contract/blob/master/docs/HodaiSwap%20WP.pdf",
+    "published_on": "2021-01-25",
+    "initial_price": {
+        "EOS": "0.01 EOS",
+        "USD": "0.02 USD"
+    },
+    "links": {
+        "steemit": "https://steemit.com/@your-awesome-project",
+        "twitter": "https://twitter.com/hodaiswap",
+        "telegram": "https://t.me/hodaiswap",
+        "github": "https://github.com/a610138467/M-contract",
+        "youtube": "https://www.youtube.com/channel/UCga3rYcXV1QoWu6AwhhS0cg",
+        "vk": "https://vk.com/hodaiswap"
+    }
+}
