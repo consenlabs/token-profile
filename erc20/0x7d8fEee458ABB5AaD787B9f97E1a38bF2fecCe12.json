@@ -1,0 +1,19 @@
+{
+    "symbol": "NIU",
+    "address": "0x7d8fEee458ABB5AaD787B9f97E1a38bF2fecCe12",
+    "overview": {
+        "en": "Niuswap liquidity protocol aggregator can find the best token exchange rate for users in the shortest time, and it is not limited to a single exchange. If the strategy and algorithm are good enough, users can complete the best transaction at the best price in real time, avoid the loss caused by price fluctuation and reduce the risk of transaction failure.",
+        "zh": "Niuswap流动性协议聚合器则可以为用户在最短时间内找到最佳代币兑换汇率，且不会局限于单个交易所，如果策略和算法足够好，就能让用户以最佳价格实时完成最优交易，同时避免用户受到价格波动所造成的损失、降低交易失败的风险。"
+    },
+    "email": "niuswap@foxmail.com",
+    "website": "https://niuswap.finance/",
+    "whitepaper": "https://niuswap.finance/Niu.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-01-26",
+    "initial_price": {
+        "USD": "1 USD"
+    },
+	"links": {
+		"telegram": "https://t.me/Niuswap"
+	}
+}
