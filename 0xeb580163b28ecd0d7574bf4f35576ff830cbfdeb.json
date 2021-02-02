@@ -1,0 +1,20 @@
+{
+    "symbol": "vETH",
+    "address": "0xeb580163b28ecd0d7574bf4f35576ff830cbfdeb",
+    "overview":{
+        "en": "vETH, aim to build the DeFi world.In addition to the MetaBoard, Metapool, and Metadao, there will be other Meta: stable coins, DEX, derivatives, NFT, insurance, Cross links, privacy, and more.",
+        "zh": "vETH, 去中心化投资银行。"
+    },
+    "email": "support@firefi.org",
+    "website": "https://firefi.org/",
+    "whitepaper": "https://firefi.org/FFI_WhitePaper_EN_V1.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-12-31",
+    "links": {
+        "Website" : "https://firefi.org/",
+        "Telegram": "https://firefi-global.medium.com/",
+        "Medium" : "https://firefi-global.medium.com/",
+        "Twitter" : "https://twitter.com/FireFi_ORG",
+        "Report" : "https://www.yuque.com/ffizhongwenshequ/go7kkr"
+    }
+  }
