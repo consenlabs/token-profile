@@ -1,0 +1,20 @@
+{
+    "symbol": "FFI",
+    "address": "0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a",
+    "overview":{
+        "en": "FFI, FFI, committed to becoming the DeFi fire in the ETH2.0",
+        "zh": "FFI，致力于成为ETH2.0时代的DeFi之火"
+    },
+    "email": "support@firefi.org",
+    "website": "https://firefi.org/",
+    "whitepaper": "https://firefi.org/FFI_WhitePaper_EN_V1.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-12-31",
+    "links": {
+        "Website" : "https://firefi.org/",
+        "Telegram": "https://firefi-global.medium.com/",
+        "Medium" : "https://firefi-global.medium.com/",
+        "Twitter" : "https://twitter.com/FireFi_ORG",
+        "Report" : "https://www.yuque.com/ffizhongwenshequ/go7kkr"
+    }
+  }
