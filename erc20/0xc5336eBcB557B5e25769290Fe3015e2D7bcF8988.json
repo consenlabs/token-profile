@@ -1,0 +1,28 @@
+{
+  "symbol": "Token symbol",
+  "address": "0xc5336eBcB557B5e25769290Fe3015e2D7bcF8988",
+  "overview":{
+        "en": "Qualified Filecoin Hashrate Token (QFIL) is a type of token backed by real Filecoin computing power of 0.1T. Miners contribute computing power to the QFIL mining pool, then smart contracts collateralize the power in exchange for issued QFIL tokens.
+QFIL's price is pegged with true and effective Filecoin standard computing power. Owning QFIL is equivalent to owning the underlying computing power of Filecoin network. QFIL represents potential mining capacity and future revenue. Therefore, in the secondary market, QFIL is a token with no liquidation risk or high value leverage.",
+        "zh": "Qualified Filecoin Hashrate Token（QFIL）是由0.1T的真实Filecoin算力抵押的通证，矿工为QFIL矿池贡献算力，智能合约将算力进行抵押换取发行QFIL通证。
+QFIL的价格锚定了真实有效的Filecoin标准算力，持有QFIL等同于拥有Filecoin网络底层算力，因此QFIL代表着潜在的挖矿能力和未来收益，所以在二级市场上，QFIL是没有清算风险的、且具备高价值杠杆能力的通证。"
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "https://qfil1.oss-cn-shanghai.aliyuncs.com/QFIL-WhitePaper_V2.pdf",
+  "state": "LOCKED",
+  "published_on": "2021-02-04",
+  "initial_price":{
+        "USD":"1.5 USD"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/qfilorg",
+    "telegram": "https://t.me/QFIL_Official",
+    "github": "https://github.com/QFil?tab=projects",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
