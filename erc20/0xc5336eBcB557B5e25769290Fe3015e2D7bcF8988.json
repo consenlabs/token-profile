@@ -1,5 +1,5 @@
 {
-  "symbol": "Token symbol",
+  "symbol": "QFil",
   "address": "0xc5336eBcB557B5e25769290Fe3015e2D7bcF8988",
   "overview":{
         "en": "Qualified Filecoin Hashrate Token (QFIL) is a type of token backed by real Filecoin computing power of 0.1T. Miners contribute computing power to the QFIL mining pool, then smart contracts collateralize the power in exchange for issued QFIL tokens.
