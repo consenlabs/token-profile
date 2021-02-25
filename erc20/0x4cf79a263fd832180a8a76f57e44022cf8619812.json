@@ -1,6 +1,6 @@
 {
     "symbol": "CRV1",
-    "address": "0x4cf79a263fd832180a8a76f57e44022cf8619812",
+    "address": "0x4cf79A263FD832180A8a76f57E44022Cf8619812",
     "overview": {
         "en": "CRV1 token is an Ethereum ERC20 token. The purpose is to build an aggregation flow pool, which can automatically deposit tokens for exchange, and can be freely extracted to efficiently complete the transactions in the flow pool.",
         "zh": "CRV1 Token，是基于以太坊智能合约 ERC20 开发的数字货币。旨在建立里一个聚合性流动池，可以自动存入代币进行兑换，可以自由提取，高效完成流动池中交易。"
