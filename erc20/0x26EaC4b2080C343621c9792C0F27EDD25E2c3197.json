@@ -1,0 +1,28 @@
+{
+  "symbol": "SG",
+  "address": "0x26EaC4b2080C343621c9792C0F27EDD25E2c3197",
+  "overview":{
+        "en": "\"SmallGoal\" is a crypto artwork created by Liu Jiaying (CryptoZR) in July 2020. \"SmallGoal\" is a fable about \"100 Million\"",
+        "zh": "「小目标」是CryptoZR在2020年7月发布的加密艺术作品，是一个关于1个亿的寓言"
+  },
+  "email": "cryptozr@protonmail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2020-07-10",
+  "initial_price":{
+        "ETH":"0.001 ETH",
+        "USD":"0.3 USD",
+        "BTC":"0.00002 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/CryptoZR_",
+    "telegram": "",
+    "github": "https://github.com/cryptozr",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
