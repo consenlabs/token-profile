@@ -1,0 +1,23 @@
+{
+  "symbol": "CITY",
+  "address": "0xD002f53979dd9acB946a82ffe04D0e4383cf5f92",
+  "overview":{
+        "en": "UBI.city is a decentralized organizational governance protocol which realizes the vision of UBI. UBI.city solves the problem of sybil attacks and realizes the value of personal tokens by introducing Proof of Performance. UBI.city has designed a system with a decentralized protocol for users to support UBI.city to connect to the DeFi system on ETH1.0.",
+        "zh": "代币简介"
+  },
+  "email": "cityman@ubi.city",
+  "website": "https://www.ubi.city/",
+  "whitepaper": "https://www.ubi.city/WhitePaperEN",
+  "state": "NORMAL",
+  "published_on": "2021-01-19",
+  "initial_price":{
+      "USD":"0.4USD"
+  },
+  "links": {
+    "blog": "https://blog.ubi.city",
+    "twitter": "https://twitter.com/UBICITYprotocol",
+    "telegram": "https://t.me/ubicity",
+    "github": "https://github.com/UBICITY",
+    "medium": "https://ubicityprotocol.medium.com/"
+  }
+}
