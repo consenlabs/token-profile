@@ -1,0 +1,19 @@
+
+{
+    "symbol": "ETH2x-FLI",
+    "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+    "overview":{
+    "en": "ETH2x-FLI token provides and easy and seamless way to get leveraged long ETH exposure.",
+    "zh": "ETH2x-FLI令牌提供了一种简单而无缝的方式来获得长期的ETH风险敞口。"
+    },
+    "website": "https://defipulse.com/",
+    "whitepaper": "https://pulseinc.medium.com/introducing-the-flexible-leverage-index-5ec90f2381ce",
+    "state": "NORMAL",
+    "published_on": "2021-03-17",
+    "links": {
+      "blog": "https://defipulse.com/blog/",
+      "twitter": "https://twitter.com/defipulse",
+      "telegram": "https://t.me/defipulse",
+      "discord": "https://discord.gg/Jbv7tWu"
+    }
+}   
