@@ -1,0 +1,17 @@
+{
+  "symbol": "BTCTT",
+  "address": "0x3F0164F953ad11b73dF3859829Bba71f8CcF8279",
+  "overview":{
+        "en": "BTCTT aims to build the largest and most friendly autonomous shared travel ecological platform.
+BTCTT uses blockchain technology and concepts to create a more efficient, transparent, reliable, and autonomous travel ecosystem.",
+        "zh": "BTCTT旨在打造最大、最友好的自主共享旅游生态平台。
+
+BTCTT使用区块链技术和概念来创建一个更高效、透明、可靠和自主的旅游生态系统."
+  },
+  "email": "btctttravelvers@outlook.com",
+  "website": "https://bitcointravelers.com/"
+  },
+  "links": {
+    "slack": "https://BTCTT.slack.com",
+  }
+}
