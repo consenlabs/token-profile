@@ -1,0 +1,21 @@
+{
+  "symbol": "HCT",
+  "address": "0x6005AEBf512F7aB98CA189F018371df4e8Dd1398",
+  "overview":{
+        "en": "HeroHelpMe Platform, it is based on the unique blockchain decentralized technology, and is divided into “industrial diversification, product differentiation and global distribution”. Under the guidance of the development strategy of “certification of assets”, it has developed steadily and constantly innovated, creating tremendous social value.",
+        "zh": "HeroHelpMe Platform 《随身救星》，以独有的区块链去中心化技术所呈现的多元化商业生态圈，在“产业多元化、产品差异化、布局全球、资产通证化”的发展战略指引下，稳健发展，不断创新，创造了巨大的社会价值。"
+  },
+  "email": "jkeykong@herohelpme.io",
+  "website": "herohelpme.io",
+  "whitepaper": "https://herohelpme.io/attachments/HEROCIVILIAN_TOKEN_WHITEPAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-02-01",
+  "initial_price":{
+        "ETH":"0.00055022 ETH",
+        "USD":"1.000 USD",
+        "BTC":"0.0000207719 BTC"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/HeroHelpMe"
+  }
+}
