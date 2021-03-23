@@ -1,0 +1,17 @@
+{
+    "symbol": "INSUR",
+    "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "overview": {
+        "en": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust and carefree DeFi insurance services to the DeFi users, with very low premium and sustainable investment returns.",
+        "zh": "InsurAce是一个去中心化保险协议，旨在为DeFi用户提供可靠、稳健且无忧的DeFi保险服务，具有极低的保费和可持续性的投资回报率。"
+    },
+    "email": "contact@insurace.io",
+    "website": "https://insurace.io/",
+    "links": {
+        "blog": "https://medium.com/insurace",
+        "twitter": "https://twitter.com/insur_ace",
+        "telegram": "https://t.me/insurace_protocol",
+        "github": "https://github.com/InsurAce-Protocol",
+        "medium": "https://medium.com/insurace"
+    }
+}
