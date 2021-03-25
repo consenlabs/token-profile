@@ -1,17 +1,1 @@
-{
-  "symbol": "DAWN",
-  "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
-  "overview":{
-        "en": "Dawn is an open-source protocol for gaming and competitions.Its mission is to enable a fair, open and rewarding gaming ecosystem no matter what country or background users are from. Anyone whether you are a player, business or influencer can run competitions and earn cryptocurrencies on video games using Dawn. Game developers can integrate the open protocol in their games to allow gamers to compete." 
-  },
-  "email": "team@dawn.org",
-  "website": "https://dawn.org/",
-  "state": "NORMAL"
-  },
-  "links": {
-    "twitter": "https://twitter.com/DawnProtocol",
-    "telegram": "https://t.me/dawnprotocol",
-    "github": "https://github.com/Dawn-Protocol",
-    "facebook": "https://www.facebook.com/dawnprotocol/"
-  }
-}
+{"symbol": "DAWN","address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa","overview":{"en": "Dawn Protocol (DAWN) is a cryptocurrency and operates on the Ethereum platform. Dawn Protocol has a current supply of 93,468,683.89919634 with 50,082,404.68327923 in circulation. The last known price of Dawn Protocol is 0.81255914 USD and is up 0.73 over the last 24 hours. It is currently trading on 9 active market(s) with $2,424,667.42 traded over the last 24 hours. More information can be found at https://dawn.org."},"email": "","website": "https://dawn.org","state": "NORMAL","links": {"blog": "https://medium.com/@dawnprotocol/","twitter": "https://twitter.com/dawnprotocol","telegram": "","github": ""}}
