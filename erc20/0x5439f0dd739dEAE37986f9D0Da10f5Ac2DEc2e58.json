@@ -1,0 +1,23 @@
+{
+  "symbol": "SPR",
+  "address": "0x5439f0dd739dEAE37986f9D0Da10f5Ac2DEc2e58",
+  "overview":{
+        "en": "Spyder protocol is a cross chain investment and financing protocol developed by Brett Kelly's team based on substrata, which is an important part of Polkadot ecology. It is one of the important ways for different asset holders to participate in Polkadot parallel chain auction. Through this agreement, users and project parties can participate in parallel chain auction and other derivatives services safely, reasonably and efficiently.",
+        "zh": "Spyder Protocol是Brett Kelly团队开发的一种基于Substrate的跨链投融协议，作为Polkadot生态的重要一环。是不同资产持有者参与Polkadot平行链拍卖的重要方式之一，通过该协议，用户和项目方可以进行安全，合理，高效的参与平行链拍卖和其他衍生品服务。"
+  },
+  "email": "Email",
+  "website": "https://www.spyderprotocol.com/",
+  "whitepaper": "https://www.spyderprotocol.com/Spyder%20Protocol-White%20PaperV2.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-11-25",
+  "initial_price":{
+        "ETH":"0.00029 ETH",
+        "USD":"0.5 USD",
+        "BTC":"0.0000008923 BTC"
+  },
+  "links": {
+    "twitter": "h https://twitter.com/spyderprotocol",
+    "telegram": "https://t.me/spiderprotocol",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
