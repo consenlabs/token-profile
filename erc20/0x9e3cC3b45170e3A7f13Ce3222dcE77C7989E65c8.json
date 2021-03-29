@@ -1,1 +1,29 @@
 {"symbol": "CBT","address": "0x9e3cC3b45170e3A7f13Ce3222dcE77C7989E65c8","overview":{"en": ""},"email": "admin@cyclebittoken.io","website": "cyclebittoken.io","state": "NORMAL","links": {"blog": "","twitter": "","telegram": "","github": ""}}
+
+{
+  "symbol": "CBT",
+  "address": "0x9e3cC3b45170e3A7f13Ce3222dcE77C7989E65c8",
+  "overview":{
+        "en": "Providing retailers with the ability to accept payments with cryptocurrency. Accept payments anywhere In-store, online, on-the-go"
+  },
+  "email": "admin@cyclebittoken.io",
+  "website": "cyclebittoken.io",
+  "whitepaper": "cyclebittoken.io/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-02-15",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "https://t.me/GlobalCyclebitOffical",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
