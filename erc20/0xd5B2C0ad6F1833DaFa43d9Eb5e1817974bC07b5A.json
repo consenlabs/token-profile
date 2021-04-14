@@ -1,0 +1,23 @@
+{
+	  "symbol": "OYT",
+	  "address": "0xd5B2C0ad6F1833DaFa43d9Eb5e1817974bC07b5A",
+	  "overview":{
+	        "en": "OxyDev Network is aimed at building a cross-chain and cross-platform network of content value assets, which, by using such technologies as BaaS (Block chain as a service), visual open cloud platforms, API and SDK, smart contract clusters and hybrid Oracle engine, and leveraging the power of the Polkadot/Substate Framework on open networks, will provide global users/creators with such services as subscription for integrated management service, content copyright confirmation, content digital tokenized offering (STO-NFT), and content creation incentives, as well as convenient building services for developers/enterprises, which will enable quick deployment of dAPPs exclusive to their own businesses, and one-click offering of content digital assets on chain. OxyDev hopes that, with Poikadot /Substate Framework and its own technical architecture, and through accumulation and circulation of users, on-chain dApp contents and copyright digital assets, it will become a content value incubation network for Web3.0 in the future.",
+	        "zh": "OxyDev创建可视化开放云平台、API ＆SDK、智能合约群、混合Oracle引擎等技术，通过使用Polkadot/SubstateFramework 在开放网络上的力量，为全球用户/创造者提供如订阅集成管理服务、内容版权确权、内容数字资产化发行（STO-NFT）、内容创作激励、广告激励等服务，以及为开发者/企业提供便捷的搭建服务：可在链上快速部署属于自身业务的dAPP与键式发行内容数字资产。OxyDev希望通过PoIkadot/Substate 框架与本身技术架构，通过用户、链上DAPP的内容、版权数字化资产的累积与流通，未来成为Web3.0的内容价值孵化网络。"
+	  },
+	  "email": "oxy-support@protonmail.com",
+	  "website": "oxy-support@protonmail.com",
+	  "whitepaper": "http://www.oxy.dev/oxydev/static/wp.pdf",
+	  "state": "LOCKED | NORMAL",
+	  "published_on": "2021-03-21",
+	  "initial_price":{
+	        "USD":"0.4USD"
+	  },
+	  "links": {
+	    "twitter": "https://twitter.com/OxyDev_Oxy",
+	    "telegram": "https://0.plus/oxydev8",
+	    "github": "https://github.com/oxydev",
+	    "reddit": "https://www.reddit.com/r/OxyDev?utm_medium=android_app&utm_source=share",
+	    "Discord": "https://discord.gg/zXkP72w6"
+	  }
+	}
