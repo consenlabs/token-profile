@@ -1,0 +1,18 @@
+{
+    "symbol": "EOT",
+    "address": "0x9e8D7c41941503c485EAaeb06283998936bF8901",
+    "overview":{
+        "en": "",
+        "zh": "Distributed Global基金和3个团队一百多名技术人员建立而成，有着非常专业的市值管理团队和技术团队。supereot简称EOT，通过DPoS机制和整体架构分片多链（Shard Chains）等改变现有交易网络用户和Gas费用上涨循环。解决了ETH很多的扩容问题，可扩展的多链网络.创新安全强大的3.0区块链公链平台."
+    },
+    "email": "supereot@super.com",
+    "website": "https://www.supereot.com/",
+    "whitepaper": "https://www.supereot.com/public/index/pdf/EOT%20white%20paper.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-04-07",
+    "links": {
+        "twitter": "https://twitter.com/supereot",
+        "telegram": "https://t.me/supereot",
+        "github": "https://github.com/supereot"
+    }
+}
