@@ -1,0 +1,14 @@
+{
+  "symbol": "STC",
+  "address": "0x759d1714d9a27942aa5f993b630a74236d614f94",
+  "overview": {
+    "en": "Based on blockchain and smart contract technology and according to the social incentive mechanism and consumption behavior, STC is a value sharing exchange token developed by Singapore Starlink Foundation for the social application DAPP Zevok. Users can download and use the Zevok APP to get it in a more efficient and convenient way.",
+    "zh": "谢尔币（STC）是基于区块链和智能合约技术，由新加坡星链基金会针对社交应用DAPP 之音（ZEVOK）社交激励机制和消费行为制定出来的价值共享交换代币，用户可以通过下载使用之音(Zevok)App轻量化获取。"
+  },
+  "email": "official@stcwallet.org",
+  "website": "https://www.stcwallet.org/",
+  "whitepaper": "https://www.stcwallet.org/zh/STC%E8%B0%A2%E5%B0%94%E5%B8%81%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-03-23",
+  "initial_price":{"USD":"0.15 USD"}
+}
