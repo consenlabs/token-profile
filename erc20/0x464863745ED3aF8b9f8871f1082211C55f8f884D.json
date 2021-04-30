@@ -1,0 +1,26 @@
+{
+  "symbol": "CTT",
+  "address": "0x464863745ED3aF8b9f8871f1082211C55f8f884D",
+  "overview":{
+        "en": "CTT is the utility token of CryptoTycoon, and it also plays the role of on-chain governance. In the game, CTT is an essential asset of the last step for players to become a tycoon. From the moment the CTT contract is written on the BSC, its total amount is fixed at 1 million, and each on-chain transaction of CTT will cause 5% of the transaction amount to be burnt.",
+        "zh": "CTT 是 CryptoTycoon 的用途型 Token，同时也兼具着链上治理的作用，在游戏中，CTT 是玩家成为大亨最后一步的必备资产。从写入 CTT 合约在 BSC 区块链上那一刻起，它的总量就固定为 100 万枚，同时进行 CTT 的链上转账将会销毁 CTT 转账额的 5%。"
+  },
+  "email": "Game@cryptotycoon.finance",
+  "website": "http://cryptotycoon.finance",
+  "whitepaper": "https://docs.cryptotycoon.co",
+  "state": "NORMAL",
+  "published_on": "2021-04-26",
+  "initial_price":{
+        "CTT":"0.00001 CTT"
+  },
+  "links": {
+    "blog": "http://cryptotycoon.co",
+    "twitter": "https://twitter.com/CryptoTycoon_GP",
+    "telegram": "https://t.me/CryptoTycoonCTT",
+    "github": "https://github.com/cryptotycoon-finance",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://cryptotycoon-gp.medium.com"
+  }
+}
