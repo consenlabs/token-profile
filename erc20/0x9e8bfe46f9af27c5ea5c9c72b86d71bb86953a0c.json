@@ -1,0 +1,28 @@
+{
+  "symbol": "EZX",
+  "address": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c",
+  "overview":{
+        "en": "EZDex is a decentralized financial exchange, covering the advantages of DeFi decentralized and decentralized exchanges, standing in the decentralized financial ecology.",
+        "zh": "EZDex是一种去中心化金融交易所，涵盖了DeFi去中心化和去中心化交易所的优势，立於分散式金融生态中."
+  },
+  "email": "support@ezdex.market",
+  "website": "https://ezdex.market",
+  "whitepaper": "https://mp.weixin.qq.com/s/fAXI2vfmCYasCD7yIMQrRQ",
+  "state": "NORMAL",
+  "published_on": "2021-04-16",
+  "initial_price":{
+        "ETH":"0,0000846 ETH",
+        "USD":"0.3 USD",
+        "BTC":"0,0000051 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/ExchangeEzdex",
+    "telegram": "",
+    "github": "",
+    "facebook": "https://www.facebook.com/EZDexExchange/",
+    "reddit": "https://www.reddit.com/user/EZDexExchage",
+    "slack": "https://ezdexexchange.slack.com/",
+    "medium": "https://medium.com/@EZDex"
+  }
+}
