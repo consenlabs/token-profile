@@ -1,0 +1,17 @@
+{
+  "symbol": "DIDI",
+  "address": "0xC3044DFC8B4a607FBA69888CaeaCF856Cf45F0D3",
+  "overview": {
+    "zh": "DiDi-DeFiLabs 团队由 2020 年 Dorahacks Hackathon 冠军团队成立，核心成员来自中科大、芝加哥大学等知名学府，团队成员均是资深 ETH、BSC 和 Polkadot 开发者、加密矿工、期权交易员、数据分析师，都是 DeFi 资深科学家。联合创始人兼 CTO 的 Eric Zhang 毕业于中科院，前腾讯推荐系统研究员，超过 4 年的以太坊、 EOS、波卡开发者。联合创始人兼金融产品设计和项目经济学家的 Turbulence Wang 毕业于芝加哥大学，超过 4 年的加密货币挖矿、加密货币衍生品交易者、数据分析师。团队获得过 2017 DoraHacks 黑客松冠军 (Hyperledger 资产证券化) 和 2020 Dorahacks DeFi 黑客松并列冠军 (ETH 去中心化期权）。"
+  },
+  "email": "1364681021@qq.com",
+  "website": "http://didi-defi.com",
+  "whitepaper": "http://didi-defi.com/files/didi_cn.pdf",
+  "published_on": "2021-05-08",
+  "initial_price": {
+    "USD": "0.1 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/DidiDefi"
+  }
+}
