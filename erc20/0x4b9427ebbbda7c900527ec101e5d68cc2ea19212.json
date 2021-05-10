@@ -1,0 +1,22 @@
+{
+  "symbol": "GFC",
+  "address": "0x4b9427ebbbda7c900527ec101e5d68cc2ea19212",
+  "overview":{
+        "en": "GoldFox aim to be the best on-chain storage lending platform, build distributed financial ecology, GoldFox is first DAO based decentralized lending protocol outside ETH, we use the over-collateralized mortgage lending model inspired by Compound coupled with the EPS style liquidity mining model empowers the capital utilization of DEFI-Ecology. And we have been actively laying out the plan of landing a decentralized crypto spot contract platform in the very near future.",
+        "zh": "GoldFox旨在成为最佳的链上存储借贷平台，构建分布式金融生态，GoldFox是ETH以外的第一个基于DAO的分散式借贷协议，我们使用了由Composite启发的超抵押抵押借贷模型以及EPS风格的流动性挖掘模型来实现DEFI-Ecology的资本利用。而且我们一直在积极制定在不久的将来登陆去中心化加密现货合约平台的计划。"
+  },
+  "email": "foxlink2021@gmail.com",
+  "website": "https://goldfox.cash/",
+  "whitepaper": "https://docs.goldfox.cash/",
+  "state": "NORMAL",
+  "published_on": "2021-05-09",
+  "initial_price":{
+        "USD":"0.5 USD"
+  },
+  "links": {
+    "blog": "https://docs.goldfox.cash/",
+    "twitter": "https://twitter.com/masterbarber5",
+    "telegram": "https://t.me/joinchat/zOFec-1TTipiZTFl",
+    "github": "https://github.com/goldFox-finance"
+  }
+}
