@@ -1,0 +1,21 @@
+{
+    "symbol":"ATMC",
+    "address": "0x32Ff43d536a33AF1AE22F438E6d84B57fA19F469",
+    "overview": {
+        "en": "As a creature in the sixth-dimension (6-D space) , Altman has sheltered ancient mankind from extinction disasters, and is summoned by the light messenger of the Earth nowadays, ready to embark on the journey of returning to the Earth to help Earth’s human beings to complete their evolution - the evolution of light. Altman coin is the star-coin of M78 Nebula, shortened to ATMC. It is defined as the base currency. Our vision is that ATMC will be widely used to give all participants an opportunity to achieve the evolution of light and enjoy dignified wealth and status.",
+        "zh": "Altman作为一个六维空间的生物，曾庇护上古人类免于灭绝的灾难，今又受到地球光明使者的呼唤，准备再次回归地球来帮助人类完成进化——光之进化。Altman coin作为M78星云的星币，简称ATMC。它被定义为基础货币，我们的愿景是ATMC被广泛使用，让所有参与者有机会实现光之进化，享受有尊严的财富和地位。"
+      },
+"email": "altman0@protonmail.com",
+  "website": "https://atmc.eth.link/",
+  "whitepaper": "https://atmc.eth.link/",
+  "state": "NORMAL",
+  "published_on": "2021-05-13",
+  "initial_price":{
+    "ETH":"0.000 ETH",
+    "USD":"0.000 USD",
+    "BTC":"0.000 BTC"
+},
+  "links": {
+    "blog": "https://atmc.eth.link"
+  }
+}
