@@ -1,0 +1,24 @@
+{
+  "symbol": "ETM",
+  "address": "0xf3eb8b90c763b8b2b53e7819ac27eca8f94c8ec2",
+  "overview":{
+        "en": "Ethersmart was established in January 2020. Nazim Corwin, the founder, is an AI Technology engineer with over ten years of experience, he also is a smart trading app programmer for largest banks at Dubai like National Bank of Abu Dhabi, Samba Financial Group.",
+        "zh": ""
+  },
+  "email": "support@ethersmart.org",
+  "website": "https://ethersmart.org/",
+  "whitepaper": "https://ethersmart.org/document/ETMwhitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-01-03",
+  "initial_price":{
+        "ETH":"0.006048 ETH",
+        "USD":"24.4408 USD",
+        "BTC":"24.4408 BTC"
+  },
+  "links": {
+    "blog": "https://ethersmart.org/news",
+    "twitter": "https://twitter.com/EtherSmart_ORG",
+    "telegram": "https://t.me/ethersmart_announcements",
+    "facebook": "https://www.facebook.com/official.ethersmart",
+  }
+}
