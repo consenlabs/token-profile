@@ -1,41 +1,31 @@
-{
+ï»¿{
   "symbol": "CZ",
   "address": "0xDCa8738CF677CD25f0aeE853982E4dbc70EF8ACd",
   "overview":{
-    "en": "CZ (cjzvipe), CZ is the real value-oriented digital currency! Amid the big changes in the cryptocurrency community, which is brought by the real value-oriented digital currency, CZ is the forerunner of this revolution! CZ is not only a real value-oriented cryptocurrency/high-value cryptocurrency but also a trustworthy financial portal/mainstream portal and financial platform, unicorn with great influence and credibility. Since its establishment, CZ (including the predecessor of CZ) never recommend any questionable financial product. After years of confirmation, what CZ advocated has been proven to be right, which few others can say the same. Its value-oriented property is the key! CZ has become an influential leader, with immense weight! With 12 applicable scenarios in operation and more scenarios are under development, CZ is pushing the advancement and development of the innovations, technology development, entrepreneurship investment and value finance etc...",
-    "zh": "CZ£¨CJZVIPE£©£¬ÕæÕıµÄ¼ÛÖµ±Ò£¡±ÒÈ¦´ó±ä¸ï½øĞĞÖĞ£¬Õâ³¡±ä¸ïÓÉÕæÕıµÄ¼ÛÖµ±ÒÇı¶¯£¬²Æ¾­×êCZÄ¿Ç°ÕıÔÚÒıÁì±ÒÈ¦±ä¸ï£¡²Æ¾­×êCZ¼ÈÊÇÕæÕıµÄ¼ÛÖµĞÍÊı×Ö±Ò/¸ß¼ÛÖµ±Ò£¬Ò²ÊÇ¹úÄÚÍâÈ¨Íş²Æ¾­ÃÅ»§/Ö÷Á÷ÃÅ»§ºÍ²Æ¾­Æ½Ì¨¡¢¶À½ÇÊŞ£¬¼«¾ßÓ°ÏìÁ¦ºÍ¹«ĞÅÁ¦£¬×Ô³ÉÁ¢Ö®ÈÕÆğ£¬²Æ¾­×ê£¨°üº¬²Æ¾­×êÇ°Éí£©´ÓÎ´ÍÆ¼ö¹ıÎÊÌâÀí²Æ²úÆ·£¬²¢ÇÒ¾­¹ıÊıÄêÊ±¼äÑéÖ¤£º²Æ¾­×êÍÆ¶¯µÄ¶¼ÊÇÕıÈ·µÄ£¨ÓĞ¼¸¸öÄÜ¿¸µÃ×¡Ê±¼ä¼ìÑé£¿²Æ¾­×êÄÜ£©£¬¼ÛÖµĞÍµ¼Ïò£¡²Æ¾­×êÒÑ¾­³ÉÎªÒâ¼ûÁìĞä¡£²Æ¾­×êCZÄ¿Ç°ÒÑ¾­ÂäµØ12¸öÓ¦ÓÃ³¡¾°£¬¸ü¶àÊÀ½ç¼¶Ó¦ÓÃ³¡¾°À©Õ¹ÖĞ£¬ÍÆ¶¯´´ĞÂ¡¢¿Æ¼¼¡¢´´ÒµÍ¶×Ê¡¢¼ÛÖµĞÍ²Æ¾­µÈµÈµÄ½ø²½ºÍ·¢Õ¹¡£²Æ¾­×êCZ×ÜÁ¿3Ç§Íò¿Å£¬Ã¿ÔÂ·¢ĞĞ×ÜÁ¿µÄ0.2%"
+    "en": "CZ (cjzvipe), CZ is the real value-driven digital currency! CZ is pushing the advancement and development of the innovations, technology development, entrepreneurship investment and value finance etc... Value-Driven",
+    "zh": "è´¢ç»é’»CZï¼ˆCJZVIPEï¼‰ï¼ŒçœŸæ­£çš„ä»·å€¼å¸ï¼æ¨åŠ¨åˆ›æ–°ã€ç§‘æŠ€ã€åˆ›ä¸šæŠ•èµ„ã€ä»·å€¼å‹è´¢ç»ç­‰ç­‰çš„è¿›æ­¥å’Œå‘å±•ï¼Œä»·å€¼å‹é©±åŠ¨ï¼"
   },
   "email": "kefu@cjz.vip",
   "website": "https://www.cjz.vip/",
   "english whitepaper": "https://www.cjz.vip/uploads/927612.pdf",
   "chinese whitepaper": "https://www.cjz.vip/uploads/868369.pdf",
-  "LOGO": "https://www.cjz.vip/bdueimg/php/upload/image/20210412/1618241523910373.png",
   "gas limit": "60000",
-  "official announcement": "https://www.cjz.vip/169268221.html",
-  "state": "NORMAL",
-  "published_on": "2020-9-9",
-  "initial_price":{
-    "USD":"7800 USD"
+  "official announcement": "https://www.cjz.vip/176350018.html",
+  "state": "NORMAL"
   },
   "exchange": {
-    "ZT exchange": "https://www.ztb.im/exchange?coin=CZ_USDT",
     "ZG exchange": "https://www.zg6.com/exchange/737/CZ/USDT",
     "WBF exchange": "https://www.wbfex.live/trade/CZ_USDT",
     "uniswap exchange":"https://app.uniswap.org/#/swap"
   },
   "media": {
-    "²Æ¾­×ê": "https://www.cjz.vip/100003179.html",
-    "½ğÉ«²Æ¾­": "https://www.jinse.com/news/blockchain/895376.html",
-    "»ğĞÇ²Æ¾­": "https://news.huoxing24.com/20201025174329498525.html"
+    "è´¢ç»é’»": "https://www.cjz.vip/100003179.html",
+    "é‡‘è‰²è´¢ç»": "https://www.jinse.com/news/blockchain/895376.html",
+    "ç«æ˜Ÿè´¢ç»": "https://news.huoxing24.com/20201025174329498525.html"
   },
   "links": {
-    "telegram": "https://t.me/cjzvipegroup",
     "twitter": "https://twitter.com/cjzvipe"
   },
-  "links": {
-    "telegram": "https://t.me/cjzvipegroup",
-    "twitter": "https://twitter.com/cjzvipe"
-  },
-  "About our team": "The team is an innovative one, pushing the advancement and development of the innovations, technology development, entrepreneurship investment and value finance etc... Value-Driven"
+  "About our team": "Innovative, value-driven team"
 
 } 
