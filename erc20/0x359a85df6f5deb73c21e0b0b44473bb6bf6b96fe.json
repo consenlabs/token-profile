@@ -1,0 +1,29 @@
+  
+{
+  "symbol": "WTS",
+  "address": "0x359a85df6f5deb73c21e0b0b44473bb6bf6b96fe",
+  "overview":{
+        "en": "梧桐树，一种神奇植物，我们希望社区与他一样，茁壮成长，完全社区自治，项目方仅自留0.5%，其余99.5%将交由市场流通，项目方将99.5%的代币质押在mdex区中心交易所内，每半年社区将启动回购投票，项目方一年内组建基金董事会，我们的未来是星辰大海！",
+        "zh": ""
+  },
+  "email": "",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-05-19",
+  "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
