@@ -1,0 +1,24 @@
+﻿{
+  "symbol": "YLTWB",
+  "address": "0x010ea6E65Fa50c0D44E2b90276B7Ba1F16168601",
+  "overview":{
+        "en": "Entertainment King community is mainly committed to building a global sports and entertainment community. YLTWB token is used to motivate community members who contribute to the community and enhance their enthusiasm for sports and entertainment",
+        "zh": "娱乐天王社区主要致力于建设一个全球的运动娱乐社区，YLTWB Token用于激励为社区做出贡献的社区成员，提升大家运动娱乐积极性"
+  },
+  "email": "kenny2020.chen@gmail.com",
+  "website": "yltw.io",
+  "whitepaper": "http://yltw.io/index_files/YLTWChain.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-05-11",
+  "initial_price":{
+        "ETH":"0.00000060 ETH",
+        "USD":"0.00160791 USD",
+        "BTC":"0.00000004 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/YLTWB",
+    "telegram": "https://t.me/joinchat/Yu-1b0hFPcU3YzM1",
+    "github": "https://github.com/YLTWB/YLTW",
+    "Discord": "https://discord.gg/KkK59C6X"
+  }
+}
