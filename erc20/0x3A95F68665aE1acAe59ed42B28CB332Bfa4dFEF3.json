@@ -1,0 +1,26 @@
+{
+    "symbol": "spacedog",
+    "address": "0x3A95F68665aE1acAe59ed42B28CB332Bfa4dFEF3",
+    "overview":{
+          "en": "Help Elon Musk make humanity a multi-planet species.",
+          "zh": "帮助马斯克建立人类太空文明."
+    },
+    "email": "Email",
+    "website": "https://spacedog.dog/",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2021-05-18",
+    "initial_price":{
+          "USD":"0.00000000001 USD",
+    },
+    "links": {
+      "blog": "https://spacedog.dog/",
+      "twitter": "https://twitter.com/Spacedo47541490/",
+      "telegram": "https://t.me/joinchat/LFFCOF-IkIpkZDQx/",
+      "github": "",
+      "facebook": "https://www.facebook.com/groups/466513937986842/",
+      "reddit": "https://www.reddit.com/r/SpacedogCoinSDC/",
+      "slack": "",
+      "medium": ""
+    }
+  }
