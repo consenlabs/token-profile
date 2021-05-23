@@ -1,0 +1,28 @@
+{
+  "symbol": "ONECC",
+  "address": "0x3fB3902539b301166c7B30CF3D3ee53E403006a3",
+  "overview":{
+        "en": "One cent coin（简称ONECC）译为 一美分 也代表该代币初始目标理念为一美分。ONECC代币是一些币友自发性组织发行，该社区高度自治并完全由社区成员发展扩大，未来致力于积极建设HECO生态+NFT板块的Token阶梯平台。总量2100万亿全部投入流动性矿池并且永久锁死，无法撤池，每次交易销毁5%，持币分红5%，总量不断减少，不断升值",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "http://www.occ-coin.com",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-05-17",
+  "initial_price":{
+        "ETH":"",
+        "USD":"0.00000000000039 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/One_OneCentCoin",
+    "telegram": "",
+    "github": "https://github.com/Arvin-sunlight/token-profile",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
