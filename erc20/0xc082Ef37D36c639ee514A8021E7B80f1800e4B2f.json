@@ -1,5 +1,4 @@
-{
-    
+{ 
     "symbol": "LOX",
     "address": "0xc082Ef37D36c639ee514A8021E7B80f1800e4B2f",
     "overview": {
@@ -8,7 +7,7 @@
     },
     "email": "admin@loxapp.org",
     "website": "http://loxapp.org/",
-    "whitepaper": "http://loxapp.org/lox.pdf",
+    "whitepaper": "http://loxapp.org/lox_en.pdf",
     "published_on": "2021-05-01",
     "initial_price": {
         "USD": ""
