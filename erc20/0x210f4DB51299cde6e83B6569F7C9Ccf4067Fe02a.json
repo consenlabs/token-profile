@@ -1,0 +1,19 @@
+{
+  "symbol": "HHM",
+  "address": "0x210f4DB51299cde6e83B6569F7C9Ccf4067Fe02a",
+  "overview":{
+        "en": "HeroHelpMe Platform, it is based on the unique blockchain decentralized technology, and is divided into "industrial diversification, product differentiation and global distribution". Under the guidance of the development strategy of "certification of assets", it has developed steadily and constantly innovated, creating tremendous social value.",
+        "zh": "HeroHelpMe Platform 《随身救星》，以独有的区块链去中心化技术所呈现的多元化商业生态圈，在“产业多元化、产品差异化、布局全球、资产通证化”的发展战略指引下，稳健发展，不断创新，创造了巨大的社会价值。"
+  },
+  "email": "jkeykong@herohelp.me",
+  "website": "https://herohelp.me",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2022-01-01",
+  "initial_price":{
+        "USD":"0.000001 USD",
+  },
+  "links": {
+    "facebook": "https://fb.com/HeroHelpMe",
+  }
+}
