@@ -1,0 +1,22 @@
+{
+  "symbol": "PANDA",
+  "address": "0x73eFE5E41F70BdCDE2b88Bda860C98F996884246",
+  "overview":{
+        "en": "The PANDA project attempts to connect centrallized and decentrallized worlds,so that they are no longer isolated from each other, and combined with each other's advantages, to create an open,transparent and safe platform that can lower the threshold of participation for ordinary investors.",
+        "zh": "PANDA项目尝试连接中心化和去中心化的世界，让其不再互相孤立，并结合彼此的优势，打造一个既能降低普通投资者的参与门槛，又能开放，透明，安全的平台。"
+  },
+  "email": "panda@panda.family",
+  "website": "https://panda.family",
+  "whitepaper": "https://drive.google.com/file/d/12E9ciqXJhHd9CBDhfeT5H2FmUqOsP4aj/view?usp=sharing",
+  "state": "NORMAL",
+  "published_on": "2021-05-28",
+  "initial_price":{
+        "ETH":"0.000066666 ETH",
+        "USD":"0.0015 USD",
+        "BTC":"0.000000434 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Panda__Protocol",
+    "telegram": "https://t.me/panda_protocol"
+  }
+}
