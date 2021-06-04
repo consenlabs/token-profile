@@ -16,7 +16,6 @@ The page is displayed as follows:
 
 ![Wallet Tab](tutorial/sample.png)
 
-
 ##  Overview
 
 imToken supports the submission of ERC20 and EOS Token Profile, please select the corresponding tutorial to understand the specific procedures:
