@@ -1,0 +1,26 @@
+{
+  "symbol": "E2P",
+  "address": "0xA0b84460a1e78339692C7463009c35f0B9A6AE4C",
+  "overview":{
+        "en": "E2P platform offer various types of services to new businesses to build themselves as complete businesses seeking to deliver a product/service concept to market.",
+        "zh": "E2P平台通过建立完善的业务体系，为新的商业模式提供不同类型的服务并向市场推广产品及服务。"
+  },
+  "email": "Email",
+  "website": "https://e2p.vip",
+  "whitepaper": "https://e2p.vip/KR_E2P_Whitepaper_v2.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-11-16",
+  "initial_price":{
+        "ETH":"0.00020 ETH",
+        "USD":"0.09 USD",
+        "BTC":"0.0000056 BTC"
+  },
+  "links": {
+    "blog": "https://blog.naver.com/e2p-vip",
+    "twitter": "https://twitter.com/E2pGroup",
+    "telegram": "https://t.me/E2P_Group",
+    "github": "https://github.com/E2PGroup",
+    "facebook": "https://www.facebook.com/E2PConsortium",
+    "medium": "https://medium.com/@E2pGroup"
+  }
+}
