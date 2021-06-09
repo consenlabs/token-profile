@@ -1,0 +1,22 @@
+{
+  "symbol": "DINOC",
+  "address": "0x56df7DD5e6476aF94666e856c38AEfc4d4555861",
+  "overview": {
+    "en": "DINOC is a decentralized blockchain digital asset issued by the decentralized community. Dinosaur Token on the Ethereum eco-chain,aims to provide power for the next generation of digital and biotech convergence. DINOC has connected many emerging technologies and biotechnology companies and is the only blockchain that can integrate the two into the protocol layer. In this way, emerging digital and biotech technologies can be connected through a variety of distributed applications (DAPP) to achieve true virtual reality.",
+    "zh": "DINOC是去中心化社区发行的去中心化区块链数字资产。以太坊生态链上的Dinosaur Token，旨在为下一代数字和生物技术融合提供动力。DINOC 连接了许多新兴技术和生物技术公司，是唯一可以将两者集成到协议层的区块链。这样，新兴的数字和生物技术技术可以通过各种分布式应用程序（DAPP）连接起来，实现真正的虚拟现实。"
+  },
+  "email": "dinosaur@dinosaurtoken.vip",
+  "website": "https://dinosaurtoken.vip/",
+  "whitepaper": "https://dinosaurtoken.vip/",
+  "state": "NORMAL",
+  "published_on": "2021-05-17",
+  "initial_price":{
+        "ETH":"0.0000000000000037 ETH",
+        "USD":"0.00000000001 USD",
+        "BTC":"0.000000000000000266 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/coin_dinosaur",
+    "telegram": "https://t.me/DinosaurToken"
+  }
+}
