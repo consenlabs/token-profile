@@ -11,7 +11,7 @@
   "state": "NORMAL",
   "published_on": "2021-05-13",
   "initial_price":{
-        "USD":"0.018 USD",
+        "USD":"0.018 USD"
   },
   "links": {
     "blog": "https://dragonbite.medium.com/",
