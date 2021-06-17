@@ -1,0 +1,22 @@
+{
+    "symbol": "CDD",
+    "address": "0x975367d8D68F96f5956CfE01f6e9868E271220de",
+    "overview":{
+          "en": "CoinDD The agreement is community-driven and fairDefi tokens issued.Four simple functions occur in every trade: reflection, LP liquidity,Burning, shareholding bonus BNB.",
+          "zh": "CoinDD 协议是一个社区驱动的、公平发布的 DeFi 代币。每次交易都会发生四个简单的功能：反射、LP流动性、燃烧、持仓分红BNB。"
+    },
+    "email": "service@coindd.org",
+    "website": "https://coindd.org/",
+    "whitepaper": "https://www.coindd.org/whitepager.html",
+    "state": "NORMAL",
+    "published_on": "2021-06-14",
+    "initial_price":{
+          "USD":"0.00000000778 USD"
+    },
+    "links": {
+      "blog": "https://blog.coindd.org/",
+      "twitter": "https://twitter.com/Coindd_org",
+      "telegram": "https://t.me/CoinDDNews",
+      "github": "https://github.com/coindd"
+    }
+  }
