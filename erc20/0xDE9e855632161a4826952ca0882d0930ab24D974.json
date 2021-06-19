@@ -15,7 +15,9 @@
     },
     "links": {
         "media_publications": "https://www.finews.com/news/english-news/45061-saphirstein-fintech-license-switzerland-finma",
+        "linkedin" : "https://www.linkedin.com/company/74064237/",
         "github": "https://bitbucket.org/fiat24/fiat24contractspublic/src/master/", 
-        "discord" : "https://discord.gg/Uk8Ev3cFFe"
+        "discord" : "https://discord.gg/Uk8Ev3cFFe",
+        "medium" : "https://medium.com/@Fiat24"
     }
 }
