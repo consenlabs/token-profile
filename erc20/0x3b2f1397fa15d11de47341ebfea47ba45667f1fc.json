@@ -1,0 +1,11 @@
+{
+    "symbol": "CHIA",
+    "address": "0x3b2f1397fa15d11de47341ebfea47ba45667f1fc",
+    "overview":{
+          "en": "Founded by Bram Cohen, the inventor of the BitTorrent network, Chia Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure."
+    },
+    "email": "info@green-chia.com",
+    "website": "www.green-chia.com",
+    "state": "NORMAL",
+    "published_on": "2021-05-15"
+  }
