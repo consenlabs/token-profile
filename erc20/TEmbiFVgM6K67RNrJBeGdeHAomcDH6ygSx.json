@@ -1,0 +1,26 @@
+{
+  "symbol": "OOO",
+  "address": "TEmbiFVgM6K67RNrJBeGdeHAomcDH6ygSx",
+  "overview":{
+        "en": "OOO is committed to building a global consensus on social.",
+        "zh": "OOO基于波场TRON作为底层技术发行，旨在打通全球社交软件通用积分共识，运用区块链保护隐私并营造良好的线上交友环境，省去复杂交易模式及汇率差，使人人皆可以一对一敞开心扉。"
+  },
+  "email": "ooocoin@foxmail.com",
+  "website": "https://www.ooocoin.io/",
+  "whitepaper": "http://www.ooocoin.io/docs/white_paper/CN.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-21",
+  "initial_price":{
+        "TRX":"0.005 ETH"
+  },
+  "links": {
+    "blog": "#",
+    "twitter": "#",
+    "telegram": "#",
+    "github": "https://github.com/ooocoin",
+    "facebook": "#",
+    "reddit": "#",
+    "slack": "#",
+    "medium": "#"
+  }
+}
