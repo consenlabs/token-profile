@@ -1,0 +1,15 @@
+{ 
+    "symbol": "LOX",
+    "address": "0xc082Ef37D36c639ee514A8021E7B80f1800e4B2f",
+    "overview": {
+        "en": "Crayfish is a mobile portal that integrates blockchain technology and applications, as well as digital finance science.",
+        "zh": "小龙虾是一款汇集区块链技术与应用，以及数字金融科普的移动端入口。小龙虾致力于打造一个丰富、有趣又实用的区块链知识科普、模拟数字金融投资顾问生态，帮助更多想要了解区块链技术与应用的新用户迅速认知区域链技术与文化。小龙虾的目标是成为新用户进入区块链行业的第一APP。"
+    },
+    "email": "admin@loxapp.org",
+    "website": "http://loxapp.org/",
+    "whitepaper": "http://loxapp.org/lox_en.pdf",
+    "published_on": "2021-05-01",
+    "initial_price": {
+        "USD": ""
+    }
+}
