@@ -1,0 +1,29 @@
+  
+{
+  "symbol": "NEVB",
+  "address": "0x88507EA0b9749c8d9716d16F87B3B3eb84cc340e",
+  "overview":{The NEVB New energy vehicle blockchain in this project is the world’s first virtual token that applies the concept of blockchain + physical interaction. The transformation of traditional Internet teams took a year to prepare a complete new application system for blockchain, ensuring that the blockchain is fully realized. While the chain + entity is 100% decentralized operation, all shared physical mining machines (new energy vehicle block smart charging piles) will also realize the freedom and choice of coin holders to become a new model of mining machine managers.
+        "en": "NEVB (New energy vehicle blockchain) is a highly autonomous token based on the ETH mainnet. It was written into the BSSG remote smart phone docking system for the first time, completely realizing the decentralization of physical mining machines (new energy vehicle block smart charging piles) Intelligent management.",
+        "zh": "At the same time, the self-developed SZPW mining coin integrated intelligent algorithm is used for the first time, which means that the charging amount of the mining machine user is converted into the mining machine computing power, and the charging fee is allocated to the mine owner’s income by the same amount. Partners who hold enough NEVB can choose freely Become one of the miners of NEVB"
+  },
+  "email": "alexisgrayndler4@gmail.com",
+  "website": "https://www.nevb.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0USD",
+        "BTC":"0. BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/NEVB94025478?s=09",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
