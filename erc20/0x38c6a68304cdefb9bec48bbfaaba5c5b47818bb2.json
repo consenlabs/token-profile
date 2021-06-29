@@ -1,0 +1,23 @@
+{
+  "symbol": "HPB",
+  "address": "0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2",
+  "overview":{
+        "en": "High Performance Blockchain",
+        "zh": "芯链"
+  },
+  "email": "hpb@hpb.io",
+  "website": "https://www.hpb.io/",
+  "whitepaper": "https://github.com/hpb-project/wiki/blob/master/HPB_Whitepaper_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-08-24",
+  "initial_price":{
+        "USD":"0.2713 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/HPB_Global",
+    "telegram": "https://t.me/hpbglobal",
+    "github": "https://github.com/hpb-project",
+    "reddit": "https://www.reddit.com/r/HPB_Global/",
+    "medium": "https://medium.com/hpb-foundation"
+  }
+}
