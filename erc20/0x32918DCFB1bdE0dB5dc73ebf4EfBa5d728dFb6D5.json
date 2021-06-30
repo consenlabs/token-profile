@@ -1,0 +1,18 @@
+{
+    "symbol": "TCC",
+    "address": "0x32918DCFB1bdE0dB5dc73ebf4EfBa5d728dFb6D5",
+    "overview": {
+        "en": "The Fabled Isle of Gaming Blockchain"
+    },
+    "email": "service@tristanclub.com",
+    "website": "https://tristanclub.com",
+    "published_on": "2021-06-15",
+    "whitepaper":"https://tristanclub.com/resource/paper/paper.pdf",
+    "state": "NORMAL",
+    "links": {
+        "twitter": "https://twitter.com/TristanClub_",
+        "telegram": "https://t.me/TristanClubofficial",
+    	"facebook":"https://www.facebook.com/Tristan-Club-101785455390620",
+    	"medium":"https://tristanclub.medium.com/"
+    }
+}
