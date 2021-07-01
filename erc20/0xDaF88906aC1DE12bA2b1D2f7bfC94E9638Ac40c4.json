@@ -1,0 +1,26 @@
+{
+  "symbol": "EPK",
+  "address": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
+  "overview":{
+        "en": "EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.",
+        "zh": ""
+  },
+  "email": "leo@epik-protocol.io",
+  "website": "https://epik-protocol.io",
+  "whitepaper": "https://www.epik-protocol.io/EPIK-whitepaper-en.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-08-27",
+  "initial_price":{
+        "ETH":"0.000016365 ETH",
+        "USD":"0.035 USD",
+        "BTC":"0.000001039 BTC"
+  },
+  "links": {
+    "blog": "https://epk.fun/blog",
+    "twitter": "https://twitter.com/EpikProtocol",
+    "telegram": "https://t.me/EpikProtocol",
+    "github": "https://github.com/EpiK-Protocol",
+    "discord": "https://discord.gg/Tz6kZbd",
+    "medium": "https://epikprotocol.medium.com/"
+  }
+}
