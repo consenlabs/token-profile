@@ -1,0 +1,18 @@
+{
+   "symbol":"USDG",
+   "address":"0xbD62253c8033F3907C0800780662EaB7378a4B96",
+   "overview":{
+      "en":"ETH2.0 staking is the base of USDG value. With staking rewards generated, USDG is capable of keeping a stable value, and automatically generate more USDG.",
+      "zh":"致力于成为新一代稳定币。基于ETH2网络质押的ETH量和出币量，既可以确保USDG的币值稳定的有质押进V神合约地址的ETH支撑，又可以通过ETH的出币自动生产出更多USDG"
+   },
+   "email":"",
+   "website":"https://usdg.one/",
+   "whitepaper":"https://github.com/eth2pos/usdg-whitepaper/blob/main/USDG%20whitepaper.pdf",
+   "state":"NORMAL",
+   "published_on":"2021-03-26",
+   "initial_price":{
+      "USD":"1 USD",
+   },
+   "links":{
+   }
+}
