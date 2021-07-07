@@ -1,0 +1,26 @@
+{
+  "symbol": "MOMAT",
+  "address": "0x865bB9A28041259b4baDAFD37799A288aAbbfC8c",
+  "overview":{
+        "en": "The Moma Protocol uses a proprietary smart contract factory to produce, manage, accelerate and aggregate the lending markets, creating an ecosystem that can expand infinitely on lending liquidity and market diversity.",
+        "zh": "Moma协议是一种满足用户对借贷市场的流动性、扩展性、投机性需求的解决方案，通过独创的智能合约工厂，对借贷市场进行生产、管理，加速和聚合，形成了一个可以对借贷流动性与市场多样性进行无限扩展的生态系统。"
+  },
+  "email": "team@moma.finance",
+  "website": "https://moma.finance/",
+  "whitepaper": "https://docsend.com/view/dzyu756wkd2n4izq",
+  "state": "NORMAL",
+  "published_on": "2021-07-06",
+  "initial_price":{
+        "USD":"0.36 USD"
+  },
+  "links": {
+    "blog": "null",
+    "twitter": "https://twitter.com/Moma_Finance",
+    "telegram": "https://t.me/Moma_Official",
+    "github": "https://github.com/moma-finance/moma-protocol",
+    "facebook": "null",
+    "reddit": "null",
+    "slack": "null",
+    "medium": "https://momafinance.medium.com/"
+  }
+}
