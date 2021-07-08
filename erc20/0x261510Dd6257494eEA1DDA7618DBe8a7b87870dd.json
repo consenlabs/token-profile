@@ -1,0 +1,21 @@
+{
+    "symbol": "HEROES",
+    "address": "0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+    "overview": {
+        "en": "DeHero is a decentralized GameFi application based on BSC. By staking NFT assets, users can unbox NFT card packs blind boxes, collect NFT roles, and do card mining with appropriate training strategies. As a result, users obtain DeHero's governance token HEROES. Users can trade NFT cards in the trading market. More application scenarios, such as NFT card battles and DAO community co-governance, will be opened soon. ",
+        "zh": "DeHero是一款基于BSC开发的去中心化GameFi应用。用户通过质押FT资产，随机抽取角色NFT盲盒卡包，并通过收集角色NFT，和适当的培养策略进行集卡挖矿，获得DeHero的治理代币HEROES。 NFT卡牌可以在交易市场中进行交易，并在后续陆续开放更多应用场景，如NFT卡牌战斗、DAO社区共治等。"
+    },
+    "email": "service@mixmarvel.com",
+    "website": "https://dehero.co/",
+    "whitepaper": "https://mixmarvel.gitbook.io/dehero/",
+    "state": "NORMAL",
+    "published_on": "2021-06-03",
+    "initial_price": {
+        "USD": "1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/MIXMARVELGAME",
+        "telegram": "https://t.me/MixMarvelGlobal",
+        "discord": "https://discord.gg/TrNZbaY3AT"
+    }
+}
