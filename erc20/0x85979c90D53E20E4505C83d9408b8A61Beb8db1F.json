@@ -1,0 +1,14 @@
+{
+  "name":"Libra Token",
+  "symbol": "LIBRA",
+  "address": "0x85979c90D53E20E4505C83d9408b8A61Beb8db1F",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "mail@libratoken.pro",
+  "website": "http://www.libratoken.pro/",
+  "whitepaper": "http://www.libratoken.pro/",
+  "state": "NORMAL",
+  "published_on": "2021-07-10",
+}
