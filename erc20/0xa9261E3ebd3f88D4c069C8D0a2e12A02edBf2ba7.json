@@ -1,0 +1,19 @@
+{
+  "symbol": "FANT",
+  "address": "0xa9261e3ebd3f88d4c069c8d0a2e12a02edbf2ba7",
+  "overview":{
+        "en": "Fantour is a celebrity-oriented NFT marketplace built on Polkadot Chain. We committed to fertilize the interaction between celebrities and fans, to increase the “co-creation of value” by gaining ownership of a unique piece of work that originally comes from the following celebrities or even makes a profit from reselling to other collectors. We are a decentralized platform that allowed users to buy, sell and trade any kind of celebrity-related products ( Digital Music EP, Concert Merch NFTs), especially NFT Online Event Tickets.",
+        "zh": "Fantour 是一个建立在 Polkadot链上的娱乐衍生品 NFT交易平台，致力于促进名人与粉丝之间的互动，通过获得名人独特作品的所有权，提供NFT一级市场及二级市场，增加名人与粉丝的“共同价值”。 Fntour是一个去中心化平台，允许用户购买、出售和交易任何与名人相关的产品，主要专注于在线活动门票销售，数字音乐 EP，明星周边NFT等方向"
+  },
+  "email": "business@fantour.io",
+  "website": "https://fantour.io/",
+  "whitepaper": "https://app.gitbook.com/@fantournft/s/fantour-token-fant-whitepaper/",
+  "state": "NORMAL",
+  "published_on": "2021-07-05",
+  "links": {
+    "twitter": "https://twitter.com/FantourOfficial/",
+    "telegram": "https://t.me/fantourofficial/",
+    "github": "https://github.com/noodleslove/fantour-node/",
+    "medium": "https://fantour.medium.com/"
+  }
+}
