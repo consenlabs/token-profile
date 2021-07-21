@@ -1,0 +1,22 @@
+{
+  "symbol": "FIS",
+  "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+  "overview":{
+        "en": "FIS is the governance token for the StaFi protocol. Other than that, FIS secures the StaFi ecosystem through staking. FIS is also used to cover transaction fees on the protocol and to mint rTokens. ",
+        "zh": "FIS 是 StaFi 协议的治理代币。 除此之外，FIS 通过质押来保护 StaFi 生态系统。 FIS 还用于支付协议的交易费用和铸造 rToken。"
+  },
+  "email": "support@stafi.io",
+  "website": "https://www.stafi.io",
+  "whitepaper": "https://docs.stafi.io/stafi-whitepaper/stafi-whitepaper",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://medium.com/stafi",
+    "twitter": "https://twitter.com/StaFi_Protocol",
+    "telegram": "https://t.me/stafi_protocol",
+    "github": "https://github.com/stafiprotocol/stafi-node",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/stafi"
+  }
+}
