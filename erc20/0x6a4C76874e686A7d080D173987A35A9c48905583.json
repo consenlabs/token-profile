@@ -1,1 +1,24 @@
-{"symbol": "LPNT","address": "0x6a4C76874e686A7d080D173987A35A9c48905583","overview":{"en": "Luxurious Pro Network aims to offer luxurious transportation and forex trading services. LPNT is multi-utility token for its ecosystem."},"email": "support@lpntoken.io","website": "http://www.lpntoken.io/","state": "NORMAL","links": {"blog": "https://lpntoken.medium.com/","twitter": "https://twitter.com/lpntoken","telegram": "https://t.me/LPNT_Official","github": "https://github.com/LPNTOKEN"}}
+{
+   "symbol": "LPNT",
+   "address": "0x6a4c76874e686a7d080d173987a35a9c48905583",
+   "overview": {
+      "en": "LUXURIOUS PRO NETWORK TOKEN, A Cryptocurrency Adding Value To The Financial Experience Of Everyone.",
+      "zh": ""
+   },
+   "email": "Email",
+   "website": "https://your-awesome-project.com/",
+   "whitepaper": "https://your-awesome-project.com/file.pdf",
+   "state": "NORMAL",
+   "published_on": "2020-12-15",
+   "initial_price": {
+      "USD": "0.4 USD"
+   },
+   "links": {
+      "blog": "https://blog.lpntoken.io/",
+      "twitter": "https://twitter.com/officialLPNT",
+      "telegram": "https://t.me/LPNT_Official",
+      "github": "https://github.com/LPNTOKEN",
+      "facebook": "https://www.facebook.com/officialLPNT",
+      "reddit": "https://www.reddit.com/user/lpntokenofficial/"
+   }
+}
