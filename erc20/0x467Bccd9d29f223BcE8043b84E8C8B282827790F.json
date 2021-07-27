@@ -1,0 +1,21 @@
+{
+  "symbol": "TEL",
+  "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+  "overview":{
+        "en": "Telcoin is a new cryptocurrency based on the Ethereum blockchain that will be distributed by your national telecom operator and made available to everyone anywhere by tapping into synergies between the reach of mobile telecoms and the fast, borderless nature of blockchain technology.",
+        "zh": "Telcoin 是一种基于以太坊区块链的新型加密货币，将由您的国家电信运营商分发，并通过利用移动电信的覆盖范围与区块链技术的快速、无边界性质之间的协同作用，提供给任何地方的所有人。"
+  },
+  "email": "hello@telco.in",
+  "website": "https://www.telco.in",
+  "whitepaper": "https://www.telco.in/docs/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-12-11",
+  "links": {
+    "twitter": "https://twitter.com/telcoin_team",
+    "telegram": "https://t.me/telcoincommunity",
+    "github": "https://github.com/telcoin",
+    "facebook": "https://www.facebook.com/telcoin",
+    "reddit": "https://www.reddit.com/r/Telcoin",
+    "medium": "https://medium.com/@telcoin"
+  }
+}
