@@ -1,0 +1,17 @@
+{
+    "symbol": "YFIN",
+    "address": "0x4702B49BBC4dCE74547bAba22FED696C6A17bE81",
+    "overview":{
+          "en": "YFIN is the fork of Yearn Finance that open to everyone for staking, Liquidity mining, Yield Farming and many more.",
+          "zh": "YFIN是一个去中心化金融生态平台，可以进行投资、流动性挖掘、Yield Farming等等。"
+    },
+    "email": "yfinswap@gmail.com",
+    "website": "https://yfinswap.com/",
+    "whitepaper": "https://yfinswap.com/yfin/assets/whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-07-31",
+    "links": {
+        "telegram": "https://t.me/joinchat/7AXbksgP6VswOWI1",
+        "twitter": "https://twitter.com/YFINSWAP"
+      }
+}
