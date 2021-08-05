@@ -1,0 +1,28 @@
+{
+  "symbol": "CNE",
+  "address": "0x8E7f3d3C40fc9668fF40E2FC42a26F97CbF7af7b",
+  "overview":{
+        "en": "",
+        "zh": "CNE 是完全去中心化的，所有决策都由社区集体做出。我们的目标是通过向组织捐款来参与促进碳中和减少污染。这些将由社区组织投票，通过这种方式可以让我们的开发人员更好地了解如何使用CNE 继续前进。"
+  },
+  "email": "296646673@qq.com",
+  "website": "http://www.nec-up.com",
+  "whitepaper": "http://www.cne-up.com/assets/cen-PlanB.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-08-03",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/cne20210803",
+    "telegram": "https://t.me/joinchat/Fz5T9bbRyMc2MGVl",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
