@@ -1,0 +1,28 @@
+{
+  "symbol": "STONES",
+  "address": "0xa8d01adA6D1CC1328d3E47f8C3305a9594518c5E",
+  "overview":{
+        "en": " STONES Token.",
+        "zh": "STONES币是一种神奇石头，它是凡人踏上灵界修仙的神石，一群修真狂徒借着灵石力量一步步踏上仙界，灵石它是游戏里的道具，它将打照自己的一条通仙链让各大门派持有，游戏通证结合打照一个去中心化交易所。"
+  },
+  "email": "token@spst.games",
+  "website": "https://www.spst.games/",
+  "whitepaper": "https://www.spst.games/doc/whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2021-08-08",
+  "initial_price":{
+        "ETH":"",
+        "USD":"0.0775 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "https://0.plus/spst_STONES_cn",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
