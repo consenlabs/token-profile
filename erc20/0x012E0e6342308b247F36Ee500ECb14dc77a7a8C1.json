@@ -1,0 +1,20 @@
+{
+  "symbol": "SKT",
+  "address": "0x012E0e6342308b247F36Ee500ECb14dc77a7a8C1",
+  "overview":{
+        "en": "Sukhavati is a decentralized cloud service network focused on storage. Based on TEE and Substrate, it implements a low-consumption and meaningful storage verification mechanism: EPoSt (Efficient Proof of Spacetime). On the basis of this architecture, Sukhavati will establish a decentralized data access gateway covering both Web3.0 and Web2.0 storage ecosystems to provide unified data storage, retrieval, and management services for Web3.0 applications. Sukhavati support co-mining with IPFS or PoC projects (Chia etc.) and interactive with Polkadot ecosystems via decentralized cloud service.",
+        "zh": "Sukhavati是一个以存储为核心的去中心化云服务网络。基于可信计算环境（TEE）和Substrate框架，它将实现一个低功耗且工作量有意义的存储验证机制：EPoSt（Efficient Proof of Spacetime）。在此架构基础上，Sukhavati将建立一个去中心化的数据存取网关，覆盖Web3.0和Web2.0的存储服务生态，以此来为Web3.0应用程序提供统一的数据存储、检索和管理服务。Sukhavati支持与IPFS及PoC生态项目（Chia等）进行多挖，并通过去中心化的云服务为波卡及其他公链生态提供服务。"
+  },
+  "email": "andrew@sukhavati.io",
+  "website": "https://sukhavati.io/",
+  "whitepaper": "https://sukhavati.io/Sukhavati_Network_Whitepaper.pdf",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://sukhavati.medium.com",
+    "twitter": "https://twitter.com/Sukhavati_N",
+    "telegram": "https://t.me/SukhavatiNetwork",
+    "github": "https://github.com/Sukhavati-Labs",
+    "reddit": "https://www.reddit.com/r/SukhavatiNetwork",
+    "medium": "https://sukhavati.medium.com"
+  }
+}
