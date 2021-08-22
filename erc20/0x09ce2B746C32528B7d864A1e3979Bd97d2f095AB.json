@@ -1,0 +1,21 @@
+{
+  "symbol": "DFL",
+  "address": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+  "overview":{
+        "en": "DeFIL is a Filecoin decentralized lending and financial services platform that aims to bridge the primary and secondary markets for FIL, giving miners access to pledged coins or hedging risk by issuing standard arithmetic passes, giving ordinary investors access to FIL mining, and giving users who already hold FIL access to revenue. The project has been running smoothly for 9 months, with a maximum of 2 million coins in stock and a total asset value of nearly $400 million, DeFIL has always held the number one position in the industry, and has received investments from leading funds in the industry, including Distributed Capital, FBG Capital, ZB Capital, Gate.ioLabs and Monolith Capital.",
+        "zh": "DeFIL 是一个 Filecoin 去中心化借贷和金融服务平台，旨在为 FIL 的一级市场和二级市场之间搭建桥梁，让矿工有渠道获得质押币或通过发行标准算力通证的形式对冲风险，让普通投资 者有渠道参与到 FIL 挖矿，让已持有 FIL 的用户获得收益。项目平稳运行 9 个月，平台 FIL 存币量最高达 200 万枚，资产总价值近 4 亿美金，始终强势占据行业第一宝座。DeFIL 也因 此获得了包括分布式资本、FBG Capital、ZB Capital、Gate.ioLabs、Monolith Capital 等业内头 部基金的投资。"
+  },
+  "email": "DF2020110020201109@163.com",
+  "website": "https://defil.org",
+  "whitepaper": "https://defil.org/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-11-20",
+  "initial_price":{
+        "USD":"0.142 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/defil46119572",
+    "telegram": "https://t.me/defilorg",
+    "github": "https://github.com/DeFIL-org"
+  }
+}

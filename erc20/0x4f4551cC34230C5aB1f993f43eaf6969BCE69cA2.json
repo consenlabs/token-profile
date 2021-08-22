@@ -1,0 +1,28 @@
+{
+  "symbol": "CWT",
+  "address": "0x4f4551cC34230C5aB1f993f43eaf6969BCE69cA2",
+  "overview":{
+        "en": "CWT, or Cube_WHITE, is the name of the white cubes in LeCube. CWT has a total supply of 1,000,000. CWT tokens are mined through cooperation and competition, while its output efficiency is reduced once every half year. CWT tokens can be composed and are locked after the composition process.",
+        "zh": "CWT的全称是Cube_WHITE，是LeCube项目中的白块，共计100万个。CWT从LeCube竞合挖矿中产出（每半年减产），可以用于拼搭，并在拼搭后锁定。"
+  },
+  "email": "service@mixmarvel.com",
+  "website": "https://www.mixmarvel.com/product?game=LeCube",
+  "whitepaper": "https://www.lecube.co/res/LeCube%20Light%20Paper%20Ver.%201.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-07",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/MIXMARVELGAME",
+    "telegram": "https://t.me/MixMarvelGlobal",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://mixmarvelgame.medium.com/"
+  }
+}

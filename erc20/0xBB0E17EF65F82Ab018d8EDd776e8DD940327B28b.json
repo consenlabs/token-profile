@@ -1,0 +1,21 @@
+{
+  "symbol": "AXS",
+  "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+  "overview":{
+        "en": "Axie Infinity is a blockchain-based trading and battling game. The Axie Infinity ecosystem also has its own unique governance token, known as Axie Infinity Shards (AXS). These are used to participate in key governance votes and will give holders a say in how funds in the Axie Community Treasury are spent.",
+        "zh": "Axie Infinity 是一款基于区块链的交易和格斗游戏。 Axie Infinity 生态系统也有自己独特的治理代币，称为 Axie Infinity Shards (AXS)。 AXS 可用于参与关键的治理投票，并将让持有人对 Axie 社区资金的使用方式有发言权。"
+  },
+  "email": "hello@axieinfinity.com",
+  "website": "https://axieinfinity.com",
+  "whitepaper": "https://axieinfinity.com/axs",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://axieinfinity.medium.com",
+    "twitter": "https://twitter.com/AxieInfinity",
+    "telegram": "https://t.me/axieinfinity",
+    "github": "https://github.com/axieinfinity",
+    "facebook": "https://www.facebook.com/AxieInfinity",
+    "reddit": "https://www.reddit.com/r/AxieInfinity",
+    "medium": "https://axieinfinity.medium.com"
+  }
+}
