@@ -1,0 +1,17 @@
+{
+  "symbol": "DJT",
+  "address": "0x2A24FdA9F02e67d6D4C4D7E6917F3F3885621c86",
+  "overview":{
+        "en": "Based on BSC, trump (DJT) has created an innovative liquidity mining system, issued DJT tokens, realized the mechanisms of holding mining, liquidity self growth and deflationary combustion, and provided users with a complete set of mining service solutions through the super mining system, so as to be true, transparent, safe and convenient with the support of the concept of decentralization, It is more fair, just and free to reward mining, and truly realize the goal that everyone can mine.",
+        "zh": "特朗普(DJT)基于 BSC 打造了创新型流动性挖矿系统，发行 DJT 代币，实现持有 即挖矿、流动性自我成长以及通缩燃烧等机制，并通过超级挖矿系统，为用户提供一整套的 挖矿服务解决方案，在去中心化的理念支持下，做到真实、透明、安全、便捷，更做到挖矿 奖励的公平、公正和自由，真正实现人人皆可挖矿的目标。"
+  },
+  "website": "https://www.djtgame.com/",
+  "whitepaper": "https://www.djtgame.com/DJT%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-08-23",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  }
+}
