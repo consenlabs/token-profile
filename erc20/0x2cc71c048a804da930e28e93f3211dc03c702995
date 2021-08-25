@@ -1,0 +1,28 @@
+{
+  "symbol": "LPK",
+  "address": "0x2cc71c048a804da930e28e93f3211dc03c702995",
+  "overview":{
+        "en": "L-Pesa is a financial technology platform providing financial tools to consumers and small businesses in Africa and Asia.",
+        "zh": ""
+  },
+  "email": "lpk@l-pesa.com",
+  "website": "https://ico.lpesa.io/",
+  "whitepaper": "https://ico.lpesa.io/static/pdfs/L-Pesa%20ICO%20white%20paper%202018.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-05-10",
+  "initial_price":{
+        "ETH":"0.00005714 ETH",
+        "USD":"0.04 USD",
+        "BTC":"0.000021 BTC"
+  },
+  "links": {
+    "blog": "https://lpesa.medium.com/",
+    "twitter": "https://twitter.com/Lpkripton",
+    "telegram": "https://t.me/LpesaICO",
+    "github": "https://github.com/lpkripton/ICO",
+    "facebook": "https://business.facebook.com/lpesatzs/",
+    "reddit": "https://www.reddit.com/r/KriptonLpk/",
+    "slack": "https://l-pesa.slack.com/",
+    "medium": "https://lpesa.medium.com/"
+  }
+}
