@@ -1,0 +1,34 @@
+{
+   "symbol": "TORG",
+   "address": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
+   "decimals": 18,
+   "name": "TORG",
+   "type": "ERC20",
+   "ens_address": "",
+   "website": "https://torg.to",
+   "logo": {
+     "src": "https://drive.google.com/file/d/1lMcKoqTIw1RJmu_eF5acoJV1oWf-SAVC/view?usp=sharing",
+     "width": "125",
+     "height": "125",
+     "ipfs_hash": ""
+   },
+   "support": {
+     "email": "relations@torg.to",
+     "url": "https://torg.to"
+   },
+   "social": {
+     "blog": "https://torgto.medium.com/",
+     "chat": "https://t.me/TORG_Together",
+     "facebook": "https://www.facebook.com/TORGTogether",
+     "forum": "",
+     "github": "",
+     "gitter": "",
+     "instagram": "https://www.instagram.com/torgtogether/",
+     "linkedin": "",
+     "reddit": "https://www.reddit.com/r/TORGTogether",
+     "slack": "",
+     "telegram": "https://t.me/TORGTogether",
+     "twitter": "https://twitter.com/TorgTogether",
+     "youtube": ""
+   }
+ }
