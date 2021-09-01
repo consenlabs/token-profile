@@ -1,0 +1,27 @@
+{
+    "symbol": "DEBI",
+    "address": "0xf67B5123A873Bf70D2bba20a62DF981973691B57",
+    "overview":{
+          "en": "",
+          "zh": "DeerBit Token是由新加坡非盈利机构DIBI SECURITY FOUNDATION LTD.基于以太坊公链而发行的数字资产。持有DeerBit Token不仅能换取DIBI生态体系中的各项权益，而且通过自身独有的交易规则和多重去中心化的手段，采用回购销毁、销毁即上涨的机制，确保了DeerBit Token的价值空间，为整个DIBI生态的健康和可持续性发展提供了有力保障。DeerBit Token发行总量为1000亿，且永不增发（ DEBI回购计划将累计回购并销毁990亿枚通证）。"
+    },
+    "email": "admin@dibic.net",
+    "website": "https://deerbit.pro/",
+    "whitepaper": "https://deerbit.pro/static/%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf?t=1",
+    "state": "NORMAL",
+    "published_on": "2020-05-02",
+    "initial_price":{
+          "USD":"0.001 USD"
+    },
+    "links": {
+      "blog": "",
+      "twitter": "https://twitter.com/DibiGlobal",
+      "telegram": "https://t.me/dblendmining",
+      "github": "",
+      "facebook": "https://www.facebook.com/dibiglobal",
+      "reddit": "",
+      "slack": "",
+      "medium": ""
+    }
+  }
+  
