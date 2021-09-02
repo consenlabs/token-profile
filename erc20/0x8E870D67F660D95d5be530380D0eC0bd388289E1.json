@@ -1,12 +1,12 @@
 {
-    "symbol": "PAX",
+    "symbol": "USDP",
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
     "overview": {
-        "en": "Paxos Standard (PAX) is The world’s first token issued directly by a regulated Trust company. PAX is fully collateralized 1:1 with USD in reserve bank accounts.",
-        "zh": "Paxos Standard (PAX)是世界首个信托公司直发稳定币。PAX和美元1:1锚定，现金全额抵押在美国联邦存款保险公司担保的美国银行。"
+        "en": "Pax Dollar (USDP) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet. Paxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.",
+        "zh": "Pax Dollar (USDP) 由金融科技公司 Paxos 创建，其使命是通过以互联网的速度调动资产来实现金融现代化。 Paxos 是第一家获得纽约州金融服务部授权的虚拟货币公司。 作为根据银行法拥有信托权力的特许有限目的信托公司，Paxos 能够在加密资产和虚拟商品领域提供受监管的服务。"
     },
     "email": "pax@paxos.com",
-    "website": "https://www.paxos.com/standard",
+    "website": "https://www.paxos.com",
     "whitepaper": "https://standard.paxos.com/whitepaper.pdf",
     "state": "NORMAL",
     "published_on": "2018-09-10",
@@ -14,10 +14,9 @@
         "USD": "$1.00 USD"
     },
     "links": {
-        "blog": "https://medium.com/paxos/standard/home",
-        "twitter": "https://twitter.com/PaxosStandard",
-        "github": "https://github.com/paxosglobal/pax-contracts",
-        "medium": "https://medium.com/@PaxosStandard",
-        "bihu": "https://bihu.com/people/1136327"
+        "blog": "http://www.medium.com/paxos",
+        "twitter": "https://twitter.com/paxosglobal",
+        "github": "https://github.com/paxosglobal/usdp-contracts",
+        "medium": "http://www.medium.com/paxos"
     }
 }
