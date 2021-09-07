@@ -1,0 +1,17 @@
+{
+    "symbol": "GSOF",
+    "address": "0xD34EeA70D152091e61C5480D342447F337328eCE",
+    "overview":{
+          "en": "GSOF is a global financial asset securitization service agreement based on blockchain decentralization.",
+          "zh": "GSOF 是基于区块链去中心化全球金融资产证券化服务协议。"
+    },
+    "email": "gsofunds@gmail.com",
+    "website": "https://www.gsofgroup.com/",
+    "whitepaper": "https://www.gsofgroup.com/GSOF-E.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-07-08",
+    "links": {
+        "telegram": "https://t.me/gsofgroup",
+        "twitter": "https://twitter.com/gsofunds"
+      }
+} 
