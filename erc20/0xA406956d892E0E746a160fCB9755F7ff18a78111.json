@@ -1,0 +1,26 @@
+{
+  "symbol": "FISU",
+  "address": "0xA406956d892E0E746a160fCB9755F7ff18a78111",
+  "total_supply":"10000000000",
+  "suggested_gas_limit_setting":"60000",
+  "overview":{
+        "en": "FISU is the world's first blockchain-based sports shoes ecological alliance public chain, which focuses on applying blockchain anti-counterfeit traceability technology to the sports shoes field and aims to empower the combination of real economy and token economy. As a high-performance parallel chain platform, FISU not only ensures decentralization and safety, but also provides stronger performance and scalability, overcoming the difficulty for achieving \"Golden Triangle\". FISU uses off-chain encryption economic design and hierarchical structure to build a basic environment of de-trust, distribution type and strong privacy protection, and innovates by building and using distributed applications under the chain, so as to better balance the possible scalability risks, thus meeting the actual commercial landing needs. FISU pioneers the new mode of blockchain technology + sports shoes industry. FISU’s anti-counterfeiting traceability system, big data storage and application system, token economy model, supply chain financial services and online mall warrant bidding (POSB) system make it possible for blockchain to be applied comprehensively in the sports shoes field. It revitalizes each chain link, and creates unlimited value for the global sports shoes industry.",
+        "zh": "FISU是全球首家基于区块链的运动鞋生态联盟公链，它专注于把区块链防伪溯源技术应用到运动鞋领域，旨在赋能实体经济与通证经济的结合。FISU作为一个高性能的平行链平台，与传统的ETH公链不同，FISU在保证去中心化和安全性的同时，还提供了更强的性能和扩展性，打破了难以实现的“黄金三角”窘境。FISU采用链下加密经济设计和分层结构，构建了一个去信任化、分布式及强隐私保护的基础环境，并借助链下构建和使用分布式应用程序来进行创新，对可能存在的扩展性风险进行了更好的平衡，以此来适应实际商用落地需求。FISU开创了区块链技术加运动鞋产业的先河，采用了防伪溯源、大数据存储与应用、通证经济模型、供应链金融服务及线上商城权证投标（POSB）系统，使得区块链在运动鞋领域可以全面的落地应用，盘活各链条环节，为运动鞋产业创造了无限的价值。"
+  },
+  "email": "fisuchain@fisu.io",
+  "website": "http//:www.fisu.io",
+  "whitepaper_en":"https://www.fisu.io/FISU_CN.pdf",
+  "whitepaper_cn":"https://www.fisu.io/FISU_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-27",
+  "initial_price":{
+        "USDT":"0.00775194 USDT"
+  },
+  "links": {
+    "media_publications":"http://www.senn.com.cn/sx/2020/10/21/65722.html",
+    "wechat_media_publications": "https://mp.weixin.qq.com/s/ixPEvBr6ZpM5uBpiclspIg",
+    "twitter": "https://twitter.com/FISU668",
+    "telegram": "https://t.me/joinchat/SGF984uUjAswZGQ1",
+    "facebook": "https://www.facebook.com/groups/321075289802145/?ref=share"
+  }
+}
