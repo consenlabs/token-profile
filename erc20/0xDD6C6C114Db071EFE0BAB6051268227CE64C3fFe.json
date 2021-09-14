@@ -1,0 +1,22 @@
+{
+  "symbol": "GFI",
+  "address": "0xDD6C6C114Db071EFE0BAB6051268227CE64C3fFe",
+  "overview":{
+    "en": "GameFi Protocol is the first GameFi mining pool protocol, aiming to build the first global Gamefi aggregation platform, and its governance token is GFI.",
+    "zh": "GameFi Protocol是第一个GameFi矿池协议，旨在打造全球第一个Gamefi聚合平台，其治理代币为GFI。"
+  },
+  "email": "gamefi.protocol@gmail.com",
+  "website": "https://gamefi.ai/",
+  "whitepaper": "https://gamefi-protocol.gitbook.io/gamefi-protocol/",
+  "state": "NORMAL",
+  "published_on": "2021-09-14",
+  "initial_price":{
+    "USD":"0.4 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/GamefiProtocol",
+    "telegram": "https://t.me/GamefiProtocol",
+    "facebook": "https://www.facebook.com/GamefiProtocol/",
+    "medium": "https://medium.com/@gamefiprotocol1"
+  }
+}
