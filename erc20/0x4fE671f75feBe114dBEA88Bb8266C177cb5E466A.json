@@ -1,0 +1,19 @@
+{
+  "symbol": "KAE",
+  "address": "0x4fE671f75feBe114dBEA88Bb8266C177cb5E466A",
+  "overview":{
+        "en": "KAE (Keuoi) is a brand token listed on Ipparts Exchange (IPPAEX). The token is contractually backed by 48% of the Kaeuoi brand value. KAE raises funds for Kaeuoi, a new type of Internet Union.",
+        "zh": "KAE (Keuoi) 是在 Ipparts Exchange (IPPAEX) 上市的品牌代币。该代币由 Kaeuoi 品牌价值的 48% 提供合同支持。 KAE 为新型互联网联盟 Kaeuoi 筹集资金."
+  },
+  "email": "mdpienaar@africahead.co.za",
+  "whitepaper": "https://www.africahead.co.za/Tokens/Kaeuoi_files/KAEwhitePaper4.pdf",
+  "website": "https://kaeuoi.github.io",
+  "state": "NORMAL",
+  "published_on": "2020-06-10",
+  "links": {
+    "twitter": "https://twitter.com/mdpienaar",
+    "gitter": "https://gitter.im/Africahead/Lobby",
+    "telegram": "https://t.me/joinchat/IBJxVg-zUeFtoxe6GGAdsg",
+    "whatsapp": "https://chat.whatsapp.com/K5sjXzrA81lLDukeNe1CG7"
+  }
+}
