@@ -1,0 +1,19 @@
+{
+  "symbol": "ECC",
+  "address": "0xf05A2Dc98B9d051c3e964F6b62bd31b4Cb38166C",
+  "overview":{
+        "en": "Epochal Cell is a clinical-stage biopharmaceutical company focused on the discovery, development andcommercialization of cell therapies aimed at reversing diseases and/or promoting the regeneration of damaged tissues. The company is developing first-class treatments for coronary microvascular dysfunction (CMD), severe limb ischemia (CLI) and diabetic nephropathy (DKD); Epochal Cell Coin (ECC) will issue Epochal Cell Coin (ECC) with 100% of its shares The funds raised are used for the research and development of these three projects.The proportion of holding Epochal Cell Coin (ECC) is equivalent to holding the company's shares, and the corresponding shareholder rights can be exercised in proportion",
+        "zh": "Epochal Cell是一家临床阶段的生物制药公司，专注于发现、开发和商业化旨在逆转疾病和促进受损组织再生的细胞疗法。公司正在开发针对冠状动脉微血管功能障碍 (CMD)、严重肢体缺血 (CLI)和糖尿病肾病 (DKD)的一流疗法；Epochal Cell Coin（ECC）将用自身100%的股份发行Epochal Cell Coin（ECC）筹集资金用于这三个项目的研发。 按持有Epochal Cell Coin（ECC）的比例等同于持有本公司股份，可按照比例行使相应的股东权利"
+  },
+  "email": "epochalcell@gmail.com",
+  "website": "https://www.epochal-cell.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-09-01",
+  "initial_price":{
+        "ETH":"20000ecc",
+  },
+  "links": {
+    "twitter": "https://twitter.com/Epochal_cell",
+  }
+}
