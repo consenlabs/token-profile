@@ -1,0 +1,17 @@
+{
+  "symbol": "Nora",
+  "address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+  "overview":{
+        "en": "$Nora is the community governance token of SnowCrash DAO. Players can trade $Nora on the exchange, or earn $Nora by completing tasks in the game. Players in MetaVoxel can use $Nora to buy land, islands, goods and various raw materials.",
+        "zh": "$Nora 为 SnowCrash DAO 的社区治理代币。玩家可以在交易所兑换 $Nora，也可以在游戏中通过完成任务赚取 $Nora。在 MetaVoxel 玩家可以使用 $Nora 购买土地、岛屿、商品以及各种原材料。"
+  },
+  "email": "Nora@SnowCrash.finance",
+  "website": "https://snowcrash.finance/",
+  "whitepaper": "https://docs.snowcrash.finance/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SnowCrashDAO",
+    "telegram": "https://t.me/SnowCrashDAO",
+    "github": "https://github.com/SnowCrashDAO"
+  }
+}
