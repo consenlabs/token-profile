@@ -1,0 +1,17 @@
+{
+  "symbol": "4JNET",
+  "address": "0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667",
+  "overview":{
+        "en": "4JNET protocol is a community-driven and fair DeFi token. Every trading is based on three simple functions: reflection, LP acquisition, and combustion.",
+  },
+  "email": "master@4j.net",
+  "website": "https://www.4j.net/",
+  "state": "NORMAL",
+  "published_on": "2021-10-18",
+  "links": {
+    "twitter": "https://www.twitter.com/4jnet",
+    "telegram": "https://t.me/fourjnetchannel",
+    "github": "https://github.com/4jnet/4jnet",
+    "facebook": "https://www.facebook.com/4jnet"
+  }
+}
