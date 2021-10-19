@@ -1,0 +1,21 @@
+{
+  "symbol": "HKC",
+  "address": "0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467",
+  "overview":{
+        "en": "HKC is a compliant stablecoin pegged 1:1 to the Hong Kong Dollar with 100% backing in cash.",
+        "zh": "HKC 是 OneCash 发行的港元稳定币。通过与港币固定汇率的兑换体系实现价格稳定。"
+  },
+  "email": "info@onecash.asia",
+  "website": "https://www.onecash.asia/",
+  "whitepaper": "http://theonepangu.oss-cn-hongkong.aliyuncs.com/2021-08/30/5558phpwiCALp1630316935210830.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-09-24",
+  "initial_price":{
+        "HKD":"1 HKD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/OneCashWallet",
+    "telegram": "https://t.me/onecashofficial",
+    "github": "https://github.com/your-awesome-project"
+  }
+}
