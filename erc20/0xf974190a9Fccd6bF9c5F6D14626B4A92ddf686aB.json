@@ -1,0 +1,28 @@
+{
+  "symbol": "DTEX",
+  "address": "0xf974190a9Fccd6bF9c5F6D14626B4A92ddf686aB",
+  "overview":{
+        "en": "",
+        "zh": "DTEX是一个去中心的p2p数据交易平台,在 DTEX 网络中,用户可以根据需要在无人控制的、受 DTEX 代币激励的去中心化P2P网络中来使用和销售数据。"
+  },
+  "email": "dtexnetwork@gmail.com",
+  "website": "http://dtexnetwork.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-10-19",
+  "initial_price":{
+        "ETH":"",
+        "USD":"1 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
