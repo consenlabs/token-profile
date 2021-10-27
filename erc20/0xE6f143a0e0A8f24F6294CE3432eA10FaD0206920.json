@@ -11,7 +11,9 @@
   "state": "NORMAL",
   "published_on": "2021-09-25",
   "initial_price":{
-    "USD":"0.35 USD"
+    "ETH":"",
+    "USD":"0.35 USD",
+    "BTC":""
   },
   "links": {
     "blog": "",
