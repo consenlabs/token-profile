@@ -1,0 +1,28 @@
+{
+  "symbol": "PKEX",
+  "address": "0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920",
+  "overview":{
+    "en": "PolkaEx is a cross-chain DeFi suite consisting of a Decentralized Exchange, a Launchpad, Liquidity mining, and NFT usecases.",
+    "zh": ""
+  },
+  "email": "business@polkaex.io",
+  "website": "https://polkaex.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-09-25",
+  "initial_price":{
+    "ETH":"",
+    "USD":"0.35 USD",
+    "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/PolkaExOfficial",
+    "telegram": "https://t.me/Polkaexio",
+    "github": "https://github.com/polkaex",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://polkaex.medium.com/"
+  }
+}
