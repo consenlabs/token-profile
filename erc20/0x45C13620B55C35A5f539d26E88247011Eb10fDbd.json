@@ -1,0 +1,21 @@
+{
+    "symbol": "HCT",
+    "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+    "overview":{
+          "en": "HurricaneSwap is the 1st cross-chain liquidity DEX based on Avalanche. With the innovative LP-Bridge mechanism (Roke Protocol), users can trade popular assets of other chains without leaving Avalanche. And taking the advantages of Avalanche, HurricaneSwap provides users with a high-performance, low slippage, low-cost and seamless cross-chain trading experience.",
+          "zh": "HurricaneSwap 是基于Avalanche开发的首个跨链协议。其原创的Roke协议创造了全新的跨链形式——“LP跨链”，即通过多链DEX流动性池进行资产凭证转换，从而使得Avalanche主链用户可以交易其他主链上的热门资产，在保证安全性的前提下，减少交易步骤，降低交易成本，提高交易效率"
+    },
+    "email": "contect@hurricaneswap.com",
+    "website": "https://hurricaneswap.com",
+    "whitepaper": "https://hurricanesam.github.io/Docs/HurricaneSwap%20Whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-10-10",
+    "initial_price":{
+          "USD":"0.05 USD"
+    },
+    "links": {
+      "twitter": "https://twitter.com/hurricaneswap",
+      "telegram": "https://t.me/HurricaneSwap",
+      "medium": "https://hurricaneswap.medium.com/"
+    }
+  }
