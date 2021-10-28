@@ -1,0 +1,22 @@
+{
+  "symbol": "Cyc",
+  "address": "0xc2248eE9a5E7bCb23EDd8EA576806137cA667A2a",
+  "overview":{
+        "en": "Cycoin is a technological innovation project built by CYCLEBAS based on blockchain technology, breaking the stereotype of traditional securities trading platform. In CYCLEBAS, users can get Cyc through gamification based on the three roles of [miner], [referrer] and [trader].Here, you can trade stocks, cryptocurrencies. We inject cash rewards for each trade, called Cyc rewards.",
+        "zh": "Cycoin是CYCLEBAS基于区块链技术打造的科技创新项目，打破了传统证券交易平台的刻板印象。在CYCLEBAS，用户可以通过基于[矿工]、[推荐人]和[交易员]三个角色的游戏化来获得Cyc。在这里，你可以交易股票、加密货币。我们为每笔交易注入现金奖励，称为Cyc奖励。"
+  },
+  "email": "cyclebas@gmail.com",
+  "website": "https://cyclebas.com",
+  "whitepaper": "https://cyclebas.com/whitepaper.html",
+  "state": "NORMAL",
+  "published_on": "2021-10-28",
+  "initial_price":{
+        "ETH":"0.0000795122 ETH",
+        "USD":"0.326 USD",
+        "BTC":"0.000005584755 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/dougnewell2",
+    "telegram": "https://t.me/Cyclebas_CYC"
+  }
+}
