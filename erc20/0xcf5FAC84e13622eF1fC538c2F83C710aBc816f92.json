@@ -1,0 +1,21 @@
+{
+  "symbol": "eCell",
+  "address": "0xcf5FAC84e13622eF1fC538c2F83C710aBc816f92",
+  "overview":{
+        "zh": "eCell是Consensus Cell Network去中心化的区块链应用孵化器的基础治理通证，将用于项目孵化、对外投资、社区激励等。",
+        "en": "eCell is the foundation governance token for Consensus Cell Network's decentralized blockchain application Incubator, which will be used for project incubation, outbound investment, community motivation, and more."
+  },
+  "email": "cellnetworkchain@outlook.com",
+  "website": "https://consensuscellnetwork.com/",
+  "whitepaper": "https://ecell.gitbook.io/ecell/",
+  "state": "NORMAL",
+  "published_on": "2021-08-25",
+  "initial_price":{
+        
+  },
+  "links": {
+    "twitter": "https://twitter.com/ecellsg",
+    "telegram": "https:/t.me/ecellsg",
+    "facebook": "https://facebook.com/CellConsensus"
+  }
+}
