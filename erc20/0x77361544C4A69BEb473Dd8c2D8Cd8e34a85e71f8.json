@@ -1,0 +1,21 @@
+{
+  "symbol": "ZAC",
+  "address": "0x77361544C4A69BEb473Dd8c2D8Cd8e34a85e71f8",
+  "overview":{
+        "en": "ZAC is a compliant stablecoin pegged 1:1 to the Hong Kong Dollar with 100% backing in cash.",
+        "zh": "ZAC 是 OneCash 发行的港元稳定币。通过与港币固定汇率的兑换体系实现价格稳定。"
+  },
+  "email": "info@onecash.asia",
+  "website": "https://www.onecash.asia/",
+  "whitepaper": "https://onecash.asia/pdf/White%20Paper%20-%20ZAC.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-09-06",
+  "initial_price":{
+        "HKD":"1 HKD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/OneCashWallet",
+    "telegram": "https://t.me/onecashofficial",
+    "github": "https://github.com/techtheone"
+  }
+}
