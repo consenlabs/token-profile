@@ -1,0 +1,21 @@
+﻿{
+  "symbol": "TEA",
+  "address": "0x5dCEd3c2fab61E21B25177c6050D3f166f696110",
+  "overview":{
+        "en": "The first standardized blockchain anti-counterfeit traceability platform in the tea industry is dedicated to the traceability and data interaction of the whole life cycle of tea planting, picking, processing, logistics and storage, and is a bridge linking the trust between tea enterprises and consumers.",
+        "zh": "茶行业首个标准化区块链防伪溯源平台，致力于茶叶种植、采摘、加工、物流、仓储全生命周期的溯源和数据交互，是链接茶企和消费者之间信任的桥梁。"
+  },
+  "email": "public@teachain.com",
+  "website": "https://www.teachain.com/",
+  "whitepaper": "https://website-1300785780.cos.ap-guangzhou.myqcloud.com/wp_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-03-10",
+  "initial_price":{
+        "USD":"0.063 USD"
+  },
+  "links": {
+    "blog": "https://weibo.com/u/5277816570",
+    "twitter": "https://twitter.com/TeaChainGroup",
+    "telegram": "https://t.me/teachainprotocolglobalofficial"
+  }
+}
