@@ -1,0 +1,19 @@
+{
+  "symbol": "RGN",
+  "address": "0x7087e081e03ff23186ae8631590bf9639495e3bb",
+  "overview":{
+    "en": "Radiant Glory is a comprehensive service development, operation and maintenance incubation of Pingjia for the article chain game. Tongyu provides a complete set of functional components such as the underlying public chain, digital property management, asset circulation evaluation, etc., which carries the value of game production inspection created by the opener",
+    "zh": "Radiant Glory，作篇鏈游综合服務開發運维孵化平嘉，通遇提供底層公鏈、數字產權管理、資產流通平嘉等一套完整的功能组件，承载了開餐者所创造的游戲查產價值。"
+  },
+  "email": "rgnservice@outlook.com",
+  "website": "https://www.radiantglory.games",
+  "whitepaper": "https://www.radiantglory.games/RG_%E7%99%BD%E7%9A%AE%E6%9B%B8.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-01",
+  "initial_price":{
+  },
+  "links": {
+    "twitter": "https://twitter.com/Radiant1Glory"
+  }
+}
+
