@@ -6,13 +6,12 @@
         "zh": ""
   },
   "email": "info@platofarm.game",
-  "website": "https://plato-farm.s3.ap-northeast-2.amazonaws.com/Plato-Farm+White+Paper+EN+V1.1.pdf",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "website": "https://www.platofarm.game",
+  "whitepaper": "https://platofarm.gitbook.io/whitepaper.platofarm.com",
   "state": "NORMAL",
   "published_on": "2021-10-26",
   "links": {
-	"blog": "",
-	"gitbook": "https://platofarm.gitbook.io/plato-farm-1",
+    "blog": "",
     "twitter": "https://twitter.com/Plato_Farm",
     "telegram": "https://t.me/platofarm",
     "github": "https://github.com/PlatoFarm",
