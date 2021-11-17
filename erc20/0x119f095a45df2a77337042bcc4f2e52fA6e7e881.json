@@ -1,0 +1,22 @@
+{
+  "symbol": "SM",
+  "address": "0x119f095a45df2a77337042bcc4f2e52fA6e7e881",
+  "overview":{
+        "en": "SuperMinesweeper is the blockchain version of Minesweeper, combining DeFi and NFT gameplay, and its governance token SM will be used to reward contributors to the game map .",
+        "zh": "SuperMinesweeper是去区块链版本的扫雷，其融合了DeFi和NFT的玩法，它的治理代币SM将用于奖励游戏地图贡献者"
+  },
+  "email": "superminesweeper@gmail.com",
+  "website": "https://smcoin.info",
+  "whitepaper": "https://docs.smcoin.info/",
+  "state": "NORMAL",
+  "published_on": "2021-11-5",
+  "initial_price":{
+        "USD":"0.005 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superminesweeper/",
+     "news": "https://apnews.com/press-release/kisspr/technology-blockchain-2f1c91832b02eac815f95f154873605b",
+  }
+}
