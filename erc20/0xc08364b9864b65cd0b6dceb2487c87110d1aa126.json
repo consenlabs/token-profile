@@ -1,0 +1,17 @@
+{
+  "symbol": "MLC",
+  "address": "0xc08364b9864b65cd0b6dceb2487c87110d1aa126",
+  "overview":{
+        "en": "MetaverseLinker is the world's leading decentralized virtual economy aggregation system and the underlying infrastructure of DAPP. Through MLC as the circulation media and governance certificate of the platform's ecological economic activities, MetaverseLinker realizes a metaverse application world that everyone can participate in and be easily linked through constant issuance and deflation governance.",
+        "zh": "MetaverseLinker（簡稱元鏈）是全球領先的去中心化虛擬經濟聚合系統及DAPP底層基礎設施，通過MLC作為平臺生態經濟活動的流通媒介和治理憑證，並經恒量發行和通縮治理，實現一個人人皆可參與、易鏈接的元宇宙應用世界。"
+  },
+  "email": "jbzs4855if@outlook.com",
+  "website": "https://metaverselinker.eth.link",
+  "whitepaper": "https://metaverselinker.eth.link/static/whitepaper/introduction_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-11-19",
+  "links": {
+    "twitter": "https://twitter.com/MetaverseLinker",
+    "telegram": "https://t.me/MetaverseLinkerchannel"
+  }
+}
