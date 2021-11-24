@@ -3,15 +3,13 @@
     "address": "0xed0A06Ccd07DFAD8fae6fc0927D504A954b9Bf0c",
     "overview": {
         "en": "Meta space is a diversified trading platform built on the ETH public chain, including multi-element NFT such as star card creation, auctions, chain games, music, trendy products, and collections.",
-        "zh": "Meta space是一款建立于ETH公链的多元化交易平台，包括球星卡牌创作、拍卖、链游、音乐、潮品、收藏等多元素NFT。"
+        "zh": "Meta space是一款建立于ETH公链多元化交易平台，包括球星卡牌创作、拍卖、链游、音乐、潮品、收藏等多元素NFT。"
     },
     "email": "11461467@qq.com",
     "website": "http://metaspace.red/",
     "state": "NORMAL",
     "links": {
-        "blog": "",
-        "twitter": "",
-        "telegram": "",
-        "github": ""
+        "twitter": "https://twitter.com/Metaspace_MES",
+        "telegram": "https://t.me/MetaSpace_official",
     }
 }
