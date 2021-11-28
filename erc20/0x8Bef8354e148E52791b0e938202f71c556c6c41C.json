@@ -1,0 +1,16 @@
+{
+  "symbol": "space coin",
+  "address": "0x8Bef8354e148E52791b0e938202f71c556c6c41C",
+  "overview":{
+        "en": "The Spacecoin team is composed of professional engineers from the United States, Canada, Singapore, the United Kingdom and Australia.",
+        "zh": ""
+  },
+  "email": "space-coin@hotmail.com",
+  "website": "https://space-coin.ca/",
+  "whitepaper": "",
+  "state": "LOCKED",
+  "published_on": "2021-08-31",
+  "links": {
+    "telegram": "https://t.me/joinchat/anpf8-X1aC1iN2Mx"
+  }
+}
