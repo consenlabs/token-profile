@@ -1,0 +1,24 @@
+{
+  "symbol": "SGX",
+  "address": "0x79a844C6DA4E04E1C464c1fcE7AC61E51222bA15",
+  "overview":{
+        "en": "SGX, Samsung Goldex, Utility token for Gold Trading, whose circulation is 1800000000, can be used to exchange Gold",
+        "zh": ""
+  },
+
+  "email": "luckypark33@naver.game",
+  "website": "https://www.samsunggoldex.com",
+  "whitepaper": "https://610885e0-8062-449a-8bc5-fbb25de01312.filesusr.com/ugd/dbe00b_b3638b3f68dd4ed1a5c9997dbc06c0ea.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-05-01",
+  "links": {
+    "blog": "",
+    "twitter": "twitter.com/samsunggoldex",
+    "telegram": "https://t.me/samsunggoldex",
+    "github": "https://github.com/no1zod/samsung-goldex-git/blob/main/samsung%20goldex%20git.txt",
+    "facebook": "https://www.facebook.com/profile.php?id=100075093042321",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
