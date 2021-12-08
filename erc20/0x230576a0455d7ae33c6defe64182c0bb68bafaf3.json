@@ -1,0 +1,24 @@
+{
+  "symbol": "BRO",
+  "address": "0x230576a0455d7ae33c6defe64182c0bb68bafaf3",
+  "overview": {
+    "en": "BRO is the native asset in Dexbroswer ecosystem.It facilitates the ecosystem governance of the entire Dexbrowser project and is used for commercial implementation and scenario realization."
+  },
+  "email": "contact@dexbrowser.com",
+  "website": "https://dexbrowser.com",
+  "whitepaper": "https://docsend.com/view/vzc2ichegrrrbckz",
+  "state": "NORMAL",
+  "published_on": "2021-12-10",
+  "initial_price": {
+    "USDT": "0.05",
+    "USDC": "0.05"
+  },
+  "links": {
+    "twitter": "https://twitter.com/dexbrowser",
+    "telegram": "https://t.me/dexbrowserofficial",
+    "facebook": "https://www.facebook.com/Dexbrowser-104693588563572",
+    "medium": "https://medium.com/@dexbrowser",
+    "github": "https://github.com/DexBro",
+    "blog": "https://medium.com/@dexbrowser"
+  }
+}
