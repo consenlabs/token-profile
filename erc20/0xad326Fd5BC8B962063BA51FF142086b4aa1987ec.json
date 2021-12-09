@@ -1,0 +1,24 @@
+{
+  "symbol": "CPET",
+  "address": "0xad326Fd5BC8B962063BA51FF142086b4aa1987ec",
+  "overview": {
+    "en": "Chain pet has the perfect combination of GAME+NFT+DEFI to achieve the goal of multiple benefits for users."
+  },
+  "email": "chainpetgame@gmail.com",
+  "website": "http://web.chainpet.com/",
+  "whitepaper": "http://doc.chainpet.com/",
+  "state": "NORMAL",
+  "published_on": "2021-11-16",
+  "initial_price": {
+    "USDT": "0.000001",
+    "USDC": "0.000001"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ChainPet",
+    "telegram": "https://t.me/Chainpet_Official_Gr",
+    "facebook": "",
+    "medium": "https://medium.com/@ChainPet",
+    "github": "https://github.com/chainpet",
+    "blog": "https://medium.com/@ChainPet"
+  }
+} 
