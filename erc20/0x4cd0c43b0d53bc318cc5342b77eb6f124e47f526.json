@@ -1,0 +1,23 @@
+{
+  "symbol": "FREE",
+  "address": "0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526",
+  "overview": {
+    "en": "FreeRossDAO is a decentralized autonomous organization DAO formed by PleasrDAO to reform the injustice of prisons and gain freedom for Ross, the inventor and builder of the Silk Road.
+The Silk Road made more people aware of Bitcoin, and many cryptocurrency bigwigs also learned about Bitcoin's existence through the dark web. Li Qiwei, the founder of Litecoin, tweeted that he learned about Bitcoin and blockchain from the dark web Silk Road.
+FreeRossDAO won the auction for that NFT for 1,446 Ether (about $6 million) after raising more than 2,836.6 ETH from more than 1,320 members of the cryptocurrency community. It now plans to use the proceeds to fund a bid to reduce or overturn Ross' life sentence. freeRossDAO received a strategic investment from A16Z on the first day of the release of its community governance token, $FREE, from its launch organization, PleasrDAO.",
+    "zh": "FreeRossDAO是由PleasrDAO组织组成的旨在改革监狱的不公已经为Ross争取获得自由的去中心化自治组织DAO，Ross是丝绸之路的发明建造者，
+丝绸之路让更多人了解到了比特币，诸多币圈大佬也是通过暗网才知道比特币的存在，莱特币创始人李启威曾发推特表示，自己是从暗网丝绸之路了解到的比特币和区块链。
+FreeRossDAO在从加密货币社区的1320多名成员那里筹集了超过2836.6个ETH后，以1446个以太坊（大约600万美元）的价格赢得了该NFT的拍卖。现在，它计划用这些收益为减少或推翻Ross的无期徒刑的投标提供资金。FreeRossDAO在发布社区治理代币$FREE的首日，其发起组织PleasrDAO获得了A16Z的战略投资。"
+  },
+  "website": "https://freerossdao.com/",
+  "whitepaper": "https://freerossdao.com/",
+  "state": "NORMAL",
+  "published_on": "2021-12-16",
+  "initial_price":{
+        "USD":"0.00135 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/freerossdao/",
+    "discord": "https://discord.com/channels/915688599444414544/915998804786950164"
+  }
+}
