@@ -1,0 +1,28 @@
+{
+  "symbol": "space",
+  "address": "0x8bef8354e148e52791b0e938202f71c556c6c41c",
+  "overview": {
+    "en": "SpaceCoin",
+    "zh": "太空币"
+  },
+  "email": "space-coin@hotmail.com",
+  "website": "Space-coin.ca",
+  "whitepaper": "https://space-coin.ca/pdf/white_paper/",
+  "state": "NORMAL",
+  "published_on": "2021-9-3",
+  "initial_price":{
+        "ETH":"0.0000000005ETH",
+        "USD":"0.000002USD",
+        "BTC":"0.00000000004BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "@SpaceCoin777",
+    "telegram": "https://t.me/joinchat/sOnXLSQdkiNiM2Ux",
+    "reddit": "https://www.reddit.com/u/SpaceCoin777?utm_medium=android_app&utm_source=share",
+    "github": "https://github.com/Spacecoin777/token-profile.git",
+    "facebook": "https://www.facebook.com/profile.php?id=100074283245397",
+    "slack": "",
+    "medium": ""
+  }
+}
