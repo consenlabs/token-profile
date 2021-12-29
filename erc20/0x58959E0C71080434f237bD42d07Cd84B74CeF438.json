@@ -1,14 +1,20 @@
 {
     "symbol": "TSR",
     "address": "0x58959E0C71080434f237bD42d07Cd84B74CeF438",
-    "name": "Tesra AI Supernet",
-    "website": "https://tesra.io/",
     "overview":{
         "en": "TESRA 1.0 is a community-based shared computing network. Based on off-chain computing proofs, it forms a decentralized scheduling system and computing network by extending the consensus on the chain. It combines artificial intelligence and the Internet of Things to build a computing value layer for the future open business system. . TESRA meta universe is the abbreviation of the ecological scene where TESRA 2.0 builds meta universe. As a sub-universe in the meta-universe ecology, TESRA meta-universe also has six technical pillars and five basic characteristics. It is not only a new world brought about by the era of technological explosion, but also a new way of life in the future, whether it is entertainment, consumption, Social or work can be combined with it. In the future, TESRA aspires to become a global and infinitely scalable supercomputing network, gathering global blockchain developers and enthusiasts to build an open community, encouraging participants’ free innovation, collaboration and value creation, and advocating data privacy and security , To build the computational intelligence of a fully programmable society in the future.",
         "zh": "TESRA 1.0是一个社区化的共享计算网络，基于链下的计算证明，通过扩展链上共识形成去中心化的调度系统和计算网络，结合人工智能与物联网，为未来开放商业体系构建计算价值层。TESRA元宇宙即TESRA2.0构建元宇宙落地生态场景的简称。TESRA元宇宙作为元宇宙生态中一个子宇宙的存在，同样有着六大技术支柱和五大基本特征，它既是技术爆炸时代带来的新世界，又是未来生活的新方式，无论是娱乐、消费、社交还是工作，都能与之相结合。未来，TESRA立志于成为一个全球化、可无限扩展的超级计算网络，聚集全球区块链开发者和爱好者共同建设开放型社区，鼓励参与者的自由创新、协作和价值创造，提倡数据隐私安全，构建未来全面可编程社会的计算智能。"
     },
     "email": "",
+    "website": "https://tesra.io/",
+    "whitepaper": "",
     "state": "NORMAL",
+     "published_on": "",
+    "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+    },
     "links": 
     {"blog": "","twitter": "","telegram": "","github": ""}
    }
