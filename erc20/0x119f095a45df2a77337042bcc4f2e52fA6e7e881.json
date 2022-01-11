@@ -1,0 +1,21 @@
+{
+  "symbol": "SM",
+  "address": "0x119f095a45df2a77337042bcc4f2e52fA6e7e881",
+  "overview":{
+        "en": "Super Minesweeper is a Minesweeper that combines gaming, finance and NFT, with innovative #GameFi --- where free to play &  play to earn is a reality.",
+        "zh": "Super Minesweeper是一个将游戏、金融和NFT结合在一起的扫雷链游，具有创新性#GameFi——在这里，免费游戏和通过游戏赚钱成为现实。"
+  },
+  "email": "superminesweeper@gmail.com",
+  "website": "https://sm.tt",
+  "whitepaper": "https://docs.smcoin.info/",
+  "state": "NORMAL",
+  "published_on": "2021-11-5",
+  "initial_price":{
+        "USD":"0.005 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superminesweeper/",
+     "news": "https://apnews.com/press-release/kisspr/technology-blockchain-2f1c91832b02eac815f95f154873605b",
+  }
