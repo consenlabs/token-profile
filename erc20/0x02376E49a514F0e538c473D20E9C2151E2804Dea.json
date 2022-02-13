@@ -1,0 +1,24 @@
+{
+  "symbol": "DAO",
+  "address": "0x02376E49a514F0e538c473D20E9C2151E2804Dea",
+  "overview":{
+        "en": "Hello DAO is a metaverse simulation game, the initial version is completely free and fair. By establishing an interstellar protocol, users are allowed to enter the era of cosmic economy in advance.",
+        "zh": "Hello DAO 是一款元宇宙模拟游戏，初始版本完全免费且公平。 通过建立星际协议，让用户提前进入宇宙经济时代。"
+  },
+  "email": "hello.wo.der@gmail.com",
+  "website": "https://www.hellodao.world",
+  "whitepaper": "https://www.hellodao.world/whitepaper.html",
+  "state": "NORMAL",
+  "published_on": "2022-02-09",
+  "initial_price":{
+		"BNB":"0.006 BNB",
+        "ETH":"0.000830151 ETH",
+        "USD":"2.41715 USD",
+        "BTC":"0.00005721 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/hellodaoworld",
+    "telegram": "https://t.me/+sSzAmJ0kD9M4MWRl",
+    "discord": "https://discord.gg/QFJxEAGWZT"
+  }
+}
