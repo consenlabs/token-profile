@@ -1,0 +1,28 @@
+{
+  "symbol": "KROM",
+  "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+  "overview":{
+        "en": "KROMATIKA is a decentralized crypto trading protocol enabling users to trade crypto assets with ZERO swap fees, NO Front running bots and NO Price Slippage.",
+        "zh": ""
+  },
+  "email": "mail@kromatika.finance",
+  "website": "https://kromatika.finance",
+  "whitepaper": "https://kromatika.finance/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-15-11",
+  "initial_price":{
+        "ETH":"0.0000010ETH",
+        "USD":"0.003 USD",
+        "BTC":"7.1e+8 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/KromatikaFi",
+    "telegram": "https://t.me/kromatika_finance",
+    "github": "https://github.com/Kromatika-Finance",
+    "facebook": "https://www.facebook.com/kromatika.finance/",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://kromatika-finance.medium.com/"
+  }
+}
