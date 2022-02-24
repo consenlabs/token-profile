@@ -2,7 +2,8 @@
   "symbol": "CBLB",
   "address": "0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B",
   "overview": {
-    "en": "Official token of cblb.app, issue on Polygon. cblb.app is a dApp which is easy to use and also useless"
+    "en": "cblb.app is a metaverse advertising dApp, driven by the community, based on a Web3 background and running on Polygon.",
+    "zh": "cblb.app是一个元宇宙广告dApp，由社区驱动，基于Web3背景并运行在 Polygon"
   },
   "email": "info@cblb.app",
   "website": "https://cblb.app/",
@@ -14,6 +15,8 @@
   },
   "links": {
     "blog": "https://github.com/cblb-app/cblb-app-progress",
-    "github": "https://github.com/cblb-app"
+    "github": "https://github.com/cblb-app",
+    "twitter": "https://twitter.com/cblbapp",
+    "telegram": "https://t.me/cblbapp"
   }
 }
