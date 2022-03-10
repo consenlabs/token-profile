@@ -1,0 +1,27 @@
+{
+  "symbol": "CNDL",
+  "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+  "overview":{
+        "en": "Candle (CNDL) is the utility and governance token for the Candle Protocol. This protocol is designed to decentralize social media and build out a community governed and moderated place to discuss and share thoughts and ideas.",
+        "zh": ""
+  },
+  "email": "contact@candlelabs.org",
+  "website": "https://candlelabs.org/",
+  "whitepaper": "https://docs.candlelabs.org",
+  "state": "NORMAL",
+  "published_on": "2021-12-28",
+  "initial_price":{
+        "ETH":"0.000002 ETH",
+        "USD":"0.0069420 USD",
+        "BTC":"0.00000002 BTC"
+  },
+  "links": {
+    "blog": "https://candlelabs.org/blog",
+    "twitter": "https://twitter.com/candle_labs",
+    "telegram": "https://t.me/candlelabs",
+    "github": "https://github.com/candleplatforms",
+    "facebook": "https://www.facebook.com/candlelabsinc",
+    "reddit": "https://www.reddit.com/r/cndl",
+    "medium": "https://cndl.medium.com"
+  }
+}
