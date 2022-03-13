@@ -1,0 +1,18 @@
+{
+	"symbol": "ONLY",
+	"address": "0xd73f46b1f52ade58e40bbe52758c09a454378257",
+	"overview": {
+		"zh": "OnlyChain是一套3.0区块链底层技术应用操作系统（简：OC系统），由OnlyChainLimited潜心研发。OC系统提出最大兼容全领域商业应用的区块链生态系统架构，并且能快速处理去中心化与半中心化应用的高性能区块链应用系统，实现数据兼容和性能扩展。打造永不宕机的区块链操作系统，实现以ONLY为通证的经济共享圈层。"
+	},
+	"email": "",
+	"website": "https://orcbrowserweb.oc-chain.com/",
+    "whitepaper": "https://across-eth.onlychain.net/WhitePaper/OnlyChainWhitePaper.pdf",
+	"published_on": "2020-01-09",
+	"state": "NORMAL",
+	"links": {
+		"blog": "",
+		"twitter": "",
+		"telegram": "",
+		"github": "https://github.com/onlychain/OCSystem2.0"
+	}
+}
