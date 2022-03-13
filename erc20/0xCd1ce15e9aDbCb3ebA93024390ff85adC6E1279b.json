@@ -1,0 +1,18 @@
+{
+	"symbol": "ORC",
+	"address": "0xcd1ce15e9adbcb3eba93024390ff85adc6e1279b",
+	"overview": {
+		"zh": "Open Reactor（简称ORC）提出了一个基于OC系统的 去中 心化跨 链解决方案，是OPEN中唯一的跨 链协议，充当OnlyChain与其他公 链网络金 融数 据和价值传递的链接者。"
+	},
+	"email": "",
+	"website": "https://orcbrowserweb.oc-chain.com/#/index",
+    "whitepaper": "https://across-eth.onlychain.net/WhitePaper/ORCWhitePaperV1.0.pdf",
+	"published_on": "2021-02-09",
+	"state": "NORMAL",
+	"links": {
+		"blog": "",
+		"twitter": "",
+		"telegram": "",
+		"github": "https://github.com/onlychain/OCSystem2.0"
+	}
+}
