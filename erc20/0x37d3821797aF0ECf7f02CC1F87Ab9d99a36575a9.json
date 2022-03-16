@@ -1,0 +1,15 @@
+{
+  "symbol": "SUNT",
+  "address": "0x37d3821797aF0ECf7f02CC1F87Ab9d99a36575a9",
+  "overview":{
+        "en": "The decentralized Token of open governance of DAO architecture integrates powerful defi smart contract to achieve balance in circulation, pledge and output, and has strong scalability and value carrying capacity.",
+        "zh": "DAO 架构开放治理的去中心化令牌，集成了强大的 defi 智能合约，并引用“铸币曲线”实现了在 流通、质押、产出等环节的供需平衡，在 NFT 及 Metaverse 等领域具有很强的扩展性和价值承载 能力。"
+  },
+  "email": "sunt.daofi@gmail.com",
+  "website": "https://www.sunt.cc/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SUNT_apostle",
+    "telegram": "https://t.me/SUNT_DAOFI"
+  }
+}
