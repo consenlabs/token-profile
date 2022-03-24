@@ -10,9 +10,7 @@
   "whitepaper": "https://github.com/cblb-app/cblb-token-model",
   "state": "NORMAL",
   "published_on": "2022-01-10",
-  "initial_price": {
-    "MATIC": "0.00011248 MATIC"
-  },
+  "initial_price": { "MATIC": "0.00011248 MATIC" },
   "links": {
     "blog": "https://github.com/cblb-app/cblb-app-progress",
     "github": "https://github.com/cblb-app",
