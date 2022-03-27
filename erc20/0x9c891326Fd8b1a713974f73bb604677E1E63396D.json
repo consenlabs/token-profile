@@ -10,10 +10,8 @@
     "whitepaper": "https://secureservercdn.net/160.153.137.40/mmc.19a.myftpupload.com/wp-content/uploads/2021/09/islamicoinE.pdf",
     "state": "NORMAL",
     "published_on": "2021-09-05",
-    "initial_price":{
-          
-          "USD":"0.0001667 USD"
-          
+    "initial_price":{    
+          "USD":"0.0001667 USD"  
     },
     "links": {
       "twitter": "https://twitter.com/islamicoin",
