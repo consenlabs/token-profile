@@ -1,0 +1,25 @@
+{
+  "symbol": "AIR",
+  "address": "0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
+  "overview":{
+              "en": "AIR is to mock the madness of the cryptocurrency market. AIR is everywhere, after buying AirCoin you get nothing but AIR.",
+              "zh": "AIR 是为了嘲笑加密货币市场的疯狂。你购买了空气币除了空气什么都没有。"
+  },
+  "email": "hello@aircoin.cool",
+  "website": "https://aircoin.cool",
+  "whitepaper": "https://github.com/Aircoin-official/Documments/blob/main/AirCash_PDF.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-05-13",
+  "initial_price":{
+        "USD":"0.000000001USD"
+  },
+  "links": {
+  "blog": "https://aircoin.community",
+    "twitter": "https://twitter.com/Aircoinreal",
+    "telegram": "https://t.me/aircoinreal",
+    "reddit": "https://www.reddit.com/r/AirCoinDAOLabs",
+    "github": "https://github.com/Aircoin-official",
+    "facebook": "https://www.facebook.com/aircoinreal",
+    "medium": "https://aircoindaolabs.medium.com"
+  }
+}
