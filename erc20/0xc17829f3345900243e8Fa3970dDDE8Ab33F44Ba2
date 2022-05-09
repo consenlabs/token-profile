@@ -1,0 +1,20 @@
+{
+    "symbol": "ZELEN",
+    "address": "0xc17829f3345900243e8Fa3970dDDE8Ab33F44Ba2",
+    "overview": {
+        "en": "Zelenskyy DAO is a decentralized organization dedicated to world peace, humanitarian aid and cultural dissemination. Promote world peace through activities such as the production of NFTs, and enhance and expand the consensus between people. Create a better life together.",
+        "zh": "Zelenskyy DAO 是一个致力于世界和平、人道主义援助和文化传播的去中心化组织。 通过生产 NFT 等活动促进世界和平，增进和扩大人们之间的共识。 共同创造美好生活。"
+    },
+    "email": "ZelenskyyDAO@protonmail.com",
+    "website": "https://linktr.ee/zelenskyydao",
+    "state": "NORMAL",
+    "published_on": "2022-04-10",
+    "initial_price": {
+        "USD": "$0.1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/ZelenskyyDAO",
+        "github": "https://github.com/ZelenskyyDAO/token-profile",
+        "telegram": "https://t.me/ZelenskyyDAO"
+    }
+}
