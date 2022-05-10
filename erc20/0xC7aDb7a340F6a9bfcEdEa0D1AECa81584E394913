@@ -10,10 +10,9 @@
   "state": "LOCKED",
   "published_on": "2022-04-07",
   "initial_price":{
-        "USD":"0.1 USD",
+        "USD":"0.1 USD"
   },
   "links": {
-  
     "twitter": "https://linktr.ee/colournft",
     "telegram": "https://t.me/colour_NFT",
     "github": "https://github.com/ColourNFT/token-profile"
