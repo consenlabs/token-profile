@@ -1,0 +1,22 @@
+{
+  "symbol": "CNFT",
+  "address": "0xC7aDb7a340F6a9bfcEdEa0D1AECa81584E394913",
+  "overview":{
+        "en": "NFT technology development, technical consultation, technology transfer, technical service, technology promotion.",
+        "zh": "NFT技术开发、技术咨询、技术转让、技术服务、技术推广。"
+  },
+  "email": "colournft@protonmail.com",
+  "website": "https://linktr.ee/colournft",
+  "state": "LOCKED",
+  "published_on": "2022-04-07",
+  "initial_price":{
+  
+        "USD":"0.1 USD",
+  },
+  "links": {
+  
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project"
+  }
+}
