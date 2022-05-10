@@ -1,0 +1,16 @@
+{
+    "symbol": "SRS",
+    "address": "0x9448610696659de8F72e1831d392214aE1ca4838",
+    "overview":{
+          "en": "",
+          "zh": ""
+    },
+    "email": "business@sirius.finance",
+    "website": "https://www.sirius.finance/",
+    "state": "NORMAL",
+    "links": {
+      "twitter": "https://twitter.com/sirius_finance",
+      "telegram": "https://t.me/siriusfinanceofficial",
+      "github": "https://github.com/SiriusFinance"
+    }
+  }  
