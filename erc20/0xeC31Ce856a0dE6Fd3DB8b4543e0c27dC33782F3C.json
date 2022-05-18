@@ -1,0 +1,23 @@
+{
+  "symbol": "MMT",
+  "address": "0xeC31Ce856a0dE6Fd3DB8b4543e0c27dC33782F3C",
+  "overview":{
+        "en": "Mining Metaverse Token that supports  BSC.",
+        "zh": ""
+  },
+  "email": "zdkj222@163.com",
+  "website": "http://goldminer.mmtgame.com",
+  "whitepaper": "http://goldminer.mmtgame.com/WHITEPAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/mmtgame_com",
+    "telegram": "https://t.me/mmtgame",
+    "medium": "https://medium.com/@zdmmt111"
+  }
+}
