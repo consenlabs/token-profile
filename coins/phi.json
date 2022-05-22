@@ -1,0 +1,20 @@
+
+   
+{
+  "symbol": "Φ",
+  "address": "phi",
+  "overview":{
+        "en": "PHI Smart Chain is a DAG programable smart contracts platform built for decentralized and enterprise-level applications, in one highly scalable ecosystem. PHI Network is home for digital store of value, decentralized infrastructure, and applications, ready and built to scale for global usage and adoption.",
+  },
+  "email": "info@phi.network",
+  "website": "https://phi.network/",
+  "whitepaper": "https://phi.ceo",
+  "state": "NORMAL",
+  "published_on": "2017-04-06",
+  "initial_price":{
+        "USD":"1117383 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/phi_network",
+    "medium": "https://phi.gdn/"
+  }
