@@ -1,0 +1,17 @@
+{
+    "symbol": "LPC",
+    "address": "0x1E813fA05739Bf145c1F182CB950dA7af046778d",
+    "overview":{
+          "en": "Lucky planet chain (LPC) aims to become a one-stop chain game platform where the metaverse meets DeFi and Socialfi. Through its own built-in ecological aggregator, it is used for multi-functional trading ecology such as gamefi, NFT trading platform, and social networking. These features will be available on multiple chains such as TRON, Ethereum, Binance Smart Chain, etc.",
+          "zh": "Lucky planet chain（LPC）旨在成为元宇宙和DeFi、Socialfi相遇的一站式链游平台。通过自身内置的生态聚合器用于gamefi、NFT交易平台、社交等多功能交易生态。这些功能将在TRON、Ethereum、Binance Smart Chain等多个链上提供。"
+    },
+    "email": "LUCKYPLANET816@gmail.com",
+    "website": "http://luckyplanet.io",
+    "whitepaper": "http://luckyplanet.io/index.html#whitepaper",
+    "state": "NORMAL",
+    "published_on": "2021-11-12",
+    "links": {
+        "twitter": "https://twitter.com/LUCKY_PLANET816",
+        "telegram": "https://t.me/LUCKY_PLANET_816"
+      }
+}
