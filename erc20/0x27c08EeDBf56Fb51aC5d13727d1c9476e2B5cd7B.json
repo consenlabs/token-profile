@@ -1,0 +1,20 @@
+{
+  "symbol": "DHO",
+  "address": "0x27c08EeDBf56Fb51aC5d13727d1c9476e2B5cd7B",
+  "overview":{
+    "en": "DHO is the only governance TOKEN of DAO Hyperledger Omniverse ecosystem. It takes DAO organization as the first strategic drive and uses blockchain technology to build a complete Web3.0 ecosystem application system. Deep layout in hyperledger, Quantum computing, NFT, Metasverse, gameFi, etc.",
+    "zh": "DHO为 DAO Hyperledger Omniverse 生态的唯一治理TOKEN,以DAO组织作为第一战略驱动，运用区块链技术搭建一个完整的web3.0生态应用系统。将在超级账本，量子计算，NFT,元宇宙，gameFi等版块深度布局。"
+  },
+  "email": "DHOtoken@gmail.com",
+  "website": "https://www.dhoup.io/",
+  "whitepaper": "http://down.dhoup.io/paper/dho.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-06-05",
+  "initial_price":{
+    "USDT":"0.2 USDT"
+  },
+  "links": {
+    "twitter": "https://twitter.com/DHO_TOKEN",
+    "telegram": "https://t.me/dhotoken"
+  }
+}
