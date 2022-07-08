@@ -1,0 +1,19 @@
+{
+    "symbol": "DEWH",
+    "address": "0x0a66cad859483fe283c4caea37c6d8df32b2f5a5",
+    "overview": {
+        "zh": "Aleo是第一个提供完全隐私的应用程序开发平台。Aleo的诞生源于网络参与者共同的的愿望，即在网络上拥有个人和完全隐私的用户体验。这在目前来看几乎是不能实现的。Aleo通过区块链的去中心化和密码学的零知识证明来保护网络上的用户个人数据。Aleo的核心是为用户和应用程序开发人员提供绝对隐私的无限计算。Aleo是隐私、开源、为Web构建的区块链公链，且经过验证Aleo具有独特的优势，可以解决区块链现有的难题。在使用Aleo的过程中，用户可以享受个性化的网络服务，与此同时无需放弃个人数据的控制权。Aleo的出现将重塑我们在网络社会中所扮演的角色，为我们带来前所未有的网络体验。"
+    },
+    "email": "",
+    "website": "https://www.aleo.org/",
+    "whitepaper": "",
+    "published_on": "2022-06-28",
+    "initial_price": {
+        "ETH": "",
+        "USD": "",
+        "BTC": ""
+    },
+    "links": {
+        "twitter": "https://mobile.twitter.com/AleoHQ"
+    }
+}
