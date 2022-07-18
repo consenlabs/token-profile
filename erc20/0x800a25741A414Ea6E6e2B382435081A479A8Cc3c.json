@@ -1,1 +1,24 @@
-
+{
+    "symbol": "SEOR",
+    "address": "0x800a25741A414Ea6E6e2B382435081A479A8Cc3c",
+    "overview":{
+          "en": "SEOR is the next generation of decentralized Web3.0 application technology development infrastructure.",
+          "zh": ""
+    },
+    "email": "contact@seor.io",
+    "website": "https://seor.io/",
+    "whitepaper": "https://docsend.com/view/j7amdrwc353n957a",
+    "state": "NORMAL",
+    "published_on": "2022-07-07",
+    "initial_price":{
+          "USD":"0.035 USD"
+          
+    },
+    "links": {
+      "twitter": "https://twitter.com/SEOR001",
+      "telegram": "https://t.me/SeorGroup",
+      "github": "https://github.com/sealsc",
+      "medium": "https://medium.com/@SEOR",
+      "Discord": "https://discord.gg/aQN3DmJuV6"
+    }
+  }
