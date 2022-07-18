@@ -2,12 +2,12 @@
     "symbol": "PLK",
     "address": "0x12A8786Eaba9C1f343E670b03FBB561201a7A11A",
     "overview":{
-        "en": "PlanckX is an open and decentralised blockchain gaming platform and NFT marketplace, which provides a user-friendly and open-source platform that brings together gamers, developers, and NFT creators.",
-        "zh": ""
+        "en": "PlanckX is an open and decentralised blockchain gaming platform and NFT marketplace, which provides a user-friendly and open-source platform that brings together gamers, developers, and NFT creators."
     },
     "email": "support@planckx.io",
     "website": "https://planckx.io/",
     "whitepaper": "https://planckx.s3.ap-northeast-1.amazonaws.com/PlanckXWhitePaper2.0.pdf",
+    "state": "NORMAL",
     "links": {
       "discord": "https://discord.io/planckx",
       "twitter": "https://twitter.com/planck__x",
