@@ -1,16 +1,18 @@
 {
-  "symbol": "ETH",
-  "address": "ethereum",
-  "overview": "The crypto-fuel for the Ethereum network",
-  "website": "https://www.ethereum.org",
-  "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+  "symbol": "USDT",
+  "address": "Tether US",
+  "overview": "Debit and credit card sector in 24-hour POS and ATM machines",
+  "website": "https://tetherus.io",
+  "whitepaper": "https://tetherus.io/wp-content/uploads/2022/07/wp.pdf",
   "state": "FLOAT",
-  "published_on": "2015-07-30",
-  "initial_price": "1 BTC = 2000 ETH",
+  "published_on": "2022-02-16",
+  "initial_price": "$1.00 USD = 0.000669 ETH",
   "links": {
-    "github": "https://github.com/ethereum",
-    "twitter": "https://twitter.com/ethereum",
-    "facebook": "https://www.facebook.com/ethereumproject",
-    "blog": "https://blog.ethereum.org/"
+    "github": "https://github.com/ClubTUS",
+    "twitter": "https://twitter.com/itetherus",
+    "facebook": "https://www.facebook.com/Tether-US-115924321116744",
+    "instagram": "https://www.instagram.com/tetherus.io/",
+    "telegram": "https://t.me/tetherustus",
+    "blog": "https://tetherus.io/blog/"
   }
 }
