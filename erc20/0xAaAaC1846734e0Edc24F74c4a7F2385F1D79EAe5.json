@@ -1,0 +1,28 @@
+{
+  "symbol": "ETN",
+  "address": "0xAaAaC1846734e0Edc24F74c4a7F2385F1D79EAe5",
+  "overview":{
+        "en": "ETNCOIN (ETN) is abbreviated as ETN. Through cross-chain bridge technology, it opens bridge transactions between public chains and promotes free trade between any digital pass and goods.",
+        "zh": "ETNCOIN(以太妞)简称ETN，通过跨链桥技术，打通公链之间的桥梁交易，促进任何数字通证与商品之间的自由贸易"
+  },
+  "email": "etntoken@proton.me",
+  "website": "http://0xaaaac1846734e0edc24f74c4a7f2385f1d79eae5.com/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2022-03-12",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/eavin_etn",
+    "telegram": "",
+    "github": "https://github.com/etntoken",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@etntoken"
+  }
+}
