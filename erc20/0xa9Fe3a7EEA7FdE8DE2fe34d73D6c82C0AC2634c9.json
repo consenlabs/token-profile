@@ -1,0 +1,21 @@
+{
+  "symbol": "WSD",
+  "address": "0xa9Fe3a7EEA7FdE8DE2fe34d73D6c82C0AC2634c9",
+  "overview": {
+    "en": "WSD is the soccerhub's ecological token, which is used for the governance token of GameFi and Dao community."
+  },
+  "email": "soccerhub06@gmail.com",
+  "website": "https://soccerhub.finance/",
+  "whitepaper": "https://soccerhub-doc.gitbook.io/soccerhub-technology-paper/",
+  "state": "NORMAL",
+  "published_on": "2022-08-15",
+  "initial_price": {
+    "USD": "0.01 USD"
+  },
+  "links": {
+    "Discord": "https://discord.com/invite/NPEzFGV7A3",
+    "twitter": "https://twitter.com/soccerhub_finan?s=11&t=9yLWxd2rEGHV-Ju6xprpsw",
+    "telegram": "https://t.me/SoccerHub_Finance",
+    "YouTube": "https://youtu.be/kFL--2qDvIU"
+  }
+}
