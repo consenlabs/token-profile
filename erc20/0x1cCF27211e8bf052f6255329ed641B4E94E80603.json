@@ -1,0 +1,19 @@
+{
+  "symbol": "BABY",
+  "address": "0x1cCF27211e8bf052f6255329ed641B4E94E80603",
+  "overview":{
+        "en": "",
+  },
+  "email": "marketing@metababy.fun",
+  "website": "https://mbaby.fun/",
+  "whitepaper": "https://mbaby.fun/MetaBaby-WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-08-16",
+  "links": {
+    "youtube": "https://www.youtube.com/channel/UCXNu0bKlFWBy0GX1Ni4IovA?themeRefresh=1",
+    "twitter": "https://twitter.com/metababy_dao",
+    "telegram": "https://t.me/metababb",
+    "GitHub": "https://github.com/meta-baby",
+    "discord": "https://discord.com/invite/NsdUhsdGey",
+  }
+}
