@@ -1,0 +1,18 @@
+{
+  "symbol": "SUNT",
+  "address": "0x820fDDA87A6fAe864d3da0C2D9819B9e50a87fc9",
+  "overview":{
+        "en": "Realize the integration of all ecological rights and interests of 100sunglobal platform, make the platform ecology decentralized, open, transparent and standardized in the form of token from generation to use to value transmission under the unified rights and interests system, and adopt PSS smart contract algorithm + physical proof algorithm to realize the value logic that participants are contributors;",
+        "zh": "实现100SunGlobal平台各生态权益的积分通证化，使平台生态在统一的权益体系下以Token形式从产生到使用到价值传递的链条去中心化、公开化、透明化、标准化，采用PSS智能合约算法+物理证明算法，让参与者即为贡献者的价值逻辑得以实现；"
+  },
+  "email": "SUN_Token@hotmail.com",
+  "website": "https://www.100SunGlobal.io/",
+  "whitepaper": "https://raw.githubusercontent.com/100sunglobal/global/master/SUNTWhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-03-20",
+  "links": {
+    "blog": "https://weibo.com/u/6938435533",
+    "github": "https://github.com/100sunglobal",
+    "facebook": "https://www.facebook.com/100052038411726/posts/112799360464677/"
+  }
+}

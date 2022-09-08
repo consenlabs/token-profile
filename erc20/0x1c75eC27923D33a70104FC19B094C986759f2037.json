@@ -1,0 +1,17 @@
+{
+    "symbol": "WEBT",
+    "address": "0x1c75eC27923D33a70104FC19B094C986759f2037",
+    "overview":{
+          "en": "WEBT creates a cross-public chain, cross-platform, and visual DAPP development platform ecosystem, and empowers the digital economy.",
+          "zh": "WEBT 打造跨公链、跨平台、可视化 DAPP 开发平台的生态系统，赋能数字经济生态。"
+    },
+    "email": "webtgroup@gmail.com",
+    "website": "https://webtgroup.com/",
+    "whitepaper": "https://webtgroup.com/WEBT-whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-03-30",
+    "links": {
+        "telegram": "https://t.me/webtgroup",
+        "twitter": "https://twitter.com/webtgroup1"
+      }
+}

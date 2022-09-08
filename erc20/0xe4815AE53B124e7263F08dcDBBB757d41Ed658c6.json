@@ -1,0 +1,25 @@
+{
+  "symbol": "ZKS",
+  "address": "0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6",
+  "overview":{
+        "en": "All-featured Layer2 platform based on ZK-Rollups",
+        "zh": "基于 ZK-Rollups 的 Layer2 平台"
+  },
+  "email": "dev@zks.org",
+  "website": "https://zks.org/",
+  "whitepaper": "https://github.com/l2labs/zkspace-whitepaper",
+  "state": "NORMAL",
+  "initial_price":{
+        "ETH":"0.00003444 ETH",
+        "USD":"0.1156 USD",
+        "BTC":"0.000002452 BTC"
+  },
+  "links": {
+    "blog": "https://zks.org/blog",
+    "twitter": "https://twitter.com/ZKSpaceOfficial",
+    "telegram": "https://t.me/ZKSpaceOfficial",
+    "github": "https://github.com/l2labs",
+    "reddit": "https://www.reddit.com/r/ZKSwap_Official/",
+    "medium": "https://medium.com/zkswap"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "ITGR",
+  "address": "0xD502F487e1841Fdc805130e13eae80c61186Bc98",
+  "overview":{
+        "en": "ITGR is the governance token of Integral community.  Integral is a decentralized exchange.",
+        "zh": "ITGR 是 Integral 社区的治理代币。 Integral 是一家去中心化交易平台。"
+  },
+  "email": "info@integral.link",
+  "website": "https://integral.link",
+  "whitepaper": "https://docs.integral.link/white-papers",
+  "state": "NORMAL",
+  "published_on": "2021-09-15",
+  "links": {
+    "blog": "https://blog.integral.link",
+    "twitter": "https://twitter.com/integralhq",
+    "telegram": "https://t.me/integralresistance",
+    "github": "https://github.com/ProfessorJEY/Integral-Smart-Contracts/tree/master/contracts"
+  }
+}

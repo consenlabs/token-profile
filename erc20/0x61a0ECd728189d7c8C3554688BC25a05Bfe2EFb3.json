@@ -1,0 +1,28 @@
+{
+  "symbol": "VNC",
+  "address": "0x61a0ECd728189d7c8C3554688BC25a05Bfe2EFb3",
+  "overview":{
+        "en": "VNC is a token, which is issued by the combination of blockchain and internet securities trading.In the era without the internet, Traders called their brokers to place orders. It is the 1.0 trading model.After the popularization of internet securities trading, traders began to trade on more advanced internet platforms, like Robinhood. It is a 2.0 trading model.However, regardless of the 1.0 or the more advanced 2.0, it is impossible to change some facts:There is no transparent, open, and fair trading.Traders always make a one-way contribution, which cannot enjoy returns from platforms.It's impossible to participate in community construction as a master.The popularization of blockchain technology can solve the problems between these two parties.VNC is a win-win trading model between traders and the platform.We have designed a decentralized public ledger and a consensus algorithm. Members can play three roles, miners, referrers, traders, to contribute to the community and get rewards.",
+        "zh": "VNC是基于区块链和互联网证券交易相结合而发行的代币。创始团队分别来自于罗宾汉、盛宝银行以及以太坊开发者社区成员。在没有互联网的年代，证券交易者都是通过电话联繫经纪人交易，可以定义为1.0交易模式。在互联网普及之后，交易者开始通过更先进编辑的互联网平台交易，比如罗宾汉，可以定义为2.0交易模式。但，不管是1.0交易模式还是先进的2.0交易模式，始终都无法改变一些事实:1.证券交易无法透明、公开、公正。2.证券交易者始终是单方向的爲平台做贡献，无法享受平台的利润回报3.交易者无法参与到平台的社区建设。区块链技术的普及应用，能非常好的解决两者之间的问题。VNC是交易者与平台双方共赢的一种交易模式。我们设计了一种去中心化的公共帐本和一套共识演算法，会员将扮演三种角色，[矿工]、[引荐者]、[交易者]，为社区建设带来贡献和获得VNC回报。我们定义为3.0交易模式"
+  },
+  "email": "support@vnsmart.com",
+  "website": "https://www.vnsmart.com/",
+  "whitepaper": "https://www.vnsmart.com/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2019-01-01",
+  "initial_price":{
+        "ETH":"0.0000458 ETH",
+        "USD":"0.00619 USD",
+        "BTC":"0.00000164 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/vnsmart3",
+    "telegram": "https://t.me/vnsmart",
+    "github": "https://github.com/VNSMART-VNcoin",
+    "facebook": "https://www.facebook.com/naomi.aurora.10",
+    "reddit": "https://www.reddit.com/r/VNSMART/",
+    "slack": "",
+    "medium": ""
+  }
+}

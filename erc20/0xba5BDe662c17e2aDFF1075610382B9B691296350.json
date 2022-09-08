@@ -1,0 +1,18 @@
+{
+  "symbol": "RARE",
+  "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+  "overview":{
+        "en": "RARE is the governance token of SuperRare community. SuperRare is a marketplace to collect and trade unique, single-edition digital artworks. ",
+        "zh": "RARE 是 SuperRare 社区的治理代币。SuperRare 是一个收集和交易独特的单版数字艺术品的市场。"
+  },
+  "email": "",
+  "website": "https://superrare.com",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-08-18",
+  "links": {
+    "blog": "https://medium.com/superrare",
+    "twitter": "https://twitter.com/SuperRare",
+    "telegram": "https://t.me/SuperRare"
+  }
+}

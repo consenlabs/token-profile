@@ -1,0 +1,23 @@
+
+{
+  "symbol": "SLD",
+  "address": "0x1ef6A7e2c966fb7C5403EFEFdE38338b1a95a084",
+  "overview":{
+        "en": "Shield is building a one-of-a-kind decentralized protocol for future derivatives infrastructure, enabling global borderless access to finance. Shield introduces on-chain perpetual options without the risk of margin liquidation.",
+        "zh": "去中心化衍生品协议Shield建立一种无需信任、抗审查且可访问的衍生品交易协议，致力于构建下一代全球衍生品基础架构。其首款永续期权产品具有没有头寸清算的风险（即不会爆仓），高资金使用率，低做错方向亏损的特点。"
+  },
+  "email": "",
+  "website": "https://shieldex.io/",
+  "whitepaper": "https://docsend.com/view/fnsz5t5mj26qp8nh",
+  "state": "NORMAL",
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/shield_dao",
+    "telegram": "https://t.me/shield_dao",
+    "github": "https://github.com/ShieldDAODev",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://shield-dao.medium.com/"
+  }
+}

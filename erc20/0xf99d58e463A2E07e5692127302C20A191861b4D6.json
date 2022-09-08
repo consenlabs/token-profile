@@ -1,0 +1,17 @@
+{
+  "symbol": "ANY",
+  "address": "0xf99d58e463A2E07e5692127302C20A191861b4D6",
+  "overview":{
+        "en": "Anyswap is a fully decentralized cross chain swap protocol, based on Fusion DCRM technology, with automated pricing and liquidity system. Anyswap enables swaps between any coins on any blockchain which uses ECDSA or EdDSA as signature algorithm, including BTC, ETH, USDT, XRP, LTC, FSN, etc.",
+        "zh": "Anyswap 是一个完全去中心化的跨链交换协议，基于 Fusion DCRM 技术，具有自动定价和流动性系统。 Anyswap 支持使用 ECDSA 或 EdDSA 作为签名算法的任何区块链上的任何硬币之间的交换，包括 BTC、ETH、USDT、XRP、LTC、FSN 等。"
+  },
+  "email": "connect@anyswap.exchange",  
+  "website": "https://anyswap.exchange",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/AnyswapNetwork",
+    "telegram": "https://t.me/anyswap",
+    "github": "https://github.com/anyswap",
+    "medium": "https://anyswap.medium.com"
+  }
+}

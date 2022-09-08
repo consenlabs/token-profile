@@ -1,0 +1,23 @@
+{
+  "symbol": "BCP",
+  "address": "0x4612021C75809160Be60DB21fBc9D6adD0B32deF",
+  "overview": {
+    "en": "Description Block Commerce Protocol creates new added value and online transaction innovation by fusing block chain with the rapidly emerging live Mission and Vision Block Commerce Protocol, which stands for an all-in-one live commerce platform. We aim to take charge of everything from development to live commerce. This aims to globalize the live commerce industry and streaming services.",
+    "zh": "说明 Block Commerce Protocol通过将块链与快速出现的现场直播相结合，创造新的附加价值和在线交易创新。使命与愿景 Block Commerce Protocol（多合一实时商务平台）的缩写。 我们的目标是负责从发展到活跃的商业的一切。其目的是使实时商务产业和流媒体服务全球化。"
+  },
+  "email": "cto@bcprotocol.io",
+  "website": "https://bcprotocol.io/",
+  "whitepaper": "https://bcprotocol.io/bcp_whitepaper_eng.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-07-06",
+  "initial_price":{
+        "ETH":"0.0000196 ETH",
+        "USD":"0.04512 USD",
+        "BTC":"0.00000112 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/bcp_block",
+    "telegram": "https://t.me/bcp_official_channel",
+    "github": "https://github.com/JoshepJang/BCP"
+  }
+}

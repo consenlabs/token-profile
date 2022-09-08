@@ -1,0 +1,24 @@
+{
+  "symbol": "PERI",
+  "address": "0x5d30aD9C6374Bf925D0A75454fa327AACf778492",
+  "overview": {
+    "en": "PERI Finance is a decentralized cross-chain synthetic issuance and derivative exchange protocol that provides unlimited liquidity on Polkadot network. With PERI(PERI FINANCE TOKEN), anyone can access traditional financial products and crypto assets without hustles and bustles.",
+    "zh": " PERI Finance是一个创新的合成品发行和衍生品市场,利用区块链技术,通过 其协议为交易提供超强支持。PERI Finance允许以杠杆和非杠杆合成产品的形式获得广泛 的传统金融和加密货币资产。我们为用户提供较低的GAS费用,快速的交易,以及充分的 安全保障,使其免受抢先交易或闪电贷的影响。"
+  },
+  "email": "contact@pynths.com",
+  "website": "https://www.pynths.com",
+  "whitepaper": "https://peri.finance/file/Peri+Whitepaper+(EN)+v1.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-03-02",
+  "initial_price": {
+    "USD":"3.5 USD"
+  },
+  "links": {
+    "blog": "https://medium.com/perifinance",
+    "twitter": "https://twitter.com/PERIfinance",
+    "telegram": "https://t.me/peri_global",
+    "reddit": "https://www.reddit.com/r/PERI_Finance/",
+    "github": "https://github.com/perifinance",
+    "medium": "https://medium.com/perifinance"
+  }
+}

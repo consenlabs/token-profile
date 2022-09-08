@@ -1,0 +1,23 @@
+{
+  "symbol": "MARK",
+  "address": "0x829071731388755460872D19EAd585807C700053",
+  "overview":{
+        "en": "MARK, game tokens, can be obtained by completing tasks and production. The daily output is regulated according to the F(x) function which is also related to the GDP of the game, and the daily upper limit does not exceed 10 million. It can be used for exchanging some general tools and equipment in the game. In order to maintain the economic cycle of MARK, the system will recycle and delete the MARK after users purchasing the tools.",
+        "zh": ""
+  },
+  "email": "info@platofarm.game",
+  "website": "https://www.platofarm.game",
+  "whitepaper": "https://platofarm.gitbook.io/whitepaper.platofarm.com",
+  "state": "NORMAL",
+  "published_on": "2021-10-26",
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/Plato_Farm",
+    "telegram": "https://t.me/platofarm",
+    "github": "https://github.com/PlatoFarm",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@Plato_Farm"
+  }
+}
