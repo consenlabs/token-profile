@@ -1,0 +1,18 @@
+{
+  "symbol": "rETH",
+  "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+  "overview":{
+        "en": "Rocket Pool is a first of its kind ETH2 Proof of Stake Protocol, designed to be community owned, decentralised, trustless and compatible with staking in Ethereum 2.0. It was first conceived in late 2016 and has since had over 5 successful public betas over the life span of ETH2 development.",
+        "zh": ""
+  },
+  "email": "",
+  "website": "https://rocketpool.net/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "",
+  "links": {
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "github": "https://github.com/rocket-pool",
+    "medium": "https://medium.com/rocket-pool"
+  }
+}
