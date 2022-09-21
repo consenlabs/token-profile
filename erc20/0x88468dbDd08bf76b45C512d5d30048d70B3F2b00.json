@@ -1,0 +1,24 @@
+{
+  "symbol": "Toto",
+  "address": "0x88468dbDd08bf76b45C512d5d30048d70B3F2b00",
+  "overview":{
+    "en": "TOTO is a membership and governance token in the Oz ecosystem that can be obtained by staking OZC, or by gambling and betting with OZC. TOTO can be used in diverse betting scenarios, and is also used as a management tool in the Oz ecosystem for platform governance. TOTO has a variety of burn mechanisms. Every day the entire profits of the Ozbet would be used for the buyback and burn of TOTO.",
+    "zh": "TOTO是Oz生态中的会员通证，可以通过质押OZC，或使用OZC下注的方式挖矿获得。TOTO可以在多种博彩场景中应用，同时也作为Oz生态的管理通证用于平台治理。TOTO有多种销毁机制，每天Ozbet.one平台的全部利润会用于对TOTO的回购销毁，用户在博彩游戏中使用TOTO投注也会触发TOTO的多种销毁机制。"
+  },
+  "email": "business@ozfund.one",
+  "website": "https://ozfund.one/",
+  "whitepaper": "https://ozfund.one/static/ozfund/pdf/Oz-White-Paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-09-18",
+  "initial_price":{
+    "USD":"0.1 USD",
+    "OZC": "0.1 OZC",
+    "BUSD": "0.1 BUSD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/OzfundOfficial",
+    "telegram": "https://ozfund.one/static/ozfund/pdf/Oz-White-Paper.pdf",
+    "github": "https://github.com/autechno/ozfund",
+    "youtube": "youtube.com/channel/UCo9sUDCiEL8Efu-DIcb2rlQ"
+  }
+}
