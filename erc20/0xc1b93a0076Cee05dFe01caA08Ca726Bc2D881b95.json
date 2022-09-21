@@ -1,0 +1,23 @@
+{
+  "symbol": "OZC",
+  "address": "0xc1b93a0076Cee05dFe01caA08Ca726Bc2D881b95",
+  "overview":{
+    "en": "OZC (short for Ozcoin) is a chip issued in the Oz ecosystem. Anchored to BUSD, OZC can be used for various services including betting and gambling on Ozbet, as well as purchasing in Oz shopping applications.",
+    "zh": "OZC即Ozcoin，是一种发行于Oz生态的筹码，与稳定币BUSD锚定，可以用于Ozbet投注娱乐或生态内的各种服务购买和应用消费，持有Ozcoin是提升Oz生态会员等级并享受多种优惠的必要条件。"
+  },
+  "email": "business@ozfund.one",
+  "website": "https://ozfund.one/",
+  "whitepaper": "https://ozfund.one/static/ozfund/pdf/Oz-White-Paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-09-18",
+  "initial_price":{
+    "USD":"1 USD",
+    "BUSD": "1 BUSD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/OzfundOfficial",
+    "telegram": "https://ozfund.one/static/ozfund/pdf/Oz-White-Paper.pdf",
+    "github": "https://github.com/autechno/ozfund",
+    "youtube": "youtube.com/channel/UCo9sUDCiEL8Efu-DIcb2rlQ"
+  }
+}
