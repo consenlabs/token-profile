@@ -1,0 +1,23 @@
+{
+  "symbol": "IDC",
+  "address": "0xab0Dc7056143AFbAf4E5e1Ea2EA78db352e1f052",
+  "overview":{
+        "en": "IDChats is a decentralized application for Live Messages. It is committed to being the secure communication infrastructure on blockchain that compatible with a wide range of Social Graph and decentralized identity services.",
+        "zh": "IDchats是一种去中心化的即时通信应用，致力于成为区块链安全通信基础设施，并兼容广泛的社交图谱和去中心化身份服务."
+  },
+  "email": "business@idchats.com",
+  "website": "https://www.idchats.com",
+  "whitepaper": "https://wiki.idchats.com/",
+  "state": "NORMAL",
+  "published_on": "2022-11-30",
+  "initial_price":{
+        "ETH":"0.0000086 ETH",
+        "USD":"0.11 USD",
+        "BTC":"0.00000006514 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/idchats",
+    "github": "https://github.com/IDChats",
+    "medium": "https://medium.com/@idchats"
+  }
+}
