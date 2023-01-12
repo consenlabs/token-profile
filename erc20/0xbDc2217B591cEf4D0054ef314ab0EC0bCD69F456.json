@@ -1,0 +1,25 @@
+{
+   "symbol":"WVRH",
+   "address":"0xbDc2217B591cEf4D0054ef314ab0EC0bCD69F456",
+   "overview":{
+      "en":"wVRH is wrapped-VRH. wVRH is the ultimate solution to the long VRH lock-in times, high costs of GAS token boosting, Ethereum's high operation fee, and reinvestment yield.",
+      "zh":""
+   },
+   "email":"admin@versaillesheroes.com",
+   "website":"https://www.versaillesheroes.com",
+   "whitepaper":"https://docs.wvrh-stake.com",
+   "state":"NORMAL",
+   "published_on":"2023-01-10",
+   "initial_price":{
+      "ETH":"0 ETH",
+      "USD":"0 USD",
+      "BTC":"0 BTC"
+   },
+   "links":{
+      "twitter":"https://twitter.com/VersHeroes",
+      "telegram":"https://t.me/VRHannouncement",
+      "github":"https://github.com/Versailles-heroes-com/versailles-heroes-DAO",
+      "discord":"https://discord.gg/bz2jJv4dJ2 ",
+      "facebook":"https://www.facebook.com/VersaillesHeroes "
+   }
+}
