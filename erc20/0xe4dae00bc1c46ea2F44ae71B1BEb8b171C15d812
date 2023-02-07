@@ -1,0 +1,16 @@
+{
+  "symbol": "PRMX",
+  "address": "0xe4dae00bc1c46ea2F44ae71B1BEb8b171C15d812",
+  "overview":{
+ "en": "PREMA Token (PREMA) is a digital asset that supports the ecosystem of the PREMA platform. PREMA tokens will be the value foundation supporting the PREMA platform, where anyone can access the necessary utilities of URLs and IRLs at any time."
+  },
+  "email": "info@prmx.io",
+  "website": "https://prmx.io/",
+  "whitepaper": "https://wp.prmx.io/",
+
+  "links": {
+    "twitter": "https://twitter.com/prema_en",
+    "telegram": "https://t.me/prmx_io_global",
+    "medium": "https://prmx.medium.com/"
+  }
+}
