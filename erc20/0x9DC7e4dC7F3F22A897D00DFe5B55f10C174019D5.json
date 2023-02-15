@@ -1,0 +1,21 @@
+{
+  "symbol": "MUD",
+  "address": "0x9DC7e4dC7F3F22A897D00DFe5B55f10C174019D5",
+  "overview":{
+        "en": "The goal of Meta User DAO is to create a decentralized public chain of autonomous organizations. ",
+        "zh": "Meta User DAO 的目标是创建一个去中心化的自治组织公链。"
+  },
+  "email": "metauserdao@gmail.com",
+  "website": "http://metauserdao.net/",
+  "whitepaper": "http://metauserdao.net/wp-content/uploads/2022/10/MetaUser-DAO-white-paper-2.0.EN_.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-12-20",
+  "initial_price":{        
+        "USD":"0.5 USD" 
+  },
+  "links": {    
+    "twitter": "https://twitter.com/mudmetaverse",
+    "telegram": "https://t.me/kxlrzx",
+    "github": "https://github.com/MetaUserDAO"
+  }
+}
