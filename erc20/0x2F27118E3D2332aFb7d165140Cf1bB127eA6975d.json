@@ -1,0 +1,11 @@
+{
+ "name": "Gridex",
+ "website": "https://www.gdx.org",
+ "description": "Gridex is the first fully on-chain order book trading protocol for the Ethereum ecosystem.",
+ "explorer": "https://arbiscan.io/token/0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d",
+ "type": "ERC20",
+ "symbol": "GDX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d"
+}
