@@ -92,7 +92,7 @@ git push origin xxx-token
 In imToken, the current displayed token prices are provided by the block.cc API. If you want your project’s token price to be displayed in imToken, your token price must be supported on block.cc and you have to provide us the corresponding link. Please refer to this page for more information: https://mifengcha.com/q/eth 
 
 ## Related
-* [EOSPark](https://github.com/BlockABC/eos-tokens)
+* [0x0b91b07beb67333225a5ba0259d55aee10e3a578](https://github.com/BlockABC/eos-tokens)
 * [Newdex](https://newdex.io)
 
 ## Copyright
