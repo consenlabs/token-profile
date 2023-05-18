@@ -1,0 +1,24 @@
+{
+    "name": "Light Token",
+    "symbol": "LT",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://hope.money",
+    "whitepaper": "https://docs.hope.money",
+    "explorer": "https://etherscan.io/token/0x9ed1439D328647BDb148c20316eA024c719a735b",
+    "state": "NORMAL",
+    "id": "0x9ed1439D328647BDb148c20316eA024c719a735b",
+    "email": "support@hope.money",
+    "published_on": "2023-04-18",
+    "overview": {
+      "en": "The HOPE Ecosystem, featuring the distributed stablecoin $HOPE, aims to provide frictionless and transparent next-gen financial infrastructure and services accessible to everyone. By bridging CeFi and TradFi use cases to DeFi, the all-in-one HOPE Ecosystem provides a comprehensive set of use cases for $HOPE, including swap, lending, custody, clearing, and settlement, while incentivizing users to participate in the ecosystem and community governance through $LT.",
+      "zh": "HOPE 生态系统以分布式稳定币 $HOPE 为特色，旨在提供无摩擦和透明的下一代金融基础设施和服务，供所有人使用。通过将 CeFi 和 TradFi 用例与 DeFi 桥接，一体式 HOPE 生态系统为 $HOPE 提供了一套全面的应用，包括交换、借贷、托管、清算和结算，同时激励用户参与生态系统和通过 $LT 进行社区治理。"
+    },
+    "links": {
+      "blog": "https://hope-ecosystem.medium.com/",
+      "twitter": "https://twitter.com/hope_ecosystem",
+      "github": "https://github.com/Light-Ecosystem",
+      "discord": "https://discord.com/invite/hope-ecosystem",
+      "medium": "https://hope-ecosystem.medium.com/"
+    }
+}
