@@ -1,0 +1,21 @@
+{
+	"symbol": "GODS",
+	"address": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+	"overview": {
+		"en": "Made in partnership with Gods Unchained Corporation, $GODS is the native ERC-20 token of the Gods Unchained universe. Mortals can use $GODS to craft NFTs, purchase packs from the Gods Unchained marketplace and earn even more rewards by holding the tokens in Immutable X.",
+		"zh": "GODS 与 Gods Unchained Corporation 合作制造，是 Gods Unchained 宇宙的原生 ERC-20 代币。凡人可以使用 $GODS 来制作 NFT，从 Gods Unchained 市场购买包并通过持有 Immutable X 中的代币获得更多奖励"
+	},
+
+	"website": "https://godsunchained.com/",
+	"whitepaper": "https://images.godsunchained.com/misc/whitepaper.pdf",
+	"state": " NORMAL",
+
+
+	"links": {
+
+		"twitter": "https://twitter.com/GodsUnchained",
+
+		"reddit": "https://www.reddit.com/r/GodsUnchained/"
+
+	}
+}

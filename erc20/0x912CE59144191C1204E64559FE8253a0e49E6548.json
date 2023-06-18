@@ -1,0 +1,19 @@
+{
+    "symbol": "ARB",
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "overview":{
+          "en": "The $ARB token is an ERC-20 governance token that allows its holders to participate in the Arbitrum DAO’s on-chain governance protocol. ",
+          "zh": "$ARB代币是一个ERC-20治理代币允许其持有者参与Arbitrum DAO的链上治理协议。"
+    },
+    "email": "info@arbitrum.foundation",
+    "website": "https://arbitrum.foundation/",
+    "whitepaper": "https://docs.arbitrum.foundation/deployment-addresses",
+    "state": " NORMAL",
+    "published_on": "2023-03-23",
+    "links": {
+      "twitter": "https://twitter.com/arbitrum",
+      "telegram": "https://t.me/arbitrum",
+      "discord": "https://discord.com/invite/arbitrum",
+      "medium": "https://arbitrumfoundation.medium.com/"
+    }
+  }

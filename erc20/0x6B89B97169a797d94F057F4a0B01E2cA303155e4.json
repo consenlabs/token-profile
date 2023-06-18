@@ -1,0 +1,15 @@
+{
+    "symbol": "CHAD",
+    "address": "0x6B89B97169a797d94F057F4a0B01E2cA303155e4",
+    "overview":{
+          "en": "Chad coin is a meme coin.",
+          "zh": "Chad coin 是一种 meme 币."
+    },
+    "email": "Email",
+    "website": "https://www.chadcoin.io/",
+    "state": "NORMAL",
+    "links": {
+      "twitter": "https://twitter.com/chadcoindex",
+      "telegram": "https://t.me/chadcoindex"
+    }
+  }

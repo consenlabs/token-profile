@@ -1,0 +1,18 @@
+{
+  "symbol": "DYDX",
+  "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+  "overview":{
+        "en": "DYDX is the governance token of dYdX community.  dYdX is a decentralized margin trading platform based on Ethereum.",
+        "zh": "DYDX 是 dYdX 社区的治理代币。 dYdX 是全球首个基于以太坊的去中心化保证金交易平台。"
+  },
+  "email": " ",
+  "website": "https://dydx.exchange",
+  "whitepaper": "https://whitepaper.dydx.exchange",
+  "state": "NORMAL",
+  "published_on": "2021-09-08",
+  "links": {
+"twitter": "https://twitter.com/dydxprotocol",
+    "github": "https://github.com/dydxprotocol",
+    "reddit": "https://www.reddit.com/r/dydxprotocol"
+  }
+}

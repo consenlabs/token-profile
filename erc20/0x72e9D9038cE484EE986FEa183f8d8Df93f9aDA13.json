@@ -1,0 +1,17 @@
+{
+    "symbol": "SMARTCREDIT",
+    "address": "0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13",
+    "overview": {
+        "en": "SmartCredit.io’s decentralized peer-to-peer global lending marketplace connects lenders and borrowers without intermediaries. Lenders offer their funds, and borrowers borrow the funds on the global marketplace.",
+        "zh": "SmartCredit.io 的去中心化点对点全球借贷市场在没有中介的情况下连接了贷方和借方。 贷方提供资金，借款人在全球市场上借入资金。"
+    },
+    "email": "martin@smartcredit.io",
+    "website": "https://smartcredit.io/",
+    "whitepaper": "https://smartcredit.io/wp-content/uploads/2020/10/SmartCredit-Whitepaper-1.pdf",
+    "state": "NORMAL",
+    "links": {
+        "twitter": "https://twitter.com/smartcredit_io",
+        "telegram": "https://t.me/SmartCredit_Community",
+        "medium": "https://medium.com/smartcredit-io"
+    }
+}

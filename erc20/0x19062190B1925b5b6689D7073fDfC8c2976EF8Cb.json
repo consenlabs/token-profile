@@ -1,0 +1,22 @@
+{
+  "symbol": "BZZ",
+  "address": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
+  "overview":{
+        "en": "Swarm is a system of peer-to-peer networked nodes that create a decentralised storage and communication service. The system is economically self-sustaining due to a built-in incentive system enforced through smart contracts on the Ethereum blockchain and powered by the BZZ token.",
+        "zh": "swarm是一个分布式存储平台以及内容分发服务协议，是一个以太坊Web3.0的一个本土服务层，主要负责给以太坊存储链上数据和提供带宽，Swarm与智能合约以及Whisper（数据加密交互）一起组成以太坊web3.0的三大支柱。BZZ是Swarm发行的功能性代币，是使用Swarm去中心化存储、带宽的燃料。"
+  },
+  "email": "comms@ethswarm.org",
+  "website": "https://www.ethswarm.org/",
+  "whitepaper": "https://www.ethswarm.org/swarm-whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-21",
+  "initial_price":{
+        "USD":"1.92 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ethswarm",
+    "github": "https://github.com/ethersphere",
+    "reddit": "https://www.reddit.com/r/EthSwarm/",
+    "medium": "https://medium.com/ethereum-swarm"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "PLUT",
+  "address": "0x888888d87d85Bc11549b17907E8f589214EB90c2",
+  "overview":{
+        "en": "Next-generation DeFi asset management protocol.",
+        "zh": ""
+  },
+  "email": "info@deplutus.finance",
+  "website": "https://deplutus.finance/",
+  "whitepaper": "https://deplutus.finance/static/deplutus-white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-08-16",
+  "links": {
+    "twitter": "https://twitter.com/FinancePlutus",
+    "telegram": "https://t.me/Deplutus",
+    "github": "https://github.com/DePlutus",
+    "medium": "https://defiplutus.medium.com"
+  }
+} 

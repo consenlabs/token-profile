@@ -1,0 +1,23 @@
+{
+  "symbol": "ALD",
+  "address": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+  "overview": {
+    "en": "Farm With DeFi Big Brains.",
+    "zh": "加入智慧的DAO，与聪明人一起挖矿。"
+  },
+  "email": "support@aladdin.club",
+  "website": "https://aladdin.club/",
+  "whitepaper": "https://docs.aladdin.club/",
+  "state": "NORMAL",
+  "published_on": "2021-06-20",
+  "initial_price": {
+    "ETH": "0.00031363 ETH"
+  },
+  "links": {
+    "discord": "https://discord.gg/Ymwar7c6V8",
+    "twitter": "https://twitter.com/AladdinDAO",
+    "telegram": "https://t.me/aladdin_dao",
+    "github": "https://github.com/AladdinDAO/",
+    "medium": "https://aladdindao.medium.com/"
+  }
+}

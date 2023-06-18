@@ -1,0 +1,18 @@
+{
+  "symbol": "FLOAT",
+  "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
+  "overview":{
+        "en": "Float Protocol is building the decentralised monetary system of the future. At the heart of the protocol is the FLOAT token. It is designed to be the first truly native internet currency and fully satisfying all three of major properties of money: as a medium of exchange, a store of value and a unit of account. Unlike most stablecoins, whilst FLOAT is designed to be stable and have significantly lower volatility than most cryptocurrencies, it is not designed to hold its price at $1.00. Instead, like most major fiat currencies, it is designed to float and change value over time. FLOAT is stabilised through frequent auctions to expand or contract the supply. It is also partly supported by a 'Basket of cryptocurrencies that are used as part of the auction proces",
+        "zh": "Float Protocol 正在构建未来的去中心化货币系统。 该协议的核心是 FLOAT 代币。 它旨在成为第一个真正的原生互联网货币，并完全满足货币的所有三个主要属性：作为交换媒介、价值储存和记账单位。与大多数稳定币不同，虽然 FLOAT 被设计为稳定且波动性比大多数加密货币低得多，但它并非旨在将其价格保持在 1.00 美元。 相反，与大多数主要法定货币一样，它旨在随着时间的推移浮动和改变价值。FLOAT 通过频繁的拍卖来稳定供应以扩大或收缩供应。 它也部分得到了作为拍卖过程一部分的“一篮子加密货币”的支持"
+  },
+  "email": "floatprotocol@protonmail.com",  
+  "website": "https://floatprotocol.com",
+  "whitepaper": "https://observablehq.com/collection/@floatcoder/float-protocol-litepaper",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/FloatProtocol",
+    "telegram": "https://t.me/officialfloatprotocol",
+    "github": "https://github.com/FloatProtocol",
+    "medium": "https://medium.com/@floatprotocol"
+  }
+}

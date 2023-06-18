@@ -1,0 +1,19 @@
+{
+  "symbol": "EDEN",
+  "address": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
+  "overview":{
+        "en": "Eden is a priority transaction network that protects traders from frontrunning, aligns incentives for block producers, and redistributes miner extractable value.",
+        "zh": "Eden是一个可选的、非共识破坏性的以太坊区块交易排序协议，它允许网络参与者保证放置和防止任意重新排序。该系统提供了一套透明且公平的规则来对每个区块内的交易进行排序。随附的 EDEN 代币奖励系统为区块生产者实现MEV利润，以最大限度地提高网络安全性。"
+  },
+  "email": "press@edennetwork.io",
+  "website": "https://edennetwork.io",
+  "whitepaper": "https://edennetwork.io/EDEN_Network___Whitepaper___2021_07.pdf",
+  "state": "NORMAL",
+
+  "links": {
+    "blog": "https://medium.com/edennetwork",
+    "twitter": "https://twitter.com/edennetwork",
+    "telegram": "https://t.me/Eden_Network",
+    "github": "https://github.com/eden-network"
+  }
+}

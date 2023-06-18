@@ -1,0 +1,23 @@
+{
+  "symbol": "WAR",
+  "address": "0x4FaDC7A98f2Dc96510e42dD1A74141eEae0C1543",
+  "overview":{
+        "en": "Wrapped AR (WAR) is the first ERC20 token backed 1:1 with AR. Completely transparent. 100% verifiable.  Community led.",
+        "zh": "WAR 是第一个与 AR 1：1 兑换的 ERC20 代币，完全透明，100％ 可验证，由社区驱动的项目。"
+  },
+  "email": "info@ever.finance",
+  "website": "https://ever.finance",
+  "whitepaper": " ",
+  "state": "NORMAL",
+  "published_on": "2021-07-09",
+  "links": {
+    "blog": "https://medium.com/everfinance",
+    "twitter": "https://twitter.com/FinanceEver",
+    "telegram": " ",
+    "github": "https://github.com/everFinance",
+    "facebook": " ",
+    "reddit": " ",
+    "slack": " ",
+    "medium": "https://medium.com/everfinance"
+  }
+}
