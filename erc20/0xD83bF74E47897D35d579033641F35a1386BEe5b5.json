@@ -1,0 +1,28 @@
+{
+  "symbol": "CABB",
+  "address": "0xD83bF74E47897D35d579033641F35a1386BEe5b5",
+  "overview":{
+        "en": "CABB is a points stablecoin. Price stability achieved through an exchange system with a fixed exchange rate to the U.S. dollar",
+        "zh": "CABB是一种积分稳定币。通过与美元固定汇率的兑换体系实现价格稳定。"
+  },
+  "email": "sbcoinsupport@protonmail.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2023-09-12",
+  "initial_price":{
+        "ETH":"0.00063331 ETH",
+        "USD":"1 USD"
+        "BTC":"0.00003874"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
