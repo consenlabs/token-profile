@@ -1,13 +1,9 @@
 {
-    "name": "Light Token",
     "symbol": "LT",
-    "type": "ERC20",
-    "decimals": 18,
     "website": "https://hope.money",
     "whitepaper": "https://docs.hope.money",
-    "explorer": "https://etherscan.io/token/0x9ed1439D328647BDb148c20316eA024c719a735b",
     "state": "NORMAL",
-    "id": "0x9ed1439D328647BDb148c20316eA024c719a735b",
+    "address": "0x9ed1439D328647BDb148c20316eA024c719a735b",
     "email": "support@hope.money",
     "published_on": "2023-04-18",
     "overview": {
