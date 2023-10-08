@@ -1,13 +1,9 @@
 {
-  "name": "HOPE",
   "symbol": "HOPE",
-  "type": "ERC20",
-  "decimals": 18,
   "website": "https://hope.money",
   "whitepaper": "https://docs.hope.money",
-  "explorer": "https://etherscan.io/token/0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
   "state": "NORMAL",
-  "id": "0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
+  "address": "0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
   "email": "support@hope.money",
   "published_on": "2023-04-17",
   "overview": {
