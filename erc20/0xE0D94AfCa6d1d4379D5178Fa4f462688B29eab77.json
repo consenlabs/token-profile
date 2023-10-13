@@ -1,0 +1,28 @@
+{
+    "symbol": "PLDMH",
+    "address": "0xE0D94AfCa6d1d4379D5178Fa4f462688B29eab77",
+    "overview":{
+          "en": "Token Description.",
+          "zh": ""
+    },
+    "email": "",
+    "website": "",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2023-09-24",
+    "initial_price":{
+          "BNB":"0.00816047 BNB",
+          "USD":"1.68443 USD",
+          "BTC":"0.0000627039 BTC"
+    },
+    "links": {
+      "blog": "https://your-awesome-project.com/blog",
+      "twitter": "https://twitter.com/your-awesome-project",
+      "telegram": "https://t.me/joinchat/your-awesome-project",
+      "github": "https://github.com/your-awesome-project",
+      "facebook": "https://www.facebook.com/your-awesome-project",
+      "reddit": "https://www.reddit.com/r/your-awesome-project/",
+      "slack": "https://your-awesome-project.slack.com",
+      "medium": "https://medium.com/your-awesome-project"
+    }
+  }
