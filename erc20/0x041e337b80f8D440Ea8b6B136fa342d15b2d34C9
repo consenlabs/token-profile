@@ -1,0 +1,25 @@
+{
+  "symbol": "WOB",
+  "address": "0x041e337b80f8D440Ea8b6B136fa342d15b2d34C9",
+  "overview":{
+        "en": "We Support the World's Leading Blockchain Ecosystem and Digital Asset Exchange.",
+        "id": "Kami Mendukung Ekosistem Blockchain dan Pertukaran Aset Digital Terkemuka di Dunia."
+  },
+  "email": "support@wobytes.com",
+  "website": "https://wobytes.com/",
+  "whitepaper": "Soon",
+  "state": "NORMAL",
+  "published_on": "2023-04-22",
+  "initial_price":{
+        "ETH":"0.000166666 ETH",
+        "USD":"0.3 USD",
+  },
+  "links": {
+    "blog": "https://blog.wobytes.com",
+    "twitter": "https://twitter.com/wobytesglobal",
+    "telegram": "https://t.me/wobytesglobal",
+    "github": "https://github.com/wobytesglobal",
+    "facebook": "https://www.facebook.com/wobytesglobal",
+    "youtube": "https://youtube.com/@wobytesglobal"
+  }
+}
