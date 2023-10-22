@@ -1,0 +1,22 @@
+{
+    "symbol": "ZKT",
+    "address": "0x07c52c2537D84e532a9F15d32E152C8B94D2b232",
+    "overview":{
+          "en": "zkTube is a project built and developed on Layer 2 based on PLONK algorithm protocol using ZK-Rollup technology."
+    },
+    "email": "",
+    "website": "https://zktube.io",
+    "whitepaper": "https://github.com/zkTube-Labs/zkTube-docs/tree/main/docs/Whitepaper",
+    "state": "NORMAL",
+    "published_on": "2021-08-28",
+    "initial_price":{
+          "USD":"10 USD"
+    },
+    "links": {
+      "twitter": "https://twitter.com/zktubeofficial",
+      "telegram": "https://t.me/zkTubeProtocol",
+      "github": "https://github.com/zkTube-Labs",
+      "facebook": "https://www.facebook.com/zkTube.official/",
+      "medium": "https://zktube.medium.com/"
+    }
+  }

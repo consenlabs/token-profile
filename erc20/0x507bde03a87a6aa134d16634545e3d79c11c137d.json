@@ -1,0 +1,18 @@
+{
+  "symbol": "UART",
+  "address": "0x507bde03a87a6aa134d16634545e3d79c11c137d",
+  "overview": {
+    "en": "UniArts is a multi-chain NFT ecosystem with a substrate-developed mainnet and EVM (Ethereum virtual machine)-based smart contracts for infrastructure. It also provides crowd- voting/DAO curation for art, distributes incentives for contributing content creators and art appreciators, as well as art grants to help better achieve the democratization of art and creation, publication, and circulation of NFTs.",
+    "zh": "UniArts是一个多链NFT生态系统，具有基于Substrate开发的mainnet主链和基于EVM（以太坊虚拟机）的智能合约平台。它还为艺术提供群众投票/DAO策展，为有贡献的内容创作者和艺术欣赏者分配奖励，以及艺术赠款，以帮助更好地实现艺术民主化以及NFT的创作、出版和流通。"
+  },
+  "email": "hello@uniarts.network",
+  "website": "https://uniarts.network/",
+  "whitepaper": "https://assets-jl.oss-cn-beijing.aliyuncs.com/uniarts/UniArts_White_Paper.pdf",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/UniartsNetwork",
+    "github": "https://github.com/uni-arts-chain",
+    "telegram": "https://t.me/uniarts",
+    "medium": "https://uniartsnetwork.medium.com"
+  }
+}

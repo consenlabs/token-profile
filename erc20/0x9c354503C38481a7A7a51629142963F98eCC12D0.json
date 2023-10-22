@@ -1,0 +1,26 @@
+{
+  "symbol": "OGV",
+  "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+  "overview": {
+    "en": "Origin Dollar Governance (OGV) is the governance and value accrual token for OUSD, a rebasing stablecoin that earns yield from DeFi protocols.",
+    "zh": ""
+  },
+  "email": "support@originprotocol.com",
+  "website": "https://governance.ousd.com",
+  "whitepaper": "https://www.originprotocol.com/en/litepaper",
+  "state": "NORMAL",
+  "published_on": "2021-03-08",
+  "initial_price":{
+        "ETH":"",
+        "USD":"",
+        "BTC":""
+  },
+  "links": {
+    "blog": "https://blog.originprotocol.com/",
+    "twitter": "https://twitter.com/OriginProtocol",
+    "telegram": "https://t.me/originprotocol",
+    "reddit": "https://www.reddit.com/r/originprotocol/",
+    "github": "https://github.com/OriginProtocol/ousd-governance",
+    "facebook": "https://www.facebook.com/originprotocol/"
+  }
+}

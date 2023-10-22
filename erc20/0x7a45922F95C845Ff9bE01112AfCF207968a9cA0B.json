@@ -1,0 +1,19 @@
+{
+  "symbol": "CBLB",
+  "address": "0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B",
+  "overview": {
+    "en": "Official token of cblb.app, issue on Polygon. cblb.app is a dApp which is easy to use and also useless"
+  },
+  "email": "info@cblb.app",
+  "website": "https://cblb.app/",
+  "whitepaper": "https://github.com/cblb-app/cblb-token-model",
+  "state": "NORMAL",
+  "published_on": "2022-01-10",
+  "initial_price": {
+    "MATIC": "0.00011248 MATIC"
+  },
+  "links": {
+    "blog": "https://github.com/cblb-app/cblb-app-progress",
+    "github": "https://github.com/cblb-app"
+  }
+}

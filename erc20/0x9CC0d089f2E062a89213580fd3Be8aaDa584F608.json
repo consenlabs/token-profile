@@ -1,0 +1,20 @@
+{
+    "symbol": "CAST",
+    "address": "0x9CC0d089f2E062a89213580fd3Be8aaDa584F608",
+    "overview":{
+          "en": "CAST is the governance token of Polkacast. CAST can be used for Polkacast's protocol governance and NFT casting, rewarding and supporting podcast creators.",
+          "zh": "CAST 是 Polkacast 的治理代币。CAST 可用于 Polkacast 的协议治理与NFT铸造、奖励和扶持播客创造者。"
+    },
+    "email": "team@polkacast.network",
+    "website": "https://www.polkacast.network/",
+    "whitepaper": "https://github.com/polkacast/docs/blob/main/Polkacast-white-paper-1.1.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-05-27",
+    "links": {
+      "blog": "https://polkacast.substack.com/",
+      "twitter": "https://twitter.com/polkacast",
+      "telegram": "https://t.me/polkacast",
+      "github": "https://github.com/polkacast/",
+      "medium": "https://polkacastprotocol.medium.com/"
+    }
+}

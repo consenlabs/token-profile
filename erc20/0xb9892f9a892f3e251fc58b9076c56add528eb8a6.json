@@ -1,0 +1,19 @@
+{
+  "symbol": "MYM",
+  "address": "0xb9892f9a892f3e251fc58b9076c56add528eb8a6",
+  "overview":{
+        "en": "MYM (Moyom) is the utility token of Ipparts Exchange (IPPAEX). The utility is buying brand tokens listed on IPPAEX.",
+        "zh": "MYM (Moyom) 是 Ipparts Exchange (IPPAEX) 的实用代币。该实用程序正在购买 IPPAEX 上列出的品牌代币."
+  },
+  "email": "mdpienaar@africahead.co.za",
+  "whitepaper": "https://www.africahead.co.za/Africahead/Moiom_files/MoyomWhitePaper3-signed.pdf",
+  "website": "https://www.africahead.co.za/Africahead/Moyom.html",
+  "state": "NORMAL",
+  "published_on": "2021-09-8",
+  "links": {
+    "twitter": "https://twitter.com/mdpienaar",
+    "gitter": "https://gitter.im/Africahead/Lobby",
+    "telegram": "https://t.me/ippaex",
+    "whatsapp": "https://chat.whatsapp.com/K5sjXzrA81lLDukeNe1CG7"
+  }
+}

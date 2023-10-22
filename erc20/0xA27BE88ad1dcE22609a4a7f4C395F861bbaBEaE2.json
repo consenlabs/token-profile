@@ -1,0 +1,19 @@
+{
+  "symbol": "DiP",
+  "address": "0xA27BE88ad1dcE22609a4a7f4C395F861bbaBEaE2",
+  "overview":{
+        "en": "DiP (Divided Party) is a brand token listed on Ipparts Exchange (IPPAEX). The token is contractually backed by 48% of the Divided Party brand value. DiP raises funds for Federal Party SA - FPSA, a new political party in South Africa, and helps with the management of FPSA.",
+        "zh": "DiP (Divided Party) 是在 Ipparts Exchange (IPPAEX) 上市的品牌代币。该代币在合同上由 Divided Party 品牌价值的 48% 提供支持。 DiP 为南非新政党 Federal Party SA - FPSA 筹集资金，并帮助管理 FPSA."
+  },
+  "email": "dividedparty@gmail.com",
+  "whitepaper": "https://dividedparty.github.io/DiP/DiPtokensfiles/DiPwhitePaper2.pdf",
+  "website": "https://dividedparty.github.io",
+  "state": "NORMAL",
+  "published_on": "2020-08-28",
+  "links": {
+    "twitter": "https://twitter.com/dividedparty",
+    "gitter": "https://gitter.im/Africahead/Lobby",
+    "telegram": "https://t.me/joinchat/IBJxVg-zUeFtoxe6GGAdsg",
+    "whatsapp": "https://chat.whatsapp.com/K5sjXzrA81lLDukeNe1CG7"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "symbol": "AI",
+  "address": "0xc91B523A59ACC63A64f61fc7bBfB4bfc82DD25f2",
+  "overview":{
+        "en": "Artificial intelligence and machine learning (A.I./ML) will soon become the most important technological force in society. This ecosystem is currently monopolized by only a few tech giants and elite institutions. The technological and inequality gaps are rapidly growing. Its high time for change. In the Multiverse, we believe that powerful technology must involve people of all stripes. Many people have great ideas on how A.I. could help their communities, but they are limited by lack of coding skills or capital. That’s why we built the Multiverse, which enables people to start projects without needing to write code or raise large amounts of capital.  You can finally have a say in the types of A.I. applications you want, build the future together with visionary founders from all walks of life, be a part of the A.I. revolution today by easily staking on new A.I. projects.  The playing field is finally level. Have the first mover advantage. Enter our Multiverse and stake on your chosen projects today.",
+        "zh": ""
+  },
+  "email": "contact@multiverse.ai",
+  "website": "https://multiverse.ai/",
+  "whitepaper": "https://multiverse.ai/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2021-06-02",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/multiverse_labs",
+    "telegram": "https://t.me/multiverselabs",
+    "github": "https://github.com/multiverseai/ERC20",
+    "reddit": "https://www.reddit.com/r/Multiverselabs/",
+    "linkedin": "https://www.linkedin.com/company/multiverseai?originalSubdomain=sg"
+  }
+}

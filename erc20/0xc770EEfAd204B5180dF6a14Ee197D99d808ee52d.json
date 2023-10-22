@@ -1,0 +1,21 @@
+{
+  "symbol": "FOX",
+  "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+  "overview":{
+        "en": "FOX is ShapeShift loyalty token and makes users eligible to win USDC from shapeshift rewards program, Rainfall. In addition it allows users to trade for free on the ShapeShift Platform and mobile app.",
+        "zh": "FOX是ShapeShift的原生TOKEN，FOX可以让你在ShapeShift平台上免费交易加密货币，零佣金，零交易费用。"
+  },
+  "email": "mail@shapeshift.com",
+  "website": "https://shapeshift.com",
+  "whitepaper": "https://beta.shapeshift.com/fox-token",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://medium.com/@ShapeShift.com",
+    "twitter": "https://twitter.com/ShapeShift_io",
+    "telegram": "https://t.me/shapeshiftofficial",
+    "github": "https://github.com/shapeshift",
+    "facebook": "https://www.facebook.com/ShapeShiftPlatform",
+    "reddit": "https://www.reddit.com/r/shapeshiftio",
+    "medium": "https://medium.com/@ShapeShift.com"
+  }
+}

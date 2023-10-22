@@ -1,0 +1,16 @@
+{
+  "symbol": "DAO",
+  "address": "0xc096332CAacF00319703558988aD03eC6586e704",
+  "overview":{
+    "en": "Daoswap is a decentralized protocol for automated token exchange."
+  },
+  "email": "contact@daoswap.cc",
+  "website": "https://www.daoswap.cc",
+  "whitepaper": "https://www.daoswap.cc/Whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-27",
+  "links": {
+    "twitter": "https://twitter.com/Daoswapdex",
+    "github": "https://github.com/daoswapdex"
+  }
+} 

@@ -1,0 +1,21 @@
+{
+  "symbol": "HTC",
+  "address": "0xF13948Cc56400165FBAf08e0E7A1878CdfE6E4e4",
+  "overview":{
+        "en": "Healthy Trip Chain (HTC) is a commercial rights token created and issued by the Singapore Healthy Trip Protocol Foundation to record rights and interests related to the foundation's business activities.The total limited of HTC is 200 million, of which 50% is in circulation and 50% is mortgaged by ecological merchants of HTC. Individual users can hold or sell the HTC that they have received through various business activities, but only foundation cooperative merchants can reclaim HTC from individual users. HTC plays an important role in the ecosystem and is the value carrier in the ecosystem. The value circulation in the ecosystem is reflected through the issuance and recycling of HTC.",
+        "zh": "HTC是由新加坡乐途协议基金会打造发行的商业权益通证，用于记录与基金会商业活动有关的权益。乐途健康通证(HTC)总发行量为2亿枚，其中流通总量为50%，生态链商家抵押总量50%。个人用户可持有或出售其通过各种商业行为获赠的HTC，但仅基金会合作商家才可从个人用户手中回收HTC。HTC在生态系统中扮演了重要的角色，是生态系统中的价值载体，生态系统中的价值流通通过HTC的发行和回收得以体现。"
+  },
+  "email": "healthytripchain@hotmail.com",
+  "website": "https://www.healthytripchain.com/",
+  "whitepaper": "https://www.healthytripchain.com/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-05-21",
+  "initial_price":{
+        "ETH":"0.00027 ETH",
+        "USD":"0.65 USD",
+        "BTC":"0.00001857 BTC"
+  },
+  "links": {  
+    "twitter": "https://twitter.com/chain_trip"
+  }
+}

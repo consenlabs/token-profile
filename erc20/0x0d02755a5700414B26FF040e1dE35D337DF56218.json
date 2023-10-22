@@ -1,0 +1,22 @@
+{
+  "symbol": "BEND",
+  "address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+  "overview":{
+        "en": "BEND is the governance token of Bend DAO which is a peer-to-pool based NFT liquidity protocol.",
+        "zh": "BEND是蓝筹NFT点对池抵押借贷协议BendDAO的治理代币."
+  },
+  "email": "benddao@protonmail.com",
+  "website": "https://www.benddao.xyz/",
+  "whitepaper": "https://docs.benddao.xyz/portal/",
+  "state": "NORMAL",
+  "published_on": "2022-3-20",
+  "initial_price":{
+        "ETH":"0.000003 ETH",
+        "USD":"0.009 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/BendDAO",
+    "github": "https://github.com/BendDAO",
+    "medium": "https://medium.com/@BendDAO"
+  }
+}

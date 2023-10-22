@@ -1,0 +1,23 @@
+{
+    "symbol": "CHF24",
+    "address": "0xDE9e855632161a4826952ca0882d0930ab24D974",
+    "overview": {
+        "en": "Fiat24 is a banking platform which offers Swiss cash payment accounts to global clients. It is operated by SR Saphirstein AG, which is licensed by Swiss banking regulator FINMA. It provides seamless payment experiences with various centralised or decentralised finance ecosystems. The project leverages Ethereum smart contracts to fulfill the banking requirements of account booking, transaction monitoring and account managements, without any compromise of KYC/AML standards. Clients of Fiat24 can easily top-up the account with bank wire transfer or withdraw cash to his/her own accounts. To use the services, client must acquire a NFT (ERC721 standard) with an unique bank account number, and conduct the client onboarding process totally online with the mobile.",
+        "zh": "Fiat24是瑞士银监会FINMA授权的金融科技银行，其整体架构基于以太坊区块链。Fiat24客户可以轻松通过手机端注册开户，并拥有各类货币的瑞士现金账户，享受直连的各类分布式金融服务。"
+    },
+    "email": "info@fiat24.com",
+    "website": "https://www.fiat24.com",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2021-06-01",
+    "initial_price": {
+        "CHF": "1.00 CHF"
+    },
+    "links": {
+        "media_publications": "https://www.finews.com/news/english-news/45061-saphirstein-fintech-license-switzerland-finma",
+        "linkedin" : "https://www.linkedin.com/company/74064237/",
+        "github": "https://bitbucket.org/fiat24/fiat24contractspublic/src/master/", 
+        "discord" : "https://discord.gg/Uk8Ev3cFFe",
+        "medium" : "https://medium.com/@Fiat24"
+    }
+}

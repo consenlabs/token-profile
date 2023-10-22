@@ -1,0 +1,28 @@
+{
+  "symbol": "LCT",
+  "address": "0x143aD21680108673D71230BC60eb3816af9edb87",
+  "overview":{
+    "en": "LCT, or LeCube Token, has a total supply of 480,000,000. LCTs are generated when users compose NFTs, while its output efficiency is reduced once every half year. LCTs can be used in various scenarios in the ecosystem, including the adoption of NFT copyrights, and the decomposition of NFTs.",
+    "zh": "LCT的全称是LeCube Token，共计4.8亿个。LCT在用户拼搭NFT时产出（每半年减产），可以用于复刻NFT、拆解NFT及其它生态场景。"
+},
+  "email": "service@mixmarvel.com",
+  "website": "https://www.mixmarvel.com/product?game=LeCube",
+  "whitepaper": "https://www.lecube.co/res/LeCube%20Light%20Paper%20Ver.%201.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-07",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/MIXMARVELGAME",
+    "telegram": "https://t.me/MixMarvelGlobal",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://mixmarvelgame.medium.com/"
+  }
+}

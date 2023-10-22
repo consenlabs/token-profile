@@ -1,0 +1,28 @@
+{
+  "symbol": "PANDA",
+  "address": "0x3cBb7f5d7499Af626026E96a2f05df806F2200DC",
+  "overview":{
+        "en": "PANDA is the official governance token of PandaDAO. The goal of PandaDAO is to reduce the control of centralized institutions on the information side, and put people's information under the control of people. At the same time, try to make Work DAO a reality and produce more DAO products. So please don't understand PandaDAO only as a decentralized media organization, we are more of a decentralized data development organization, developing more Web2 Internet products, and liberating more Web2 human resources.",
+        "zh": "PANDA 是PandaDAO的官方治理代币，PandaDAO 目标是降低中心化机构在信息端的控制权，将人们的信息交由人们去掌控。同时尝试将Work DAO变成现实，生产更多的DAO产品。所以请不要将PandaDAO仅仅理解为一个去中心媒体组织，我们更多的是去中心化数据开发组织，开发更多的Web2互联网产品，解放更多的Web2人力资源。"
+  },
+  "email": "pandadao@pandadao.info",
+  "website": "https://www.pandadao.info/",
+  "whitepaper": "https://mirror.xyz/0xA62F8ABb12094F5651C8bA7222A0dC1034Ca4B20/hGA28-w9anSXsWgh7CqZYk_EFbfWE985txsKPvD6L4k",
+  "state": "NORMAL",
+  "published_on": "2022-04-07",
+  "initial_price":{
+         "ETH":"0.0 ETH",
+         "USD":"0.0 USD",
+         "BTC":"0.0 BTC"
+  },
+  "links": {
+    "blog": "https://www.pandadao.info/",
+    "twitter": "https://twitter.com/PandaDAO_Office",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
