@@ -1,0 +1,20 @@
+{
+  "symbol": "UPC",
+ "address": "0x487d62468282Bd04ddf976631C23128A425555EE",
+ "overview": {
+    "en": "UPCX is the open-source smart-contract enabled decentralized payment network that will make blockchain payments available and useable to everyone.",
+    "zh": "能将现实的金融机构和支付方式与区块链融合，先进的智能合约开源支付平台。"
+  },
+  "email": "info@upcx.io",
+  "website": "https://upcx.io/",
+  "whitepaper": "https://upcx.io/whitepaper/",
+  "state": "NORMAL",
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/Upcxofficial",
+    "telegram": "https://t.me/UPCXofficial",
+    "github":" https://github.com/UPCX-TEAM-B",
+    "facebook": "https://www.facebook.com/upcxofficial",
+    "medium": "https://medium.com/@UPCX-Platforms"
+  }
