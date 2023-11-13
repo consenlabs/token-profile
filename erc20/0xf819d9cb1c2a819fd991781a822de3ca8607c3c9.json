@@ -1,0 +1,14 @@
+{
+    "symbol": "UNIBOT",
+    "address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9",
+    "overview": {
+      "en": "Experience seamless and lightning-fast trading with our free-to-use Telegram bot. This new contract resolves the old auto burn and LP issues.",
+      "zh": "通过我们免费使用的 Telegram 机器人，体验无缝和极速交易"
+    },
+    "website": "https://unibot.app/",
+    "whitepaper": "https://learn.unibot.app/",
+    "links": {
+      "twitter": "https://twitter.com/TeamUnibot",
+      "telegram": "https://t.me/unibotsniper_bot"
+    }
+  }
