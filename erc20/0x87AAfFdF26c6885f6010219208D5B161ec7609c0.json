@@ -1,0 +1,20 @@
+{
+    "symbol":"EQU",
+    "address":"0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
+    "overview":{
+        "en":"Equation is a decentralized perpetual contract built on Arbitrum. With its innovative BRMM model, Equation provides both traders and Liquidity Providers (LPs) with up to 200x leverage, enabling traders to establish larger and unrestricted positions while enhancing capital efficiency for LPs.",
+        "zh":"Equation 是基于 Arbitrum 构建的去中心化永续合约。凭借其创新的 BRMM 模型, Equation 为交易者和流动性提供商 (LP) 提供高达 200 倍的杠杆，使交易者能够建立更大且不受限制的头寸，同时提高 LP 的资本效率"
+    },
+    "email":"market@equation.org",
+    "website":"https://equation.org/",
+    "whitepaper":"https://docs.equation.org/whitepaper/overview",
+    "state":"NORMAL",
+    "published_on":"2023-10-20",
+    "links":{
+        "twitter":"https://twitter.com/EquationDAO",
+        "github":"https://github.com/EquationDAO",
+        "discord":"https://discord.gg/ywFrewsxBH",
+        "medium":"https://medium.com/@EquationDAO",
+        "telegram": "https://t.me/EquationDao"
+    }
+}
