@@ -1,0 +1,24 @@
+{
+  "symbol": "JFISH",
+  "address": "0xCdeb595293511115d9D9d44B189Cc0Da4a08cfAf",
+  "overview":{
+        "en": "Jellyfish Mobile is a groundbreaking 5G Web3-enabled Mobile Virtual Network Operator (MVNO) revolutionizing mobile connectivity by integrating secure, offline Wallet-On-SIM technology with global telecom services."
+  },
+  "email": "info@jellyfish.cool",
+  "website": "https://jellyfi.me/",
+  "whitepaper": "https://jellyfi.me/Pdfs/WhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2023-11-25",
+  "initial_price":{
+        "ETH":"0.000012 ETH",
+        "USD":"0.025 USD",
+        "BTC":"0.00000066 BTC"
+  },
+  "links": {
+    "twitter": "https://x.com/jellyfishmobile",
+    "telegram": "https://t.me/jfishgroup",
+    "github": "https://github.com/jellyfishmobile",
+    "facebook": "https://www.facebook.com/@jfishmobile",
+    "medium": "https://medium.com/@jellyfishmobile"
+  }
+}
