@@ -1,0 +1,13 @@
+{
+  "symbol": "BLUR",
+  "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+  "overview":{
+        "en": "Blur is the NFT marketplace for pro traders. The goal is to make Blur a marketplace that the entire NFT community owns and profits from.",
+        "zh": "Blur 是面向专业交易者的 NFT 市场。其目标是将 Blur 打造成一个由整个 NFT 社区共同拥有并从中获利的市场。"
+  },
+  "website": "https://blur.io",
+  "links": {
+    "twitter": "https://twitter.com/blur_io",
+    "discord": "https://discord.com/invite/blurdao"
+  }
+}

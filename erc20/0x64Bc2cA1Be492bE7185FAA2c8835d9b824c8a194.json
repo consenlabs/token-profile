@@ -1,0 +1,13 @@
+{
+  "symbol": "BIGTIME",
+  "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+  "overview":{
+        "en": "The $BIGTIME Token is the main cryptocurrency that drives Big Time’s in-game economy. $BIGTIME randomly drops in-game by playing with at least one charged Hourglass equipped.",
+        "zh": "$BIGTIME 代币是推动 Big Time 游戏内经济的主要加密货币。通过装备至少一个充能的沙漏进行游戏，玩家可以随机获得 $BIGTIME 代币掉落。"
+  },
+  "website": "https://bigtime.gg/",
+  "links": {
+    "twitter": "https://twitter.com/playbigtime",
+    "discord": "https://discord.com/invite/bigtime"
+  }
+}

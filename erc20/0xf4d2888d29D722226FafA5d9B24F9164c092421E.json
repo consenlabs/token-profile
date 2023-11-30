@@ -1,0 +1,15 @@
+{
+  "symbol": "LOOKS",
+  "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+  "overview":{
+        "en": "LooksRare is the community-first NFT marketplace with rewards for participating.",
+        "zh": "LooksRare 是一个以社区为先的 NFT 市场，参与者可以获得奖励。"
+  },
+  "website": "https://looksrare.org",
+  "links": {
+    "twitter": "https://twitter.com/LooksRareNFT",
+    "github": "https://github.com/looksrare",
+    "discord": "https://discord.com/invite/LooksRare"
+    
+  }
+}
