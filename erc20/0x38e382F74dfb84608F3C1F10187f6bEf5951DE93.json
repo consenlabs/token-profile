@@ -1,0 +1,14 @@
+{
+  "symbol": "MUBI",
+  "address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+  "overview":{
+        "en": "MultiBit is the first-ever dual-sided bridge designed for easy cross-network transfers between BRC20 and ERC20 tokens.",
+        "zh": "MultiBit 是首个专为 BRC20 和 ERC20 令牌之间轻松跨网络转账设计的双向桥梁。"
+  },
+  "website": "https://multibit.exchange/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/Multibit_Bridge",
+    "telegram": "https://t.me/multibitprotocol"
+  }
+}

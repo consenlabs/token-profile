@@ -1,0 +1,14 @@
+{
+  "symbol": "BSSB",
+  "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+  "overview":{
+        "en": "BitStable is a pioneering decentralized asset protocol on the Bitcoin blockchain, offering a unique framework for the creation, trade, and management of synthetic assets. ",
+        "zh": "BitStable 是比特币区块链上的一种开创性的去中心化资产协议，提供了一种独特的框架，用于合成资产的创建、交易和管理。"
+  },
+  "website": "https://bitstable.finance/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/bssbstable",
+    "telegram": "https://t.me/bitstable"
+  }
+}
