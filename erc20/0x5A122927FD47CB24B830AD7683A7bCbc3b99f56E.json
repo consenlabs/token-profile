@@ -1,0 +1,28 @@
+{
+  "symbol": "CYL",
+  "address": "0x5A122927FD47CB24B830AD7683A7bCbc3b99f56E",
+  "overview":{
+        "en": "CYL, or Cube_YELLOW, is the name of the yellow cubes in LeCube. CYL has a total supply of 1,000,000. CYL tokens are mined through cooperation and competition, while its output efficiency is reduced once every half year. CYL tokens can be composed and are locked after the composition process.",
+        "zh": "CYL的全称是Cube_YELLOW，是LeCube项目中的黄块，共计100万个。CYL从LeCube竞合挖矿中产出（每半年减产），可以用于拼搭，并在拼搭后锁定。"
+  },
+  "email": "service@mixmarvel.com",
+  "website": "https://www.mixmarvel.com/product?game=LeCube",
+  "whitepaper": "https://www.lecube.co/res/LeCube%20Light%20Paper%20Ver.%201.0.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-07",
+  "initial_price":{
+        "ETH":"0 ETH",
+        "USD":"0 USD",
+        "BTC":"0 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/MIXMARVELGAME",
+    "telegram": "https://t.me/MixMarvelGlobal",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://mixmarvelgame.medium.com/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "symbol": "lec",
+  "address": "0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE",
+  "overview":{
+        "en": "LOVE EARTH Coin, is a charity token, aiming to build a new charity model in the age of Web 3.0.The LOVE EARTH project continuous provide funding to various kinds of charity project. DAO, a Decentrized Autonomous Organization, proposes and vote for which charity project to be donated in each month.Amount of donation each month will be according to the number of valid holder addresses. The more holders, the more will be donated.",
+        "zh": ""
+  },
+  "email": "info@lovearth.io",
+  "website": "https://www.loveearth.info",
+  "whitepaper": "https://www.loveearth.info/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2021-06-29",
+  "links": {
+    "twitter": "@LoveEarthCoin",
+    "telegram": "t.me/loveearthcoin",
+    "github": "https://github.com/loveearth123/LOVEEARTH"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"symbol": "DBC",
+	"address": "0x1F735f84b07cc20E9aC471C291a87b5A2428d518",
+	"overview": {
+		"en": "DeepBrainChain was established in November 2017. The vision is to build the world's largest distributed high-performance computing network based on blockchain technology and become the most important infrastructure in the 5G+AI era",
+		"zh": "深脑链成立于2017年11月，愿景是基于区块链技术构建全球最大的分布式高性能算力网络，成为5G+AI时代最重要的基础设施"
+	},
+	"email": "service@deepbrainchain.org",
+	"website": "https://www.deepbrainchain.org",
+	"whitepaper": "https://www.deepbrainchain.org/assets/pdf/DeepBrainChainWhitepaper_zh.pdf",
+	"state": "NORMAL",
+	"published_on": "2017-11-01",
+	"initial_price": {
+		"ETH": "0.0000294 ETH",
+		"USD": "0.015 USD"
+	},
+	"links": {
+		"twitter": "https://twitter.com/DeepBrainChain",
+		"telegram": "https://t.me/deepbrainchainglobal",
+		"github": "https://github.com/DeepBrainChain",
+		"reddit": "https://www.reddit.com/user/DeepBrainChainGlobal",
+		"medium": "https://deepbrainchainglobal.medium.com/"
+	}
+}

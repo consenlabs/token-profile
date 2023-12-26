@@ -1,0 +1,21 @@
+{
+  "symbol": "ETH2POS",
+  "address": "0x0698DDA3c390FF92722f9EeD766D8b1727621Df9",
+  "overview":{
+      "en":"ETH2POS is a ETH2.0 staking protocol, allowing user to deposit their ether and receieve ETH2POS, a tokenized version of the staked ether reward.",
+      "zh":"ETH2POS是以太坊2.0质押项目的收益代币"
+  },
+  "email": "eth2pos@gmail.com",
+  "website": "https://eth2.one/",
+  "whitepaper": "https://github.com/eth2pos/whitepaper/blob/main/ETH2POS%20whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-11-01",
+  "initial_price":{
+        "USD":"100 USD"
+  },
+  "links": {
+      "twitter":"https://twitter.com/eth2pos",
+      "github":"https://github.com/eth2pos",
+      "medium":"https://medium.com/@eth2pos"
+  }
+}

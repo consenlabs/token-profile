@@ -1,0 +1,24 @@
+{
+  "symbol": "BITE",
+  "address": "0x4eED0fa8dE12D5a86517f214C2f11586Ba2ED88D",
+  "overview":{
+        "en": "BITE Token is DragonBite's universal native token. It provides liquidity incentive for loyalty points, gift cards and other digital asset conversion in DragonBite Ecosystem. BITE Token can be staked and be used to govern.",
+        "zh": "BITE Token 是 DragonBite 的通用原生代幣。 它為 DragonBite 生態系統中的忠誠度積分、禮品卡和其他數字資產轉換提供流動性。 BITE 代幣可以用於生態系統治理目的。"
+  },
+  "email": "info@dragonbite.asia",
+  "website": "https://www.dragonbite.asia/",
+  "whitepaper": "https://dragonbite-media.s3-ap-southeast-1.amazonaws.com/media/DragonBiteWhitePaper_8c67.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-05-13",
+  "initial_price":{
+        "USD":"0.018 USD"
+  },
+  "links": {
+    "blog": "https://dragonbite.medium.com/",
+    "twitter": "https://twitter.com/DragonBiteDB/",
+    "telegram": "https://t.me/DragonBite",
+    "facebook": "https://www.facebook.com/DragonBite-102476288579190",
+    "reddit": "https://www.reddit.com/user/DragonBiteOfficial",
+    "medium": "https://dragonbite.medium.com/"
+  }
+}

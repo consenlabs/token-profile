@@ -1,0 +1,20 @@
+{
+  "symbol": "OVO",
+  "address": "0xbfC66D8cCE39E668fd5d3C10fd1B1eAbB82c27B7",
+  "overview":{
+        "en": "OVO token is a digital asset that supports the ecosystem of the OVO platform. It has purchasing, staking, and voting functions, which can be used to pay for transaction fees, consume COG to produce NFT, purchase mining Boost cards, sub-coins, blind boxes, etc. Additionally, it can be staked on the LaunchPad to provide copyright certification for new projects, and participate in DAO governance and voting for secondary creative activities.",
+        "zh": "OVO代币是支持OVO平台生态系统的数字资产。具备购买、质押和投票功能，可用于扣除交易手续费、消费COG原始质押生产NFT、购买挖矿Boost卡、sub-coins、盲盒等，还可在lauchpad上质押给新项目进行版权认证，参与DAO治理及二次创作活动投票。"
+  },
+  "email": "contact@ovo-nft.com",
+  "website": "https://www.ovo.space/",
+  "whitepaper": "https://ovo-nft-platform.gitbook.io/ovo-platform/v/new-whitepaper/",
+  "state": "NORMAL",
+  "published_on": "2023-02-23",
+  "initial_price":{
+        "USD":"0.16 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ovo__official",
+    "medium": "https://ovonft.medium.com/"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "symbol": "PNPC",
+    "address": "0x1e7a53220c128d100b56970ce88ee963a9511370",
+    "overview":{
+        "en": "PNP Coins for PNP holders, found during an unexpected metaverse trip in January 2023. It will be a utility token to unite the PiXiu Club community.",
+        "zh": "PNPCoin,PiXiu生态系统中的一实用通证,在2023年1月的一次意想不到的元界旅行中发现,用于在web3的最前沿构建去中心化社区。"
+    },
+    "email": "pixiuclub@gmail.com",
+    "website": "https://pixiu.club/",
+    "whitepaper": "https://pixiu.club/",
+    "state": "NORMAL",
+    "published_on": "2023-01-12",
+    "initial_price":{
+        "ETH":"0.00000019ETH"
+    },
+    "links": {
+        "blog": "https://pixiu.club/#/PNPCoin",
+        "twitter": "https://twitter.com/pixiuclub",
+        "github": "https://github.com/pixiuclub"
+    }
+  }

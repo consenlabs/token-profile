@@ -1,0 +1,18 @@
+{
+  "symbol": "CHY",
+  "address": "0x35A23BC27c345b36DeE700a256F69C6334030971",
+  "overview":{
+        "en": "Concern Poverty Chain (CHY) is a team with the vision of ENDING EXTREME POVERTY WHATEVER IT TAKES. Every transaction will deduct 5% tax and bring more benefits to charity helpers through dividends.",
+        "zh": "关注贫困链 (CHY) 是一个以结束极端贫困为愿景的团队,每笔交易都会扣除5%的税金,并通过分红为慈善助力者带来更多的好处."
+  },
+  "email": "ConcernPovertyChain@chygroup.com/",
+  "whitepaper": "http://www.chygroup.org/CHY_WHITE_PAPER.pdf",
+  "website": "http://www.chygroup.org/",
+  "state": "NORMAL",
+  "published_on": "2021-06-22",
+  "links": {
+    "telegram": "https://t.me/ConcernPovertyChain",
+    "twitter": "https://twitter.com/CHYToken",
+    "medium": "https://chygroup.medium.com/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "BONE",
+  "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+  "overview":{
+        "en": "Only available on ShibaSwap, BONE has 250,000,000 tokens, and is designed to fit perfectly between the previous two Ecosystem tokens (SHIB and LEASH) in regards to circulation supply. Moreover, the token is a Governance token which will allow the #ShibArmy to vote on upcoming proposals.",
+        "zh": "BONE 仅在 ShibaSwap 上可用，拥有 250,000,000 个代币，其设计在流通供应方面完美地介于前两个生态系统代币（SHIB 和 LEASH）之间。此外，该代币是一种治理代币，它将允许 #ShibArmy 对即将到来的提案进行投票。"
+  },
+  "email": "shibaswap@shibatoken.com",
+  "website": "https://www.shibatoken.com",
+  "whitepaper": " ",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://allhailtheshiba.medium.com",
+    "twitter": "https://twitter.com/shibtoken",
+    "telegram": "https://t.me/bonedogekiller",
+    "github": " ",
+    "facebook": " ",
+    "reddit": "https://www.reddit.com/r/SHIBArmy",
+    "slack": " ",
+    "medium": "https://allhailtheshiba.medium.com"
+  }
+}

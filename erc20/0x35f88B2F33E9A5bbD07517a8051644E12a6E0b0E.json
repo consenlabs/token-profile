@@ -1,0 +1,20 @@
+{
+  "symbol": "UMBC",
+  "address": "0x35f88B2F33E9A5bbD07517a8051644E12a6E0b0E",
+  "overview":{
+        "en": "MERMAID is an encrypted social meta-universe based on blockchain technology, which provides users with a more secure, open, and free social environment. It uses decentralized technology to make information transmission more private and give users a more immersive social experience. The name of MERMAID's ecological token is UMBC, and there are a large number of applications in scenarios such as DAPP stores in the MERMAID ecosystem, centralization of transactions, and MERMAID merchant payment.",
+        "zh": "MERMAID是一个基于区块链技术的加密社交元宇宙，为用户提供更加安全、开放、自由的社交环境，通过去中心化的技术让信息传输更加的私密，给用户更加沉浸式的社交体验。MERMAID的生态通证名称为UMBC，在MERMAID生态中的DAPP商店，去中⼼化交易，MERMAID商家⽀付等场景中有⼤量的应⽤。"
+  },
+  "email": "Email",
+  "website": "https://www.umbcoin.com/",
+  "whitepaper": "https://www.umbcoin.com/assets/cms/whitepaper/MERMAID_UMB_EN.pdf",
+  "state": "LOCKED",
+  "published_on": "2021-08-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"1.4 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+  }
+}
