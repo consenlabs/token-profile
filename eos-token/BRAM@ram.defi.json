@@ -1,0 +1,20 @@
+{
+    "symbol": "BRAM",
+    "account_name": "ram.defi",
+    "overview": {
+        "en": "bRAM is a RAM resource certificate issued by Defibox(1 byte=1 bRAM). This certificate can be transferred, traded and participated in more Defi gameplay at will.",
+        "zh": "bRAM是Defibox發行的RAM資源憑證(1 byte=1 bRAM)，該憑證可以任意轉移、交易以及參與更多Defi玩法。"
+    },
+    "email": "develop@defibox.io",
+    "website": "https://eos.defibox.io/ram/",
+    "published_on": "2023-12-25",
+    "initial_price": {
+        "EOS": "0.00004916 EOS",
+        "USD": "0.00004080 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/Defiboxofficial",
+        "telegram": "https://t.me/Defibox_official",
+        "github": "https://github.com/DefiboxTeam",
+    }
+}
