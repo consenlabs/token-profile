@@ -1,0 +1,16 @@
+{
+  "symbol": "ARB",
+  "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+  "overview":{
+        "en": "ARB is Arbitrum's native token, offering DAO governance, used for voting and Security Council elections.",
+        "zh": "ARB 是 Arbitrum 网络的原生代币，提供 DAO 治理机制，用于投票及安全委员会选举。"
+  },
+  "email": "info@arbitrum.foundation",
+  "website": "https://arbitrum.io/",
+  "whitepaper": "https://docs.arbitrum.foundation/deployment-addresses",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/arbitrum",
+    "discord": "https://discord.gg/arbitrum"
+  }
+}
