@@ -1,1 +1,14 @@
-{"symbol": "METIS","address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e","overview":{"en": ""},"email": "","website": "https://www.metis.io","state": "NORMAL","links": {"blog": "https://metisdao.medium.com/","twitter": "https://twitter.com/MetisDAO","telegram": "","github": ""}}
+{
+  "symbol": "METIS",
+  "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "overview":{
+        "en": "Metis is the Ethereum L2 solution, offering decentralization, aimed at enhanced speed, cost-efficiency, and scalability.",
+        "zh": "Metis 是以太坊二层解决方案，提供去中心化，用于提高速度、降低成本和扩展性。"
+  },
+  "website": "https://www.metis.io/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/MetisDAO",
+    "telegram": "https://t.me/MetisDAO"
+  }
+}
