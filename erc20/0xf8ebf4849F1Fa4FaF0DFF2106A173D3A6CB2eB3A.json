@@ -1,0 +1,14 @@
+{
+  "symbol": "TROLL",
+  "address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+  "overview":{
+        "en": "TROLL is the Ethereum Meme Token.",
+        "zh": "TROLL 是以太坊上的 MEME 币。"
+  },
+  "website": "https://trollface.vip/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/trollerc20",
+    "telegram": "http://t.me/TrollETH"
+  }
+}
