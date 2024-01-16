@@ -1,0 +1,14 @@
+{
+  "symbol": "ZUZALU",
+  "address": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+  "overview":{
+        "en": "ZUZALU is the Ethereum Meme Token.",
+        "zh": "ZUZALU 是以太坊上的 MEME 币。"
+  },
+  "website": "https://zuzalu.lol/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ZuzaluinuErc20",
+    "telegram": "https://t.me/zuzaluinu"
+  }
+}
