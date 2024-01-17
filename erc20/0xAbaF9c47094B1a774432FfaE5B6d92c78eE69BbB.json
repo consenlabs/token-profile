@@ -1,0 +1,12 @@
+{
+  "symbol": "NOBODY",
+  "address": "0xAbaF9c47094B1a774432FfaE5B6d92c78eE69BbB",
+  "overview":{
+        "en": "NOBODY is the Ethereum Meme Token.",
+        "zh": "NOBODY 是以太坊上的 MEME 币。"
+  },
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/NOBODY_ERC"
+  }
+}
