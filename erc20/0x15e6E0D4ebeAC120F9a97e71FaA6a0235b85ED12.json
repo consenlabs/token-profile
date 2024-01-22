@@ -1,0 +1,15 @@
+{
+  "symbol": "SAVM",
+  "address": "0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12",
+  "overview":{
+        "en": "SatoshiVM is a decentralized Bitcoin ZK Rollup Layer 2 solution compatible with the Ethereum Virtual Machine (EVM) ecosystem, using native BTC as gas. ",
+        "zh": "SatoshiVM 是一种去中心化的比特币 ZK Rollup Layer 2 解决方案，与以太坊虚拟机（EVM）生态系统兼容，使用原生 BTC 作为燃料。"
+  },
+  "website": "https://www.satoshivm.io/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SatoshiVM",
+    "telegram": "https://t.me/SatoshiVM",
+    "github": "https://github.com/SatoshiVM"
+  }
+}
