@@ -1,0 +1,14 @@
+{
+  "symbol": "PANDORA",
+  "address": "0x9E9FbDE7C7a83c43913BddC8779158F1368F0413",
+  "overview":{
+        "en": "PANDORA is the first ERC404, an experimental mixed ERC20 / ERC721 implementation with native liquidity and fractionalization for non-fungible tokens.",
+        "zh": "PANDORA 是第一个 ERC404，一种实验性的混合 ERC20/ERC721 实现，具有原生流动性和不可替代代币的碎片化"
+  },
+  "website": "https://www.pandora.build/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/Pandora_ERC404",
+    "github": "https://github.com/0xacme/ERC404"
+  }
+}
