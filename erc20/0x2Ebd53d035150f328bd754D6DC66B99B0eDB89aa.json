@@ -1,0 +1,19 @@
+{
+  "symbol": "MET",
+  "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa.json",
+  "overview":{
+        "en": "Metronome DAO Governance Token"
+  },
+  "email": "hello@metronome.io",
+  "website": "https://metronome.io",
+  "whitepaper": "https://docs.metronome.io",
+  "state": "NORMAL",
+  "published_on": "2022-08-22"
+  "links": {
+    "blog": "https://www.metronome.io/blog",
+    "twitter": "https://twitter.com/MetronomeDAO",
+    "telegram": "https://t.me/metronometoken",
+    "github": "https://github.com/autonomoussoftware",
+    "medium": "https://metronomedao.medium.com/"
+  }
+}
