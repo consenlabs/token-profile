@@ -1,1 +1,14 @@
-{"symbol": "AGIX","address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542","overview":{"en": ""},"email": "","website": "https://singularitynet.io/","state": "NORMAL","links": {"blog": "https://blog.singularitynet.io/","twitter": "https://twitter.com/singularity_net","telegram": "","github": ""}}
+{
+  "symbol": "AGIX",
+  "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+  "overview":{
+        "en": "SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace.",
+        "zh": "SingularityNET 是一个由区块链驱动的平台，借助其全球可访问的人工智能市场，任何人都可以轻松创建、共享人工智能服务并从中获利。"
+  },
+  "website": "https://singularitynet.io/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/singularitynet",
+    "github": "https://github.com/singnet/"
+  }
+}
