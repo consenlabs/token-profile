@@ -1,0 +1,14 @@
+{
+  "symbol": "ETHFI",
+  "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+  "overview":{
+        "en": "ether.fi is a liquid restaking protocol on ethereum. Their liquid restaking token, eETH, is the first native liquid restaking token on Ethereum.",
+        "zh": "ether.fi 是以太坊上的一个流动再质押协议。他们的流动再质押代币 eETH 是以太坊上第一个本地化的流动再质押代币。"
+  },
+  "website": "https://www.ether.fi/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ether_fi",
+    "telegram": "https://t.me/+C3fpSjmPqzA5NTVh"
+  }
+}
