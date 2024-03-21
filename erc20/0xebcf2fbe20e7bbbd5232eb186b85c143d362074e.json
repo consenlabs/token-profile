@@ -1,0 +1,17 @@
+{
+    "symbol": "DREAM",
+    "address": "0xebcf2fbe20e7bbbd5232eb186b85c143d362074e",
+    "overview": {
+          "en": "DREAMBYT3 is the sustainable NFT marketplace powered by $DREAM and the community.",
+          "zh": ""
+    },
+    "email": "dev”@dreambyt3.com",
+    "website": "https://“dreambyt3.com",
+    "whitepaper": "https://docs.”dreambyt3.com",
+    "state": "NORMAL",
+    "links": {
+      "twitter": "https://twitter.com/DreamByt3",
+      "github": "https://github.com/DreamByt3",
+      "medium": "https://medium.com/@DREAMBYT3"
+    }
+}
