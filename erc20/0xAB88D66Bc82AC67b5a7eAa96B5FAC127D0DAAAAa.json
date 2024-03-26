@@ -1,0 +1,19 @@
+{
+  "symbol": "MOMO",
+  "address": "0xAB88D66Bc82AC67b5a7eAa96B5FAC127D0DAAAAa",
+  "overview": {
+    "en": "MOMO COIN is a token following the ERC20 standard and deployed on Arbitrum One. It is the common currency for all web3 projects developed by the MOMO team now and in the future. Users can share the benefits of the web3 project developed by the MOMO team by holding and trading MOMO tokens.",
+    "zh": "MOMO COIN是一种遵循ERC20标准并部署在Arbitrum One上的代币。它是MOMO团队现在和未来开发的所有web3项目的通用货币。用户可以通过持有和交易MOMO代币来分享MOMO团队开发的web3项目的收益。"
+  },
+  "email": "mo@imomo.la",
+  "website": "https://www.imomo.la",
+  "whitepaper": "https://momos-organization.gitbook.io/momo/",
+  "state": "NORMAL",
+  "published_on": "2023-07-05",
+  "links": {
+	"blog": "",
+	"twitter": "https://twitter.com/momogpts"
+    "telegram": "https://t.me/momoShequ",
+	"github":""
+  }
+}
