@@ -1,0 +1,13 @@
+{
+  "symbol": "ENA",
+  "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+  "overview":{
+        "en": "Ethena is a synthetic dollar protocol built on Ethereum.",
+        "zh": "Ethena 是一个建立在以太坊上的合成美元协议"
+  },
+  "website": "https://www.ethena.fi/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ethena_labs"
+  }
+}
