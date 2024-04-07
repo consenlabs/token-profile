@@ -1,0 +1,22 @@
+{
+  "symbol": "CCC",
+  "address": "0x0907B8B13970DF091ECc9d4d4c7AE12A599Ad923",
+  "overview":{
+        "en": "Credit Check Chain - 'Credit Score of Ethereum' is an ETH L2 public chain based on the credit system, dedicated to creating a new Ethereum World with the principle of 'no trade without credit check'.",
+        "zh": "Credit Check Chain - “以太坊信用评分”是一条基于信用体系的ETH L2公链，致力于以“没有信用检查就没有交易”的原则，打造一个新的以太坊世界。"
+  },
+  "email": "help@ccchain.us",
+  "website": "https://ccchain.us",
+  "whitepaper": "https://ccc-23.gitbook.io/credit-chain-coin-white-paper",
+  "state": "NORMAL",
+  "published_on": "2023-12-31",
+  "initial_price":{
+        "USD":"0.1276 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/3C_chain",
+    "telegram": "https://t.me/+_H_xy-rOoxI4Mzgx",
+    "github": "https://github.com/liujianwei1988",
+    "reddit": "https://www.reddit.com/user/3c_chain"
+  }
+}
