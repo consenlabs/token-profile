@@ -1,0 +1,22 @@
+{
+    "symbol": "RWAS",
+    "address": "0x1F2b426417663Ac76eB92149a037753a45969F31",
+    "overview":{
+          "en": "RWA Marketplace: Effortless and secure trading for tokenized assets RWA.  $RWAS.",
+          "zh": ""
+    },
+    "email": "buiness@rwa-finance.com",
+    "website": "https://www.rwa-finance.com/#/",
+    "whitepaper": "https://rwa-finance.gitbook.io/rwa-finance/product-doc",
+    "state": "LOCKED | NORMAL",
+    "published_on": "2022-03-01",
+    "initial_price":{
+          "ETH":"0.00011 ETH",
+          "USD":"0.36 USD",
+          "BTC":"0.000005 BTC"
+    },
+    "links": {
+      "twitter": "https://twitter.com/RWA_Finance_",
+      "medium": "https://medium.com/@RWA_Finance"
+    }
+  }
