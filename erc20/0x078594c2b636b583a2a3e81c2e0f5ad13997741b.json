@@ -1,0 +1,20 @@
+{
+    "symbol": "TXP",
+    "address": "0x078594c2b636b583a2a3e81c2e0f5ad13997741b",
+    "overview":{
+          "en": "Tianxianpei DAO Token.",
+          "zh": "天仙配项目社区管理资产。"
+    },
+    "email": "hello@cddao.com",
+    "website": "https://txp.cddao.com/",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2024-4-21",
+    "initial_price":{
+          "USD":"0.1 USD"
+    },
+    "links": {
+      "blog": "",
+      "github": ""
+    }
+  }
