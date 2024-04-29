@@ -1,0 +1,14 @@
+{
+  "symbol": "SAFE",
+  "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+  "overview":{
+        "en": "Safe is the account abstraction leader on Ethereum and the EVM with the most secure smart wallet infrastructure and platform.",
+        "zh": "Safe是以太坊和EVM上具有最安全智能钱包基础设施和平台的账户抽象领导者。"
+  },
+  "website": "https://safe.global/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/safe",
+    "github": "https://github.com/safe-global/safe-token"
+  }
+}
