@@ -1,0 +1,13 @@
+{
+  "symbol": "EIGEN",
+  "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+  "overview":{
+        "en": "EigenLayer is a token economy secure leasing market platform, mainly serving restaking of LSD assets, node operation staking, and AVS services.",
+        "zh": "EigenLayer 是一个代币经济安全租借市场平台，主要服务包括 LSD 资产的 Restake、节点运营质押和 AVS 服务。"
+  },
+  "website": "https://www.eigenlayer.xyz/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/eigenlayer"
+  }
+}
