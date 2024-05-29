@@ -1,0 +1,21 @@
+{
+  "symbol": "BFT",
+  "address": "0x3BC5Cd565e84efb9F06beAadBdbA28123a94f45d",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://borderfree.app/",
+  "whitepaper": "https://borderfree.app/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2024-05-29",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/borderfree146",
+    "telegram": "https://t.me/+hxx3TwZ-PxExZjkx",
+    "github": "https://github.com/border-free/"
+  }
+}
