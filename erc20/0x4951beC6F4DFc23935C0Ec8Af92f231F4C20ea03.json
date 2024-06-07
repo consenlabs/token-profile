@@ -1,0 +1,22 @@
+{
+  "symbol": "BTM",
+  "address": "0x4951beC6F4DFc23935C0Ec8Af92f231F4C20ea03",
+  "overview": {
+    "en": "BTM(BytomDAO) BTM is the governance token of BytomDAO. BytomDAO is building an innovative DAO system based on the GenAI technology. If successful,  it could considerably change the operating model of current entities and organizations.  The new system could transform the basic governance process from  "Vote - Execute"  to  “Create AGI - Decided By AGI“.  
+Our vision is to find a different and better way to AGI and make builders wisdom eternal.",
+    "zh": "BTM是BytomDAO的治理代币。BytomDAO正在构建一个基于GenAI技术创新的DAO系统, 它将改变现有的组织运营模式。实现从“投票-执行”到“创造AGI-AGI决策执行“的治理模式转变。 我们的愿景是在通往AGI之路中找到不同且更好的DAO形态，“让共建者的智慧永存”。"
+  },
+  "email": "contact@bytomdao.org",
+  "website": "https://bytomdao.org/",
+  "whitepaper": "https://docs.bytomdao.org/docs",
+  "state": "NORMAL",
+  "published_on": "2018-04-24",
+  "initial_price":{
+    "USD":"0.035 USD",
+  },
+  "links": {
+    "twitter": "https://x.com/BytomDAO",
+    "telegram": "https://t.me/BytomDAO_EN",
+    "medium": "https://bytomdao.medium.com/"
+  }
+}
