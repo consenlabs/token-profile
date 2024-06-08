@@ -1,0 +1,22 @@
+{
+  "symbol": "NIAO",
+  "address": "0xDe6E12BDB2062Dc48B409f0086219464a0C317a0",
+  "overview":{
+        "en": "The origin of Birdcoin was due to a disgruntled KOL who disapproved of Sun Ge's actions. On July 24, 2023, he saw Sun Ge's tweet praising CZ, so he soulfully questioned Sun Ge: "Do you really admire CZ?" CZ responded with a 🦜, causing laughter. Following suggestions from followers, Birdcoin was established, and 100% of the coins were airdropped to the community for free via Twitter. Philosophy: purity, freedom, equality, and universal love."
+        "cn":"鸟币起源是因为某个愤青kol看不惯孙割的做法，2023年7月24日他看到孙割推特发了一篇拍CZ马屁的推文，于是他向孙割发出灵魂拷问：你看CZ鸟你不？CZ含笑评论了他一个🦜，众人哄笑，在推友的建议下，鸟币成立，100%的鸟币都通过推特免费空投给了社区。理念：纯净，自由，平等，博爱"
+  },
+  "website": "http://niaocoin.xyz",
+  "state": "NORMAL",
+  "published_on": "2024-04-20",
+  "initial_price":{
+        "USD":"0.0{9}121 USD"
+  },
+  "links": {
+    "Dext": "https://www.dextools.io/app/cn/bnb/pair-explorer/0xdb49d4509aa2b45eda6c21e412fb6a4ea41a2749?t=1714993994864",
+    "CMC": "https://coinmarketcap.com/currencies/niao/",
+    "twitter": "https://x.com/binsonning?s=21",
+    "telegram": "https://t.me/NIAOCOIN",
+    "website": "http://niaocoin.xyz",
+   "explorer": "https://bscscan.com/token/0xde6e12bdb2062dc48b409f0086219464a0c317a0",
+  }
+}
