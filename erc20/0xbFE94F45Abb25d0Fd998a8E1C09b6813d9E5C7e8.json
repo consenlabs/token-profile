@@ -1,0 +1,22 @@
+{
+  "symbol": "MCH",
+  "address": "0xbFE94F45Abb25d0Fd998a8E1C09b6813d9E5C7e8",
+  "overview": {
+    "en": "MCH 是WEB3跳舞健身游戏MATCHI的平台通证，你可以通过跳舞来获取MCH。",
+    "zh": "MCH is the platform token for the WEB3 dance fitness game MATCHI, and you can obtain MCH by dancing."
+  },
+  "email": "",
+  "website": "https://matchi.games/",
+  "whitepaper": "https://cdn.matchi.games/download/matchi_whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2023-12-01",
+  "initial_price": {
+    "ETH": "0.0000160705 ETH",
+    "USD": "0.05 USD",
+    "BTC": "0.000000823174 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/matchi_games",
+    "telegram": "https://t.me/matchi_games"
+  }
+}
