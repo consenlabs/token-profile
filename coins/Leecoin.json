@@ -1,0 +1,23 @@
+{
+
+  "symbol": "LCN",
+
+  "address": "Leecoin",
+
+  "overview": "A Peer-to-Peer Electronic Cash System",
+
+  "website": "https://bitcoin.org/",
+
+  "whitepaper": "https://bitcoin.org/bitcoin.pdf",
+
+  "state": "FLOAT",
+
+  "published_on": "2013-01-03",
+
+  "links": {
+
+    "blog": "https://bitcoin.org/en/blog"
+
+  }
+
+}
