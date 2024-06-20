@@ -1,0 +1,25 @@
+{
+  "symbol": "MIVA",
+  "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+  "overview":{
+        "en": "The Minerva Wallet SuperToken (MIVA token) is an ERC-20 compatible governance token for the Minerva Wallet DAO. It can be streamed on a per-second basis via the Superfluid Protocol without getting wrapped. Holding the token unlocks features within the Minerva Wallet.",
+        "zh": ""
+  },
+  "email": "imToken@minerva.digital",
+  "website": "https://minerva.digital/",
+  "whitepaper": "https://docs.minerva.digital/miva-and-xdai-chain/miva-token",
+  "state": "NORMAL",
+  "published_on": "2021-03-15",
+  "initial_price":{
+        "USD":"0.05 USD",
+  },
+  "links": {
+    "blog": "https://mirror.xyz/minerva.eth",
+    "twitter": "https://twitter.com/MinervaWallet",
+    "telegram": "https://t.me/MinervaWallet",
+    "github": "https://github.com/orgs/lab10-coop",
+    "link3": "https://link3.to/MinervaWallet",
+    "snapshot": "https://snapshot.org/#/minerva.eth/",
+    "lens": "https://lenster.xyz/u/0xMinervaWallet.lens"
+  }
+}
