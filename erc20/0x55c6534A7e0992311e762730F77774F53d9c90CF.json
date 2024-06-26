@@ -1,0 +1,23 @@
+{
+    "symbol": "PHRYGES",
+    "account_name": "Rebekah-phryges",
+    "overview": {
+        "en": "The Mascots of the 2024 Summer #Olympics and 2024 Summer Paralympics (Paris). Make Ethereum Great Again.",
+        "zh": "2024年巴黎奥运会吉祥物meme，让以太坊再次伟大!"
+    },
+    "email": "phryges.world@gmail.com",
+    "website": "https://www.phryges.world",
+    "whitepaper": "https://www.phryges.world",
+    "published_on": "2024-05-23",
+    "initial_price": {
+        "ETH": "0.00000000001643 ETH",
+        "USD": "0.00000006186 USD"
+    },
+    "links": {
+        "website": "https://www.phryges.world",
+        "twitter": "https://x.com/ThePhryges",
+        "telegram": "https://t.me/PhrygesETH",
+        "github": "https://github.com/Rebekah-phryges",
+        "medium": "https://medium.com/@ThePhryges"
+    }
+}
