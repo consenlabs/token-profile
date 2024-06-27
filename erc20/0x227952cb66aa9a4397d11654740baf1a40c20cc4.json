@@ -1,0 +1,17 @@
+{
+    "symbol": "BWS",
+    "address": "0x227952cb66aa9a4397d11654740baf1a40c20cc4",
+    "overview": {
+        "en": "Charity token is created for donation purposes only. Charity token is a simple ERC-20 token designed for contributions to your favorite charities and disaster relief services."
+    },
+    "email": "service@bytewallets.ic",
+    "website": "https://bytewallets.io/",
+    "state": "NORMAL",
+    "links": {
+
+        "twitter": "https://x.com/bytewallets",
+        "telegram": "https://t.me/ByteWallets",
+        "github": "https://github.com/ByteWallets",
+        "facebook": "https://www.facebook.com/profile.php?id=61560828608838&mibextid=LQQJ4d"
+    }
+}
