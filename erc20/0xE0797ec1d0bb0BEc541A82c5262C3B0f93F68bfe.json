@@ -1,0 +1,28 @@
+{
+  "symbol": "JOKER",
+  "address": "0xE0797ec1d0bb0BEc541A82c5262C3B0f93F68bfe",
+  "overview":{
+        "en": "I'm JOKER. You're JOKER. We are all JOKER.",
+        "zh": ""
+  },
+  "email": "http://jokeroneth@outlook.com",
+  "website": "https://jokererc.com",
+  "whitepaper": "https://jokererc.com",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2024-07-08",
+  "initial_price":{
+        "ETH":"0.0000000000001 ETH",
+        "USD":"000000000000.1 USD",
+        "BTC":"0.0000000000000001 BTC"
+  },
+  "links": {
+    "blog": "https://jokererc.com",
+    "twitter": "https://x.com/joker_ethereum",
+    "telegram": "https://t.me/JOKER_ERC20",
+    "github": "https://jokererc.com",
+    "facebook": "https://jokererc.com",
+    "reddit": "https://jokererc.com",
+    "slack": "https://jokererc.com",
+    "medium": "https://jokererc.com"
+  }
+}
