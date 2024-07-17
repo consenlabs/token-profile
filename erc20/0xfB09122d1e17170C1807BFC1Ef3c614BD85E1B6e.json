@@ -1,0 +1,16 @@
+{
+  "symbol": "CCC",
+  "address": "0xfB09122d1e17170C1807BFC1Ef3c614BD85E1B6e",
+  "overview":{
+        "en": "CyberCrowdCoin is a decentralized collaborative platform. It leverages the user base and infrastructure of the Web2 centralized service network and connects and integrates with blockchain and Web3 infrastructure"
+  },
+  "email": "contract@cybercrowdchain.org",
+  "website": "https://cybercrowdchain.org",
+  "whitepaper": "https://github.com/CyberCrowdCoin/whitepaper",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/CCCPROTOCOLUP",
+    "telegram": "https://t.me/cccweb3protocol",
+    "github": "https://github.com/CyberCrowdCoin"
+  }
+}
