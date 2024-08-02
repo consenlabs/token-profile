@@ -1,0 +1,19 @@
+{
+  "symbol": "MSN",
+  "address": "0xaa247c0d81b83812e1abf8bab078e4540d87e3fb",
+  "overview":{
+        "en": "Pioneering AI + DePIN (Decentralized Physical Infrastructure Network) empowered by people. In Meson we trust, where the digital intelligence finds its home.",
+        "zh": ""
+  },
+  "email": "admin@meson.network",
+  "website": "https://www.meson.network/",
+  "whitepaper": "https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf",
+  "state": "NORMAL",
+  "published_on": "2024-04-29",
+  "links": {
+    "twitter": "https://twitter.com/NetworkMeson",
+    "telegram": "https://t.me/mesonnetwork",
+    "github": "https://github.com/daqnext",
+    "medium": "https://medium.com/meson-network"
+  }
+}
