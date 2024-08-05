@@ -1,0 +1,18 @@
+{
+  "symbol": "BAYC",
+  "address": "0x28c3501fd8a248c6ac334C065FE7907062953CfD",
+  "overview":{
+        "en": "BAYCcoin is a memecoin made by the Apes of Ape Finance. Each BAYCcoin is backed by the Bored Ape Yacht Club NFTs, representing the culture and love of the BAYC community. Owning BAYCcoin means you own a piece of the legendary BAYC NFT collection. We are all apes. Apes Together Strong."
+  },
+  "website": "https://ape.fi/",
+  "state": "NORMAL",
+  "published_on": "2024-07-29",
+  "initial_price":{
+        "ETH":"0.00000009 ETH"
+  },
+  "links": {
+    "twitter": "https://x.com/apedotfi",
+    "telegram": "https://t.me/bayccoindotxyz",
+    "github": "https://github.com/ape-fi"
+  }
+}
