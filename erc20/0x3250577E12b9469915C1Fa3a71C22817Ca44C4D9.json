@@ -1,0 +1,23 @@
+{
+    "symbol": "SOC",
+    "address": "0x3250577E12b9469915C1Fa3a71C22817Ca44C4D9",
+    "overview": {
+      "en": "SOC is the governance token for Socrates, which is used to vote on proposals and make governance decisions. Token holders have the right to vote on the platform's development path, significant decisions, and proposals for product updates.",
+      "Zh": "SOC 是苏格拉底的治理代币，用于对提案进行投票和做出治理决策。代币持有者有权对平台的发展路径、重大决策和产品更新提案进行投票。"
+    },
+    "Email": "cs@socrates.com",
+    "Website": "https://www.socrates.com/",
+    "Whitepaper": "https://docs.socrates.com/main",
+    "state": "NORMAL",
+    "published_on": "2023-12-17", 
+    "initial_price":{
+          "USD":"0.1 USD"
+    },
+    "Links": {
+      "blog": "https://socratesglobal.medium.com/",
+      "twitter": "https://x.com/Socrates_global",
+      "telegram": "https://t.me/socratesglobal",
+      "github": "https://github.com/amazing-socrates",
+      "medium": "https://socratesglobal.medium.com/"
+    }
+  }
