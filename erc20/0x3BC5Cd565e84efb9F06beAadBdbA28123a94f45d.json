@@ -1,0 +1,20 @@
+{
+  "symbol": "BFT",
+  "address": "0x3BC5Cd565e84efb9F06beAadBdbA28123a94f45d",
+  "overview":{
+        "en": "Borderfree is a pioneering project designed to address the increasing demand for privacy and data ownership in the digital age by leveraging advanced blockchain technology. As the core element of Web3.0, decentralized communication is at the heart of Borderfree's mission. The project aims to provide users with a secure, efficient, and private Web3 communication experience, facilitated by a platform that integrates Layer 2 scaling solutions, privacy protection technologies, and peer-to-peer (P2P) communication protocols."
+  },
+  "email": "borderfree146@gmail.com",
+  "website": "https://borderfree.app/",
+  "whitepaper": "https://borderfree.app/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2024-05-29",
+  "initial_price":{
+        "USD":"0.01 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/borderfree146",
+    "telegram": "https://t.me/+hxx3TwZ-PxExZjkx",
+    "github": "https://github.com/border-free/"
+  }
+}
