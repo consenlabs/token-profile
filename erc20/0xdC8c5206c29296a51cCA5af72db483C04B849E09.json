@@ -1,0 +1,15 @@
+{
+	"symbol": "BURN",
+	"address": "0xdC8c5206c29296a51cCA5af72db483C04B849E09",
+	"overview": {
+		"en": "$BURN is the governance token of the BurnYou smart contract, which grants governance rights over the BurnYou smart contract code and voting and allocation rights over its smart contract treasury funds.",
+		"zh": "$BURN是BurnYou智能合约的治理代币，对BurnYou智能合约代码拥有治理权，并拥有该智能合约国库资金的投票权和拨款权。"
+	},
+	"email": "burnyouio@outlook.com",
+	"website": "https://burnyou.io/",
+	"state": "NORMAL",
+	"links": {
+		"twitter": "https://twitter.com/burnyou_io",
+		"medium": ""
+	}
+}
