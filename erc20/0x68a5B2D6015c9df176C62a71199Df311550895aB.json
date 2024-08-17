@@ -1,0 +1,20 @@
+{
+  "symbol": "AK",
+  "address": "0x68a5B2D6015c9df176C62a71199Df311550895aB",
+  "overview":{
+        "en": "AK Token (AK) serves as the equity token for the Ak.com platform, a blockchain-based equity fundraising platform. AK represents ownership and participation rights within the AK.com ecosystem, allowing holders to invest in real-world assets and projects, receive dividends, and participate in platform governance."
+  },
+  "email": "dev@ak.com",
+  "website": "https://ak.com",
+  "whitepaper": "https://docs.ak.com",
+  "state": "NORMAL",
+  "published_on": "2024-04-06",
+  "initial_price":{
+        "USD":"0.05 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ak_web3poker",
+    "telegram": "https://t.me/+EncTEUOAbtFkYjJk",
+    "github": "https://github.com/ak-poker"
+  }
+}
