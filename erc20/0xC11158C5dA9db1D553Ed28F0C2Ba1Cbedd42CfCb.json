@@ -1,0 +1,17 @@
+{
+  "symbol": "wPAW",
+  "address": "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb",
+  "overview":{
+        "en": "PAW Chain has launched the world’s first Layer 3-centric blockchain, enhancing scalability and inter-chain operability across networks. The roadmap features a decentralized exchange, merchant services, and a DAO, all optimized for high-volume, low-cost transactions. Leveraging smart contracts and EVM compatibility, PAW Chain is set to transform digital finance by providing secure, efficient solutions. This allows any project to go multi-chain, underscored by a community-driven governance model and rigorous security standards, including regular security audits.",
+        "zh": "PAW Chain推出了全球首个以Layer 3为核心的区块链，提升了跨网络的可扩展性和链间互操作性。路线图包括一个去中心化交易所、商户服务和去中心化自治组织（DAO），所有这些都针对高交易量、低成本交易进行了优化。通过利用智能合约和EVM兼容性，PAW Chain致力于通过提供安全、高效的解决方案来改变数字金融。这使得任何项目都能够实现多链部署，并且通过社区驱动的治理模式和严格的安全标准（包括定期的安全审计）来保障安全性。"
+  },
+  "website": "https://pawchain.net",
+  "whitepaper": "https://pawchain.net/docs",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://pawchain.net/blog",
+    "twitter": "https://x.com/PawChain",
+    "telegram": "https://t.me/PawEcosystem",
+    "reddit": "https://www.reddit.com/r/PAWTechnology/"
+  }
+}
