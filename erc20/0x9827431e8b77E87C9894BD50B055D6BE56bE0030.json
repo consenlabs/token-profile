@@ -1,0 +1,12 @@
+{
+  "symbol": "USDC.e",
+  "address": "0x9827431e8b77E87C9894BD50B055D6BE56bE0030",
+  "overview": {
+    "en": "Bitlayer-peg USD Coin"
+  },
+  "website": "https://www.circle.com",
+  "links": {
+    "github": "https://github.com/circlefin/stablecoin-evm",
+    "twitter": "https://twitter.com/circle"
+  }
+}

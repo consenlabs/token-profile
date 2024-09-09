@@ -1,0 +1,11 @@
+{
+  "symbol": "USDC",
+  "address": "0xf8C374CE88A3BE3d374e8888349C7768B607c755",
+  "overview": {
+    "en": "Bitlayer-peg USD Coin"
+  },
+  "website": "https://www.circle.com",
+  "links": {
+    "twitter": "https://twitter.com/circle"
+  }
+}
