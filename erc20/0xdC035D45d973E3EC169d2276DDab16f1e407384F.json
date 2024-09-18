@@ -1,0 +1,13 @@
+{
+  "symbol": "USDS",
+  "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+  "overview":{
+        "en": "USDS can be upgraded from Dai or converted from USDC at a 1:1 ratio, on Sky.money and other frontends. USDS can also be converted back to Dai. Upgrading is optional.",
+        "zh": "USDS 可以在 Sky.money 和其他前端从Dai升级或以1:1的比例从USDC转换。USDS也可以转换回Dai。升级是可选的。"
+  },
+  "website": "https://sky.money/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SkyEcosystem"
+  }
+}

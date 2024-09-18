@@ -11,12 +11,12 @@
   "state": "NORMAL",
   "published_on": "2020-07-24",
   "initial_price":{
-        "USD":"0.3 USD",
+        "USD":"0.3 USD"
   },
   "links": {
     "medium": "https://medium.com/definance",
     "twitter": "https://twitter.com/DefinanceTech",
     "telegram": "https://t.me/definanceANN",
-    "github": "https://github.com/DefinanceTECH",
+    "github": "https://github.com/DefinanceTECH"
   }
 }
