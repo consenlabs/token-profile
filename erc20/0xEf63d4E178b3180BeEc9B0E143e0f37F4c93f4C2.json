@@ -1,0 +1,12 @@
+{
+  "symbol": "ETH",
+  "address": "0xEf63d4E178b3180BeEc9B0E143e0f37F4c93f4C2",
+  "overview": {
+    "en": "Bitlayer-peg Ethereum Token "
+  },
+  "website": "https://ethereum.org/en/",
+  "links": {
+    "github": "https://github.com/ethereum/go-ethereum",
+    "twitter": "https://twitter.com/ethereum"
+  }
+}

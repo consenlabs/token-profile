@@ -1,0 +1,12 @@
+{
+  "symbol": "USDT",
+  "address": "0xfe9f969faf8Ad72a83b761138bF25dE87eFF9DD2",
+  "overview": {
+    "en": "Bitlayer-peg Tether USD"
+  },
+  "website": "https://tether.to/en/",
+  "links": {
+    "twitter": "https://x.com/tether_to",
+    "telegram": "https://t.me/OfficialTether"
+  }
+}
