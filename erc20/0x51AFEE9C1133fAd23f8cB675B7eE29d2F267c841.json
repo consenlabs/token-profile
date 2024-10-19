@@ -1,0 +1,18 @@
+{
+  "symbol": "USDH",
+  "address": "0x51AFEE9C1133fAd23f8cB675B7eE29d2F267c841",
+  "overview": {
+    "en": "USDH (Huione USD) is a stable and digital currency issued by Huione Payment，and its value comes from the real assets of Huione and will always be equal to the USD , thus becoming a stable asset. Huione Payment will provide official exchange services and free markets for USDH, USD, and USDT.",
+    "zh": "USDH（Huione USD）是汇旺支付发行的稳定数字货币，其价值来源于汇旺的实体资产，永远与美元等值，成为稳定资产。汇旺支付将为USDH、USD、USDT提供官方兑换服务和自由市场."
+  },
+  "email": "accounting@huione.com",
+  "website": "https://www.huionepay.com.kh",
+  "state": "NORMAL",
+  "links": {
+    "whitepaper": "https://huionepay.com.kh/index/USDH",
+    "blog": "https://medium.com/@usdh_76890",
+    "twitter": "https://x.com/HUIONEUSDH",
+    "telegram": "https://t.me/HUIONEUSDH",
+    "github": "https://github.com/huionepay/usdh"
+  }
+}
