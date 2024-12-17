@@ -1,0 +1,18 @@
+{"symbol": "WXOC",
+  "address": "0x8e1a838EAfdB267542F2d04ef628f9bed7E5748B",
+  "overview":{
+    "en": "WXOC is the token obtained by Xone Knights after successful donation. This token will be mapped to the main chain coin XOC after the Xone Mainnet is launched.",
+    "zh": "WXOC 是 Xone 骑士捐赠成功后所获得的代币，此代币将在 Xone Mainnet 上线后映射成主链币 XOC。"  
+  },
+  "email": "hello@xone.plus",
+  "website": "https://xone.plus/",
+  "whitepaper": "https://docs.xone.plus/study/wiki",
+  "state": "NORMAL",
+  "published_on": "2024-12-10",
+  "links": {
+    "twitter": "https://x.com/xone_chain",
+    "telegram": "https://t.me/Xone_Group",
+    "github": "https://github.com/huione-labs",
+    "medium": "https://medium.com/@xone_chain"
+  }
+}
