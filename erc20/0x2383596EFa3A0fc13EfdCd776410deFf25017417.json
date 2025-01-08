@@ -1,0 +1,22 @@
+{
+  "symbol": "SQV",
+  "address": "0x2383596EFa3A0fc13EfdCd776410deFf25017417",
+  "overview":{
+        "en": "Soul Quantum Void (SQV) is a groundbreaking cryptocurrency project dedicated to reshaping the rules of the Web3 ecosystem. By blending the playfulness of MEME culture with a rigorous tokenomics model, SQV aims to create a fair, transparent, and sustaMore",
+        "zh": "Soul Quantum Void（SQV）是一款正统加密货币项目，致力于重塑Web3生态游戏规则。SQV融合MEME文化的趣味性与严谨的代币经济模型，通过完全去中心化和去资本化的设计，打造一个公平、透明、可持续发展的新型生态系统。"
+  },
+  "email": "soulquantumvoid.project@gmail.com",
+  "website": "https://www.sqvoid.com/",
+  "whitepaper": "https://fuchsia-adorable-tick-353.mypinata.cloud/ipfs/QmbP9ydXXLzEPHka8pRYNubaAotq4NwchVDNV8B27sGwPY",
+  "state": "NORMAL",
+  "published_on": "2024-12-20",
+  "initial_price":{
+        "USD":"$0.00000405 USD",
+  },
+  "links": {
+    "twitter": "https://x.com/SQV_Project",
+    "telegram": "https://t.me/soulquantumvoid",
+    "youtube": "https://www.youtube.com/@soulquantumvoid",
+    "tiktok": "https://www.tiktok.com/@soulquantumvoid"
+  }
+}
