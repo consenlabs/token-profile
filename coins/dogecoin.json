@@ -1,0 +1,17 @@
+{
+  "symbol": "DOGE",
+  "address": "dogecoin",
+  "overview": {
+    "en": "Dogecoin was originally created as a joke in late 2013 by Billy Markus and Jackson Palmer. Both Billy and Jackson thought that cryptocurrency was being taken far too seriously and wasn’t much fun. Jackson created the Dogecoin.com website and would have been, for a while, the public face of Dogecoin, while Billy worked as a solo developer on the first 4 releases.",
+    "zh": "狗狗币是 2013 年底作为一个玩笑由 Billy Markus 和 Jackson Palmer 创建的。Billy 和 Jackson 觉得加密货币太严肃了，没有什么好玩的。于是，Jackson 创建了 Dogecoin.com 网站，这个网站在很长时间都是狗狗币的官方门户。然后，Billy 独自开发了狗狗币的前 4 个版本。"
+  },
+  "website": "https://dogecoin.com",
+  "whitepaper": "https://github.com/dogecoin/dogecoin/blob/master/README.md",
+  "state": "NORMAL",
+  "published_on": "2013-12-06",
+  "links": {
+    "twitter": "https://twitter.com/dogecoin",
+    "reddit": "https://reddit.com/r/dogecoin",
+    "github": "https://github.com/dogecoin"
+  }
+}

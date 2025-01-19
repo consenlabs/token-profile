@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@types/node": "^10.12.12",
+    "@types/node": "^22.0.0",
     "chalk": "^2.4.1",
     "pngjs": "^7.0.0",
     "ts-lint": "^4.5.1",
     "ts-node": "^7.0.1",
-    "typescript": "^3.2.2"
+    "typescript": "^5.5.3"
   },
   "scripts": {
     "test": "ts-node ./test/index.ts"
