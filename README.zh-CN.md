@@ -1,6 +1,6 @@
 # Token Profile 指南
 
-*语言版本：[English](README.md)，[简体中文](README.zh-CN.md).*
+*语言版本：[English](README.md)，[简体中文](README.zh-CN.md)，[日本語](README.ja-JP.md).*
 
 你可以通过这篇教程了解如何通过 GitHub 自主提交 **Token** 信息到 imToken。
 
