@@ -1,0 +1,19 @@
+{
+    "symbol": "PCE",
+    "address": "0x9A10B10826283F8C26B91485A8E4cBF8Ec071567",
+    "overview": {
+        "en": "PCE is a decentralized cryptocurrency advocating for peace and anti-war initiatives, supporting fast and secure transactions."
+    },
+    "email": "alisaoda821@gmail.com",
+    "website": "https://alisa0521-prog.github.io/pce-website/",
+    "whitepaper": "https://alisa0521-prog.github.io/pce-website/whitepaper.pdf",
+    "state": "LOCKED",
+    "published_on": "2025-02-09",
+    "initial_price": {
+        "USD": "0"
+    },
+    "links": {
+        "github": "https://github.com/alisa0521-prog",
+        "telegram": "https://t.me/PcezLo"
+    }
+}
