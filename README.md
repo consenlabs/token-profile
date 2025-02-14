@@ -1,6 +1,6 @@
 # Token Profile Guideline
 
-*Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md).*
+*Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md), [日本語](README.ja-JP.md).*
 
 This repository (repo) provides the details about self-submitting **Token** information to imToken via GitHub.
 
