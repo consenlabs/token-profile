@@ -1,0 +1,20 @@
+{
+  "symbol": "ZARO",
+  "address": "0x1B9580B226Ec0030e9fA457c64354C29CF6446D2",
+  "overview":{
+        "en": "The Community-Driven Meme Coin on Ethereum. Built by the community. Owned by no one. Driven by everyone.",
+        "zh": "以太坊上的社区驱动迷因币. 由社区构建。无人拥有。人人驱动。"
+  },
+  "email": "zaro@shihab.com",
+  "website": "https://zarocoin.xyz/",
+  "whitepaper": "https://zarocoin.xyz",
+  "state": "LOCKED",
+  "published_on": "2025-05-22",
+  "initial_price":{
+        "USD":"0.00005 USD"
+  },
+  "links": {
+    "twitter": "https://x.com/zaroproject",
+    "telegram": "https://t.me/zaroprojectofficial"
+  }
+}
