@@ -1,0 +1,16 @@
+{
+  "symbol": "EDC",
+  "address": "Contract Address",
+  "overview":{
+        "en": "",
+        "zh": ""
+  },
+  "email": "node@mirrorl2.com",
+  "website": "https://edithx.ai/",
+  "whitepaper": "https://docs.edithx.ai/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/edithAPP",
+    "telegram": "https://t.me/edithx_ai",
+  }
+}
