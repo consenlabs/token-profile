@@ -1,0 +1,28 @@
+{
+  "symbol": "ICC",
+  "address": "0x5FE874713c68282BB37f389c9f79D1dD383c9924",
+  "overview": {
+    "en": "ICC is a BEP-20 utility and reward token on BNB Smart Chain used within the ICC Staking V2 application. Holders can stake ICC across multiple pools with different lock periods and reward rates, and claim or withdraw according to pool rules. The token focuses on staking incentives, community growth, and future ecosystem utilities.",
+    "zh": "ICC 是部署在 BNB Smart Chain 的 BEP-20 功能型与奖励型代币，用于 ICC Staking V2 应用。持有者可在多种质押池中质押 ICC（支持不同锁仓周期与激励比例），并按池子规则领取奖励或赎回。代币主要用于质押激励、社区增长以及未来的生态场景扩展。"
+  },
+  "email": "iccdefi_official@outlook.com",
+  "website": "https://icc.it.com/",
+  "whitepaper": "https://icc.it.com/whitepaper.html",
+  "state": "NORMAL",
+  "published_on": "2024-08-01",
+  "initial_price": {
+    "ETH": "",
+    "USD": "",
+    "BTC": ""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://x.com/iccdefi",
+    "telegram": "https://t.me/+orV6ltsvhtI4ODk0",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
