@@ -1,0 +1,11 @@
+{
+  "name": "FuLu",
+  "symbol": "FULU",
+  "address": "0x0C1dbA8D7e5a696b511EcC9934F8cdF9a370f115",
+  "decimals": 18,
+  "type": "ERC20",
+  "chainId": 56,
+  "website": "https://fulu.netlify.app",
+  "explorer": "https://bscscan.com/token/0x0C1dbA8D7e5a696b511EcC9934F8cdF9a370f115",
+  "description": "FuLu ($FULU) is a BEP20 token on BNB Smart Chain. Community-driven token."
+}
