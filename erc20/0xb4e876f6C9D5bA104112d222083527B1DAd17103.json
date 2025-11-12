@@ -1,0 +1,19 @@
+{
+  "symbol": "VOLLAR",
+  "address": "0xb4e876f6C9D5bA104112d222083527B1DAd17103",
+  "overview":{
+        "en": "VDS (V-Dimension) is a global public blockchain built around decentralization and anonymity, aiming to create a 'Privacy Internet' for all humanity. It operates in a fully decentralized manner through distributed nodes, embedding core features directly into its wallet application to provide a seamless user experience and a complete decentralized ecosystem.The initial features of VDS include Resonance Trade, Trust Stamp Network, Competition System, VAD Information Broadcast, Secret Chat, Anonymous Transactions, Smart Contracts, Distributed OTC, Super Master Nodes, Lucky Draw, and unique Chain Commerce Contracts. These modules interconnect to form a self-balancing structure of finance and community, driving value accumulation and exponential network growth.As a decentralized finance and business blockchain, VDS seeks to reshape the Internet and monetary systems by supporting the development of an independent privacy web browser, where VID addresses function as anonymous IP entries, enabling a decentralized application ecosystem. Following the principle of 'community co-prosperity', VDS draws strength from BTC users, minimizes centralized team influence, and pays tribute to Satoshi Nakamoto’s vision.VDS is not merely a cryptocurrency — it is a decentralized social experiment centered on privacy, trust, and consensus, connecting people, liberating freedom, and building a new era of true wealth and spiritual independence.",
+        "zh": "VDS（V-Dimension）是一条以区块链为核心、以非中心化匿名为设计原则的全球公链，致力于构建一个面向全人类的'隐私互联网'。它通过分布式节点实现真正的去中心化运行，并在钱包应用中嵌入核心功能，实现友好的使用体验与完整的去中心化生态。VDS的初始功能包括：共振交易、信任钢印网络、竞赛系统、VAD信息广播、隐秘聊天、匿名交易、智能合约、分布式OTC、超级主节点、幸运抽奖以及独特的链商合约。这些模块相互联动、形成金融与社群的自平衡结构，推动价值沉淀与网络裂变式增长。作为一条去中心化金融与商业公链，VDS旨在重塑互联网与货币体系，支持开发独立的隐私网络浏览器，使VID地址成为匿名IP入口，从而承载去中心化应用生态。遵循'社区共赢'原则，VDS以BTC用户为启动力量，最大限度弱化团队中心化影响，向中本聪理念致敬。VDS不仅是一种加密货币，更是一场去中心化的社会实验——以隐私、信任与共识为核心，连接人类、释放自由，构建通往真正财富与精神独立的新时代网络。"
+  },
+  "email": "into.vcross@gmail.com",
+  "website": "https://v-cross.com/",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2025-11-07",
+  "initial_price":{
+        "USD":"0.5388 USD"
+  },
+  "links": {
+    "blog": "https://t.me/INTO_Official_Channel",
+    "telegram": "https://t.me/INTO_OfficialSupport"
+  }
+}
