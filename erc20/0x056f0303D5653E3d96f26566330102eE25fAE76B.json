@@ -1,0 +1,23 @@
+{
+    "symbol": "USDT",
+    "address": "0x056f0303D5653E3d96f26566330102eE25fAE76B",
+    "overview": {
+        "en": "USDT (USDT) is a stablecoin-inspired experimental token designed for testing, education, and blockchain integration research. It mimics the behavior of established stablecoins and enables developers to explore real-world use cases such as liquidity provisioning, decentralized exchange mechanics, and on-chain supply tracking on the Ethereum network.",
+        "zh": ""
+    },
+    "email": "support@minion-soft.com",
+    "website": "https://tether.minion-soft.com/",
+    "whitepaper": "https://tether.minion-soft.com/USDT_whitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2025-11-21",
+    "initial_price": {
+        "ETH": "0.00027 ETH",
+        "USD": "0.90 USD",
+        "BTC": "0.0000205 BTC"
+    },
+    "links": {
+        "twitter": "https://x.com/t3ther_USD",
+        "telegram": "https://t.me/t3ther_USD",
+        "facebook": "https://www.facebook.com/people/Tether-USD/61583822681897/"
+    }
+}
