@@ -1,0 +1,23 @@
+{
+  "symbol": "ENS",
+  "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "overview":{
+        "en": "The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain",
+        "zh": "以太坊名称服务（ENS）是一个基于以太坊区块链的分布式、开放和可扩展的命名系统"
+  },
+  "email": "press@ens.domains",
+  "website": "https://ens.domains/",
+  
+  "state": "NORMAL",
+
+
+  "links": {
+  
+    "twitter": "https://twitter.com/ensdomains",
+  
+    "github": "https://github.com/ensdomains",
+  
+
+    "medium": "https://medium.com/the-ethereum-name-service"
+  }
+}

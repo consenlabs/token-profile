@@ -1,0 +1,21 @@
+{
+    "symbol": "ISLAMICOIN",
+    "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+    "overview":{
+          "en": "ISLAMICOIN a cryptocurrency for the global Muslim community.",
+          "zh": "ISLAMICOIN全球穆斯林社区的加密货币"
+    },
+    "email": "INFO@ISLAMICOIN.FINANCE",
+    "website": "https://islamicoin.finance/",
+    "whitepaper": "https://islamicoin.finance/docs/islamicoinE.pdf",
+    "state": "NORMAL",
+    "published_on": "2021-4",
+    "initial_price":{
+          "USD":"0.00062836 USD"
+    },
+    "links": {
+      "twitter": "https://twitter.com/islamicoin",
+      "telegram": "https://twitter.com/islamicoin",
+      "github": "https://github.com/islamiblockchain/islamicoin",
+    }
+  } 

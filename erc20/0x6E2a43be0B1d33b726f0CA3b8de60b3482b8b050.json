@@ -1,0 +1,13 @@
+{
+  "symbol": "ARKM",
+  "address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+  "overview":{
+        "en": "Arkham is a blockchain analysis platform that uses artificial intelligence (AI) to deanonymize the blockchain and on-chain data.",
+        "zh": "Arkham 是一个区块链分析平台，利用人工智能（AI）对区块链和链上数据进行去匿名化。"
+  },
+  "website": "https://www.arkhamintelligence.com/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ArkhamIntel"
+  }
+}

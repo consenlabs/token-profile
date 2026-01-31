@@ -1,0 +1,15 @@
+{
+  "symbol": "ATOR",
+  "address": "0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+  "overview":{
+        "en": "ATOR empowers The Onion Router (Tor) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through hardware products.",
+        "zh": "ATOR 通过链上激励增强了洋葱路由（Tor）网络，并通过硬件产品促进了安全网络中继协议的更广泛采用。"
+  },
+  "website": "https://ator.io/",
+  "links": {
+    "twitter": "https://twitter.com/atorprotocol",
+    "telegram": "https://t.me/atorofficialportal",
+    "github": "https://github.com/ATOR-Development",
+    "discord": "https://discord.com/invite/ator"
+  }
+}

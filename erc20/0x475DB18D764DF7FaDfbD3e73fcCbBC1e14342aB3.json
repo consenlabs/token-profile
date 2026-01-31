@@ -1,0 +1,22 @@
+{
+  "symbol": "APO",
+  "address": "0x475DB18D764DF7FaDfbD3e73fcCbBC1e14342aB3",
+  "overview":{
+    "en": "ApolloFi is the first Web3 social platform built on multichain, which introduced the \"Social to Earn & Merge NFT fragments\" mode into its features to enable users to socialize in the environment where they tactfully incorporate NFT fragments.",
+    "zh": "ApolloFi 是第一个建立在多链上的Web3社交平台"
+  },
+  "email": "apollofi@apollofi.xyz",
+  "website": "https://apollofi.xyz/",
+  "whitepaper": "https://litepaper.apollofi.xyz/welcome-to-apollofi/",
+  "state": "NORMAL",
+  "published_on": "2022-07-08",
+  "initial_price":{
+    "USD":"0.0005 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ApolloFi1",
+    "telegram": "https://t.me/apollofiofficial",
+    "github": "https://github.com/apollofi",
+    "medium": "https://medium.com/@apollofi"
+  }
+}

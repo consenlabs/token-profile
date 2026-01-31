@@ -1,0 +1,20 @@
+{
+    "symbol": "stHOPE",
+    "website": "https://hope.money",
+    "whitepaper": "https://docs.hope.money",
+    "state": "NORMAL",
+    "address": "0xF5C6d9Fc73991F687f158FE30D4A77691a9Fd4d8",
+    "email": "support@hope.money",
+    "published_on": "2023-04-18",
+    "overview": {
+      "en": "Hope.money pioneers in bridging DeFi, CeFi, and TradFi with $HOPE and $LT.",
+      "zh": "Hope.money正在搭建一套基于分布式稳定币$HOPE与治理代币$LT的生态系统，成为连接DeFi、CeFi与TradFi的桥梁"
+    },
+    "links": {
+      "blog": "https://hope-money.medium.com/",
+      "twitter": "https://twitter.com/Hope_money_",
+      "github": "https://github.com/Light-Ecosystem",
+      "discord": "https://discord.gg/hopemoneyofficial",
+      "medium": "https://hope-money.medium.com/"
+    }
+}

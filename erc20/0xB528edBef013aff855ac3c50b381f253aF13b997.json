@@ -1,0 +1,13 @@
+{
+  "symbol": "AEVO",
+  "address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+  "overview":{
+        "en": "Aevo is a decentralized derivatives exchange focused on options, perpetuals, and pre-launch trading.",
+        "zh": "Aevo是一个专注于期权、永续合约和预发行交易的去中心化衍生品交易所。"
+  },
+  "website": "https://www.aevo.xyz/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/aevoxyz"
+  }
+}

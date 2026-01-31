@@ -1,0 +1,24 @@
+{
+  "symbol": "PLATO",
+  "address": "0x6F3Fc052B4867A731320878A88eef902b08D7895",
+  "overview":{
+        "en": "PLATO, game tokens, whose circulation is 100 million, can be used to exchange rare NFT props and basic production resources (processing plants, etc.) or upgradeto unlock more content. Users can obtain PLATO through market transactions. The more PLATO they hold, the higher level of identity in the game. To ensure PLATO deflation, the Treasury will use 50% of its revenue to repurchase and delete PLATO every quarter, until it reaches 50 million.",
+        "zh": ""
+  },
+
+  "email": "info@platofarm.game",
+  "website": "https://www.platofarm.game",
+  "whitepaper": "https://platofarm.gitbook.io/whitepaper.platofarm.com",
+  "state": "NORMAL",
+  "published_on": "2021-10-26",
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/Plato_Farm",
+    "telegram": "https://t.me/platofarm",
+    "github": "https://github.com/PlatoFarm",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@Plato_Farm"
+  }
+}

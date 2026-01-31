@@ -1,0 +1,25 @@
+{
+  "symbol": "MOS",
+  "address": "0xDaE84ed7639f42B5A65c89D86Adf0A519A7F4B5D",
+  "overview": {
+    "en": "An open gateway to making the best of metaverse lands that provides access, efficiency and transparency.",
+    "zh": "MetaOasis DAO是元宇宙建设者的家，一起更便捷、高效、透明地参与虚拟土地的投资与开发。"
+  },
+  "email": "official@metaoasis.fun",
+  "website": "https://www.metaoasis.fun/",
+  "whitepaper": "https://docs.google.com/document/d/1il3LeSQjkFJOScC5Ga4uu1tMpOd_8kkfR09nS9iBuI8",
+  "state": "NORMAL",
+  "published_on": "2021-12-21",
+  "initial_price": {
+    "USD": "0.05 USD"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/metaoasis/",
+    "twitter": "https://twitter.com/MetaOasisDAO",
+    "telegram": "https://t.me/+RKKx5q7NBaBmOGQ0",
+    "discord": "https://discord.gg/wTfMVkFQQV",
+    "youtube": "https://www.youtube.com/channel/UCrcpaRsoGJDID55v7ChlClQ",
+    "medium": "https://medium.com/@MetaOasisfun",
+    "mirror": "https://mirror.xyz/0x1dc28C2fFdf88AB85464DE51aec1b98Bd30d506E"
+  }
+}

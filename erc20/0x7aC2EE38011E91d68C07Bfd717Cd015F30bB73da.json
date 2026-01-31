@@ -1,0 +1,19 @@
+{
+  "symbol": "NPA",
+  "address": "0x7aC2EE38011E91d68C07Bfd717Cd015F30bB73da",
+  "overview": {
+    "en": "NPA development team has proposed a new digital non-performing assets disposal scheme, aiming to make a new model for multi-dimensional evaluation, guarantee and disposal of digital assets."
+  },
+  "email": "npadisposal@gmail.com",
+  "website": "https://www.npadisposal.com",
+  "whitepaper": "https://www.npadisposal.com/img/npa.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-10-10",
+  "initial_price": {
+    "USD": "5.0 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/NPAofficial3",
+    "telegram": "https://t.me/npaofficialgroup"
+  }
+}

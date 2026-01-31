@@ -1,0 +1,13 @@
+{
+  "symbol": "SKY",
+  "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+  "overview":{
+        "en": "The Governance Token of the Sky Ecosystem is SKY. MKR holders can upgrade their MKR to SKY, and SKY can also be converted back to MKR. Upgrading is optional.",
+        "zh": "Sky 生态系统的治理代币是 SKY。MKR 持有者可以将他们的 MKR 升级为 SKY 也可以转换回 MKR。升级是可选的。"
+  },
+  "website": "https://sky.money/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SkyEcosystem"
+  }
+}

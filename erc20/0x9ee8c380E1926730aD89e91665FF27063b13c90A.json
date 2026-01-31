@@ -1,0 +1,15 @@
+{
+ "symbol": "CA",
+ "address": "0x9ee8c380E1926730aD89e91665FF27063b13c90A",
+ "overview": {
+     "en": "Coupon Assets (CA) is a platform currency initiated by RADAR LAB (USA) and issued in March 2018. The value of CA token issuance is that it is a highly liquid encrypted digital asset (an equity token) based on the global financial market Assets, acceptance bills with financial attributes, bonds and anti-counterfeiting, etc. CA(Certificate Authority) security authentication is a kind of security authentication and digital signature technology based on public key infrastructure technology, which is used to protect the security of users' communication and business activities on the Internet.",
+     "zh": "Coupon Assets (CA) 是由 RADAR LAB（美国）发起并于 2018 年 3 月发行的平台币，CA 代币发行的价值在于它是基于全球金融市场的高流动性加密数字资产（一种股权代币资产），具有金融属性、债券和防伪的承兑汇票等。其中全球 CA（Certificate Authority）安全认证是一种基于公钥基础设施技术的安全认证和数字签名技术，用于保护用户在互联网上的通信和业务活动的安全。"
+ },
+ "website": "https://radarlab.us",
+ "whitepaper": "https://usimg.bjyyb.net/sites/81500/81783/20231020104746486.pdf",
+ "state": "NORMAL",
+ "links": {
+     "twitter": "https://twitter.com/CA_Radar",
+     "telegram": "https://t.me/CA_RADAR"
+ }
+}

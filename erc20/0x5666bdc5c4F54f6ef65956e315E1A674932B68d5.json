@@ -1,0 +1,19 @@
+{
+  "symbol": "FON",
+  "address": "0x5666bdc5c4F54f6ef65956e315E1A674932B68d5",
+  "overview":{
+        "en": "FON (fonetones) is a brand token listed on Ipparts Exchange (IPPAEX). The token is contractually backed by 48% of the fonetones brand value. FON raises funds for fonetones, a business publishing fonetones on the Internet.",
+        "zh": "FON (fonetones) 是在 Ipparts Exchange (IPPAEX) 上市的品牌代币。该代币由 48% 的 fonetones 品牌价值提供合同支持。 FON 为 fonetones 筹集资金，这是一家在互联网上发布 fonetones 的企业."
+  },
+  "email": "fonetones2@gmail.com",
+  "whitepaper": "https://fonetones.github.io/fonetones/token_files/fonetonesWhitePaper3.pdf",
+  "website": "https://fonetones.github.io",
+  "state": "NORMAL",
+  "published_on": "2020-06-10",
+  "links": {
+    "twitter": "https://twitter.com/fonetones",
+    "gitter": "https://gitter.im/Africahead/Lobby",
+    "telegram": "https://t.me/joinchat/IBJxVg-zUeFtoxe6GGAdsg",
+    "whatsapp": "https://chat.whatsapp.com/K5sjXzrA81lLDukeNe1CG7"
+  }
+}

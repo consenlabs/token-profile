@@ -1,0 +1,26 @@
+{
+  "symbol": "ERA",
+  "address": "0x3f47D316b6Ca268C8a7916D6Ed02E90DbFEE3EE2",
+  "overview": {
+    "en": "ERA is the native governance token of Ninance, and Ninance is a decentralized platform integrating NFT transaction + DeFi + Swap + cross-chain bridge.",
+    "zh": ""
+  },
+  "email": "support@ninance.io",
+  "website": "https://www.ninance.io",
+  "whitepaper": "https://www.ninance.io/docs/ninance_en.pdf",
+  "state": "NORMAL",
+  "published_on": "2022-02-20",
+  "initial_price": {
+    "USD": "20 USD"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/NinanceOfficial",
+    "telegram": "https://t.me/ninanceglobal",
+    "github": "https://github.com/NinanceService",
+    "facebook": "https://www.facebook.com/Ninance-211945537515984",
+    "reddit": "https://www.reddit.com/user/NinanceOfficial",
+    "slack": "",
+    "medium": "https://medium.com/@Ninance"
+  }
+}

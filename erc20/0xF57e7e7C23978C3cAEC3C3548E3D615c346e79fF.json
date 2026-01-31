@@ -1,0 +1,20 @@
+{
+  "symbol": "IMX",
+  "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+  "overview":{
+        "en": "IMX is the native token for the Immutable X network, the first zk-rollup for NFT on Ethereum.",
+        "zh": "IMX 是 Immutable X 网络的原生代币，是以太坊上第一个 NFT 的 zk-rollup。"
+  },
+  "email": " ",
+  "website": "https://www.immutable.com",
+  "whitepaper": "https://support.immutable.com/hc/en-us/articles/4405227590799",
+  "state": "NORMAL",
+  "published_on": "2021-11-05",
+
+  "links": {
+    "blog": "https://medium.com/@immutablex",
+    "twitter": "https://twitter.com/Immutable",
+    "telegram": "https://t.me/immutablex",
+    "reddit": "https://www.reddit.com/r/ImmutableX"
+  }
+}

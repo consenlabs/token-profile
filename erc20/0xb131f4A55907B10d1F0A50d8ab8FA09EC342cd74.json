@@ -1,0 +1,13 @@
+{
+  "symbol": "MEME",
+  "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+  "overview":{
+        "en": "Memecoin (MEME) is the native ecosystem token of Memeland. Memeland is the web3 venture studio by 9GAG, the globally popular meme platform.",
+        "zh": "Memecoin (MEME) 是 Memeland 的原生生态系统代币。 Memeland 是全球流行的 meme 平台 9GAG 旗下的 web3 风险工作室。"
+  },
+  "website": "https://www.memecoin.org/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/memecoin"
+  }
+}

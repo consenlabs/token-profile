@@ -1,0 +1,18 @@
+{
+    "symbol": "PLK",
+    "address": "0x12A8786Eaba9C1f343E670b03FBB561201a7A11A",
+    "overview":{
+        "en": "PlanckX is an open and decentralised blockchain gaming platform and NFT marketplace, which provides a user-friendly and open-source platform that brings together gamers, developers, and NFT creators.",
+        "zh": "PlanckX 是一个开放和去中心化的区块链游戏平台和 NFT 市场，它提供了一个用户友好的开源平台，将游戏玩家、开发人员和 NFT 创作者聚集在一起。"
+    },
+    "email": "support@planckx.io",
+    "website": "https://planckx.io/",
+    "whitepaper": "https://static.planckx.io/litepaper/PlanckX%20Game%20Asset%20Trading%20Platform.pdf",
+    "state": "NORMAL",
+    "links": {
+      "discord": "https://discord.io/planckx",
+      "twitter": "https://twitter.com/planck__x",
+      "telegram": "https://t.me/planckxeng",
+      "medium": "https://medium.com/@planckx"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+  "symbol": "STRK",
+  "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+  "overview":{
+        "en": "StarkNet is a permissionless decentralized Validity-Rollup (also known as a “ZK-Rollup”). It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum’s composability and security, thanks to StarkNet’s reliance on the safest and most scalable cryptographic proof system – STARK.",
+        "zh": "StarkNet 是一种无需许可的去中心化 Validity-Rollup（也称为“ZK-Rollup”）。它作为以太坊上的 L2 网络运行，使任何 DApp 能够实现无限的计算规模，而不会影响以太坊的可组合性和安全性，这要归功于 StarkNet 对最安全和最具可扩展性的加密证明系统 STARK 的依赖。"
+  },
+  "website": "https://starknet.io/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/Starknet",
+    "github": "https://github.com/orgs/starkware-libs/repositories"
+  }
+}

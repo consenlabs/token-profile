@@ -1,0 +1,19 @@
+{
+  "symbol": "AFA",
+  "address": "0xfB48E0DEa837f9438309a7e9F0cFe7EE3353A84e",
+  "overview":{
+        "en": "AFA (Africahead Ipparts) is a brand token listed on Ipparts Exchange (IPPAEX). The token is contractually backed by 48% of the Africahead brand value. AFA raises funds for Africahead business.",
+        "zh": "AFA (Africahead Ipparts) 是在 Ipparts Exchange (IPPAEX) 上市的品牌代币。该代币由 Africahead 品牌价值的 48% 提供合同支持。 AFA 为 Africahead 业务筹集资金"
+  },
+  "email": "mdpienaar@africahead.co.za",
+  "whitepaper": "https://www.africahead.co.za/Africahead/RaisingCapital_files/AfricaheadWhitePaper9.pdf",
+  "website": "https://www.africahead.co.za/Africahead/RaisingCapital.html",
+  "state": "NORMAL",
+  "published_on": "2018-10-12",
+  "links": {
+    "twitter": "https://twitter.com/mdpienaar",
+    "gitter": "https://gitter.im/Africahead/Lobby",
+    "telegram": "https://t.me/joinchat/IBJxVg-zUeFtoxe6GGAdsg",
+    "whatsapp": "https://chat.whatsapp.com/K5sjXzrA81lLDukeNe1CG7"
+  }
+}
