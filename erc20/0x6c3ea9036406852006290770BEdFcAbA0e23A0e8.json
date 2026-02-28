@@ -1,0 +1,14 @@
+{
+  "symbol": "PYUSD",
+  "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+  "overview":{
+        "zh": "PayPal 推出的一种与美元挂钩的稳定币 PYUSD，其背后是美元存款和国债为支撑。",
+        "en": "PayPal USD is a stablecoin that’s fully backed by US dollar deposits, US treasuries, and similar cash equivalents. You can buy and sell 1 PYUSD for 1 USD on PayPal."
+  },
+  "website": "https://www.paypal.com/",
+  "state": "NORMAL",
+  "published_on": "2023-08-07",
+  "links": {
+    "twitter": "https://twitter.com/PayPal"
+  }
+}

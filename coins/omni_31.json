@@ -1,20 +1,23 @@
 {
   "symbol": "USDT",
   "address": "omni_31",
-  "overview":{
-        "en": "Each USDT unit is backed by a U.S Dollar held in the reserves of the Tether Limited and can be redeemed through the Tether Platform. USDT can be transferred, stored, spent, just like bitcoins or any other cryptocurrency.",
-        "zh": "Tethers，是一种法币挂钩的数字货币，基于 Omni Layer 协议的 USDT 在 Bitcoin 区块链上以代币形式首次发行，每一个发行流通的 Tethers 都与美元一比一挂钩，相对应的美元总量存储在香港 Tether 有限公司（即一个 Tether 币为一美元）。"
+  "overview": {
+    "en": "Tether is a fiat-pegged digital currency. USDT issued on the Bitcoin blockchain via the Omni Layer protocol was the first version of Tether. As of September 1, 2025, USDT on the Omni Layer has ceased to be supported and no longer holds any value.",
+    "zh": "Tethers 是一种法币挂钩的数字货币，基于 Omni Layer 协议的 USDT 在 Bitcoin 区块链上以代币形式首次发行。自 2025-09-01 起发行在 Omni Layer 的 USDT 已经停止支持，将不再具备任何价值；"
   },
   "email": "support@tether.to",
   "website": "https://tether.to/",
+  "announcement": "https://tether.io/news/tether-to-wind-down-usdt-support-for-five-legacy-blockchains-as-part-of-strategic-infrastructure-review/",
   "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
-  "state": "NORMAL",
+  "state": "OFFICAL_DISCONTINUED",
   "published_on": "2014-11-26",
-  "initial_price":{
-        "USD":"1 USD"
+  "discontinued_date": "2025-09-01",
+  "initial_price": {
+    "USD": "1 USD"
   },
   "links": {
     "twitter": "https://twitter.com/Tether_to/",
     "facebook": "https://www.facebook.com/tether.to"
   }
 }
+

@@ -1,0 +1,14 @@
+{
+  "symbol": "FERRET",
+  "address": "0xBcBDA13Bd60bC0e91745186E274D1445078D6b33",
+  "overview":{
+        "en": "FERRET is the Ethereum Meme Token.",
+        "zh": "FERRET 是以太坊上的 MEME 币。"
+  },
+  "website": "https://www.ferretai.org/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ferretaicoin",
+    "telegram": "https://t.me/ferretaitoken"
+  }
+}

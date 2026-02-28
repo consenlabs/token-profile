@@ -1,0 +1,15 @@
+{
+    "symbol": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "overview":{
+          "en": "$PEPE is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.",
+          "zh": "$PEPE是一个没有内在价值或财务回报预期的纪念币。没有正式的团队或路线图。该币完全无用,仅用于娱乐目的。"
+    },
+    "email": "masterpepe@pepe.vip",
+    "website": "https://www.pepe.vip/",
+    "state": "NORMAL",
+    "links": {
+      "twitter": "https://twitter.com/pepecoineth",
+      "telegram": "https://t.me/pepecoineth"
+    }
+  }

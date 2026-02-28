@@ -1,0 +1,21 @@
+{
+  "symbol": "M3C",
+  "address": "0xDe53F19AF7357133bD2a4F0c2C92d9050Fe8D208",
+  "overview": {
+    "en": "M3C (MLIF3Coin) is a cryptocurrency stablecoin pegged to the H.K. dollar and backed “100% by MLIFE’s deposit reserves”. To prove the redemption ability, MLIFE announces to public both the circulating supply of M3C and net value of cash and fixed deposit of the company in local banks and commits the latter always is the larger.",
+    "zh": "M3C（MLIF3Coin）是一种与港元挂钩的加密货币稳定币，并 “100%由 MLIFE 的存款准备金支持” 。为了证明赎回能力，MLIFE 公布了 M3C 的流通量以及其在本地各银行中的总现金及定期存款的净值，并承诺后者的规模总为较大。”"
+  },
+  "email": "Email",
+  "website": "https://m3chk.com/",
+  "whitepaper": "https://m3chk.com/m3chk-whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2023-08-30",
+  "initial_price": {
+    "USD": "0.13 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/MLIF3CoinHK",
+    "github": "https://github.com/MLIF3Coin",
+    "facebook": "https://www.facebook.com/profile.php?id=61552097693468"
+  }
+}

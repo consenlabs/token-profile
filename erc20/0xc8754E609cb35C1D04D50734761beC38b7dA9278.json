@@ -1,0 +1,29 @@
+{
+  "symbol": "RDAO",
+  "address": "0xc8754E609cb35C1D04D50734761beC38b7dA9278",
+  "overview": {
+    "en": "RDAO is the governance token for the RChain DAO community, a group of RChain technology enthusiasts and ecosystem builders. *Disclaimer: RDAO and RChain Cooperative do not have any legal or business relationships.",
+    "zh": "RDAO 是 RChain DAO 社区的治理代币，是由 RChain 技术爱好者和生态系统建设者组成的团体。*免责声明：RDAO 和 RChain 合作社没有任何法律或商业关系。"
+  },
+  "email": "info@rchaindao.com",
+  "website": "https://rchaindao.com/",
+  "whitepaper": "https://rchaindao.com/mission_vision",
+  "state": "NORMAL",
+  "published_on": "2022-03-31",
+  "initial_price":{
+        "ETH":"",
+        "USD":"0.001 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/rchain_dao",
+    "telegram": "https://t.me/rchaindao",
+    "reddit": "",
+    "discord": "https://discord.gg/jarnrdzppq",
+    "github": "https://github.com/rchaindao",
+    "facebook": "",
+    "slack": "",
+    "medium": ""
+  }
+}

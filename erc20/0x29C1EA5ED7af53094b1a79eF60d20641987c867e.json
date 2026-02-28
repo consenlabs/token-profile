@@ -1,0 +1,22 @@
+{
+    "symbol": "Acid",
+    "address": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
+    "overview": {
+        "en": "Acid protocol is a community-driven DeFi platform on Arbitrum for maximizing yields of native assets and ETH staking rewards with long-term holding and locking of $ACID tokens",
+        "zh": "Acid协议是Arbitrum上的一个社区驱动的DeFi平台，通过长期持有和锁定$ACID代币，实现Acid资产和ETH押注奖励的收益最大化。"
+      },
+      "website": "https://0xacid.com/",
+      "whitepaper": "https://docs.0xacid.com/",
+      "state": "NORMAL",
+      "published_on": "2023-03-10",
+      "initial_price":{
+            "ETH":"0.8 ETH"
+      },
+      "links": {
+        "github": "https://github.com/ToxinLabs/0xacid-contract",
+        "twitter": "https://twitter.com/0xAcidDAO",
+        "telegram": "https://t.me/Group0xACID",
+        "discord": "https://discord.com/invite/0xacid",
+        "docs": "https://docs.0xacid.com/"
+      }
+    }

@@ -1,0 +1,16 @@
+{
+    "symbol": "BWS",
+    "address": "0x227952cB66aa9A4397D11654740baf1a40C20CC4",
+    "overview": {
+        "en": "BWS is the currency used by ByteWallets to realize ecological circulation, cross-border payments, global finance, and value circulation in various physical scenarios."
+    },
+    "email": "service@bytewallets.ic",
+    "website": "https://bytewallets.io/",
+    "state": "NORMAL",
+    "links": {
+        "twitter": "https://x.com/bytewallets",
+        "telegram": "https://t.me/ByteWallets",
+        "github": "https://github.com/ByteWallets",
+        "facebook": "https://www.facebook.com/profile.php?id=61560828608838&mibextid=LQQJ4d"
+    }
+}

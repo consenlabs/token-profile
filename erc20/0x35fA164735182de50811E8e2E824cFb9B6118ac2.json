@@ -1,0 +1,14 @@
+{
+  "symbol": "eETH",
+  "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+  "overview":{
+        "en": "eETH is the first native liquid restaking token on Ethereum. Stakers can mint eETH on ether.fi.",
+        "zh": "eETH 是以太坊上第一个本地的流动质押代币。持有者可以在 ether.fi 上铸造 eETH。"
+  },
+  "website": "https://www.ether.fi/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/ether_fi",
+    "telegram": "https://t.me/+C3fpSjmPqzA5NTVh"
+  }
+}

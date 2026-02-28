@@ -1,0 +1,15 @@
+{
+  "symbol": "ZRO",
+  "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+  "overview":{
+        "en": "LayerZero is an open-source, tamper-proof messaging protocol designed to facilitate the creation of cross-chain, interoperable applications.",
+        "zh": "LayerZero 是一个开源的、不可篡改的信息传递协议，旨在促进全链、可互操作应用的创建。"
+  },
+  "website": "https://layerzero.network/",
+
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://x.com/LayerZero_Fndn",
+    "github": "https://github.com/LayerZero-Labs/LayerZero-v2"
+  }
+}

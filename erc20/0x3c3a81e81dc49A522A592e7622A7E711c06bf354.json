@@ -1,0 +1,17 @@
+{
+  "symbol": "MNT",
+  "address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+  "overview": {
+    "en": "Mantle Network is an L2 technology stack for scaling Ethereum, and is the first core product of Mantle Ecosystem. Mantle Network strives to be compatible with the Ethereum Virtual Machine.",
+    "zh": "Mantle Network 是用于扩展以太坊的 L2 技术堆栈，是 Mantle 生态系统的首个核心产品。Mantle Network 力求与以太坊虚拟机兼容。"
+  },
+  "website": "https://www.mantle.xyz/",
+  "whitepaper": "https://docs.mantle.xyz",
+  "state": "NORMAL",
+  "links": {
+    "blog": "https://www.mantle.xyz/blog",
+    "twitter": "https://twitter.com/0xMantle",
+    "telegram": "https://t.me/mantlenetwork",
+    "github": "https://github.com/mantlenetworkio" 
+  }
+}

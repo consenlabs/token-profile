@@ -1,0 +1,17 @@
+{
+    "symbol": "NFTEarthOFT",
+    "address": "0x8c223a82E07feCB49D602150d7C2B3A4c9630310",
+    "overview": {
+          "en": "NFTEarth is the Omnichain NFT hub.",
+          "zh": ""
+    },
+    "email": "team@layer2nfts.org",
+    "website": "https://nftearth.exchange",
+    "whitepaper": "https://docs.nftearth.exchange/getting-started/roadmap-and-omnichain-future",
+    "state": "NORMAL",
+    "links": {
+      "twitter": "https://twitter.com/NFTEarth_L2",
+      "github": "https://github.com/NFTEarth",
+      "medium": "https://medium.com/@nftearth"
+    }
+}

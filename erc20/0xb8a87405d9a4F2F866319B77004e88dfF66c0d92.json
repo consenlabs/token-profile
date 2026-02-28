@@ -1,0 +1,14 @@
+{
+  "symbol": "SORA",
+  "address": "0xb8a87405d9a4F2F866319B77004e88dfF66c0d92",
+  "overview":{
+        "en": "SORA is the Ethereum Meme Token.",
+        "zh": "SORA 是以太坊上的 MEME 币。"
+  },
+  "website": "https://sora-ai.vip/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/SoraAIToken",
+    "telegram": "https://t.me/SoraAIToken"
+  }
+}

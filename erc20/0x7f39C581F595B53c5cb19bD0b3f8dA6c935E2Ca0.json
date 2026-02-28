@@ -1,0 +1,13 @@
+{
+  "symbol": "wstETH",
+  "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+  "overview":{
+        "en": "wstETH is a wrapped version of stETH. Instead of rebasing, or changing account holdings daily it is similar to a c-token. It represents a pro-rata ownership of the staked ETH (stETH). When someone exits wstETH they are returned principal stETH + stETH earnings.",
+        "zh": "wstETH 是 stETH 的封装版本。与重新计算基数或每日更改账户持有量不同，它代表了抵押的以太坊（stETH）的按比例所有权。当有人退出wstETH时，他们会得到本金和stETH收益。"
+  },
+  "website": "https://www.lido.fi/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/LidoFinance"
+  }
+}

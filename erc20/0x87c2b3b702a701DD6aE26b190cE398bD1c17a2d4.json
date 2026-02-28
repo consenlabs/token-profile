@@ -3,7 +3,7 @@
     "address": "0x87c2b3b702a701DD6aE26b190cE398bD1c17a2d4",
     "overview":{
           "en": "Participants of the Ocean Global platform interact with each other within a global ecosystem. Ocean Token (BKB) is a means of creating economic incentives to reward platform members. BKB acts as the main component enabling Ocean Global Consensus between participants.",
-          "zh": ""
+          "zh": "Ocean Global 平台参与者在全局生态系统中相互交互。Ocean Token (BKB) 是创建经济激励以奖励平台成员的手段。BKB 作为主要组件，在参与者之间实现 Ocean Global 共识。"
     },
     "email": "admin@oceanexchange.network",
     "website": "https://oceanexchange.network/",
@@ -11,7 +11,7 @@
     "state": "NORMAL",
     "published_on": "2020-09-01",
     "initial_price":{
-          "USD":"0.1 USD",
+          "USD":"0.1 USD"
           
     },
     "links": {

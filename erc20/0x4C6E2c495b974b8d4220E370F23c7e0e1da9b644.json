@@ -1,0 +1,14 @@
+{
+  "symbol": "SMILEY",
+  "address": "0x4C6E2c495b974b8d4220E370F23c7e0e1da9b644",
+  "overview":{
+        "en": "SMILEY is the Ethereum Meme Token.",
+        "zh": "SMILEY 是以太坊上的 MEME 币。"
+  },
+  "website": "https://www.smiley.ws/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/buysmiley",
+    "telegram": "https://t.me/smileyglobal"
+  }
+}

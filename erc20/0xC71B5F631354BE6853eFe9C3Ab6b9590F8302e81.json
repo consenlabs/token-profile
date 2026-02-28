@@ -1,0 +1,13 @@
+{
+  "symbol": "ZK",
+  "address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+  "overview":{
+        "en": "The Polyhedra Network aims to deliver fast Zero-Knowledge (ZK) Proofs to the Web3 industry, with the goal of becoming the underlying infrastructure for the entire ecosystem.        ",
+        "zh": "Polyhedra Network旨在为Web3行业提供快速的零知识（ZK）证明，其目标是成为整个生态系统的基础设施。"
+  },
+  "website": "https://polyhedra.network/",
+  "state": "NORMAL",
+  "links": {
+    "twitter": "https://twitter.com/PolyhedraZK"
+  }
+}

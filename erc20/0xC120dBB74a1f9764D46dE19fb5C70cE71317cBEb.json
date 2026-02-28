@@ -1,0 +1,27 @@
+{
+    "symbol": "MTE",
+    "address": "0xC120dBB74a1f9764D46dE19fb5C70cE71317cBEb",
+    "overview": {
+      "en": "MTE is the only official token of Meteorite,  Meteorite is a decentralized quantitative strategy platform with full DAO management, a robust ecosystem, high-quality data services and a limited NFT series."
+    },
+    "email": "investment@mte.cool",
+    "website": "https://www.mte.cool/",
+    "whitepaper": "https://www.mte.cool/MeteoriteLitePaper_V1.1_EN.pdf?t=2",
+    "state": "NORMAL",
+    "published_on": "2022-02-01",
+    "initial_price":{
+          "ETH":"0.0 ETH",
+          "USD":"0.0 USD",
+          "BTC":"0.0 BTC"
+    },
+    "links": {
+      "blog": "https://www.mte.cool/",
+      "twitter": "https://twitter.com/MeteoriteQT",
+      "telegram": "https://t.me/meteorite_official",
+      "reddit": "",
+      "github": "",
+      "facebook": "",
+      "slack": "",
+      "medium": "https://meteorite-qt.medium.com/"
+    }
+  }

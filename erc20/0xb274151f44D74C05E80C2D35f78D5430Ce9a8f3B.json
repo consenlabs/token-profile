@@ -1,0 +1,28 @@
+{
+  "symbol": "KOLO",
+  "address": "0xb274151f44D74C05E80C2D35f78D5430Ce9a8f3B",
+  "overview":{
+        "en": "KOLO is the only governance token for the KOLO music ecological community. It enables the relationship between artists, labels and music fans more direct and closer to be the decentralization of link for classical music ecosystem. .",
+        "zh": "KOLO是KOLO音乐生态社区唯一的治理代币。 它使艺术家、唱片公司和乐迷之间的关系更直接、更紧密，成为古典音乐生态系统的去中心化链接。"
+  },
+  "email": "lenny@kolo.market",
+  "website": "https://www.kolo.market/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2022-04-19",
+  "initial_price":{
+        "ETH":"",
+        "USD":"0.1 USD",
+        "BTC":""
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/KOLONFT/",
+    "telegram": "https://t.me/Kolonft",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@service_26673"
+  }
+}
