@@ -1,0 +1,15 @@
+{
+  "symbol": "DYD",
+  "address": "0x86897Dd53815E5e5418CC252079E28d05BD5e97D",
+  "overview": {
+    "en": "DYD aims to establish an open, transparent decentralized settlement and payment platform to provide the best cryptocurrency management solutions and cross-chain communication solutions. DYD is a digital currency token used to transfer value and unite the community on the DYD platform. DYD is the first accounting-as-mining platform. It respects and protects the core interests of each user through a more reasonable and fair reward and punishment mechanism.",
+    "zh": "DYD是致力于建立一个公开，透明的的去中心化结算与支付平台，以便为全球区块链用户提供最佳的数字货币管理方案和跨链通讯方案。DYD是运转在DYD平台上的数字货币通证（TOKEN），用于传递价值，团结社群。BIXC是全球首创的出入账即挖矿的支付平台，通过一种更加合理公平的奖惩机制，尊重和保护每一个用户的核心利益。 "
+  },
+  "email": "support@mexclub.club",
+  "website": "http://mexclub.club/",
+  "whitepaper": "http://dow.zongheng1688.com/file/DYD.pdf",
+  "state": "NORMAL",
+  "initial_price": {
+    "USD": "0.001 USD"
+  }
+}
