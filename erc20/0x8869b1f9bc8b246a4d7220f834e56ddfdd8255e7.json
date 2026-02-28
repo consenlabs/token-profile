@@ -1,0 +1,23 @@
+{
+  "symbol": "ECP",
+  "address": "0x8869b1f9bc8b246a4d7220f834e56ddfdd8255e7",
+  "overview":{
+        "en": "ECP COIN ICO(INITIAL COIN OFFERING)ECP COIN is a crypto currency(developed by ECP ECRYPTOPAY COMPANY LIMITED, a cryptocurrency trading, exchange, investment and education company founded in the year 2013 by a group of crypto traders and exchangers. This coin was developed on the Ethereum Blockchain so its accepted at all Smart Contact vending points. So far the coin has been listed amongst the default coins at MyEtherwallet.com, goalabizexchange, listing on the Birrion exchange app in UK is under process, and more exchangers to be announced shortly.",
+        "zh": ""
+  },
+  "email": "info@ecryptotokens.com",
+  "website": "https://ecryptotokens.com/",
+  "whitepaper": "http://ecryptotokens.com/whitepaper/ECPCOIN%20WHITEPAPER.pdf",
+  "initial_price":{
+        "ETH":"0.01277 ETH",
+        "USD":"1.30 USD",
+        "BTC":"0.0003501 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/EcpEcryptopay",
+    "telegram": "https://t.me/joinchat/DNKwhk-oO5aIn3A0Er57-Q",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/ecryptopayOffical/",
+    "instagram": "https://www.instagram.com/ecpecryptopay/"
+  }
+}
