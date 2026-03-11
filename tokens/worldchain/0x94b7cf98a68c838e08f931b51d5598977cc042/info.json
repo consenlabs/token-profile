@@ -1,16 +1,17 @@
 {
   "name": "World's New Bank",
-  "website": "https://dexscreener.com/worldchain/0x94b7cf98a68c838e08f931b51d5598977cc042",
-  "description": "WNB is a global financial network token enabling cross-border payments and DeFi.",
   "symbol": "WNB",
-  "type": "ERC20",
+  "contract_address": "0x094b7cf98a68c838e081f931b51d5598977cc042",
   "decimals": 18,
-  "status": "active",
-  "id": "worldchain-0x94b7cf98a68c838e08f931b51d5598977cc042",
-  "logo": "https://raw.githubusercontent.com/wnb4131-cell/token-profile/main/logos/0x94b7cf98a68c838e08f931b51d5598977cc042/logo.png",
-  "tags": ["finance", "defi"],
-  "links": []
+  "website": "https://wnbdao.com",
+  "twitter": "https://twitter.com/wnbdao",
+  "telegram": "https://t.me/WNB_DAO",
+  "description": "WNB is a community-owned token on World Chain for governance and rewards.",
+  "price_source": "https://block.cc/coin/wnb",
+  "links": [
+    "https://twitter.com/wnbdao",
+    "https://t.me/WNB_DAO",
+    "https://t.me/wnbvip"
+  ]
 }
-
-
 Add WNB profile for worldchain
