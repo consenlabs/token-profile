@@ -1,0 +1,20 @@
+{
+  "symbol": "USDG",
+  "address": "0x82248D53De2B7608cAF53978A8E8C238DC42403a",
+  "overview": {
+    "en": "Gold USD (USDG) — community-driven digital asset backed by gold narrative. Multi-chain ecosystem: BNB, ETH, Arbitrum, TRON. NOT a stablecoin, NOT government affiliated.",
+    "zh": "黄金美元（USDG）——由黄金叙事支持的社区驱动数字资产。多链生态系统：BNB、ETH、Arbitrum、TRON。非稳定币，非政府关联。"
+  },
+  "email": "support@usdgdefi.com",
+  "website": "https://usdgdefi.com",
+  "state": "NORMAL",
+  "published_on": "2024-01-01",
+  "initial_price": {
+    "USD": "1.00 USD"
+  },
+  "links": {
+    "twitter": "https://x.com/UsdMem",
+    "telegram": "https://t.me/usdgchannel",
+    "medium": "https://medium.com/@support_97270"
+  }
+}
