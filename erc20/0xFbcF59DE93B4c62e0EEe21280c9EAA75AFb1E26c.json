@@ -1,0 +1,23 @@
+{
+  "symbol": "POSCI",
+  "address": "0xFbcF59DE93B4c62e0EEe21280c9EAA75AFb1E26c",
+  "overview": {
+    "en": "Proof of Scientist (POSCI) is a 21,000,000 fixed-supply, owner-less, PoW-mined ERC20 on Ethereum mainnet. 95% of supply is mined, not sold. The hash includes msg.sender so a copied nonce is worthless to anyone else — there is no MEV surface to exploit. The genesis sale fills a 0.5 ETH cap and atomically initializes a Uniswap V4 pool with the liquidity NFT permanently burned to 0x000…dEaD.",
+    "zh": "Proof of Scientist (POSCI) is a 21,000,000 fixed-supply, owner-less, PoW-mined ERC20 on Ethereum mainnet. 95% of supply is mined, not sold. The hash includes msg.sender so a copied nonce is worthless to anyone else — there is no MEV surface to exploit. The genesis sale fills a 0.5 ETH cap and atomically initializes a Uniswap V4 pool with the liquidity NFT permanently burned to 0x000…dEaD."
+  },
+  "decimals": 18,
+  "name": "Proof of Scientist",
+  "website": "https://scientistdapp.online",
+  "links": {
+    "twitter": "https://x.com/scientistsdapp",
+    "explorer": "https://etherscan.io/token/0xFbcF59DE93B4c62e0EEe21280c9EAA75AFb1E26c"
+  },
+  "social": {
+    "twitter": "https://x.com/scientistsdapp"
+  },
+  "initial_price": {},
+  "price": {},
+  "support": {
+    "hardware": false
+  }
+}
