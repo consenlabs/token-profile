@@ -1,0 +1,17 @@
+{
+  "symbol": "PUPCUP",
+  "address": "0x42BAb297f90e6285546F05abdF4C42D8415E9794",
+  "overview": {
+    "en": "PUPCUP is the token powering the World Pup Protocol \u2014 a World Cup prediction market on Base. Users can trade PUPCUP, stake for bridge and LP rewards, or bridge to Ethereum mainnet and swap for Pup Cup NFTs representing World Cup team predictions.",
+    "zh": ""
+  },
+  "email": "",
+  "website": "https://theanvil.xyz",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2026-05-20",
+  "links": {
+    "twitter": "https://twitter.com/clutchlabs_",
+    "github": "https://github.com/clutchlabs"
+  }
+}
