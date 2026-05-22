@@ -1,0 +1,16 @@
+{
+  "symbol": "ZARO",
+  "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+  "overview": {
+    "en": "Zaro Coin is the native token of ZaroVerse, an AI-powered creative studio platform. ZARO is used for platform access, governance, and creative economy participation across ZaroVerse's ecosystem."
+  },
+  "email": "shihab@zaroverse.com",
+  "website": "https://www.zarocoin.xyz",
+  "state": "NORMAL",
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/ZaroCoin_XYZ",
+    "telegram": "",
+    "github": "https://github.com/zarocoin/zarocoin"
+  }
+}
