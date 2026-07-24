@@ -1,0 +1,10 @@
+{
+  "symbol": "SINO",
+  "name": "Sino",
+  "type": "BEP20",
+  "address": "0x4581DDc7617A32bf1E97646ADB0537f01423868D",
+  "decimals": 18,
+  "website": "https://sino-protocol.gitbook.io/sino-docs/",
+  "description": "SINO is the BEP-20 utility token of the Sino ecosystem on BNB Smart Chain.",
+  "logo": "https://raw.githubusercontent.com/consenlabs/token-profile/master/bsc/0x4581DDc7617A32bf1E97646ADB0537f01423868D.png"
+}
