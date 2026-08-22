@@ -1,0 +1,17 @@
+{
+  "symbol": "xEthWETH",
+  "address": "0x01AB7aa98213Cd1E18D9405F039c554266A82847",
+  "overview": {
+    "en": "xEthWETH is an ERC-20 voucher token used in the AetheriumX Voucher Vault to represent supported ETH/WETH staking positions for on-chain accounting, yield allocation records, and unstaking/redemption processing.",
+    "zh": "xEthWETH 是 AetheriumX Voucher Vault 中的 ERC-20 质押凭证代币，用于表示受支持的 ETH/WETH 质押仓位，并服务于链上记账、收益分配记录及解押/赎回流程。"
+  },
+  "email": "office@axt.fun",
+  "website": "https://axt.fun/voucher-vault/xethweth/",
+  "whitepaper": "https://axt.fun/doc/AetheriumX-White%20Paper.pdf",
+  "state": "NORMAL",
+  "links": {
+    "website": "https://axt.fun/",
+    "dapp": "https://x.axt.fun/",
+    "certik": "https://skynet.certik.com/zh-CN/projects/aetheriumx"
+  }
+}
