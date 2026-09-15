@@ -1,0 +1,15 @@
+{
+    "symbol": "MOTO",
+    "address": "0xBd965230588EAA536dE6aA45E8ebbc01638535e0",
+    "overview": {
+        "en": "Motoswap is a DEX on Ethereum that pays you back: Rakeback on every swap, revenue share to MOTO stakers, and Points. MOTO launched 2026-09-14 with the Vampire Attack liquidity mining campaign; the DEX opens 2026-09-28."
+    },
+    "email": "support@motoswap.org",
+    "website": "https://motoswap.org/",
+    "state": "NORMAL",
+    "published_on": "2026-09-14",
+    "links": {
+        "twitter": "https://x.com/Motoswap",
+        "telegram": "https://t.me/Motoswap"
+    }
+}
