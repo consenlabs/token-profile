@@ -1,0 +1,16 @@
+{
+  "symbol": "NXS",
+  "address": "0xF40F01805aDbD975be1477253042A2eF1fF39583",
+  "overview": {
+    "en": "Nexus (NXS) is a community utility token on Polygon Mainnet. Fixed supply of 1 billion, verified contracts, no mint. Eligible wallets opt in on the official website nxs1000free.io to claim NXS. Liquidity on QuickSwap.",
+    "zh": "Nexus (NXS) 是部署在 Polygon 主网的社区实用代币。总量固定 10 亿枚，合约已验证，不可增发。符合条件的钱包可在官网 nxs1000free.io 领取 NXS。流动性在 QuickSwap。"
+  },
+  "email": "oliveiravmakachevkoround1@proton.me",
+  "website": "https://nxs1000free.io",
+  "whitepaper": "https://nxs1000free.io/whitepaper",
+  "state": "NORMAL",
+  "published_on": "2026-01-01",
+  "links": {
+    "github": "https://github.com/nexus-nxs-protocol/nxs-tokenlist"
+  }
+}
