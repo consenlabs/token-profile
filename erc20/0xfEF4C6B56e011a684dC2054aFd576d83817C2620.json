@@ -1,0 +1,17 @@
+{
+    "symbol": "SLACK",
+    "address": "0xfEF4C6B56e011a684dC2054aFd576d83817C2620",
+    "overview": {
+        "en": "Slacker Network ($SLACK) is a community meme token launched on Ethereum in October 2022. Contract ownership was renounced the next day, so the fixed 1 trillion supply and the fees can't change. More than 62% of supply sits at the dead address. Native on Ethereum, bridged to BNB Chain and Solana via Wormhole."
+    },
+    "email": "slackernetwork@mail.grokbot.com",
+    "website": "https://linktr.ee/sl_acker",
+    "state": "NORMAL",
+    "published_on": "2022-10-25",
+    "links": {
+        "twitter": "https://x.com/Sl_acker",
+        "telegram": "https://t.me/Slacker_Network",
+        "github": "https://github.com/SlackerNetwork",
+        "medium": "https://medium.com/@sl_acker"
+    }
+}
