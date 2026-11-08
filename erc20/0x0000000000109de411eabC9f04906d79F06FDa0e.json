@@ -1,0 +1,19 @@
+{
+  "symbol": "AGL",
+  "address": "0x0000000000109de411eabC9f04906d79F06FDa0e",
+  "overview": {
+    "en": "AgroLastro (AGL) is the utility token of AgroLastro by Solidity Brasil, an on-chain stablecoin escrow platform for agricultural trade across Portuguese-speaking countries. LayerZero v2 OFT with the same address on 8 EVM chains; 100% of the supply sits in an official Uniswap v4 AGL/USDC pool with liquidity locked forever; bridge ownership renounced. Not affiliated with Apex Gold Ledger.",
+    "zh": ""
+  },
+  "email": "disley@soliditybrasil.com.br",
+  "website": "https://sdbr.soliditybrasil.com.br/agl/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2026-11-08",
+  "initial_price": {
+    "USD": "0.000000001 USD"
+  },
+  "links": {
+    "telegram": "https://t.me/agrolastro"
+  }
+}
